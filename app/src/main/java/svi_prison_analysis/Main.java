@@ -1,5 +1,5 @@
 
-package cs455_final_project;
+package svi_prison_analysis;
 
 import org.apache.spark.sql.*;
 import static org.apache.spark.sql.functions.*;
@@ -7,13 +7,10 @@ import static org.apache.spark.sql.functions.split;
 import java.util.*;
 
 public class Main {
-    public String getGreeting() {
-        return "Hello World!";
-    }
 
     public static void main(String[] args) {
         SparkSession spark = SparkSession.builder()
-            .appName("CS455 Project")
+            .appName("Investigating Correlations Between Social Vulnerability and Prison Populations")
             .master("local[*]") // IMPORTANT!! LOCAL MODE! Comment out (or change?) when testing on HDFS cluster!
             .getOrCreate();
 

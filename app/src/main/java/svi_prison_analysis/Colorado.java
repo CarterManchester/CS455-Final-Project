@@ -1,4 +1,4 @@
-package cs455_final_project;
+package svi_prison_analysis;
 
 import org.apache.spark.sql.*;
 import static org.apache.spark.sql.functions.*;

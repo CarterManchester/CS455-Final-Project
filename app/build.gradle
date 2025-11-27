@@ -13,11 +13,11 @@ dependencies {
 }
 
 application {
-    mainClass = 'cs455_final_project.Main'
+    mainClass = 'svi_prison_analysis.Main'
 }
 
 jar {
     manifest {
-        attributes 'Main-Class': 'cs455_final_project.Main'
+        attributes 'Main-Class': 'svi_prison_analysis.Main'
     }
 }
