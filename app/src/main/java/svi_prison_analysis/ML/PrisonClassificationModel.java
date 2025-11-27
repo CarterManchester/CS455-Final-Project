@@ -1,4 +1,4 @@
-package cs455_final_project.ML;
+package svi_prison_analysis.ML;
 
 public class PrisonClassificationModel {
     
