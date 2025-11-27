@@ -1,10 +1,10 @@
-# CS455-Final-Project
+# Investigating Correlations Between Social Vulnerability and Prison Populations
 
 ## Links:
 
 Dataset Loading: https://urban-sustain.org/data-download
 
-SVI Index: https://svi.cdc.gov/map25/data/docs/SVI2022Documentation_ZCTA.pdf
+SVI Index: https://svi.cdc.gov/map25/data/docs/SVI2022Documentation_ZCTA.pdf <br><br><br><br><br>
 
 
 
@@ -29,11 +29,11 @@ SVI Index: https://svi.cdc.gov/map25/data/docs/SVI2022Documentation_ZCTA.pdf
 - Compile (cd cs455-Final-Project/app):
     gradle build
 
-- Run (...uhhh TBD...): 
+- Run (...uhhh TBD... see local run above...): 
     hadoop jar <your_jar> <state1> <state2> <state3> … <input_folder> <output_folder>  (this was for hw4. not this assignment.)
 
 - Save as Tar (cd cs455-Final-Project/app):
-     tar -cvf LASTNAME-FIRSTNAME.tar src/ build.gradle 
+     tar -cvf LASTNAME-FIRSTNAME.tar src/ build.gradle <br><br><br><br><br>
 
 
 
@@ -45,7 +45,7 @@ SVI Index: https://svi.cdc.gov/map25/data/docs/SVI2022Documentation_ZCTA.pdf
 - `SPL` Variables: "Sum the `EPL` variables by theme."
 - `RPL` Variables: "Rank the theme-specific `SPL`variable."
 - Overall `SPL` Variable (`SPL_THEMES`): "Sum the `SPL` variables from all four themes."
-- Overall `RPL` Variable (`RPL_THEMES`): "Rank `SPL_THEMES`. This is the overall summary ranking variable."
+- Overall `RPL` Variable (`RPL_THEMES`): "Rank `SPL_THEMES`. This is the overall summary ranking variable."<br><br>
 
 - `STATE` - A State in the US.
 - `COUNTy` - A County in a State.
