@@ -23,18 +23,9 @@ public class Main {
         // Dataset<Row> df = spark.range(0, 10).toDF("value");
         // df.show();
 
-        String basePath = "src/main/resources";
-        String coloradoPath = basePath + "/svi_county_GISJOIN.Colorado.raw_data.json";
-
-        Dataset<Row> coloradoSVI = spark.read()
-            .option("multiLine", true) // have to do this cause basically the file is a JSON array instead of a csv like HW4
-            .json(coloradoPath);
-            // .option("path", coloradoPath)
-            // .load();
-        coloradoSVI = coloradoSVI.cache();
-
-        coloradoSVI.printSchema();
-        coloradoSVI.show(5, false);
+        
+        Colorado colorado = new Colorado(spark);
+        colorado.runSVI();
 
         spark.stop();
     }
