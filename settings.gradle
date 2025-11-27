@@ -10,5 +10,5 @@ plugins {
     id 'org.gradle.toolchains.foojay-resolver-convention' version '0.4.0'
 }
 
-rootProject.name = 'CS455-Final-Project'
+rootProject.name = 'cs455_final_project'
 include('app')
