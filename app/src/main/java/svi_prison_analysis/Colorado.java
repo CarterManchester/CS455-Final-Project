@@ -24,6 +24,8 @@ public class Colorado {
         mostVulnerableCounties(10);
         leastVulnerableCounties(10);
         highestGroupQuarters(10);
+        highestSocioeconomicVulnerability(10);
+        highestMinorityVulnerability(10);
     }
 
     private void loadData(){
@@ -81,7 +83,8 @@ public class Colorado {
             col("FIPS"),
             col("RPL_THEMES"),
             col("RPL_THEME1"),
-            col("RPL_THEME3")).orderBy(col("RPL_THEMES").asc()).show(n, false);
+            col("RPL_THEME3")
+        ).orderBy(col("RPL_THEMES").asc()).show(n, false);
     }
 
     /**
@@ -103,6 +106,38 @@ public class Colorado {
         ).orderBy(col("EP_GROUPQ").desc()).show(n, false);
     }
 
+	/**
+	 * Sort by Socioeconomic Status (RPL_THEME1)
+	 * @param n number of counties.
+	 */
+	private void highestSocioeconomicVulnerability(int n){
+		System.out.println("\nTop " + n + " Counties by Socioeconomic Vulnerability (RPL_THEME1 in descending order)");
+		coloradoSVI.select(
+			col("STATE"),
+			col("COUNTY"),
+			col("FIPS"),
+			col("RPL_THEME1"),
+			col("EP_POV"), //poverty
+			col("EP_UNEMP"), //unemployment
+			col("EP_NOHSDP") //no high school diploma
+		).orderBy(col("RPL_THEME1").desc()).show(n, false);
+	}
 
+	/**
+	 * Sort by Minority and Language (RPL_THEME3)
+	 * 
+	 * @param n number of counties.
+	 */
+	private void highestMinorityVulnerability(int n) {
+		System.out.println("\nTop " + n + " Counties by Minority/Language Vulnerability (RPL_THEME3 in descending order)");
+		coloradoSVI.select(
+			col("STATE"),
+			col("COUNTY"),
+			col("FIPS"),
+			col("RPL_THEME3"),
+			col("EP_MINRTY"), //minority %
+			col("EP_LIMENG") //liimited english
+		).orderBy(col("RPL_THEME3").desc()).show(n, false);
+	}
 
 }

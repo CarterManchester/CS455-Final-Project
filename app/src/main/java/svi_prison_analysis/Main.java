@@ -16,7 +16,7 @@ public class Main {
 
         spark.sparkContext().setLogLevel("WARN");
 
-        // NOTE: Below is a quick spark test (should work and print 0-10):
+        // NOTE: quick spark test to see if spark is running (print 0-10):
         // Dataset<Row> df = spark.range(0, 10).toDF("value");
         // df.show();
 

@@ -56,3 +56,8 @@ SVI Index: https://svi.cdc.gov/map25/data/docs/SVI2022Documentation_ZCTA.pdf <br
 - `RPL_Theme3` - Racial and Ethnic Minority Status
 - `RPL_Theme4` - Housing Type and Transportation
 - `EP_GROUPQ` - Percentage of Persons in Group Quarters: includes prisons, jails, college dorms, group homes, etc. and can show us which counties have large prison facilities and the number of prisons per county.
+- `EP_POV150` - Percentage of people below the 150% poverty estimate.
+- `EP_UNEMP` - Percentage of people above the age of 16 unemployed.
+- `EP_NOHSDP` - Percentage of people above the age of 25 with no high school diploma.
+- `EP_MINRTY` - Percentage Minority estimate.
+- `EP_LIMENG` - Percentage of people who know only limited English.
