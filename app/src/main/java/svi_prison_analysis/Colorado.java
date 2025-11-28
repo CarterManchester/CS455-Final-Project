@@ -2,8 +2,8 @@ package svi_prison_analysis;
 
 import org.apache.spark.sql.*;
 import static org.apache.spark.sql.functions.*;
-import static org.apache.spark.sql.functions.split;
-import java.util.*;
+// import static org.apache.spark.sql.functions.split;
+// import java.util.*;
 
 public class Colorado {
     private final SparkSession spark;
@@ -18,7 +18,7 @@ public class Colorado {
     public void runSVI(){ //main method for Colorado
         loadData();
         System.out.println(
-                "\n==========================================\n Colorado SVI Data \n==========================================\n");
+                "\n==============================================================================================\n Colorado SVI Data \n==============================================================================================\n");
         printSchemaAndSample(); //prints schema and first 5 rows (first 5 rows was annoying so I commented out - C)
 
         mostVulnerableCounties(10);
