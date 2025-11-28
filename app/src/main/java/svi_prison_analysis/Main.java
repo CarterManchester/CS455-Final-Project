@@ -2,9 +2,9 @@
 package svi_prison_analysis;
 
 import org.apache.spark.sql.*;
-import static org.apache.spark.sql.functions.*;
-import static org.apache.spark.sql.functions.split;
-import java.util.*;
+// import static org.apache.spark.sql.functions.*;
+// import static org.apache.spark.sql.functions.split;
+// import java.util.*;
 
 public class Main {
 
@@ -22,7 +22,9 @@ public class Main {
 
         
         Colorado colorado = new Colorado(spark);
+        Illinois illinois = new Illinois(spark);
         colorado.runSVI();
+        illinois.runSVI();
 
         spark.stop();
     }
