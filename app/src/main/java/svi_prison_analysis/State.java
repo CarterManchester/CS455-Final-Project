@@ -35,7 +35,7 @@ public abstract class State {
         highestMinorityVulnerability(10);
     }
 
-    private void loadData() {
+    protected void loadData() {
         String state = getStateName();
         String basePath = "src/main/resources";
         String pathToStateData = basePath + "/svi_county_GISJOIN." + state + ".raw_data.json";
@@ -50,6 +50,11 @@ public abstract class State {
         System.out.println("  - Row count of " + state + " SVI data: " + data.count());
         // System.out.println("==============================================================================================\n ");
         System.out.println("----------------------------------------------------------------------------------------------");
+    }
+
+    // 
+    public Dataset<Row> getData(){
+        return data;
     }
 
 
