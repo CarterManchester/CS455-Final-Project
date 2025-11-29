@@ -6,6 +6,8 @@ import org.apache.spark.sql.*;
 // import static org.apache.spark.sql.functions.split;
 // import java.util.*;
 
+import svi_prison_analysis.States.*;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -15,13 +17,15 @@ public class Main {
             .getOrCreate();
 
         spark.sparkContext().setLogLevel("WARN");
+        spark.conf().set("spark.sql.debug.maxToStringFields", "200"); //NOTE: This is so it prints strings without size warnings. Change back if needed!!
 
         // NOTE: quick spark test to see if spark is running (print 0-10):
         // Dataset<Row> df = spark.range(0, 10).toDF("value");
         // df.show();
 
         
-        Colorado colorado = new Colorado(spark);
+        //maybe we can find a faster/cleaner way to go through each state?
+        State colorado = new Colorado(spark);
         Illinois illinois = new Illinois(spark);
         colorado.runSVI();
         illinois.runSVI();
