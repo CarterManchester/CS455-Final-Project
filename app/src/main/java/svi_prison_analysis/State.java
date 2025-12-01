@@ -14,15 +14,16 @@ public class State {
     private final SparkSession spark;
     private Dataset<Row> sviData;
     private Dataset<Row> prisonData;
+    private Dataset<Row> prisonByCounty;
     private String stateName;
+
+    
 
     public State(SparkSession spark, String stateName) {
         this.spark = spark;
         this.stateName = stateName;
     }
 
-
-    
 
     public void runSVI() { // main method for a given US State
         // String stateName = getStateName();
@@ -32,7 +33,7 @@ public class State {
 
         loadData();
 
-        sortPrisons();
+        getPrisonPopulationPerCounty();
 
         //NOTE: Commented this out so I had less printing, can undo as we need info!
         // mostVulnerableCounties(10);
@@ -48,17 +49,13 @@ public class State {
         String pathToStatePrisonData = basePath + "/prison_boundaries_geo." + stateName + ".raw_data.json";
         
         this.sviData = spark.read()
-            .option("multiLine", true) // have to do this cause basically the file is a JSON array instead of a csv like HW4
+            .option("multiLine", true) 
             .json(pathToStateSVIData);
-        // .option("path", pathToStateData)
-        // .load();
         sviData = sviData.cache();        
         
         this.prisonData = spark.read()
-            .option("multiLine", true) // have to do this cause basically the file is a JSON array instead of a csv like HW4
+            .option("multiLine", true) 
             .json(pathToStatePrisonData);
-        // .option("path", pathToStateData)
-        // .load();
         prisonData = prisonData.cache();      
 
         System.out.println("  - Row count of " + stateName + " SVI data: " + sviData.count());
@@ -89,17 +86,53 @@ public class State {
      * 
      * @return New dataset with only population and county
      */
-    private Dataset<Row> sortPrisons(){
+    private Dataset<Row> getPrisonPopulationPerCounty(){
         Dataset<Row> popAndCounty = prisonData.select(
             col("properties.POPULATION").as("POPULATION"),
             col("properties.COUNTY").as("COUNTY"))
             .filter(col("POPULATION").notEqual(-999))
             .filter(col("POPULATION").notEqual(0))
             .groupBy("COUNTY")
-            .agg(sum(col("POPULATION")).as("TOTAL_POPULATION"));
+            .agg(sum(col("POPULATION")).as("TOTAL_PRISON_POP"))
+            .cache();
 
         popAndCounty.show();
         return popAndCounty;
+    }
+
+    /**
+     * Joining SVI + TOTAL_PRISON_POP + incarceration_rate per county
+     */
+    public Dataset<Row> getJoinedCountyData(){
+        Dataset<Row> svi = getsviData();
+        Dataset<Row> prisons = getPrisonPopulationPerCounty();
+
+        Dataset<Row> sviNorm = svi.withColumn( // sets prison and svi naming scheme to the same
+            "countyAllCaps", 
+            upper(col("COUNTY"))
+        ); 
+        Dataset<Row> prisonsNorm = prisons.withColumn(
+            "countyAllCaps",
+            upper(trim(col("COUNTY")))
+        );
+
+        System.out.println("\n=== Distinct SVI countyAllCaps (" + stateName + ") ===");
+        sviNorm.select("COUNTY", "countyAllCaps").distinct().orderBy(col("countyAllCaps")).show(50, false);
+
+        System.out.println("\n=== Distinct prison countyAllCaps (" + stateName + ") ===");
+        prisonsNorm.select("COUNTY", "countyAllCaps").distinct().orderBy(col("countyAllCaps")).show(50, false);
+
+
+        Dataset<Row> joined = sviNorm.join(prisonsNorm.select("countyAllCaps", "TOTAL_PRISON_POP"), "countyAllCaps");
+
+        joined = joined.withColumn(
+            "incarceration_rate", 
+            col("TOTAL_PRISON_POP").cast("double").divide(col("E_TOTPOP").cast("double"))
+        );
+
+        joined = joined.filter(col("incarceration_rate").isNotNull());
+
+        return joined;
     }
 
     /**
