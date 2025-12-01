@@ -1,10 +1,12 @@
 
 package svi_prison_analysis;
 
+import static org.apache.spark.sql.functions.col;
+
 import org.apache.spark.sql.*;
 // import static org.apache.spark.sql.functions.*;
 // import static org.apache.spark.sql.functions.split;
-// import java.util.*;
+import java.util.*;
 
 // import svi_prison_analysis.States.*;
 
@@ -30,6 +32,9 @@ public class Main {
         State illinois = new State(spark, "Illinois");
         colorado.runSVI(); // NOTE: can comment out if this is too annoying! just shows individual states.
         illinois.runSVI();
+
+        // ========= Joined States =========
+        mostVulnerableCountiesAcrossStates(10, colorado, illinois);
 
         spark.stop();
     }
