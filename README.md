@@ -48,7 +48,7 @@ SVI Index: https://svi.cdc.gov/map25/data/docs/SVI2022Documentation_ZCTA.pdf <br
 - Overall `RPL` Variable (`RPL_THEMES`): "Rank `SPL_THEMES`. This is the overall summary ranking variable."<br><br>
 
 - `STATE` - A State in the US.
-- `COUNTy` - A County in a State.
+- `COUNTY` - A County in a State.
 - `FIPS` - Geographic identification (state, county, and sometimes census tract)
 - `RPL_Themes` - Overall summary variable, ranking the below 4 themes as a percentage.
 - `RPL_Theme1` - Socioneconomic Status (VERY IMPORTANT TO THIS PROJECT!)
