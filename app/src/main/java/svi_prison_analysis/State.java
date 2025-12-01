@@ -10,51 +10,68 @@ import static org.apache.spark.sql.functions.*;
  * This is the super class for any given US state. It finds the dataset JSON file, and then runs Spark operations
  * in order to sort data the way we need it to be sorted for every state.
  */
-public abstract class State {
+public class State {
     private final SparkSession spark;
-    private Dataset<Row> data;
-    protected abstract String getStateName();
+    private Dataset<Row> sviData;
+    private Dataset<Row> prisonData;
+    private String stateName;
 
-    public State(SparkSession spark) {
+    public State(SparkSession spark, String stateName) {
         this.spark = spark;
+        this.stateName = stateName;
     }
 
 
+    
+
     public void runSVI() { // main method for a given US State
-        String state = getStateName();
+        // String stateName = getStateName();
         System.out.println("\n\n\n==============================================================================================");
-        System.out.println("| " + state + " SVI Data");
+        System.out.println("| " + stateName + " SVI Data");
         System.out.println("==============================================================================================\n");
 
         loadData();
 
-        mostVulnerableCounties(10);
-        leastVulnerableCounties(10);
-        highestGroupQuarters(10);
-        highestSocioeconomicVulnerability(10);
-        highestMinorityVulnerability(10);
+        sortPrisons();
+
+        //NOTE: Commented this out so I had less printing, can undo as we need info!
+        // mostVulnerableCounties(10);
+        // leastVulnerableCounties(10);
+        // highestGroupQuarters(10);
+        // highestSocioeconomicVulnerability(10);
+        // highestMinorityVulnerability(10);
     }
 
     protected void loadData() {
-        String state = getStateName();
         String basePath = "src/main/resources";
-        String pathToStateData = basePath + "/svi_county_GISJOIN." + state + ".raw_data.json";
-
-        this.data = spark.read()
+        String pathToStateSVIData = basePath + "/svi_county_GISJOIN." + stateName + ".raw_data.json";
+        String pathToStatePrisonData = basePath + "/prison_boundaries_geo." + stateName + ".raw_data.json";
+        
+        this.sviData = spark.read()
             .option("multiLine", true) // have to do this cause basically the file is a JSON array instead of a csv like HW4
-            .json(pathToStateData);
+            .json(pathToStateSVIData);
         // .option("path", pathToStateData)
         // .load();
-        data = data.cache();
+        sviData = sviData.cache();        
+        
+        this.prisonData = spark.read()
+            .option("multiLine", true) // have to do this cause basically the file is a JSON array instead of a csv like HW4
+            .json(pathToStatePrisonData);
+        // .option("path", pathToStateData)
+        // .load();
+        prisonData = prisonData.cache();      
 
-        System.out.println("  - Row count of " + state + " SVI data: " + data.count());
+        System.out.println("  - Row count of " + stateName + " SVI data: " + sviData.count());
+        // System.out.println("==============================================================================================\n ");
+        System.out.println("----------------------------------------------------------------------------------------------");
+        System.out.println("  - Row count of " + stateName + " Prison data: " + prisonData.count());
         // System.out.println("==============================================================================================\n ");
         System.out.println("----------------------------------------------------------------------------------------------");
     }
 
-    // 
-    public Dataset<Row> getData(){
-        return data;
+    
+    public Dataset<Row> getsviData(){
+        return sviData;
     }
 
 
@@ -66,6 +83,25 @@ public abstract class State {
 
     // see README for variable meanings!!
 
+
+    /**
+     * Sort Prisons dataset to only include population and county
+     * 
+     * @return New dataset with only population and county
+     */
+    private Dataset<Row> sortPrisons(){
+        Dataset<Row> popAndCounty = prisonData.select(
+            col("properties.POPULATION").as("POPULATION"),
+            col("properties.COUNTY").as("COUNTY"))
+            .filter(col("POPULATION").notEqual(-999))
+            .filter(col("POPULATION").notEqual(0))
+            .groupBy("COUNTY")
+            .agg(sum(col("POPULATION")).as("TOTAL_POPULATION"));
+
+        popAndCounty.show();
+        return popAndCounty;
+    }
+
     /**
      * Sort by overall SVI percentile (RPL_THEMES) in descending order.
      * 
@@ -73,7 +109,7 @@ public abstract class State {
      */
     private void mostVulnerableCounties(int n) {
         System.out.println("\nTop " + n + " Most Vulnerable Counties (RPL_THEMES in descending order)");
-        data.select(
+        sviData.select(
             col("STATE"),
             col("COUNTY"),
             col("FIPS"),
@@ -90,7 +126,7 @@ public abstract class State {
      */
     private void leastVulnerableCounties(int n) {
         System.out.println("\nTop " + n + " Least Vulnerable Counties (RPL_THEMES in descending order)");
-        data.select(
+        sviData.select(
             col("STATE"),
             col("COUNTY"),
             col("FIPS"),
@@ -112,7 +148,7 @@ public abstract class State {
      */
     private void highestGroupQuarters(int n) {
         System.out.println("\nTop " + n + " Counties by Percentage of Persons in Group Quarters (EP_GROUPQ desc)");
-        data.select(
+        sviData.select(
             col("STATE"),
             col("COUNTY"),
             col("FIPS"),
@@ -128,7 +164,7 @@ public abstract class State {
      */
     private void highestSocioeconomicVulnerability(int n) {
         System.out.println("\nTop " + n + " Counties by Socioeconomic Vulnerability (RPL_THEME1 in descending order)");
-        data.select(
+        sviData.select(
             col("STATE"),
             col("COUNTY"),
             col("FIPS"),
@@ -146,7 +182,7 @@ public abstract class State {
      */
     private void highestMinorityVulnerability(int n) {
         System.out.println("\nTop " + n + " Counties by Minority/Language Vulnerability (RPL_THEME3 in descending order)");
-        data.select(
+        sviData.select(
                 col("STATE"),
                 col("COUNTY"),
                 col("FIPS"),
