@@ -10,8 +10,13 @@ repositories {
 dependencies {
     implementation 'org.apache.spark:spark-core_2.13:3.5.0'
     implementation 'org.apache.spark:spark-sql_2.13:3.5.0'
-    implementation 'org.apache.spark:spark-mllib_2.13:3.5.0'
+    implementation ('org.apache.spark:spark-mllib_2.13:3.5.0') {
+        exclude group: 'com.github.fommil.netlib', module: 'netlib-native_ref-linux-x86_64'
+        exclude group: 'com.github.fommil.netlib', module: 'netlib-native_system-linux-x86_64'
+    }
+    implementation 'com.github.fommil.netlib:core:1.1.2'
 }
+
 
 application {
     mainClass = 'svi_prison_analysis.Main'

@@ -17,9 +17,9 @@ import java.util.*;
 public class PrisonClassificationModel {
     
     public static void trainAndEvaluate(Dataset<Row> data){
-        Dataset<Row> filtered = data.filter(col("incarceration_rate").isNotNull());
+        data = data.filter(col("incarceration_rate").isNotNull());
         
-        String[] allColumnNames = filtered.columns();
+        String[] allColumnNames = data.columns();
 
         List<String> tempList = Arrays.asList(allColumnNames);
         List<String> listColumnNames = new ArrayList<>(tempList);

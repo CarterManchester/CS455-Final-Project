@@ -93,8 +93,8 @@ public class State {
             .filter(col("POPULATION").notEqual(-999))
             .filter(col("POPULATION").notEqual(0))
             .groupBy("COUNTY")
-            .agg(sum(col("POPULATION")).as("TOTAL_PRISON_POP"))
-            .cache();
+            .agg(sum(col("POPULATION")).as("TOTAL_PRISON_POP"));
+            // .cache();
 
         popAndCounty.show();
         return popAndCounty;

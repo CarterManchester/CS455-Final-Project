@@ -6,6 +6,8 @@ import static org.apache.spark.sql.functions.col;
 import org.apache.spark.sql.*;
 
 import svi_prison_analysis.ML.PrisonClassificationModel;
+import svi_prison_analysis.ML.PrisonPCA;
+
 import java.util.stream.Collectors;
 
 
@@ -62,6 +64,9 @@ public class Main {
     };
 
     public static void main(String[] args) {
+        System.setProperty("com.github.fommil.netlib.BLAS", "com.github.fommil.netlib.F2jBLAS");
+        System.setProperty("com.github.fommil.netlib.LAPACK", "com.github.fommil.netlib.F2jLAPACK");
+
         SparkSession spark = SparkSession.builder()
                 .appName("Investigating Correlations Between Social Vulnerability and Prison Populations")
                 .master("local[*]") // IMPORTANT!! LOCAL MODE! Comment out (or change?) when testing on HDFS cluster!
@@ -85,7 +90,7 @@ public class Main {
         // ========= Joined States =========
         Dataset<Row> combinedStates = buildCombinedStates(10, illinois, colorado);
 
-        // ========= Main Model with All Themes
+        // ========= Main Model with All Themes 
         Dataset<Row> allThemes = sortByTheme(combinedStates, ALL_THEME_VARS);
         PrisonClassificationModel.trainAndEvaluate(allThemes);
 
@@ -98,6 +103,10 @@ public class Main {
         
         Dataset<Row> theme4 = sortByTheme(combinedStates, THEME_4_VARS);
         PrisonClassificationModel.trainAndEvaluate(theme4);
+
+        // ========= Run PCA Based on ALL Themes
+        // PrisonPCA.runPCA(combinedStates, ALL_THEME_VARS, 3);
+        // PrisonPCA.runPCA(combinedStates, new String[] { "EP_POV", "EP_UNEMP" }, 2);
 
         spark.stop();
     }
