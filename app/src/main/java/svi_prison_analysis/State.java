@@ -116,11 +116,11 @@ public class State {
             upper(trim(col("COUNTY")))
         );
 
-        System.out.println("\n=== Distinct SVI countyAllCaps (" + stateName + ") ===");
-        sviNorm.select("COUNTY", "countyAllCaps").distinct().orderBy(col("countyAllCaps")).show(50, false);
+        // System.out.println("\n=== Distinct SVI countyAllCaps (" + stateName + ") ===");
+        // sviNorm.select("COUNTY", "countyAllCaps").distinct().orderBy(col("countyAllCaps")).show(50, false);
 
-        System.out.println("\n=== Distinct prison countyAllCaps (" + stateName + ") ===");
-        prisonsNorm.select("COUNTY", "countyAllCaps").distinct().orderBy(col("countyAllCaps")).show(50, false);
+        // System.out.println("\n=== Distinct prison countyAllCaps (" + stateName + ") ===");
+        // prisonsNorm.select("COUNTY", "countyAllCaps").distinct().orderBy(col("countyAllCaps")).show(50, false);
 
 
         Dataset<Row> joined = sviNorm.join(prisonsNorm.select("countyAllCaps", "TOTAL_PRISON_POP"), "countyAllCaps");
