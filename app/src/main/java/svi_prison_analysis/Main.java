@@ -85,11 +85,11 @@ public class Main {
         System.out.println(
                 "\n\n\n==============================================================================================");
         System.out.println(
-                "\nTop " + n + " Most Vulnerable Counties Across All Provided States (RPL_THEMES in descending order)");
+                "\nTop " + n + " Most Vulnerable Counties Across All Provided States (incarceration_rate in descending order)");
         System.out.println(
                 "==============================================================================================\n");
 
-        combinedData.orderBy(col("incarceration_rate").desc()).show(n, false).cache();
+        combinedData.orderBy(col("incarceration_rate").desc()).show(n, false);
         return combinedData;
     }
 }
