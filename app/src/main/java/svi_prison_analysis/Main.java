@@ -6,6 +6,8 @@ import static org.apache.spark.sql.functions.col;
 import org.apache.spark.sql.*;
 
 import svi_prison_analysis.ML.PrisonClassificationModel;
+import java.util.stream.Collectors;
+
 
 // import static org.apache.spark.sql.functions.*;
 // import static org.apache.spark.sql.functions.split;
@@ -37,7 +39,7 @@ public class Main {
 
 
         // ========= Joined States =========
-        Dataset<Row> combinedStates = buildCombinedStates(10, colorado, illinois);
+        Dataset<Row> combinedStates = buildCombinedStates(10, colorado);
 
 
         // ========= ML =========
@@ -61,22 +63,17 @@ public class Main {
         List<State> stateList = Arrays.asList(states);
         Dataset<Row> combinedData = null;
 
+        Dataset<Row> data = stateList.get(0).getJoinedCountyData();
+        String[] allColumnNames = data.columns();
+
+        List<String> filteredList = Arrays.stream(allColumnNames)
+            .filter(s -> s.startsWith("E_") || s.startsWith("EP_"))
+            .collect(Collectors.toList());
+        
+        String[] filteredColumnNames = filteredList.toArray(new String[0]);
+
         for (State state : stateList) {
-            Dataset<Row> temp = state.getJoinedCountyData().select(
-                    col("STATE"),
-                    col("COUNTY"),
-                    col("FIPS"),
-                    col("RPL_THEMES"), //overall social status summary variable
-                    col("RPL_THEME1"), //socioeconomic status
-                    col("RPL_THEME3"), //racial and ethnic minority status
-                    // col("EP_POV"),
-                    // col("EP_UNEMP"),
-                    // col("EP_NOHSDP"),
-                    // col("EP_MINRTY"),
-                    // col("EP_LIMENG"),
-                    // col("EP_GROUPQ"),
-                    col("incarceration_rate")
-                );
+            Dataset<Row> temp = state.getJoinedCountyData().select("incarceration_rate", filteredColumnNames);
 
             if (combinedData == null) {
                 combinedData = temp;
@@ -92,7 +89,7 @@ public class Main {
         System.out.println(
                 "==============================================================================================\n");
 
-        combinedData.orderBy(col("RPL_THEMES").desc()).show(n, false);
+        combinedData.orderBy(col("incarceration_rate").desc()).show(n, false).cache();
         return combinedData;
     }
 }
