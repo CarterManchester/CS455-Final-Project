@@ -64,9 +64,6 @@ public class Main {
     };
 
     public static void main(String[] args) {
-        System.setProperty("com.github.fommil.netlib.BLAS", "com.github.fommil.netlib.F2jBLAS");
-        System.setProperty("com.github.fommil.netlib.LAPACK", "com.github.fommil.netlib.F2jLAPACK");
-
         SparkSession spark = SparkSession.builder()
                 .appName("Investigating Correlations Between Social Vulnerability and Prison Populations")
                 .master("local[*]") // IMPORTANT!! LOCAL MODE! Comment out (or change?) when testing on HDFS cluster!
