@@ -17,6 +17,50 @@ import java.util.*;
 
 public class Main {
 
+    public static final String[] ALL_THEME_VARS = {
+        // --- Theme 1: Socioeconomic Status ---
+        "EP_POV", 
+        "EP_UNEMP", 
+        "EP_PCI",
+        "EP_NOHSDP",
+        "EP_UNINSUR",
+
+        // --- Theme 2: Household Characteristics ---
+        "EP_DISABL", 
+        "EP_SNGPNT", 
+        "EP_LIMENG", 
+
+        // --- Theme 3: Racial & Ethnic Minority Status & Language ---
+        "EP_MINRTY",
+
+        // --- Theme 4: Housing Type & Transportation ---
+        "EP_MUNIT", 
+        "EP_MOBILE", 
+        "EP_CROWD", 
+        "EP_NOVEH"
+    };
+
+    public static final String[] THEME_1_VARS = {
+        "EP_POV", 
+        "EP_UNEMP", 
+        "EP_PCI", 
+        "EP_NOHSDP", 
+        "EP_UNINSUR"
+    };
+
+    public static final String[] THEME_2_VARS = {
+        "EP_DISABL", 
+        "EP_SNGPNT", 
+        "EP_LIMENG"
+    };
+
+    public static final String[] THEME_4_VARS = {
+        "EP_MUNIT", 
+        "EP_MOBILE", 
+        "EP_CROWD", 
+        "EP_NOVEH", 
+    };
+
     public static void main(String[] args) {
         SparkSession spark = SparkSession.builder()
                 .appName("Investigating Correlations Between Social Vulnerability and Prison Populations")
@@ -34,17 +78,26 @@ public class Main {
         // ========= Individual States =========
         State colorado = new State(spark, "Colorado");
         State illinois = new State(spark, "Illinois");
-        colorado.runSVI(); // NOTE: can comment out if this is too annoying! just shows individual states.
+        colorado.runSVI();
         illinois.runSVI();
 
 
         // ========= Joined States =========
-        Dataset<Row> combinedStates = buildCombinedStates(10, colorado);
+        Dataset<Row> combinedStates = buildCombinedStates(10, illinois, colorado);
 
+        // ========= Main Model with All Themes
+        Dataset<Row> allThemes = sortByTheme(combinedStates, ALL_THEME_VARS);
+        PrisonClassificationModel.trainAndEvaluate(allThemes);
 
-        // ========= ML =========
-        PrisonClassificationModel.trainAndEvaluate(combinedStates);
-
+        // ========= Run Model Based on SVI Themes
+        Dataset<Row> theme1 = sortByTheme(combinedStates, THEME_1_VARS);
+        PrisonClassificationModel.trainAndEvaluate(theme1);
+        
+        Dataset<Row> theme2 = sortByTheme(combinedStates, THEME_2_VARS);
+        PrisonClassificationModel.trainAndEvaluate(theme2);
+        
+        Dataset<Row> theme4 = sortByTheme(combinedStates, THEME_4_VARS);
+        PrisonClassificationModel.trainAndEvaluate(theme4);
 
         spark.stop();
     }
@@ -63,17 +116,19 @@ public class Main {
         List<State> stateList = Arrays.asList(states);
         Dataset<Row> combinedData = null;
 
-        Dataset<Row> data = stateList.get(0).getJoinedCountyData();
-        String[] allColumnNames = data.columns();
+        // Dataset<Row> data = stateList.get(0).getJoinedCountyData();
+        // String[] allColumnNames = data.columns();
+        // System.out.println("=====================================================================");
+        // System.out.println(Arrays.toString(allColumnNames));
 
-        List<String> filteredList = Arrays.stream(allColumnNames)
-            .filter(s -> s.startsWith("E_") || s.startsWith("EP_"))
-            .collect(Collectors.toList());
+        // List<String> filteredList = Arrays.stream(allColumnNames)
+        //     .filter(s -> s.startsWith("E_") || s.startsWith("EP_"))
+        //     .collect(Collectors.toList());
         
-        String[] filteredColumnNames = filteredList.toArray(new String[0]);
+        // String[] filteredColumnNames = filteredList.toArray(new String[0]);
 
         for (State state : stateList) {
-            Dataset<Row> temp = state.getJoinedCountyData().select("incarceration_rate", filteredColumnNames);
+            Dataset<Row> temp = state.getJoinedCountyData().select("incarceration_rate", ALL_THEME_VARS);
 
             if (combinedData == null) {
                 combinedData = temp;
@@ -89,7 +144,11 @@ public class Main {
         System.out.println(
                 "==============================================================================================\n");
 
-        combinedData.orderBy(col("incarceration_rate").desc()).show(n, false).cache();
+        combinedData.orderBy(col("incarceration_rate").desc()).show(n, false);
         return combinedData;
+    }
+
+    private static Dataset<Row> sortByTheme(Dataset<Row> data, String[] themeVars){
+        return data.select("incarceration_rate", themeVars);
     }
 }
