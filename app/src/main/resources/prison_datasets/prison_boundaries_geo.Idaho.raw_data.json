@@ -1,0 +1,6658 @@
+[
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85dec"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.8783207,
+                    42.0959636
+                ],
+                [
+                    -111.8783136,
+                    42.0958137
+                ],
+                [
+                    -111.8779281,
+                    42.0958066
+                ],
+                [
+                    -111.8779138,
+                    42.0959636
+                ],
+                [
+                    -111.8783207,
+                    42.0959636
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006938",
+        "NAME": "FRANKLIN COUNTY JAIL",
+        "ADDRESS": "39 WEST ONEIDA STREET",
+        "CITY": "PRESTON",
+        "STATE": "ID",
+        "ZIP": "83263",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 852-1234",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "FRANKLIN",
+        "COUNTYFIPS": "16041",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.franklincountyidaho.org/county1",
+        "SOURCEDATE": "2020/04/22 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2020/04/30 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00110019360975,
+        "SHAPE_Length": 0.001100193609753265,
+        "SHAPE_Area": 6.08164632677e-8
+    },
+    "id": 195
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86cb5"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.5902344,
+                    42.6555519
+                ],
+                [
+                    -111.5902344,
+                    42.6550101
+                ],
+                [
+                    -111.5898691,
+                    42.6550101
+                ],
+                [
+                    -111.5897737,
+                    42.6550833
+                ],
+                [
+                    -111.5897717,
+                    42.6551116
+                ],
+                [
+                    -111.5894429,
+                    42.6551116
+                ],
+                [
+                    -111.5894429,
+                    42.6554385
+                ],
+                [
+                    -111.5892408,
+                    42.6555101
+                ],
+                [
+                    -111.5892289,
+                    42.6555814
+                ],
+                [
+                    -111.5897717,
+                    42.6555519
+                ],
+                [
+                    -111.5902344,
+                    42.6555519
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005086",
+        "NAME": "CARIBOU COUNTY JAIL",
+        "ADDRESS": "475 EAST 2ND SOUTH",
+        "CITY": "SODA SPRINGS",
+        "STATE": "ID",
+        "ZIP": "83276",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 547-2561",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 25,
+        "COUNTY": "CARIBOU",
+        "COUNTYFIPS": "16029",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.cariboucountysheriff.com/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.cariboucountysheriff.com/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 49,
+        "SHAPE_Leng": 0.00300447928858,
+        "SHAPE_Length": 0.003004479288581805,
+        "SHAPE_Area": 4.1559813945e-7
+    },
+    "id": 3967
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871fb"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.6992061,
+                    43.943735
+                ],
+                [
+                    -111.6990199,
+                    43.9436369
+                ],
+                [
+                    -111.6987156,
+                    43.9438431
+                ],
+                [
+                    -111.6985963,
+                    43.9437742
+                ],
+                [
+                    -111.6983814,
+                    43.9436529
+                ],
+                [
+                    -111.6982472,
+                    43.943763
+                ],
+                [
+                    -111.6982693,
+                    43.9438271
+                ],
+                [
+                    -111.6984229,
+                    43.9439429
+                ],
+                [
+                    -111.6980791,
+                    43.9442774
+                ],
+                [
+                    -111.6980751,
+                    43.9444256
+                ],
+                [
+                    -111.69911,
+                    43.9444376
+                ],
+                [
+                    -111.6992061,
+                    43.943735
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001174",
+        "NAME": "FIVE COUNTY TREATMENT & YOUTH REHABILITATION CENTER",
+        "ADDRESS": "423 N 2300 E",
+        "CITY": "ST. ANTHONY",
+        "STATE": "ID",
+        "ZIP": "83445",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 624-1345",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 22,
+        "COUNTY": "FREMONT",
+        "COUNTYFIPS": "16043",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://5cyouthtreatmentcenter.us/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://5cyouthtreatmentcenter.us/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 56,
+        "SHAPE_Leng": 0.00376818516918,
+        "SHAPE_Length": 0.0037681851691780768,
+        "SHAPE_Area": 6.54610593968e-7
+    },
+    "id": 5295
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871d9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.7177906,
+                    43.9701769
+                ],
+                [
+                    -111.7177556,
+                    43.9662128
+                ],
+                [
+                    -111.7174233,
+                    43.9662063
+                ],
+                [
+                    -111.7174292,
+                    43.9664086
+                ],
+                [
+                    -111.7170559,
+                    43.9664026
+                ],
+                [
+                    -111.7170619,
+                    43.9665685
+                ],
+                [
+                    -111.7165819,
+                    43.9665389
+                ],
+                [
+                    -111.7165523,
+                    43.9668885
+                ],
+                [
+                    -111.7154502,
+                    43.9668233
+                ],
+                [
+                    -111.7154349,
+                    43.9671525
+                ],
+                [
+                    -111.714597,
+                    43.9671907
+                ],
+                [
+                    -111.7146378,
+                    43.9674729
+                ],
+                [
+                    -111.7128965,
+                    43.9675699
+                ],
+                [
+                    -111.7129084,
+                    43.9677417
+                ],
+                [
+                    -111.7124225,
+                    43.9677595
+                ],
+                [
+                    -111.712464,
+                    43.9689978
+                ],
+                [
+                    -111.7133231,
+                    43.9691756
+                ],
+                [
+                    -111.7133705,
+                    43.9702006
+                ],
+                [
+                    -111.7177906,
+                    43.9701769
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001175",
+        "NAME": "IDAHO JUVENILE CORRECTIONS CENTER - ANTHONY",
+        "ADDRESS": "2220 E 600 N",
+        "CITY": "ST. ANTHONY",
+        "STATE": "ID",
+        "ZIP": "83445",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 624-3462",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "FREMONT",
+        "COUNTYFIPS": "16043",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.governmentjobs.com/careers/idaho",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.idjc.idaho.gov/state-facilities-3",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 128,
+        "SHAPE_Leng": 0.01839239675,
+        "SHAPE_Length": 0.018392396750021845,
+        "SHAPE_Area": 0.0000154941968681
+    },
+    "id": 5294
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86ca5"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.6850023,
+                    43.9682135
+                ],
+                [
+                    -111.6850023,
+                    43.968085
+                ],
+                [
+                    -111.6850499,
+                    43.9680041
+                ],
+                [
+                    -111.6850594,
+                    43.9678899
+                ],
+                [
+                    -111.6847406,
+                    43.9678851
+                ],
+                [
+                    -111.6847358,
+                    43.9679946
+                ],
+                [
+                    -111.6846692,
+                    43.9679946
+                ],
+                [
+                    -111.684674,
+                    43.9680945
+                ],
+                [
+                    -111.6846359,
+                    43.9680897
+                ],
+                [
+                    -111.6846454,
+                    43.9682135
+                ],
+                [
+                    -111.6850023,
+                    43.9682135
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005073",
+        "NAME": "FREMONT COUNTY JAIL",
+        "ADDRESS": "146 NORTH 2ND WEST",
+        "CITY": "SAINT ANTHONY",
+        "STATE": "ID",
+        "ZIP": "83445",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 624-4482",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "FREMONT",
+        "COUNTYFIPS": "16043",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.co.fremont.id.us/departments/sheriff/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.co.fremont.id.us/departments/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00145146369164,
+        "SHAPE_Length": 0.0014514636916358025,
+        "SHAPE_Area": 1.12478182164e-7
+    },
+    "id": 3957
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb863cd"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.693959,
+                    43.9685953
+                ],
+                [
+                    -111.6940804,
+                    43.9685096
+                ],
+                [
+                    -111.6940947,
+                    43.9682312
+                ],
+                [
+                    -111.6939162,
+                    43.9682241
+                ],
+                [
+                    -111.6938948,
+                    43.9681313
+                ],
+                [
+                    -111.6937175,
+                    43.9680911
+                ],
+                [
+                    -111.6937073,
+                    43.967935
+                ],
+                [
+                    -111.6935614,
+                    43.9679316
+                ],
+                [
+                    -111.693558,
+                    43.9678128
+                ],
+                [
+                    -111.6935071,
+                    43.9678094
+                ],
+                [
+                    -111.6935577,
+                    43.9677548
+                ],
+                [
+                    -111.6935617,
+                    43.9675126
+                ],
+                [
+                    -111.6932094,
+                    43.9675026
+                ],
+                [
+                    -111.6930953,
+                    43.9675666
+                ],
+                [
+                    -111.6931013,
+                    43.9677388
+                ],
+                [
+                    -111.6931828,
+                    43.9677689
+                ],
+                [
+                    -111.6931819,
+                    43.9678871
+                ],
+                [
+                    -111.6931901,
+                    43.9683554
+                ],
+                [
+                    -111.6935379,
+                    43.9683811
+                ],
+                [
+                    -111.6935379,
+                    43.9685881
+                ],
+                [
+                    -111.693959,
+                    43.9685953
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001176",
+        "NAME": "ST. ANTHONY WORK CAMP",
+        "ADDRESS": "125 N 8TH W",
+        "CITY": "ST. ANTHONY",
+        "STATE": "ID",
+        "ZIP": "83445",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 624-3775",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 253,
+        "COUNTY": "FREMONT",
+        "COUNTYFIPS": "16043",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/locations/prisons/st_anthony_work_camp",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 262,
+        "SHAPE_Leng": 0.00397777650879,
+        "SHAPE_Length": 0.003977776508791603,
+        "SHAPE_Area": 5.98202691485e-7
+    },
+    "id": 1689
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb86ff9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.7783832,
+                    43.8266923
+                ],
+                [
+                    -111.779181,
+                    43.8266916
+                ],
+                [
+                    -111.7791756,
+                    43.8264425
+                ],
+                [
+                    -111.7788782,
+                    43.8264377
+                ],
+                [
+                    -111.7788758,
+                    43.8263616
+                ],
+                [
+                    -111.7787782,
+                    43.8263616
+                ],
+                [
+                    -111.7787711,
+                    43.8262973
+                ],
+                [
+                    -111.7783666,
+                    43.8263021
+                ],
+                [
+                    -111.7783832,
+                    43.8266923
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005081",
+        "NAME": "MADISON COUNTY WOMEN'S CORRECTIONAL FACILITY",
+        "ADDRESS": "15 NORTH 2ND STREET EAST",
+        "CITY": "REXBURG",
+        "STATE": "ID",
+        "ZIP": "83440",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 356-5426",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "MADISON",
+        "COUNTYFIPS": "16065",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://madisonsheriff.com/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.madisonsheriff.com/index.php?option=com_content&view=article&id=10&Itemid=13",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00237784646993,
+        "SHAPE_Length": 0.002377846469932196,
+        "SHAPE_Area": 2.66503795066e-7
+    },
+    "id": 4815
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb86e64"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.7789258,
+                    43.8268189
+                ],
+                [
+                    -111.7789258,
+                    43.8271223
+                ],
+                [
+                    -111.7795713,
+                    43.8271253
+                ],
+                [
+                    -111.7795713,
+                    43.8267565
+                ],
+                [
+                    -111.7793363,
+                    43.8267654
+                ],
+                [
+                    -111.7793363,
+                    43.8267803
+                ],
+                [
+                    -111.7790032,
+                    43.8267892
+                ],
+                [
+                    -111.7790032,
+                    43.826816
+                ],
+                [
+                    -111.7789258,
+                    43.8268189
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005080",
+        "NAME": "MADISON COUNTY JAIL",
+        "ADDRESS": "145 EAST MAIN STREET",
+        "CITY": "REXBURG",
+        "STATE": "ID",
+        "ZIP": "83440",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 372-5002",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "MADISON",
+        "COUNTYFIPS": "16065",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://madisonsheriff.com/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.madisonsheriff.com/index.php?option=com_content&view=featured&Itemid=47",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0020050508631,
+        "SHAPE_Length": 0.0020050508631025495,
+        "SHAPE_Area": 2.21908886354e-7
+    },
+    "id": 4411
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871c9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.0644033,
+                    43.4623722
+                ],
+                [
+                    -112.0644509,
+                    43.4623056
+                ],
+                [
+                    -112.0646032,
+                    43.4620914
+                ],
+                [
+                    -112.0635015,
+                    43.4616536
+                ],
+                [
+                    -112.0634849,
+                    43.4627815
+                ],
+                [
+                    -112.0639132,
+                    43.4629623
+                ],
+                [
+                    -112.0642843,
+                    43.4625102
+                ],
+                [
+                    -112.0644033,
+                    43.4623722
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001186",
+        "NAME": "IDAHO FALLS COMMUNITY REENTRY CENTER",
+        "ADDRESS": "3955 BOMBARDIER AVE",
+        "CITY": "IDAHO FALLS",
+        "STATE": "ID",
+        "ZIP": "83402",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 525-7143",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 95,
+        "COUNTY": "BONNEVILLE",
+        "COUNTYFIPS": "16019",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/about_us/research_statistics, https://www.idoc.idaho.gov/content/locations",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 108,
+        "SHAPE_Leng": 0.00389022803246,
+        "SHAPE_Length": 0.003890228032460371,
+        "SHAPE_Area": 8.82403133181e-7
+    },
+    "id": 5276
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c85"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.0161067,
+                    43.5158651
+                ],
+                [
+                    -112.0164065,
+                    43.5158746
+                ],
+                [
+                    -112.0164021,
+                    43.5159607
+                ],
+                [
+                    -112.0166587,
+                    43.5159698
+                ],
+                [
+                    -112.0166682,
+                    43.5159127
+                ],
+                [
+                    -112.0168396,
+                    43.5159127
+                ],
+                [
+                    -112.0168491,
+                    43.5155843
+                ],
+                [
+                    -112.0168729,
+                    43.5155843
+                ],
+                [
+                    -112.0168729,
+                    43.5154083
+                ],
+                [
+                    -112.0175344,
+                    43.5154225
+                ],
+                [
+                    -112.0175344,
+                    43.5155653
+                ],
+                [
+                    -112.0176295,
+                    43.5156462
+                ],
+                [
+                    -112.0176629,
+                    43.5156462
+                ],
+                [
+                    -112.0176581,
+                    43.5158841
+                ],
+                [
+                    -112.0180769,
+                    43.5158841
+                ],
+                [
+                    -112.0180864,
+                    43.5155891
+                ],
+                [
+                    -112.0181578,
+                    43.5155653
+                ],
+                [
+                    -112.0181606,
+                    43.515158
+                ],
+                [
+                    -112.0172774,
+                    43.515137
+                ],
+                [
+                    -112.0172821,
+                    43.5151037
+                ],
+                [
+                    -112.0166635,
+                    43.5150989
+                ],
+                [
+                    -112.0166635,
+                    43.5151366
+                ],
+                [
+                    -112.0161001,
+                    43.5151286
+                ],
+                [
+                    -112.0161067,
+                    43.5158651
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001948",
+        "NAME": "BONNEVILLE COUNTY JAIL / WORK RELEASE CENTER",
+        "ADDRESS": "900 ENVIRONMENTAL WAY",
+        "CITY": "IDAHO FALLS",
+        "STATE": "ID",
+        "ZIP": "83401",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 529-1315",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 399,
+        "COUNTY": "BONNEVILLE",
+        "COUNTYFIPS": "16019",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://bonnevillesheriff.com/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.bonnevillesheriff.com/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 340,
+        "SHAPE_Leng": 0.00667135607431,
+        "SHAPE_Length": 0.00667135607430562,
+        "SHAPE_Area": 0.00000119686448536
+    },
+    "id": 3931
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c58"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.0151629,
+                    43.515872
+                ],
+                [
+                    -112.0151629,
+                    43.5154222
+                ],
+                [
+                    -112.0143215,
+                    43.5154204
+                ],
+                [
+                    -112.0143191,
+                    43.5158686
+                ],
+                [
+                    -112.0151629,
+                    43.515872
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001949",
+        "NAME": "3-B JUVENILE DETENTION CENTER",
+        "ADDRESS": "950 ENVIRONMENTAL WAY",
+        "CITY": "IDAHO FALLS",
+        "STATE": "ID",
+        "ZIP": "83402",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 542-2947",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 42,
+        "COUNTY": "BONNEVILLE",
+        "COUNTYFIPS": "16019",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.3bdetention.org/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.3bdetention.org/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 24,
+        "SHAPE_Leng": 0.00258317111103,
+        "SHAPE_Length": 0.0025831711110329784,
+        "SHAPE_Area": 3.78321972366e-7
+    },
+    "id": 3887
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c93"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.911551,
+                    43.6787829
+                ],
+                [
+                    -111.9112345,
+                    43.6787901
+                ],
+                [
+                    -111.9112345,
+                    43.6788091
+                ],
+                [
+                    -111.911156,
+                    43.6788115
+                ],
+                [
+                    -111.9111608,
+                    43.6787163
+                ],
+                [
+                    -111.9109062,
+                    43.6787163
+                ],
+                [
+                    -111.9109085,
+                    43.67884
+                ],
+                [
+                    -111.9106992,
+                    43.6788424
+                ],
+                [
+                    -111.9106992,
+                    43.6786259
+                ],
+                [
+                    -111.910109,
+                    43.6786211
+                ],
+                [
+                    -111.910109,
+                    43.6790708
+                ],
+                [
+                    -111.9103732,
+                    43.6790685
+                ],
+                [
+                    -111.9103755,
+                    43.6790589
+                ],
+                [
+                    -111.9107158,
+                    43.6790613
+                ],
+                [
+                    -111.9107111,
+                    43.6792231
+                ],
+                [
+                    -111.9108729,
+                    43.6792231
+                ],
+                [
+                    -111.9108752,
+                    43.6792445
+                ],
+                [
+                    -111.9110466,
+                    43.6792469
+                ],
+                [
+                    -111.9110489,
+                    43.6792279
+                ],
+                [
+                    -111.911156,
+                    43.6792279
+                ],
+                [
+                    -111.911156,
+                    43.6792017
+                ],
+                [
+                    -111.9112464,
+                    43.6792017
+                ],
+                [
+                    -111.9112488,
+                    43.6791874
+                ],
+                [
+                    -111.91157,
+                    43.6791874
+                ],
+                [
+                    -111.9116013,
+                    43.6791456
+                ],
+                [
+                    -111.9115843,
+                    43.6791041
+                ],
+                [
+                    -111.9115415,
+                    43.679097
+                ],
+                [
+                    -111.9114463,
+                    43.6790209
+                ],
+                [
+                    -111.9114463,
+                    43.6789281
+                ],
+                [
+                    -111.9115534,
+                    43.6788472
+                ],
+                [
+                    -111.911551,
+                    43.6787829
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005079",
+        "NAME": "JEFFERSON COUNTY JAIL",
+        "ADDRESS": "200 COURTHOUSE WAY",
+        "CITY": "RIGBY",
+        "STATE": "ID",
+        "ZIP": "83442",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 745-9210",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "JEFFERSON",
+        "COUNTYFIPS": "16051",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.co.jefferson.id.us/sheriffs_office.php",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.co.jefferson.id.us/sheriffs_office.php",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00461650660141,
+        "SHAPE_Length": 0.004616506601413094,
+        "SHAPE_Area": 6.11001985161e-7
+    },
+    "id": 3921
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c90"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.3441908,
+                    43.1948266
+                ],
+                [
+                    -112.3444616,
+                    43.1946251
+                ],
+                [
+                    -112.3445183,
+                    43.1946723
+                ],
+                [
+                    -112.3446033,
+                    43.1945841
+                ],
+                [
+                    -112.3445561,
+                    43.1945621
+                ],
+                [
+                    -112.3450977,
+                    43.1940803
+                ],
+                [
+                    -112.3447167,
+                    43.1938379
+                ],
+                [
+                    -112.3440806,
+                    43.1943889
+                ],
+                [
+                    -112.34409,
+                    43.1943952
+                ],
+                [
+                    -112.3438696,
+                    43.1946219
+                ],
+                [
+                    -112.3441908,
+                    43.1948266
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004340",
+        "NAME": "BINGHAM COUNTY JAIL",
+        "ADDRESS": "501 N MAPLE #408",
+        "CITY": "BLACKFOOT",
+        "STATE": "ID",
+        "ZIP": "83221",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 236-7125",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "BINGHAM",
+        "COUNTYFIPS": "16011",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.co.bingham.id.us/Sheriff/new_web_site/letter%20from%20the%20sheriff2.html",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.co.bingham.id.us/Sheriff/index.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 102,
+        "SHAPE_Leng": 0.00331240244602,
+        "SHAPE_Length": 0.0033124024460205255,
+        "SHAPE_Area": 5.01323180327e-7
+    },
+    "id": 3923
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871e3"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.3890982,
+                    42.8254553
+                ],
+                [
+                    -112.3894283,
+                    42.8251883
+                ],
+                [
+                    -112.3895147,
+                    42.8252426
+                ],
+                [
+                    -112.3898973,
+                    42.8249439
+                ],
+                [
+                    -112.3899498,
+                    42.8249756
+                ],
+                [
+                    -112.3901164,
+                    42.8248466
+                ],
+                [
+                    -112.389814,
+                    42.8246542
+                ],
+                [
+                    -112.3898819,
+                    42.8245999
+                ],
+                [
+                    -112.3897492,
+                    42.8245071
+                ],
+                [
+                    -112.3898664,
+                    42.8244189
+                ],
+                [
+                    -112.3894376,
+                    42.8241179
+                ],
+                [
+                    -112.3891599,
+                    42.824351
+                ],
+                [
+                    -112.389416,
+                    42.8245275
+                ],
+                [
+                    -112.3886508,
+                    42.8251566
+                ],
+                [
+                    -112.3890982,
+                    42.8254553
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001188",
+        "NAME": "BANNOCK COUNTY DETENTION CENTER",
+        "ADDRESS": "5800 S 5TH AVE",
+        "CITY": "POCATELLO",
+        "STATE": "ID",
+        "ZIP": "83201",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 236-7125",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 248,
+        "COUNTY": "BANNOCK",
+        "COUNTYFIPS": "16005",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.bannockcounty.us/sheriff/jail/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.bannockcounty.us/sheriff/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 253,
+        "SHAPE_Leng": 0.00476406308556,
+        "SHAPE_Length": 0.004764063085557656,
+        "SHAPE_Area": 8.30526083801e-7
+    },
+    "id": 5306
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871d1"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.4516954,
+                    42.8432567
+                ],
+                [
+                    -112.4518237,
+                    42.8431793
+                ],
+                [
+                    -112.4519934,
+                    42.8426673
+                ],
+                [
+                    -112.4516335,
+                    42.8422372
+                ],
+                [
+                    -112.4504242,
+                    42.8419981
+                ],
+                [
+                    -112.4496663,
+                    42.8419715
+                ],
+                [
+                    -112.4492374,
+                    42.8421699
+                ],
+                [
+                    -112.4491268,
+                    42.8426331
+                ],
+                [
+                    -112.4496392,
+                    42.8427376
+                ],
+                [
+                    -112.449618,
+                    42.842804
+                ],
+                [
+                    -112.4502944,
+                    42.8429257
+                ],
+                [
+                    -112.4502702,
+                    42.8430209
+                ],
+                [
+                    -112.4504302,
+                    42.8430453
+                ],
+                [
+                    -112.4504423,
+                    42.8430099
+                ],
+                [
+                    -112.450702,
+                    42.8430586
+                ],
+                [
+                    -112.4507261,
+                    42.8430962
+                ],
+                [
+                    -112.4516954,
+                    42.8432567
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001187",
+        "NAME": "POCATELLO WOMEN'S CORRECTIONAL CENTER",
+        "ADDRESS": "1451 FORE RD",
+        "CITY": "POCATELLO",
+        "STATE": "ID",
+        "ZIP": "83204",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 236-6360",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 323,
+        "COUNTY": "BANNOCK",
+        "COUNTYFIPS": "16005",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/locations/prisons/pocatello_womens_correctional_center",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 331,
+        "SHAPE_Leng": 0.00705868328974,
+        "SHAPE_Length": 0.007058683289741861,
+        "SHAPE_Area": 0.00000245357087722
+    },
+    "id": 5287
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871e8"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.4432249,
+                    42.865562
+                ],
+                [
+                    -112.4428379,
+                    42.8657829
+                ],
+                [
+                    -112.4432344,
+                    42.8660902
+                ],
+                [
+                    -112.4433581,
+                    42.8659998
+                ],
+                [
+                    -112.4434438,
+                    42.8660664
+                ],
+                [
+                    -112.4436437,
+                    42.8659475
+                ],
+                [
+                    -112.4432249,
+                    42.865562
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005690",
+        "NAME": "BANNOCK COUNTY JUVENILE DETENTION CENTER",
+        "ADDRESS": "137 S 5TH AVENUE",
+        "CITY": "POCATELLO",
+        "STATE": "ID",
+        "ZIP": "83201",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 234-1080",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 15,
+        "COUNTY": "BANNOCK",
+        "COUNTYFIPS": "16005",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.bannockcounty.us/juvenile-detention/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.bannockcounty.us/juvenile-detention/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 16,
+        "SHAPE_Leng": 0.00201078217318,
+        "SHAPE_Length": 0.002010782173181373,
+        "SHAPE_Area": 2.14114618722e-7
+    },
+    "id": 5311
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c89"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -113.3031019,
+                    43.6354491
+                ],
+                [
+                    -113.302921,
+                    43.6352968
+                ],
+                [
+                    -113.3027973,
+                    43.635373
+                ],
+                [
+                    -113.3026117,
+                    43.6352445
+                ],
+                [
+                    -113.3024784,
+                    43.6353254
+                ],
+                [
+                    -113.3026926,
+                    43.6354967
+                ],
+                [
+                    -113.3027545,
+                    43.6354586
+                ],
+                [
+                    -113.302902,
+                    43.6355776
+                ],
+                [
+                    -113.3031019,
+                    43.6354491
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005076",
+        "NAME": "BUTTE COUNTY JAIL",
+        "ADDRESS": "256 W GRAND AVE",
+        "CITY": "ARCO",
+        "STATE": "ID",
+        "ZIP": "83213",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 527-8553",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "BUTTE",
+        "COUNTYFIPS": "16023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.buttecountyid.us/about/butte-county-sheriffs-office/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.buttecountyid.us/about/butte-county-sheriffs-office/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0015373474522,
+        "SHAPE_Length": 0.0015373474522009946,
+        "SHAPE_Area": 9.24691308641e-8
+    },
+    "id": 3935
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86cbf"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.233207,
+                    44.1768811
+                ],
+                [
+                    -112.2332117,
+                    44.176429
+                ],
+                [
+                    -112.2328358,
+                    44.176429
+                ],
+                [
+                    -112.2328501,
+                    44.1766955
+                ],
+                [
+                    -112.2329548,
+                    44.1767002
+                ],
+                [
+                    -112.2329595,
+                    44.1768715
+                ],
+                [
+                    -112.233207,
+                    44.1768811
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005074",
+        "NAME": "CLARK COUNTY JAIL",
+        "ADDRESS": "224 WEST MAIN STREET",
+        "CITY": "DUBOIS",
+        "STATE": "ID",
+        "ZIP": "83423",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 374-5403",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "16033",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.clark-co.id.gov/county-officials",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.clark-co.id.gov/county-officials",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00161879836308,
+        "SHAPE_Length": 0.0016187983630804653,
+        "SHAPE_Area": 1.43527663757e-7
+    },
+    "id": 3968
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb86ce1"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -113.9025842,
+                    45.1794007
+                ],
+                [
+                    -113.9027002,
+                    45.1792966
+                ],
+                [
+                    -113.9022154,
+                    45.1790587
+                ],
+                [
+                    -113.9019923,
+                    45.1793115
+                ],
+                [
+                    -113.9022719,
+                    45.1794543
+                ],
+                [
+                    -113.9023403,
+                    45.1794037
+                ],
+                [
+                    -113.902376,
+                    45.1794275
+                ],
+                [
+                    -113.9023938,
+                    45.1795048
+                ],
+                [
+                    -113.9024414,
+                    45.1795018
+                ],
+                [
+                    -113.9024236,
+                    45.1794186
+                ],
+                [
+                    -113.902495,
+                    45.1793591
+                ],
+                [
+                    -113.9025842,
+                    45.1794007
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005067",
+        "NAME": "LEMHI COUNTY JAIL / JUVENILE DETENTION CENTER",
+        "ADDRESS": "206 COURTHOUSE DRIVE",
+        "CITY": "SALMON",
+        "STATE": "ID",
+        "ZIP": "83467",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 756-8980",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "LEMHI",
+        "COUNTYFIPS": "16059",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://lemhicountyidaho.org/Sheriffs%20Office.htm",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://lemhicountyidaho.org/Sheriffs%20Office.htm",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 26,
+        "SHAPE_Leng": 0.00187858336507,
+        "SHAPE_Length": 0.0018785833650660842,
+        "SHAPE_Area": 1.49972137725e-7
+    },
+    "id": 3997
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c78"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.5672266,
+                    47.3151745
+                ],
+                [
+                    -116.5672219,
+                    47.3149556
+                ],
+                [
+                    -116.5668126,
+                    47.3149604
+                ],
+                [
+                    -116.5668126,
+                    47.3151602
+                ],
+                [
+                    -116.5672266,
+                    47.3151745
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005061",
+        "NAME": "BENEWAH COUNTY JAIL",
+        "ADDRESS": "701 COLLEGE AVENUE",
+        "CITY": "SAINT MARIES",
+        "STATE": "ID",
+        "ZIP": "83861",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 245-2555",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "BENEWAH",
+        "COUNTYFIPS": "16009",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.benewahcountysheriff.com/departments-information/jail/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.benewahcountysheriff.com/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 16,
+        "SHAPE_Leng": 0.00124240344305,
+        "SHAPE_Length": 0.0012424034430530008,
+        "SHAPE_Area": 8.61843669105e-8
+    },
+    "id": 3909
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871a9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.9217611,
+                    47.4719881
+                ],
+                [
+                    -115.9217557,
+                    47.4717145
+                ],
+                [
+                    -115.9211696,
+                    47.4717134
+                ],
+                [
+                    -115.9211694,
+                    47.4717687
+                ],
+                [
+                    -115.9210683,
+                    47.4717747
+                ],
+                [
+                    -115.9210742,
+                    47.4719442
+                ],
+                [
+                    -115.9211724,
+                    47.4719472
+                ],
+                [
+                    -115.9212824,
+                    47.4719977
+                ],
+                [
+                    -115.9217611,
+                    47.4719881
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005060",
+        "NAME": "SHOSHONE COUNTY JAIL",
+        "ADDRESS": "717 BANK STREET",
+        "CITY": "WALLACE",
+        "STATE": "ID",
+        "ZIP": "83873",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 753-3131",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "SHOSHONE",
+        "COUNTYFIPS": "16079",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://shoshonecounty.id.gov/sheriff/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://shoshonecounty.id.gov/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 64,
+        "SHAPE_Leng": 0.00188408553894,
+        "SHAPE_Length": 0.0018840855389438032,
+        "SHAPE_Area": 1.78998063506e-7
+    },
+    "id": 5247
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86cc9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.7825852,
+                    47.7219401
+                ],
+                [
+                    -116.7822193,
+                    47.7219401
+                ],
+                [
+                    -116.7822193,
+                    47.7222911
+                ],
+                [
+                    -116.7825852,
+                    47.7222881
+                ],
+                [
+                    -116.7825852,
+                    47.7221602
+                ],
+                [
+                    -116.7826714,
+                    47.7221632
+                ],
+                [
+                    -116.7826625,
+                    47.7220502
+                ],
+                [
+                    -116.7825881,
+                    47.7220502
+                ],
+                [
+                    -116.7825852,
+                    47.7219401
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006729",
+        "NAME": "PIERCE CLEGG WORK RELEASE CENTER",
+        "ADDRESS": "250 E DALTON AVE",
+        "CITY": "DALTON GARDENS",
+        "STATE": "ID",
+        "ZIP": "83815",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 446-1370",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "KOOTENAI",
+        "COUNTYFIPS": "16055",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.kcgov.us/businessdirectoryii.aspx?bid=64",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.kcsheriff.com/index.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00159469219924,
+        "SHAPE_Length": 0.0015946921992445533,
+        "SHAPE_Area": 1.37135571386e-7
+    },
+    "id": 3992
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c75"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.7838864,
+                    47.7223893
+                ],
+                [
+                    -116.7838835,
+                    47.7221781
+                ],
+                [
+                    -116.7843177,
+                    47.7221781
+                ],
+                [
+                    -116.7843177,
+                    47.7220413
+                ],
+                [
+                    -116.784006,
+                    47.722053
+                ],
+                [
+                    -116.7838745,
+                    47.7220561
+                ],
+                [
+                    -116.7838656,
+                    47.7219461
+                ],
+                [
+                    -116.7838121,
+                    47.7219431
+                ],
+                [
+                    -116.783815,
+                    47.7218212
+                ],
+                [
+                    -116.7839132,
+                    47.7218241
+                ],
+                [
+                    -116.7839162,
+                    47.7215802
+                ],
+                [
+                    -116.7835741,
+                    47.7215773
+                ],
+                [
+                    -116.7835741,
+                    47.7218241
+                ],
+                [
+                    -116.7836336,
+                    47.7218271
+                ],
+                [
+                    -116.7836366,
+                    47.7219491
+                ],
+                [
+                    -116.7835949,
+                    47.7219491
+                ],
+                [
+                    -116.7835949,
+                    47.7220115
+                ],
+                [
+                    -116.7834998,
+                    47.7220175
+                ],
+                [
+                    -116.7834998,
+                    47.7220591
+                ],
+                [
+                    -116.7831637,
+                    47.7220621
+                ],
+                [
+                    -116.7831666,
+                    47.722181
+                ],
+                [
+                    -116.7835593,
+                    47.722187
+                ],
+                [
+                    -116.7835593,
+                    47.722297
+                ],
+                [
+                    -116.7836604,
+                    47.7222941
+                ],
+                [
+                    -116.7836574,
+                    47.7223893
+                ],
+                [
+                    -116.7838864,
+                    47.7223893
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001171",
+        "NAME": "KOOTENAI COUNTY JUVENILE DETENTION",
+        "ADDRESS": "210 E DALTON AVE",
+        "CITY": "COEUR D'ALENE",
+        "STATE": "ID",
+        "ZIP": "83815",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 446-1900",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 14,
+        "COUNTY": "KOOTENAI",
+        "COUNTYFIPS": "16055",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.kcgov.us/345/Juvenile-Detention",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.kcgov.us/departments/justiceservices/juvdet/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 54,
+        "SHAPE_Leng": 0.00424865585481,
+        "SHAPE_Length": 0.004248655854806496,
+        "SHAPE_Area": 3.43334557832e-7
+    },
+    "id": 3906
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86cbc"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.7856858,
+                    47.7216756
+                ],
+                [
+                    -116.7858286,
+                    47.7215685
+                ],
+                [
+                    -116.7858256,
+                    47.7212711
+                ],
+                [
+                    -116.7857275,
+                    47.721274
+                ],
+                [
+                    -116.7857185,
+                    47.7210301
+                ],
+                [
+                    -116.7857691,
+                    47.7210361
+                ],
+                [
+                    -116.7857691,
+                    47.7208903
+                ],
+                [
+                    -116.7857156,
+                    47.7208903
+                ],
+                [
+                    -116.7857185,
+                    47.7207059
+                ],
+                [
+                    -116.7857037,
+                    47.7207059
+                ],
+                [
+                    -116.7857007,
+                    47.7206405
+                ],
+                [
+                    -116.7856799,
+                    47.7206405
+                ],
+                [
+                    -116.7856769,
+                    47.720587
+                ],
+                [
+                    -116.7855103,
+                    47.720587
+                ],
+                [
+                    -116.7855103,
+                    47.7205602
+                ],
+                [
+                    -116.7854568,
+                    47.7205602
+                ],
+                [
+                    -116.7854568,
+                    47.7205334
+                ],
+                [
+                    -116.7852724,
+                    47.7205394
+                ],
+                [
+                    -116.7852724,
+                    47.720468
+                ],
+                [
+                    -116.7850909,
+                    47.720471
+                ],
+                [
+                    -116.7849809,
+                    47.7205542
+                ],
+                [
+                    -116.7849809,
+                    47.7205989
+                ],
+                [
+                    -116.7844842,
+                    47.7206048
+                ],
+                [
+                    -116.7843741,
+                    47.7206792
+                ],
+                [
+                    -116.7843801,
+                    47.7209796
+                ],
+                [
+                    -116.7844693,
+                    47.7210391
+                ],
+                [
+                    -116.7850017,
+                    47.7210539
+                ],
+                [
+                    -116.7850017,
+                    47.7211818
+                ],
+                [
+                    -116.7851623,
+                    47.7211907
+                ],
+                [
+                    -116.7851623,
+                    47.7213008
+                ],
+                [
+                    -116.7852575,
+                    47.7213454
+                ],
+                [
+                    -116.7852575,
+                    47.7213811
+                ],
+                [
+                    -116.7851951,
+                    47.721393
+                ],
+                [
+                    -116.7851951,
+                    47.7215685
+                ],
+                [
+                    -116.7851296,
+                    47.721628
+                ],
+                [
+                    -116.7852188,
+                    47.7216845
+                ],
+                [
+                    -116.7856858,
+                    47.7216756
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004334",
+        "NAME": "KOOTENAI COUNTY JAIL",
+        "ADDRESS": "5500 N GOVERNMENT WAY",
+        "CITY": "COEUR D'ALENE",
+        "STATE": "ID",
+        "ZIP": "83815",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 765-6232",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 461,
+        "COUNTY": "KOOTENAI",
+        "COUNTYFIPS": "16055",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.kcsheriff.com/index.html",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.kcsheriff.com/index.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 325,
+        "SHAPE_Leng": 0.00531088518727,
+        "SHAPE_Length": 0.005310885187269231,
+        "SHAPE_Area": 0.00000104330335101
+    },
+    "id": 3981
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c88"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.3136114,
+                    48.695913
+                ],
+                [
+                    -116.3135951,
+                    48.6957811
+                ],
+                [
+                    -116.3136187,
+                    48.695777
+                ],
+                [
+                    -116.3135996,
+                    48.6956009
+                ],
+                [
+                    -116.313414,
+                    48.6955961
+                ],
+                [
+                    -116.3134236,
+                    48.6956866
+                ],
+                [
+                    -116.3132047,
+                    48.6957056
+                ],
+                [
+                    -116.3132475,
+                    48.6959435
+                ],
+                [
+                    -116.3136114,
+                    48.695913
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005059",
+        "NAME": "BOUNDARY COUNTY JAIL",
+        "ADDRESS": "6438 KOOTENAI STREET",
+        "CITY": "BONNERS FERRY",
+        "STATE": "ID",
+        "ZIP": "83805",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 267-3151 EXT 207",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "BOUNDARY",
+        "COUNTYFIPS": "16021",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.boundarysheriff.org/detention-",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.boundarysheriff.org/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00143719718634,
+        "SHAPE_Length": 0.0014371971863408372,
+        "SHAPE_Area": 1.07221461023e-7
+    },
+    "id": 3934
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86caf"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.5589268,
+                    48.308457
+                ],
+                [
+                    -116.5589206,
+                    48.3081891
+                ],
+                [
+                    -116.5581658,
+                    48.3076797
+                ],
+                [
+                    -116.5575341,
+                    48.3080791
+                ],
+                [
+                    -116.5580321,
+                    48.3084496
+                ],
+                [
+                    -116.5581841,
+                    48.3083362
+                ],
+                [
+                    -116.558508,
+                    48.3085802
+                ],
+                [
+                    -116.5587851,
+                    48.3085648
+                ],
+                [
+                    -116.5589268,
+                    48.308457
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004333",
+        "NAME": "BONNER COUNTY DETENTION CENTER",
+        "ADDRESS": "4001 N BOYER RD",
+        "CITY": "SANDPOINT",
+        "STATE": "ID",
+        "ZIP": "83864",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 263-8417",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 106,
+        "COUNTY": "BONNER",
+        "COUNTYFIPS": "16017",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://bonnerso.org/detention/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.bonnerso.org/index.php",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 124,
+        "SHAPE_Leng": 0.00359722154634,
+        "SHAPE_Length": 0.0035972215463356914,
+        "SHAPE_Area": 6.94438748355e-7
+    },
+    "id": 3924
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86cc4"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.5614216,
+                    48.3080941
+                ],
+                [
+                    -116.5614168,
+                    48.3079608
+                ],
+                [
+                    -116.5615263,
+                    48.3079608
+                ],
+                [
+                    -116.5615215,
+                    48.3076896
+                ],
+                [
+                    -116.5612979,
+                    48.3076943
+                ],
+                [
+                    -116.5613026,
+                    48.3076182
+                ],
+                [
+                    -116.5606982,
+                    48.3076229
+                ],
+                [
+                    -116.5607078,
+                    48.3081084
+                ],
+                [
+                    -116.5614216,
+                    48.3080941
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005689",
+        "NAME": "BONNER COUNTY JUVENILE DETENTION CENTER",
+        "ADDRESS": "4002 SAMUELSON AVE",
+        "CITY": "SANDPOINT",
+        "STATE": "ID",
+        "ZIP": "83864",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 263-1602",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "BONNER",
+        "COUNTYFIPS": "16017",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.bonnercountyid.gov/juvenile-detention/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.bonnercountyid.gov/departments/JusticeServices/justice-services",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00261798969223,
+        "SHAPE_Length": 0.002617989692230423,
+        "SHAPE_Area": 3.63977338393e-7
+    },
+    "id": 3925
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c74"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.9968488,
+                    46.7309469
+                ],
+                [
+                    -116.9968191,
+                    46.7302836
+                ],
+                [
+                    -116.9958673,
+                    46.7303044
+                ],
+                [
+                    -116.9958703,
+                    46.7305216
+                ],
+                [
+                    -116.9965573,
+                    46.7305186
+                ],
+                [
+                    -116.9965752,
+                    46.7309529
+                ],
+                [
+                    -116.9968488,
+                    46.7309469
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005062",
+        "NAME": "LATAH COUNTY JAIL",
+        "ADDRESS": "522 SOUTH ADAMS STREET",
+        "CITY": "MOSCOW",
+        "STATE": "ID",
+        "ZIP": "83843",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 882-2216",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 29,
+        "COUNTY": "LATAH",
+        "COUNTYFIPS": "16057",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.latah.id.us/sheriff/detention/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.latah.id.us/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 42,
+        "SHAPE_Leng": 0.00322849725114,
+        "SHAPE_Length": 0.003228497251144667,
+        "SHAPE_Area": 3.33455908681e-7
+    },
+    "id": 3905
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8718e"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -117.0179687,
+                    46.4326017
+                ],
+                [
+                    -117.0180331,
+                    46.4323392
+                ],
+                [
+                    -117.0189667,
+                    46.4323932
+                ],
+                [
+                    -117.0182493,
+                    46.4317686
+                ],
+                [
+                    -117.0182935,
+                    46.4311593
+                ],
+                [
+                    -117.0165143,
+                    46.4311681
+                ],
+                [
+                    -117.0163745,
+                    46.4320098
+                ],
+                [
+                    -117.0164251,
+                    46.4320158
+                ],
+                [
+                    -117.0163983,
+                    46.432224
+                ],
+                [
+                    -117.0163567,
+                    46.432224
+                ],
+                [
+                    -117.016315,
+                    46.4325303
+                ],
+                [
+                    -117.0169786,
+                    46.4325951
+                ],
+                [
+                    -117.0169961,
+                    46.4324441
+                ],
+                [
+                    -117.017713,
+                    46.4325036
+                ],
+                [
+                    -117.0176951,
+                    46.432569
+                ],
+                [
+                    -117.0179687,
+                    46.4326017
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005065",
+        "NAME": "NEZ PERCE COUNTY ADULT DETENTION CENTER",
+        "ADDRESS": "1150 WALL STREET",
+        "CITY": "LEWISTON",
+        "STATE": "ID",
+        "ZIP": "83501",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 799-3139",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 120,
+        "COUNTY": "NEZ PERCE",
+        "COUNTYFIPS": "16069",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.co.nezperce.id.us/ElectedOfficials/Sheriff/AdultDetentionCenter.aspx",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.co.nezperce.id.us/ElectedOfficials/Sheriff.aspx",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00789320317936,
+        "SHAPE_Length": 0.007893203179363716,
+        "SHAPE_Area": 0.00000268108210414
+    },
+    "id": 5219
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87196"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -117.022004,
+                    46.4182596
+                ],
+                [
+                    -117.0218017,
+                    46.4182031
+                ],
+                [
+                    -117.0218166,
+                    46.4181614
+                ],
+                [
+                    -117.0216827,
+                    46.4181257
+                ],
+                [
+                    -117.0216471,
+                    46.418212
+                ],
+                [
+                    -117.0215073,
+                    46.4181763
+                ],
+                [
+                    -117.0214418,
+                    46.4182893
+                ],
+                [
+                    -117.0215578,
+                    46.418325
+                ],
+                [
+                    -117.0215311,
+                    46.4183696
+                ],
+                [
+                    -117.0216054,
+                    46.4183905
+                ],
+                [
+                    -117.0215965,
+                    46.4184143
+                ],
+                [
+                    -117.0218761,
+                    46.4184916
+                ],
+                [
+                    -117.022004,
+                    46.4182596
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006730",
+        "NAME": "NEZ PERCE JUVENILE DETENTION",
+        "ADDRESS": "140 10TH STREET",
+        "CITY": "LEWISTON",
+        "STATE": "ID",
+        "ZIP": "83501",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "NEZ PERCE",
+        "COUNTYFIPS": "16069",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.co.nezperce.id.us/Departments/JusticeServices.aspx",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.co.nezperce.id.us/Departments/JusticeServices.aspx",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 16,
+        "SHAPE_Leng": 0.0015919892598,
+        "SHAPE_Length": 0.0015919892598002183,
+        "SHAPE_Area": 1.13970714867e-7
+    },
+    "id": 5226
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871cb"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2613584,
+                    46.4926863
+                ],
+                [
+                    -116.2620848,
+                    46.4922488
+                ],
+                [
+                    -116.2620685,
+                    46.491405
+                ],
+                [
+                    -116.2613429,
+                    46.4913857
+                ],
+                [
+                    -116.2609301,
+                    46.491362
+                ],
+                [
+                    -116.2605904,
+                    46.4912275
+                ],
+                [
+                    -116.2597645,
+                    46.4912431
+                ],
+                [
+                    -116.2594573,
+                    46.4918387
+                ],
+                [
+                    -116.2593708,
+                    46.4926207
+                ],
+                [
+                    -116.2613584,
+                    46.4926863
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001172",
+        "NAME": "IDAHO CORRECTIONAL INSTITUTION-OROFINO",
+        "ADDRESS": "381 WEST HOSPITAL DRIVE",
+        "CITY": "OROFINO",
+        "STATE": "ID",
+        "ZIP": "83544",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 476-3655",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 576,
+        "COUNTY": "CLEARWATER",
+        "COUNTYFIPS": "16035",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/locations/prisons/idaho_correctional_institution_orofino",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 580,
+        "SHAPE_Leng": 0.00746820635526,
+        "SHAPE_Length": 0.007468206355261079,
+        "SHAPE_Area": 0.00000333079944327
+    },
+    "id": 5281
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86ca7"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2552761,
+                    46.4802071
+                ],
+                [
+                    -116.2552904,
+                    46.4798122
+                ],
+                [
+                    -116.2548193,
+                    46.479791
+                ],
+                [
+                    -116.2548271,
+                    46.4801761
+                ],
+                [
+                    -116.2551619,
+                    46.4801976
+                ],
+                [
+                    -116.2551667,
+                    46.4802595
+                ],
+                [
+                    -116.255219,
+                    46.4802547
+                ],
+                [
+                    -116.2552761,
+                    46.4802071
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005063",
+        "NAME": "CLEARWATER COUNTY JAIL",
+        "ADDRESS": "150 MICHIGAN AVENUE",
+        "CITY": "OROFINO",
+        "STATE": "ID",
+        "ZIP": "83544",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 476-4521",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CLEARWATER",
+        "COUNTYFIPS": "16035",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.clearwatercounty.org/departments/sheriff/index.php",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.clearwatercounty.org/departments/sheriff/index.php",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00177650315215,
+        "SHAPE_Length": 0.0017765031521461536,
+        "SHAPE_Area": 1.83793853626e-7
+    },
+    "id": 3959
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c72"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2412405,
+                    46.2334652
+                ],
+                [
+                    -116.2412376,
+                    46.2331767
+                ],
+                [
+                    -116.2411573,
+                    46.2331708
+                ],
+                [
+                    -116.2411602,
+                    46.2330429
+                ],
+                [
+                    -116.2407438,
+                    46.2330429
+                ],
+                [
+                    -116.2407528,
+                    46.2334563
+                ],
+                [
+                    -116.2412405,
+                    46.2334652
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005066",
+        "NAME": "LEWIS COUNTY JAIL",
+        "ADDRESS": "510 OAK STREET",
+        "CITY": "NEZPERCE",
+        "STATE": "ID",
+        "ZIP": "83543",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 937-2447",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "LEWIS",
+        "COUNTYFIPS": "16061",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://lewiscountyid.us/Elected-Officials/Sheriff",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://lewiscountyid.us/sheriff.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 18,
+        "SHAPE_Leng": 0.00181478683152,
+        "SHAPE_Length": 0.0018147868315173793,
+        "SHAPE_Area": 1.94541601166e-7
+    },
+    "id": 3903
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86cb8"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.1236304,
+                    45.926446
+                ],
+                [
+                    -116.1237018,
+                    45.9262747
+                ],
+                [
+                    -116.1230308,
+                    45.9261271
+                ],
+                [
+                    -116.1229737,
+                    45.9262937
+                ],
+                [
+                    -116.1236304,
+                    45.926446
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005064",
+        "NAME": "IDAHO COUNTY JAIL",
+        "ADDRESS": "320 WEST MAIN STREET",
+        "CITY": "GRANGEVILLE",
+        "STATE": "ID",
+        "ZIP": "83530",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 983-1100",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 18,
+        "COUNTY": "IDAHO",
+        "COUNTYFIPS": "16049",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://idahocounty.org/sheriffs-office/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://idahocounty.org/sheriffs-office/jail-division/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 11,
+        "SHAPE_Leng": 0.00172286809198,
+        "SHAPE_Length": 0.0017228680919823595,
+        "SHAPE_Area": 1.21785927195e-7
+    },
+    "id": 3979
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871f7"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.4281294,
+                    46.0802616
+                ],
+                [
+                    -116.4282673,
+                    46.0801321
+                ],
+                [
+                    -116.4284094,
+                    46.0801362
+                ],
+                [
+                    -116.4288985,
+                    46.07976
+                ],
+                [
+                    -116.4287731,
+                    46.079342
+                ],
+                [
+                    -116.4289914,
+                    46.0793161
+                ],
+                [
+                    -116.4289946,
+                    46.078878
+                ],
+                [
+                    -116.4291326,
+                    46.0788237
+                ],
+                [
+                    -116.4295339,
+                    46.0785143
+                ],
+                [
+                    -116.4291284,
+                    46.078134
+                ],
+                [
+                    -116.4281503,
+                    46.0782468
+                ],
+                [
+                    -116.4281264,
+                    46.0782956
+                ],
+                [
+                    -116.4275901,
+                    46.0784684
+                ],
+                [
+                    -116.4275525,
+                    46.0782426
+                ],
+                [
+                    -116.4270049,
+                    46.0782803
+                ],
+                [
+                    -116.4271252,
+                    46.079793
+                ],
+                [
+                    -116.4272014,
+                    46.0803745
+                ],
+                [
+                    -116.4276779,
+                    46.0803202
+                ],
+                [
+                    -116.4277657,
+                    46.0803243
+                ],
+                [
+                    -116.4277824,
+                    46.0804498
+                ],
+                [
+                    -116.4280165,
+                    46.0804414
+                ],
+                [
+                    -116.4279956,
+                    46.0802784
+                ],
+                [
+                    -116.4281294,
+                    46.0802616
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001173",
+        "NAME": "NORTH IDAHO CORRECTIONAL INSTITUTION",
+        "ADDRESS": "236 RADAR RD",
+        "CITY": "COTTONWOOD",
+        "STATE": "ID",
+        "ZIP": "83522",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 962-3276",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 409,
+        "COUNTY": "IDAHO",
+        "COUNTYFIPS": "16049",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/locations/prisons/north_idaho_correctional_institution",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 414,
+        "SHAPE_Leng": 0.00896524414018,
+        "SHAPE_Length": 0.008965244140176668,
+        "SHAPE_Area": 0.00000383124502621
+    },
+    "id": 5280
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871d5"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -117.0357119,
+                    46.3651678
+                ],
+                [
+                    -117.0363577,
+                    46.3651817
+                ],
+                [
+                    -117.036367,
+                    46.3646189
+                ],
+                [
+                    -117.0353567,
+                    46.364605
+                ],
+                [
+                    -117.0347709,
+                    46.3649003
+                ],
+                [
+                    -117.0347617,
+                    46.3650294
+                ],
+                [
+                    -117.0348586,
+                    46.3650479
+                ],
+                [
+                    -117.0348632,
+                    46.3651678
+                ],
+                [
+                    -117.0348424,
+                    46.365322
+                ],
+                [
+                    -117.0349693,
+                    46.3653293
+                ],
+                [
+                    -117.0357488,
+                    46.3653616
+                ],
+                [
+                    -117.0357765,
+                    46.3653062
+                ],
+                [
+                    -117.0357673,
+                    46.3651909
+                ],
+                [
+                    -117.0357119,
+                    46.3651678
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004335",
+        "NAME": "IDAHO JUVENILE CORRECTIONS CENTER - LEWISTON",
+        "ADDRESS": "140 SOUTHPORT AVE",
+        "CITY": "LEWISTON",
+        "STATE": "ID",
+        "ZIP": "83501",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 799-3332",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "NEZ PERCE",
+        "COUNTYFIPS": "16069",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.idjc.idaho.gov/jcc-lewiston",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.idjc.idaho.gov/state-facilities-3",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 36,
+        "SHAPE_Leng": 0.00452375098643,
+        "SHAPE_Length": 0.004523750986426885,
+        "SHAPE_Area": 9.55916342989e-7
+    },
+    "id": 5290
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871ca"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.9660031,
+                    44.2477332
+                ],
+                [
+                    -116.9660008,
+                    44.2472366
+                ],
+                [
+                    -116.9653927,
+                    44.2472299
+                ],
+                [
+                    -116.9653784,
+                    44.2477332
+                ],
+                [
+                    -116.9660031,
+                    44.2477332
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005072",
+        "NAME": "WASHINGTON COUNTY JAIL",
+        "ADDRESS": "262 EAST COURT STREET",
+        "CITY": "WEISER",
+        "STATE": "ID",
+        "ZIP": "83672",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 414-2124",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 41,
+        "COUNTY": "WASHINGTON",
+        "COUNTYFIPS": "16087",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://co.washington.id.us/227/Sheriff",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://law.co.washington.id.us/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00223278236026,
+        "SHAPE_Length": 0.002232782360263543,
+        "SHAPE_Area": 3.08143176806e-7
+    },
+    "id": 5272
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871e0"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.4347827,
+                    44.7375502
+                ],
+                [
+                    -116.4347922,
+                    44.7372551
+                ],
+                [
+                    -116.434007,
+                    44.7372837
+                ],
+                [
+                    -116.4340118,
+                    44.7373551
+                ],
+                [
+                    -116.4339547,
+                    44.7374169
+                ],
+                [
+                    -116.4338167,
+                    44.7374169
+                ],
+                [
+                    -116.4338072,
+                    44.737574
+                ],
+                [
+                    -116.434007,
+                    44.737574
+                ],
+                [
+                    -116.434007,
+                    44.7376739
+                ],
+                [
+                    -116.4341641,
+                    44.7376787
+                ],
+                [
+                    -116.4341641,
+                    44.7375978
+                ],
+                [
+                    -116.4343068,
+                    44.7376025
+                ],
+                [
+                    -116.4343068,
+                    44.7375454
+                ],
+                [
+                    -116.4347827,
+                    44.7375502
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005068",
+        "NAME": "ADAMS COUNTY JAIL",
+        "ADDRESS": "201 INDUSTRIAL AVENUE",
+        "CITY": "COUNCIL",
+        "STATE": "ID",
+        "ZIP": "83612",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 253-4168",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "ADAMS",
+        "COUNTYFIPS": "16003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://co.adams.id.us/departments/sheriff/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://co.adams.id.us/departments/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00274572517812,
+        "SHAPE_Length": 0.0027457251781173547,
+        "SHAPE_Area": 2.76818114164e-7
+    },
+    "id": 5303
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c26"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.0443378,
+                    44.5169052
+                ],
+                [
+                    -116.0440166,
+                    44.5165662
+                ],
+                [
+                    -116.043734,
+                    44.5167059
+                ],
+                [
+                    -116.0437191,
+                    44.5168695
+                ],
+                [
+                    -116.0440522,
+                    44.5172503
+                ],
+                [
+                    -116.0442664,
+                    44.5171402
+                ],
+                [
+                    -116.0441623,
+                    44.5170212
+                ],
+                [
+                    -116.044201,
+                    44.5169915
+                ],
+                [
+                    -116.0442545,
+                    44.5170004
+                ],
+                [
+                    -116.0442604,
+                    44.5169796
+                ],
+                [
+                    -116.0443199,
+                    44.5169915
+                ],
+                [
+                    -116.0443378,
+                    44.5169052
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005069",
+        "NAME": "VALLEY COUNTY JAIL",
+        "ADDRESS": "107 WEST SPRING STREET",
+        "CITY": "CASCADE",
+        "STATE": "ID",
+        "ZIP": "83611",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 382-7168",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "VALLEY",
+        "COUNTYFIPS": "16085",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.co.valley.id.us/departments/sheriffs-office/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.co.valley.id.us/departments/sheriffs-office/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00212478789495,
+        "SHAPE_Length": 0.0021247878949516965,
+        "SHAPE_Area": 2.42441560999e-7
+    },
+    "id": 3809
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871c2"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.089756,
+                    44.8974969
+                ],
+                [
+                    -116.0897411,
+                    44.8972025
+                ],
+                [
+                    -116.0894377,
+                    44.8971995
+                ],
+                [
+                    -116.0894407,
+                    44.8972471
+                ],
+                [
+                    -116.0893307,
+                    44.8972471
+                ],
+                [
+                    -116.0893307,
+                    44.8973185
+                ],
+                [
+                    -116.0893782,
+                    44.8973155
+                ],
+                [
+                    -116.0893872,
+                    44.8974969
+                ],
+                [
+                    -116.089756,
+                    44.8974969
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005070",
+        "NAME": "VALLEY COUNTY JUVENILE DETENTION CENTER",
+        "ADDRESS": "550 DEINHARD LANE",
+        "CITY": "MCCALL",
+        "STATE": "ID",
+        "ZIP": "83638",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 634-5652 EXT 222",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "VALLEY",
+        "COUNTYFIPS": "16085",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.co.valley.id.us/departments/sheriffs-office/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.co.valley.id.us/departments/courts/court-services-judicial/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 8,
+        "SHAPE_Leng": 0.00142549692522,
+        "SHAPE_Length": 0.0014254969252159814,
+        "SHAPE_Area": 1.09282162175e-7
+    },
+    "id": 5271
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86cb3"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.2310393,
+                    44.5045386
+                ],
+                [
+                    -114.2310073,
+                    44.504397
+                ],
+                [
+                    -114.2306742,
+                    44.5044256
+                ],
+                [
+                    -114.2307028,
+                    44.5046207
+                ],
+                [
+                    -114.2309312,
+                    44.5046064
+                ],
+                [
+                    -114.2309226,
+                    44.5045499
+                ],
+                [
+                    -114.2310393,
+                    44.5045386
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005071",
+        "NAME": "CUSTER COUNTY JAIL",
+        "ADDRESS": "130 S. 9TH STREET",
+        "CITY": "CHALLIS",
+        "STATE": "ID",
+        "ZIP": "83226",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 879-2232",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CUSTER",
+        "COUNTYFIPS": "16037",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.co.custer.id.us/departments/legislative/sheriff/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.co.custer.id.us/departments/legislative/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00107985096735,
+        "SHAPE_Length": 0.0010798509673450082,
+        "SHAPE_Area": 6.16689783328e-8
+    },
+    "id": 3974
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871a8"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.8489157,
+                    42.7826617
+                ],
+                [
+                    -112.8488086,
+                    42.782867
+                ],
+                [
+                    -112.8488681,
+                    42.7828878
+                ],
+                [
+                    -112.8487432,
+                    42.7831257
+                ],
+                [
+                    -112.849037,
+                    42.7832161
+                ],
+                [
+                    -112.8492693,
+                    42.7827602
+                ],
+                [
+                    -112.8489157,
+                    42.7826617
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005085",
+        "NAME": "POWER COUNTY JAIL",
+        "ADDRESS": "550 GIFFORD STREET",
+        "CITY": "AMERICAN FALLS",
+        "STATE": "ID",
+        "ZIP": "83211",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 226-2311",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 14,
+        "COUNTY": "POWER",
+        "COUNTYFIPS": "16077",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.co.power.id.us/sheriffs-office/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.co.power.id.us/sheriffs-office/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00174935870753,
+        "SHAPE_Length": 0.0017493587075347204,
+        "SHAPE_Area": 1.66758804402e-7
+    },
+    "id": 5245
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8718c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -113.677698,
+                    42.6195065
+                ],
+                [
+                    -113.6777159,
+                    42.6186856
+                ],
+                [
+                    -113.6774779,
+                    42.6186856
+                ],
+                [
+                    -113.6774779,
+                    42.6195035
+                ],
+                [
+                    -113.677698,
+                    42.6195065
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005083",
+        "NAME": "MINI-CASSIA JUVENILE DETENTION CENTER",
+        "ADDRESS": "718 H STREET",
+        "CITY": "RUPERT",
+        "STATE": "ID",
+        "ZIP": "83350",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 436-7199",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "MINIDOKA",
+        "COUNTYFIPS": "16067",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.minidoka.id.us/219/Juvenile-Detention",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.minidoka.id.us/219/Juvenile-Detention",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 16,
+        "SHAPE_Leng": 0.00209711404745,
+        "SHAPE_Length": 0.002097114047446759,
+        "SHAPE_Area": 1.87680898356e-7
+    },
+    "id": 5217
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86cac"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -113.7915785,
+                    42.5354247
+                ],
+                [
+                    -113.7915976,
+                    42.5348251
+                ],
+                [
+                    -113.7912454,
+                    42.5348251
+                ],
+                [
+                    -113.7912454,
+                    42.5347014
+                ],
+                [
+                    -113.7908076,
+                    42.5347109
+                ],
+                [
+                    -113.7907886,
+                    42.5354152
+                ],
+                [
+                    -113.7915785,
+                    42.5354247
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005088",
+        "NAME": "MINI-CASSIA CRIMINAL JUSTICE CENTER",
+        "ADDRESS": "1415 ALBION AVENUE",
+        "CITY": "BURLEY",
+        "STATE": "ID",
+        "ZIP": "83318",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 878-1000",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 176,
+        "COUNTY": "CASSIA",
+        "COUNTYFIPS": "16031",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.cassiacounty.org/mini-cassia-criminal-justice-center",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.cassiacounty.org/sheriff",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00300835807049,
+        "SHAPE_Length": 0.0030083580704904087,
+        "SHAPE_Area": 5.23198606572e-7
+    },
+    "id": 3964
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86ca2"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.3028771,
+                    43.5053108
+                ],
+                [
+                    -114.3029048,
+                    43.5051969
+                ],
+                [
+                    -114.3026215,
+                    43.5049321
+                ],
+                [
+                    -114.3024251,
+                    43.5049187
+                ],
+                [
+                    -114.3016916,
+                    43.5041838
+                ],
+                [
+                    -114.3010603,
+                    43.5045041
+                ],
+                [
+                    -114.3018694,
+                    43.5052548
+                ],
+                [
+                    -114.3021535,
+                    43.505551
+                ],
+                [
+                    -114.3022551,
+                    43.5054894
+                ],
+                [
+                    -114.3023814,
+                    43.5055233
+                ],
+                [
+                    -114.3028771,
+                    43.5053108
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004336",
+        "NAME": "BLAINE COUNTY JAIL",
+        "ADDRESS": "1650 AVIATION DR",
+        "CITY": "HAILEY",
+        "STATE": "ID",
+        "ZIP": "83333",
+        "ZIP4": "4940",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 56,
+        "COUNTY": "BLAINE",
+        "COUNTYFIPS": "16013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.blainesheriff.com/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.blainesheriff.com/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 90,
+        "SHAPE_Leng": 0.00475119570656,
+        "SHAPE_Length": 0.004751195706561899,
+        "SHAPE_Area": 0.0000010871972823
+    },
+    "id": 3922
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86cb2"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.67353,
+                    43.137318
+                ],
+                [
+                    -115.6735426,
+                    43.1361583
+                ],
+                [
+                    -115.6727013,
+                    43.1361582
+                ],
+                [
+                    -115.6727085,
+                    43.1365793
+                ],
+                [
+                    -115.6728798,
+                    43.1365793
+                ],
+                [
+                    -115.6728798,
+                    43.1369327
+                ],
+                [
+                    -115.6727723,
+                    43.1369321
+                ],
+                [
+                    -115.6727781,
+                    43.1371305
+                ],
+                [
+                    -115.6729405,
+                    43.1373253
+                ],
+                [
+                    -115.67353,
+                    43.137318
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005078",
+        "NAME": "ELMORE COUNTY DETENTION CENTER",
+        "ADDRESS": "2255 EAST 8TH NORTH",
+        "CITY": "MOUNTAIN HOME",
+        "STATE": "ID",
+        "ZIP": "83647",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 587-9103",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 121,
+        "COUNTY": "ELMORE",
+        "COUNTYFIPS": "16039",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://elmorecounty.org/elmore-county-sheriff/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.elmorecounty.org/Sheriff/default.html",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 127,
+        "SHAPE_Leng": 0.0040961189613,
+        "SHAPE_Length": 0.004096118961303685,
+        "SHAPE_Area": 8.62370335942e-7
+    },
+    "id": 3973
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87392"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.7117899,
+                    42.9382663
+                ],
+                [
+                    -114.7117911,
+                    42.9380119
+                ],
+                [
+                    -114.7111772,
+                    42.9380215
+                ],
+                [
+                    -114.7111705,
+                    42.9382634
+                ],
+                [
+                    -114.7117899,
+                    42.9382663
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005084",
+        "NAME": "GOODING COUNTY JAIL",
+        "ADDRESS": "624 MAIN STREET",
+        "CITY": "GOODING",
+        "STATE": "ID",
+        "ZIP": "83330",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 934-4421",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "GOODING",
+        "COUNTYFIPS": "16047",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.goodingcounty.org/157/Sheriff",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.goodingcounty.org/157/Sheriff",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00172969563743,
+        "SHAPE_Length": 0.0017296956374290111,
+        "SHAPE_Area": 1.5299013082e-7
+    },
+    "id": 5731
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86cba"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.5032723,
+                    42.701691
+                ],
+                [
+                    -114.5032545,
+                    42.7015006
+                ],
+                [
+                    -114.5031117,
+                    42.7015066
+                ],
+                [
+                    -114.5031058,
+                    42.7012865
+                ],
+                [
+                    -114.5029461,
+                    42.7012846
+                ],
+                [
+                    -114.5029095,
+                    42.7012389
+                ],
+                [
+                    -114.5028976,
+                    42.701114
+                ],
+                [
+                    -114.5027251,
+                    42.701114
+                ],
+                [
+                    -114.5027191,
+                    42.7011735
+                ],
+                [
+                    -114.5026477,
+                    42.7011794
+                ],
+                [
+                    -114.5026358,
+                    42.7014471
+                ],
+                [
+                    -114.5025882,
+                    42.7014531
+                ],
+                [
+                    -114.5025882,
+                    42.7014768
+                ],
+                [
+                    -114.5025287,
+                    42.7014768
+                ],
+                [
+                    -114.5025347,
+                    42.7018814
+                ],
+                [
+                    -114.5031355,
+                    42.7018873
+                ],
+                [
+                    -114.5031355,
+                    42.701691
+                ],
+                [
+                    -114.5032723,
+                    42.701691
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005087",
+        "NAME": "JEROME COUNTY JAIL",
+        "ADDRESS": "2151 S TIGER DRIVE",
+        "CITY": "JEROME",
+        "STATE": "ID",
+        "ZIP": "83338",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 595-3390",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "JEROME",
+        "COUNTYFIPS": "16053",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.jeromecountyid.us/190/Sheriff",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.jeromecountyid.us/190/Sheriff",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0029396041305,
+        "SHAPE_Length": 0.002939604130500569,
+        "SHAPE_Area": 4.01105930459e-7
+    },
+    "id": 3980
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871d2"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.4804244,
+                    42.5405093
+                ],
+                [
+                    -114.4805771,
+                    42.5404122
+                ],
+                [
+                    -114.4803967,
+                    42.5402641
+                ],
+                [
+                    -114.4804661,
+                    42.5401855
+                ],
+                [
+                    -114.4804614,
+                    42.5401115
+                ],
+                [
+                    -114.4806927,
+                    42.5399218
+                ],
+                [
+                    -114.4801469,
+                    42.5398987
+                ],
+                [
+                    -114.4800497,
+                    42.5400375
+                ],
+                [
+                    -114.479948,
+                    42.5400837
+                ],
+                [
+                    -114.4800775,
+                    42.5401947
+                ],
+                [
+                    -114.4800081,
+                    42.5402641
+                ],
+                [
+                    -114.4801423,
+                    42.5403752
+                ],
+                [
+                    -114.4802024,
+                    42.5403196
+                ],
+                [
+                    -114.4804244,
+                    42.5405093
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001189",
+        "NAME": "TWIN FALLS COMMUNITY WORK CENTER",
+        "ADDRESS": "616 WASHINGTON ST S",
+        "CITY": "TWIN FALLS",
+        "STATE": "ID",
+        "ZIP": "83301",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "TWIN FALLS",
+        "COUNTYFIPS": "16083",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/story/front_news/idoc_to_close_twin_falls_community_work_center",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.idoc.idaho.gov/content/locations/community_work_centers/twin_falls",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 84,
+        "SHAPE_Leng": 0.00253671758881,
+        "SHAPE_Length": 0.0025367175888114176,
+        "SHAPE_Area": 2.31933958694e-7
+    },
+    "id": 5288
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871bc"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.4667165,
+                    42.5596824
+                ],
+                [
+                    -114.4667986,
+                    42.5596157
+                ],
+                [
+                    -114.4669172,
+                    42.5596972
+                ],
+                [
+                    -114.4670592,
+                    42.5595872
+                ],
+                [
+                    -114.4671531,
+                    42.5596467
+                ],
+                [
+                    -114.4672293,
+                    42.5595883
+                ],
+                [
+                    -114.4671472,
+                    42.5595111
+                ],
+                [
+                    -114.4672959,
+                    42.5594004
+                ],
+                [
+                    -114.4670128,
+                    42.5591922
+                ],
+                [
+                    -114.4670577,
+                    42.5591065
+                ],
+                [
+                    -114.4668792,
+                    42.5590422
+                ],
+                [
+                    -114.4665793,
+                    42.5591217
+                ],
+                [
+                    -114.466399,
+                    42.5592549
+                ],
+                [
+                    -114.4661998,
+                    42.5593892
+                ],
+                [
+                    -114.4662561,
+                    42.5594278
+                ],
+                [
+                    -114.4661776,
+                    42.5594896
+                ],
+                [
+                    -114.4662632,
+                    42.5595515
+                ],
+                [
+                    -114.4664702,
+                    42.5594052
+                ],
+                [
+                    -114.4665833,
+                    42.5595122
+                ],
+                [
+                    -114.4665416,
+                    42.5595527
+                ],
+                [
+                    -114.4667165,
+                    42.5596824
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001190",
+        "NAME": "TWIN FALLS ADULT DETENTION FACILITY",
+        "ADDRESS": "504 GOODING ST N",
+        "CITY": "TWIN FALLS",
+        "STATE": "ID",
+        "ZIP": "83301",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 734-9090",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 242,
+        "COUNTY": "TWIN FALLS",
+        "COUNTYFIPS": "16083",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://twinfallscoso.com/resources/warrants-arrest/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://twinfallscoso.com/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 224,
+        "SHAPE_Leng": 0.00330586221372,
+        "SHAPE_Length": 0.003305862213722749,
+        "SHAPE_Area": 4.05065922531e-7
+    },
+    "id": 5265
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871bb"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.4331547,
+                    42.5439327
+                ],
+                [
+                    -114.4331517,
+                    42.543555
+                ],
+                [
+                    -114.4329495,
+                    42.543552
+                ],
+                [
+                    -114.4329495,
+                    42.5434806
+                ],
+                [
+                    -114.4324884,
+                    42.5434777
+                ],
+                [
+                    -114.4325033,
+                    42.5439238
+                ],
+                [
+                    -114.4331547,
+                    42.5439327
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005691",
+        "NAME": "SNAKE RIVER JUVENILE DETENTION CENTER",
+        "ADDRESS": "2515 WRIGHT AVENUE",
+        "CITY": "TWIN FALLS",
+        "STATE": "ID",
+        "ZIP": "83301",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 736-2588",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 16,
+        "COUNTY": "TWIN FALLS",
+        "COUNTYFIPS": "16083",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://twinfallscounty.org/juvenile/detention/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.twinfallscounty.org/juvenile/detention/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 27,
+        "SHAPE_Leng": 0.00221027607059,
+        "SHAPE_Length": 0.002210276070591716,
+        "SHAPE_Area": 2.80017562231e-7
+    },
+    "id": 5266
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87198"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.5507735,
+                    43.2168128
+                ],
+                [
+                    -116.5511632,
+                    43.2170835
+                ],
+                [
+                    -116.5512405,
+                    43.217027
+                ],
+                [
+                    -116.5512613,
+                    43.2170508
+                ],
+                [
+                    -116.5513981,
+                    43.2169556
+                ],
+                [
+                    -116.5512702,
+                    43.2168515
+                ],
+                [
+                    -116.551291,
+                    43.2168128
+                ],
+                [
+                    -116.5512762,
+                    43.216798
+                ],
+                [
+                    -116.5513922,
+                    43.2167117
+                ],
+                [
+                    -116.5513714,
+                    43.2166909
+                ],
+                [
+                    -116.5513922,
+                    43.216676
+                ],
+                [
+                    -116.5513029,
+                    43.2166106
+                ],
+                [
+                    -116.5513,
+                    43.2165541
+                ],
+                [
+                    -116.5512256,
+                    43.2165541
+                ],
+                [
+                    -116.5512923,
+                    43.2165017
+                ],
+                [
+                    -116.551178,
+                    43.2164232
+                ],
+                [
+                    -116.5511364,
+                    43.216453
+                ],
+                [
+                    -116.5510174,
+                    43.2163667
+                ],
+                [
+                    -116.5507467,
+                    43.216566
+                ],
+                [
+                    -116.5509044,
+                    43.216682
+                ],
+                [
+                    -116.5508046,
+                    43.2167641
+                ],
+                [
+                    -116.5508181,
+                    43.2167801
+                ],
+                [
+                    -116.5507735,
+                    43.2168128
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005082",
+        "NAME": "OWYHEE COUNTY JAIL",
+        "ADDRESS": "20381 STATE HIGHWAY 78",
+        "CITY": "MURPHY",
+        "STATE": "ID",
+        "ZIP": "83650",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 495-1154",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "OWYHEE",
+        "COUNTYFIPS": "16073",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://owyheecounty.net/departments/sheriff/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://owyheecounty.net/departments/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0025983974974,
+        "SHAPE_Length": 0.002598397497398764,
+        "SHAPE_Area": 2.76838572917e-7
+    },
+    "id": 5228
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871d6"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.5341029,
+                    43.5994461
+                ],
+                [
+                    -116.5339948,
+                    43.5994042
+                ],
+                [
+                    -116.5340891,
+                    43.5993127
+                ],
+                [
+                    -116.5340063,
+                    43.5992621
+                ],
+                [
+                    -116.5339005,
+                    43.5993127
+                ],
+                [
+                    -116.5338039,
+                    43.5992667
+                ],
+                [
+                    -116.5336567,
+                    43.5993311
+                ],
+                [
+                    -116.5332614,
+                    43.5990577
+                ],
+                [
+                    -116.5335232,
+                    43.5988066
+                ],
+                [
+                    -116.5333089,
+                    43.5987259
+                ],
+                [
+                    -116.5310066,
+                    43.5987744
+                ],
+                [
+                    -116.5309928,
+                    43.5990366
+                ],
+                [
+                    -116.5323823,
+                    43.5999522
+                ],
+                [
+                    -116.5327597,
+                    43.5998702
+                ],
+                [
+                    -116.5329113,
+                    43.599966
+                ],
+                [
+                    -116.5330791,
+                    43.5998303
+                ],
+                [
+                    -116.533376,
+                    43.6000396
+                ],
+                [
+                    -116.5341029,
+                    43.5994461
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001178",
+        "NAME": "IDAHO JUVENILE CORRECTIONS CENTER - NAMPA",
+        "ADDRESS": "1650 11TH AVE N",
+        "CITY": "NAMPA",
+        "STATE": "ID",
+        "ZIP": "83687",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 465-8443",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CANYON",
+        "COUNTYFIPS": "16027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.idjc.idaho.gov/?s=+NAMPA",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.idjc.idaho.gov/state-facilities-3",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 84,
+        "SHAPE_Leng": 0.00811428205191,
+        "SHAPE_Length": 0.008114282051911496,
+        "SHAPE_Area": 0.00000253208999109
+    },
+    "id": 5291
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c31"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.5348511,
+                    43.5991158
+                ],
+                [
+                    -116.5349956,
+                    43.5989821
+                ],
+                [
+                    -116.5349368,
+                    43.5989291
+                ],
+                [
+                    -116.5351431,
+                    43.59877
+                ],
+                [
+                    -116.5350494,
+                    43.5986896
+                ],
+                [
+                    -116.534813,
+                    43.5988754
+                ],
+                [
+                    -116.5347543,
+                    43.5988061
+                ],
+                [
+                    -116.5346852,
+                    43.5988601
+                ],
+                [
+                    -116.5345091,
+                    43.5987351
+                ],
+                [
+                    -116.5344241,
+                    43.5988224
+                ],
+                [
+                    -116.5346666,
+                    43.5989821
+                ],
+                [
+                    -116.5345606,
+                    43.5990832
+                ],
+                [
+                    -116.5346617,
+                    43.5991441
+                ],
+                [
+                    -116.5347866,
+                    43.5990513
+                ],
+                [
+                    -116.5348511,
+                    43.5991158
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001177",
+        "NAME": "NAMPA COMMUNITY REENTRY CENTER",
+        "ADDRESS": "1640 11TH AVE N",
+        "CITY": "NAMPA",
+        "STATE": "ID",
+        "ZIP": "83687",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 465-8490",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 96,
+        "COUNTY": "CANYON",
+        "COUNTYFIPS": "16027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/locations/community_reentry_centers/nampa",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 108,
+        "SHAPE_Leng": 0.002278872119,
+        "SHAPE_Length": 0.0022788721190048953,
+        "SHAPE_Area": 1.32653581854e-7
+    },
+    "id": 3819
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871fc"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2726801,
+                    43.6066698
+                ],
+                [
+                    -116.2727383,
+                    43.6065319
+                ],
+                [
+                    -116.272772,
+                    43.6065472
+                ],
+                [
+                    -116.2727843,
+                    43.6065181
+                ],
+                [
+                    -116.2729237,
+                    43.6064936
+                ],
+                [
+                    -116.2728655,
+                    43.6064491
+                ],
+                [
+                    -116.2723721,
+                    43.6063189
+                ],
+                [
+                    -116.2723277,
+                    43.6064154
+                ],
+                [
+                    -116.272271,
+                    43.6064078
+                ],
+                [
+                    -116.2722051,
+                    43.6065457
+                ],
+                [
+                    -116.2726801,
+                    43.6066698
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004338",
+        "NAME": "ADA COUNTY WORK RELEASE CENTER",
+        "ADDRESS": "7255 BARRISTER DR",
+        "CITY": "BOISE",
+        "STATE": "ID",
+        "ZIP": "83704",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 577-3461",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 74,
+        "COUNTY": "ADA",
+        "COUNTYFIPS": "16001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://adacounty.id.gov/sheriff/services/alternative-sentencing/work-release/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://adasheriff.org/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00175057917934,
+        "SHAPE_Length": 0.0017505791793360564,
+        "SHAPE_Area": 1.30913954816e-7
+    },
+    "id": 5297
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c76"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2706078,
+                    43.608856
+                ],
+                [
+                    -116.2703775,
+                    43.6086537
+                ],
+                [
+                    -116.2705659,
+                    43.6085002
+                ],
+                [
+                    -116.2705589,
+                    43.6083187
+                ],
+                [
+                    -116.2704822,
+                    43.608249
+                ],
+                [
+                    -116.2704752,
+                    43.6080327
+                ],
+                [
+                    -116.2707403,
+                    43.6080676
+                ],
+                [
+                    -116.2707543,
+                    43.6079908
+                ],
+                [
+                    -116.2708729,
+                    43.6079768
+                ],
+                [
+                    -116.2708938,
+                    43.6080048
+                ],
+                [
+                    -116.2712288,
+                    43.6079908
+                ],
+                [
+                    -116.2712218,
+                    43.6076489
+                ],
+                [
+                    -116.2714241,
+                    43.6076489
+                ],
+                [
+                    -116.2714241,
+                    43.6074326
+                ],
+                [
+                    -116.2711311,
+                    43.6074326
+                ],
+                [
+                    -116.2711499,
+                    43.6075753
+                ],
+                [
+                    -116.2705616,
+                    43.6075841
+                ],
+                [
+                    -116.2705729,
+                    43.6077815
+                ],
+                [
+                    -116.2704822,
+                    43.6077745
+                ],
+                [
+                    -116.2704752,
+                    43.6078233
+                ],
+                [
+                    -116.2704298,
+                    43.6078313
+                ],
+                [
+                    -116.2704232,
+                    43.6076087
+                ],
+                [
+                    -116.2702603,
+                    43.6076087
+                ],
+                [
+                    -116.2702269,
+                    43.6072871
+                ],
+                [
+                    -116.269993,
+                    43.6072662
+                ],
+                [
+                    -116.2699804,
+                    43.6072119
+                ],
+                [
+                    -116.269663,
+                    43.6072203
+                ],
+                [
+                    -116.2696588,
+                    43.6073205
+                ],
+                [
+                    -116.2691033,
+                    43.6073122
+                ],
+                [
+                    -116.2691368,
+                    43.6079553
+                ],
+                [
+                    -116.2689112,
+                    43.6079512
+                ],
+                [
+                    -116.2689197,
+                    43.6091993
+                ],
+                [
+                    -116.2704473,
+                    43.6092468
+                ],
+                [
+                    -116.2708729,
+                    43.6090095
+                ],
+                [
+                    -116.2706706,
+                    43.6088211
+                ],
+                [
+                    -116.2706078,
+                    43.608856
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001947",
+        "NAME": "ADA COUNTY JAIL",
+        "ADDRESS": "7200 BARRISTER DR",
+        "CITY": "BOISE",
+        "STATE": "ID",
+        "ZIP": "83704",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 577-3000",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 980,
+        "COUNTY": "ADA",
+        "COUNTYFIPS": "16001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://adacounty.id.gov/sheriff/about-us/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://adasheriff.org/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 1224,
+        "SHAPE_Leng": 0.0105109408184,
+        "SHAPE_Length": 0.0105109408183844,
+        "SHAPE_Area": 0.00000328844891517
+    },
+    "id": 3907
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871fa"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2598594,
+                    43.6109319
+                ],
+                [
+                    -116.260563,
+                    43.6109592
+                ],
+                [
+                    -116.2605698,
+                    43.6106096
+                ],
+                [
+                    -116.2603247,
+                    43.6106074
+                ],
+                [
+                    -116.2603111,
+                    43.6106618
+                ],
+                [
+                    -116.2602112,
+                    43.6106596
+                ],
+                [
+                    -116.2601885,
+                    43.6106323
+                ],
+                [
+                    -116.2600546,
+                    43.6106233
+                ],
+                [
+                    -116.2600569,
+                    43.6105438
+                ],
+                [
+                    -116.2601046,
+                    43.6105415
+                ],
+                [
+                    -116.2601159,
+                    43.6102851
+                ],
+                [
+                    -116.2599275,
+                    43.6102851
+                ],
+                [
+                    -116.2599139,
+                    43.6104962
+                ],
+                [
+                    -116.2598435,
+                    43.6104962
+                ],
+                [
+                    -116.2598435,
+                    43.6105574
+                ],
+                [
+                    -116.2597074,
+                    43.6105529
+                ],
+                [
+                    -116.2597074,
+                    43.610419
+                ],
+                [
+                    -116.2596257,
+                    43.6103759
+                ],
+                [
+                    -116.2594985,
+                    43.6103736
+                ],
+                [
+                    -116.2595008,
+                    43.6101693
+                ],
+                [
+                    -116.2586633,
+                    43.6101648
+                ],
+                [
+                    -116.258661,
+                    43.6109751
+                ],
+                [
+                    -116.2587632,
+                    43.6109819
+                ],
+                [
+                    -116.2598594,
+                    43.6110046
+                ],
+                [
+                    -116.2598594,
+                    43.6109319
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004337",
+        "NAME": "ADA COUNTY JUVENILE DETENTION CENTER",
+        "ADDRESS": "6300 W DENTON ST",
+        "CITY": "BOISE",
+        "STATE": "ID",
+        "ZIP": "83704",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 577-4948",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 36,
+        "COUNTY": "ADA",
+        "COUNTYFIPS": "16001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://adacounty.id.gov/juvenilecourt/juvenile-detention-center/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://adacounty.id.gov/Juvenile-Court/Detention-Services",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 71,
+        "SHAPE_Leng": 0.00615331927472,
+        "SHAPE_Length": 0.006153319274717132,
+        "SHAPE_Area": 0.00000117854565487
+    },
+    "id": 5296
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871ce"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2316675,
+                    43.4821102
+                ],
+                [
+                    -116.2319063,
+                    43.4819304
+                ],
+                [
+                    -116.2319232,
+                    43.4816411
+                ],
+                [
+                    -116.231381,
+                    43.4812562
+                ],
+                [
+                    -116.2309904,
+                    43.4812309
+                ],
+                [
+                    -116.2307938,
+                    43.4812618
+                ],
+                [
+                    -116.2306477,
+                    43.4811916
+                ],
+                [
+                    -116.2304595,
+                    43.481391
+                ],
+                [
+                    -116.2299987,
+                    43.4813967
+                ],
+                [
+                    -116.2299369,
+                    43.4813517
+                ],
+                [
+                    -116.2296391,
+                    43.4813686
+                ],
+                [
+                    -116.2296419,
+                    43.4817647
+                ],
+                [
+                    -116.2300465,
+                    43.48179
+                ],
+                [
+                    -116.2300465,
+                    43.4816916
+                ],
+                [
+                    -116.2307292,
+                    43.4816383
+                ],
+                [
+                    -116.2308416,
+                    43.4817197
+                ],
+                [
+                    -116.2304145,
+                    43.4820316
+                ],
+                [
+                    -116.2305157,
+                    43.4821187
+                ],
+                [
+                    -116.2310719,
+                    43.481804
+                ],
+                [
+                    -116.2314287,
+                    43.4820597
+                ],
+                [
+                    -116.2316675,
+                    43.4821102
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001185",
+        "NAME": "SOUTH BOISE WOMEN'S CORRECTIONAL CENTER",
+        "ADDRESS": "13200 S PLEASANT VALLEY RD",
+        "CITY": "KUNA",
+        "STATE": "ID",
+        "ZIP": "83634",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 334-2731",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 293,
+        "COUNTY": "ADA",
+        "COUNTYFIPS": "16001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/locations/prisons/south_boise_womens_correctional_center",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 306,
+        "SHAPE_Leng": 0.00682364654886,
+        "SHAPE_Length": 0.006823646548856074,
+        "SHAPE_Area": 0.00000117775380691
+    },
+    "id": 5279
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871d8"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2398311,
+                    43.4741183
+                ],
+                [
+                    -116.2405663,
+                    43.4743753
+                ],
+                [
+                    -116.240909,
+                    43.4739684
+                ],
+                [
+                    -116.2409505,
+                    43.4735818
+                ],
+                [
+                    -116.2404199,
+                    43.4735627
+                ],
+                [
+                    -116.2396228,
+                    43.4735199
+                ],
+                [
+                    -116.2395895,
+                    43.4738982
+                ],
+                [
+                    -116.2398311,
+                    43.4741183
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004339",
+        "NAME": "TREASURE VALLEY COMMUNITY REENTRY CENTER",
+        "ADDRESS": "14195 S PLEASANT VALLEY RD",
+        "CITY": "KUNA",
+        "STATE": "ID",
+        "ZIP": "83634",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 334-2241",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 102,
+        "COUNTY": "ADA",
+        "COUNTYFIPS": "16001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/about_us/research_statistics, https://www.idoc.idaho.gov/content/locations",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 108,
+        "SHAPE_Leng": 0.00373555666598,
+        "SHAPE_Length": 0.003735556665975854,
+        "SHAPE_Area": 8.3531913017e-7
+    },
+    "id": 5275
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c4e"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2387768,
+                    43.4732517
+                ],
+                [
+                    -116.2390519,
+                    43.4729713
+                ],
+                [
+                    -116.2390165,
+                    43.4693961
+                ],
+                [
+                    -116.2386507,
+                    43.4691601
+                ],
+                [
+                    -116.2361138,
+                    43.4691719
+                ],
+                [
+                    -116.2361964,
+                    43.4732309
+                ],
+                [
+                    -116.2387768,
+                    43.4732517
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001183",
+        "NAME": "IDAHO STATE CORRECTIONAL CENTER",
+        "ADDRESS": "14601 S PLEASANT VALLEY RD",
+        "CITY": "KUNA",
+        "STATE": "ID",
+        "ZIP": "83634",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 331-2760",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 2181,
+        "COUNTY": "ADA",
+        "COUNTYFIPS": "16001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/locations/prisons/iscc_icc",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "CLOSE",
+        "CAPACITY": 2170,
+        "SHAPE_Leng": 0.0135807446757,
+        "SHAPE_Length": 0.013580744675702625,
+        "SHAPE_Area": 0.0000116569049743
+    },
+    "id": 3851
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c25"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2364283,
+                    43.4612323
+                ],
+                [
+                    -116.2352219,
+                    43.4612109
+                ],
+                [
+                    -116.2352148,
+                    43.4617177
+                ],
+                [
+                    -116.2349578,
+                    43.4617391
+                ],
+                [
+                    -116.2349364,
+                    43.4620818
+                ],
+                [
+                    -116.2352148,
+                    43.4620818
+                ],
+                [
+                    -116.2352148,
+                    43.4624387
+                ],
+                [
+                    -116.236414,
+                    43.462453
+                ],
+                [
+                    -116.236414,
+                    43.4623245
+                ],
+                [
+                    -116.2364283,
+                    43.4612323
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006544",
+        "NAME": "IDAHO CORRECTIONAL ALTERNATIVE PLACEMENT PROGRAM FACILITY",
+        "ADDRESS": "15505 SOUTH PLEASANT VALLEY ROAD",
+        "CITY": "KUNA",
+        "STATE": "ID",
+        "ZIP": "83634",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 336-9959",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 431,
+        "COUNTY": "ADA",
+        "COUNTYFIPS": "16001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/careers/current_openings/steps_to_becoming_a_correctional_officer/correctional_officer_training",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.mtctrains.com/corrections/#locations",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 442,
+        "SHAPE_Leng": 0.00537004291357,
+        "SHAPE_Length": 0.005370042913573406,
+        "SHAPE_Area": 0.0000015688494646
+    },
+    "id": 3834
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871db"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2216554,
+                    43.4805527
+                ],
+                [
+                    -116.2214095,
+                    43.4802071
+                ],
+                [
+                    -116.2218159,
+                    43.4797748
+                ],
+                [
+                    -116.2216889,
+                    43.4792803
+                ],
+                [
+                    -116.2220926,
+                    43.4789447
+                ],
+                [
+                    -116.2207783,
+                    43.4781924
+                ],
+                [
+                    -116.2209686,
+                    43.4779849
+                ],
+                [
+                    -116.2207739,
+                    43.4777538
+                ],
+                [
+                    -116.2209945,
+                    43.477518
+                ],
+                [
+                    -116.2200001,
+                    43.4769992
+                ],
+                [
+                    -116.2194986,
+                    43.4775093
+                ],
+                [
+                    -116.2180017,
+                    43.476716
+                ],
+                [
+                    -116.2162474,
+                    43.4768954
+                ],
+                [
+                    -116.2149504,
+                    43.4781665
+                ],
+                [
+                    -116.2152011,
+                    43.4793597
+                ],
+                [
+                    -116.2161522,
+                    43.4799062
+                ],
+                [
+                    -116.2214268,
+                    43.4826282
+                ],
+                [
+                    -116.2219802,
+                    43.482585
+                ],
+                [
+                    -116.2228474,
+                    43.4816543
+                ],
+                [
+                    -116.222667,
+                    43.481137
+                ],
+                [
+                    -116.2216554,
+                    43.4805527
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001181",
+        "NAME": "IDAHO STATE CORRECTIONAL INSTITUTION",
+        "ADDRESS": "13500 S PLEASANT VALLEY RD",
+        "CITY": "KUNA",
+        "STATE": "ID",
+        "ZIP": "83634",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 336-0740",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 1473,
+        "COUNTY": "ADA",
+        "COUNTYFIPS": "16001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/locations/prisons/idaho_state_correctional_institution",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 1446,
+        "SHAPE_Leng": 0.0233794969131,
+        "SHAPE_Length": 0.023379496913098236,
+        "SHAPE_Area": 0.0000264460046687
+    },
+    "id": 5278
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871da"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2251265,
+                    43.4794556
+                ],
+                [
+                    -116.2250549,
+                    43.4789653
+                ],
+                [
+                    -116.2248015,
+                    43.4788275
+                ],
+                [
+                    -116.2242781,
+                    43.4788826
+                ],
+                [
+                    -116.2239274,
+                    43.4787309
+                ],
+                [
+                    -116.2238705,
+                    43.4783318
+                ],
+                [
+                    -116.2236171,
+                    43.4781995
+                ],
+                [
+                    -116.2232425,
+                    43.4781334
+                ],
+                [
+                    -116.222934,
+                    43.4782712
+                ],
+                [
+                    -116.221992,
+                    43.4791966
+                ],
+                [
+                    -116.2218873,
+                    43.4794776
+                ],
+                [
+                    -116.2220581,
+                    43.4803976
+                ],
+                [
+                    -116.2222646,
+                    43.4806508
+                ],
+                [
+                    -116.2229486,
+                    43.4810129
+                ],
+                [
+                    -116.2236281,
+                    43.4809374
+                ],
+                [
+                    -116.2251265,
+                    43.4794556
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001182",
+        "NAME": "IDAHO MAXIMUM SECURITY INSTITUTION",
+        "ADDRESS": "13400 S PLEASANT VALLEY RD",
+        "CITY": "KUNA",
+        "STATE": "ID",
+        "ZIP": "83634",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 338-1635",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 553,
+        "COUNTY": "ADA",
+        "COUNTYFIPS": "16001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/locations/prisons/idaho_maximum_security_institution",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 549,
+        "SHAPE_Leng": 0.00954731388164,
+        "SHAPE_Length": 0.009547313881642927,
+        "SHAPE_Area": 0.00000600406574301
+    },
+    "id": 5277
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87394"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.2116698,
+                    43.4775439
+                ],
+                [
+                    -116.2136758,
+                    43.4754514
+                ],
+                [
+                    -116.2116438,
+                    43.47431
+                ],
+                [
+                    -116.2095945,
+                    43.4763679
+                ],
+                [
+                    -116.2116698,
+                    43.4775439
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001180",
+        "NAME": "SOUTH IDAHO CORRECTIONAL INSTITUTION",
+        "ADDRESS": "13900 PLEASANT VALLEY RD",
+        "CITY": "KUNA",
+        "STATE": "ID",
+        "ZIP": "83634",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 336-1260",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 590,
+        "COUNTY": "ADA",
+        "COUNTYFIPS": "16001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/locations/prisons/south_idaho_correctional_institution",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 702,
+        "SHAPE_Leng": 0.0105189101442,
+        "SHAPE_Length": 0.010518910144208419,
+        "SHAPE_Area": 0.00000661113095424
+    },
+    "id": 5730
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871c8"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.164293,
+                    43.60381
+                ],
+                [
+                    -116.1644073,
+                    43.6033324
+                ],
+                [
+                    -116.1641854,
+                    43.6024446
+                ],
+                [
+                    -116.1636944,
+                    43.6025253
+                ],
+                [
+                    -116.1632572,
+                    43.6029961
+                ],
+                [
+                    -116.1631698,
+                    43.6034871
+                ],
+                [
+                    -116.1642858,
+                    43.6037945
+                ],
+                [
+                    -116.164293,
+                    43.60381
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001184",
+        "NAME": "EAST BOISE COMMUNITY REENTRY CENTER",
+        "ADDRESS": "2366 OLD PENITENTIARY RD",
+        "CITY": "BOISE",
+        "STATE": "ID",
+        "ZIP": "83712",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 334-3448",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 109,
+        "COUNTY": "ADA",
+        "COUNTYFIPS": "16001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.idoc.idaho.gov/content/locations/community_reentry_centers/east_boise",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.idoc.idaho.gov/content/locations",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 148,
+        "SHAPE_Leng": 0.00421959737695,
+        "SHAPE_Length": 0.004219597376952726,
+        "SHAPE_Area": 0.00000114737167695
+    },
+    "id": 5274
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c73"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.4955776,
+                    43.8750707
+                ],
+                [
+                    -116.4957109,
+                    43.8749565
+                ],
+                [
+                    -116.4957109,
+                    43.874809
+                ],
+                [
+                    -116.4955919,
+                    43.8747233
+                ],
+                [
+                    -116.4950446,
+                    43.8747233
+                ],
+                [
+                    -116.4950494,
+                    43.8748423
+                ],
+                [
+                    -116.4951588,
+                    43.8748471
+                ],
+                [
+                    -116.4951588,
+                    43.8748899
+                ],
+                [
+                    -116.495097,
+                    43.8748946
+                ],
+                [
+                    -116.4951065,
+                    43.8750612
+                ],
+                [
+                    -116.4955776,
+                    43.8750707
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005075",
+        "NAME": "GEM COUNTY JAIL",
+        "ADDRESS": "410 EAST 1ST STREET",
+        "CITY": "EMMETT",
+        "STATE": "ID",
+        "ZIP": "83617",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 365-4484",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "GEM",
+        "COUNTYFIPS": "16045",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.gemcounty.org/sheriff/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.gemcounty.org/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0019884734145,
+        "SHAPE_Length": 0.0019884734145033957,
+        "SHAPE_Area": 2.00553256944e-7
+    },
+    "id": 3904
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86707"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.8395357,
+                    43.8231973
+                ],
+                [
+                    -115.8397784,
+                    43.8230902
+                ],
+                [
+                    -115.8396999,
+                    43.822976
+                ],
+                [
+                    -115.839807,
+                    43.8229189
+                ],
+                [
+                    -115.8397142,
+                    43.8227547
+                ],
+                [
+                    -115.839857,
+                    43.822669
+                ],
+                [
+                    -115.8397784,
+                    43.8225619
+                ],
+                [
+                    -115.8395,
+                    43.8226619
+                ],
+                [
+                    -115.8395786,
+                    43.8227904
+                ],
+                [
+                    -115.8394358,
+                    43.8229046
+                ],
+                [
+                    -115.8395143,
+                    43.8230117
+                ],
+                [
+                    -115.8394144,
+                    43.8230402
+                ],
+                [
+                    -115.8395357,
+                    43.8231973
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10007000",
+        "NAME": "BOISE COUNTY JAIL",
+        "ADDRESS": "3851 ID-21",
+        "CITY": "IDAHO CITY",
+        "STATE": "ID",
+        "ZIP": "83631",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 392-4411",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "BOISE",
+        "COUNTYFIPS": "16015",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://boisecounty.us/sheriffs-office/",
+        "SOURCEDATE": "2020/04/22 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2020/04/30 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0020774933819,
+        "SHAPE_Length": 0.002077493381899148,
+        "SHAPE_Area": 1.47697454967e-7
+    },
+    "id": 2484
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871b7"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.9301193,
+                    44.0776799
+                ],
+                [
+                    -116.9301104,
+                    44.0774092
+                ],
+                [
+                    -116.929575,
+                    44.0773973
+                ],
+                [
+                    -116.929578,
+                    44.077357
+                ],
+                [
+                    -116.9293132,
+                    44.0773586
+                ],
+                [
+                    -116.9293251,
+                    44.077082
+                ],
+                [
+                    -116.9291526,
+                    44.077085
+                ],
+                [
+                    -116.9291556,
+                    44.0773884
+                ],
+                [
+                    -116.9290694,
+                    44.0773914
+                ],
+                [
+                    -116.9290723,
+                    44.0778494
+                ],
+                [
+                    -116.9293341,
+                    44.0778554
+                ],
+                [
+                    -116.9293341,
+                    44.077784
+                ],
+                [
+                    -116.9295214,
+                    44.077778
+                ],
+                [
+                    -116.9295214,
+                    44.0777988
+                ],
+                [
+                    -116.9295928,
+                    44.0777988
+                ],
+                [
+                    -116.9295958,
+                    44.077784
+                ],
+                [
+                    -116.9298486,
+                    44.0777869
+                ],
+                [
+                    -116.9298486,
+                    44.0777007
+                ],
+                [
+                    -116.9298873,
+                    44.0777007
+                ],
+                [
+                    -116.9298903,
+                    44.0776799
+                ],
+                [
+                    -116.9301193,
+                    44.0776799
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005077",
+        "NAME": "PAYETTE COUNTY JAIL",
+        "ADDRESS": "1130 3RD AVENUE NORTH",
+        "CITY": "PAYETTE",
+        "STATE": "ID",
+        "ZIP": "83661",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 642-6006",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "PAYETTE",
+        "COUNTYFIPS": "16075",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.payettecounty.org/elected-officials/sheriff/detention-facility",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.payettecounty.org/elected-officials/sheriff",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 72,
+        "SHAPE_Leng": 0.00366448913832,
+        "SHAPE_Length": 0.003664489138318447,
+        "SHAPE_Area": 4.55035816579e-7
+    },
+    "id": 5235
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c97"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.6811815,
+                    43.6661695
+                ],
+                [
+                    -116.6815562,
+                    43.6658757
+                ],
+                [
+                    -116.6810863,
+                    43.6655869
+                ],
+                [
+                    -116.6810398,
+                    43.6654869
+                ],
+                [
+                    -116.681196,
+                    43.6653772
+                ],
+                [
+                    -116.6815085,
+                    43.6656
+                ],
+                [
+                    -116.6814589,
+                    43.6656501
+                ],
+                [
+                    -116.6817013,
+                    43.6658183
+                ],
+                [
+                    -116.6823363,
+                    43.6653207
+                ],
+                [
+                    -116.6821003,
+                    43.6651578
+                ],
+                [
+                    -116.6820238,
+                    43.6651877
+                ],
+                [
+                    -116.681709,
+                    43.6649721
+                ],
+                [
+                    -116.6817445,
+                    43.6649184
+                ],
+                [
+                    -116.6814985,
+                    43.6647489
+                ],
+                [
+                    -116.6808817,
+                    43.6652343
+                ],
+                [
+                    -116.6810709,
+                    43.6653842
+                ],
+                [
+                    -116.6809424,
+                    43.6654877
+                ],
+                [
+                    -116.680739,
+                    43.6653521
+                ],
+                [
+                    -116.6805028,
+                    43.6655492
+                ],
+                [
+                    -116.6807439,
+                    43.6657329
+                ],
+                [
+                    -116.6807425,
+                    43.6658625
+                ],
+                [
+                    -116.6811815,
+                    43.6661695
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001946",
+        "NAME": "CANYON COUNTY DETENTION CENTER",
+        "ADDRESS": "219 N 12TH AVE",
+        "CITY": "CALDWELL",
+        "STATE": "ID",
+        "ZIP": "83605",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 454-6603",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 424,
+        "COUNTY": "CANYON",
+        "COUNTYFIPS": "16027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.canyonco.org/elected-officials/sheriff/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "https://www.canyonco.org/elected-officials/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 361,
+        "SHAPE_Leng": 0.00671043470972,
+        "SHAPE_Length": 0.0067104347097244514,
+        "SHAPE_Area": 0.00000110269976444
+    },
+    "id": 3947
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86c98"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.6805555,
+                    43.6646873
+                ],
+                [
+                    -116.6803154,
+                    43.6644656
+                ],
+                [
+                    -116.6803653,
+                    43.6644191
+                ],
+                [
+                    -116.6801392,
+                    43.6642495
+                ],
+                [
+                    -116.6799099,
+                    43.6644195
+                ],
+                [
+                    -116.6800332,
+                    43.6644885
+                ],
+                [
+                    -116.6798217,
+                    43.6646553
+                ],
+                [
+                    -116.6798998,
+                    43.6647183
+                ],
+                [
+                    -116.679727,
+                    43.6647216
+                ],
+                [
+                    -116.679727,
+                    43.6648246
+                ],
+                [
+                    -116.6795807,
+                    43.6647382
+                ],
+                [
+                    -116.6789774,
+                    43.6651694
+                ],
+                [
+                    -116.6796173,
+                    43.6655394
+                ],
+                [
+                    -116.6799098,
+                    43.6653366
+                ],
+                [
+                    -116.679707,
+                    43.6651937
+                ],
+                [
+                    -116.6798467,
+                    43.6650673
+                ],
+                [
+                    -116.6798965,
+                    43.6651072
+                ],
+                [
+                    -116.6799929,
+                    43.6650274
+                ],
+                [
+                    -116.6799789,
+                    43.664977
+                ],
+                [
+                    -116.6800594,
+                    43.6650341
+                ],
+                [
+                    -116.6801691,
+                    43.6649709
+                ],
+                [
+                    -116.6802589,
+                    43.6650574
+                ],
+                [
+                    -116.6803653,
+                    43.6649709
+                ],
+                [
+                    -116.680342,
+                    43.6649377
+                ],
+                [
+                    -116.6804314,
+                    43.6648508
+                ],
+                [
+                    -116.6804118,
+                    43.664818
+                ],
+                [
+                    -116.6805555,
+                    43.6646873
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001179",
+        "NAME": "SOUTHWEST IDAHO JUVENILE DETENTION CENTER",
+        "ADDRESS": "222 N 12TH AVE",
+        "CITY": "CALDWELL",
+        "STATE": "ID",
+        "ZIP": "83605",
+        "ZIP4": "-999",
+        "TELEPHONE": "(208) 454-7240",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 45,
+        "COUNTY": "CANYON",
+        "COUNTYFIPS": "16027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.canyonco.org/elected-officials/commissioners/juvenile-probation/",
+        "SOURCEDATE": "2019/11/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/07 00:00:00",
+        "WEBSITE": "http://www.canyonco.org/elected-officials/commissioners/juvenile-detention/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 90,
+        "SHAPE_Leng": 0.00531911676542,
+        "SHAPE_Length": 0.005319116765423263,
+        "SHAPE_Area": 7.76966321581e-7
+    },
+    "id": 3948
+}
+]

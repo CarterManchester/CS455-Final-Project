@@ -1,0 +1,1564 @@
+[
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86949"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -72.9912983,
+                    43.6102858
+                ],
+                [
+                    -72.9912087,
+                    43.6099958
+                ],
+                [
+                    -72.9912529,
+                    43.6099866
+                ],
+                [
+                    -72.9909246,
+                    43.6089349
+                ],
+                [
+                    -72.9902964,
+                    43.6090348
+                ],
+                [
+                    -72.9905677,
+                    43.6098629
+                ],
+                [
+                    -72.9903821,
+                    43.6098914
+                ],
+                [
+                    -72.9904963,
+                    43.6102793
+                ],
+                [
+                    -72.9905748,
+                    43.6103578
+                ],
+                [
+                    -72.9906795,
+                    43.6103721
+                ],
+                [
+                    -72.9912983,
+                    43.6102858
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000095",
+        "NAME": "MARBLE VALLEY REGIONAL CORRECTIONAL FACILITY",
+        "ADDRESS": "167 STATE ST",
+        "CITY": "RUTLAND",
+        "STATE": "VT",
+        "ZIP": "05701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 786-5830",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 130,
+        "COUNTY": "RUTLAND",
+        "COUNTYFIPS": "50021",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.vermont.gov/custody-supervision/facilities/mvrcf",
+        "SOURCEDATE": "2016/12/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://doc.vermont.gov/custody-supervision/facilities/mvrcf",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 118,
+        "SHAPE_Leng": 0.00439151865615,
+        "SHAPE_Length": 0.004391518656148316,
+        "SHAPE_Area": 9.51576966639e-7
+    },
+    "id": 3095
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb8695a"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -72.9772567,
+                    43.5953654
+                ],
+                [
+                    -72.9764001,
+                    43.5955795
+                ],
+                [
+                    -72.9765786,
+                    43.5960554
+                ],
+                [
+                    -72.977459,
+                    43.5958294
+                ],
+                [
+                    -72.9772567,
+                    43.5953654
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006666",
+        "NAME": "HOWARD CENTER - PARK STREET PROGRAM",
+        "ADDRESS": "77 PARK STREET",
+        "CITY": "RUTLAND",
+        "STATE": "VT",
+        "ZIP": "05701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(212) 677-5093",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 7,
+        "COUNTY": "RUTLAND",
+        "COUNTYFIPS": "50021",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://dcf.vermont.gov/sites/dcf/files/Youth/PREA-HCTH-2018.pdf",
+        "SOURCEDATE": "2015/06/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://howardcenter.org/all-programs/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 12,
+        "SHAPE_Leng": 0.0028063405504,
+        "SHAPE_Length": 0.002806340550402387,
+        "SHAPE_Area": 4.50045474454e-7
+    },
+    "id": 3121
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb8695e"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -73.1990141,
+                    42.8823975
+                ],
+                [
+                    -73.1990141,
+                    42.8822726
+                ],
+                [
+                    -73.1987821,
+                    42.8822607
+                ],
+                [
+                    -73.1987642,
+                    42.8823856
+                ],
+                [
+                    -73.1990141,
+                    42.8823975
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006667",
+        "NAME": "204 DEPOT STREET PROGRAM",
+        "ADDRESS": "204 DEPOT STREET",
+        "CITY": "BENNINGTON",
+        "STATE": "VT",
+        "ZIP": "05201",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 442-6156",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 8,
+        "COUNTY": "BENNINGTON",
+        "COUNTYFIPS": "50003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://dcf.vermont.gov/sites/dcf/files/Youth/PREA-204D-2017.pdf",
+        "SOURCEDATE": "2017/06/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://seallinc.org/204-depot-program/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 8,
+        "SHAPE_Leng": 0.000733539272294,
+        "SHAPE_Length": 0.0007335392722938237,
+        "SHAPE_Area": 3.02022491742e-8
+    },
+    "id": 3124
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86940"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -72.4384645,
+                    43.2713047
+                ],
+                [
+                    -72.4391319,
+                    43.2709549
+                ],
+                [
+                    -72.4395924,
+                    43.2689098
+                ],
+                [
+                    -72.4393639,
+                    43.2686207
+                ],
+                [
+                    -72.438998,
+                    43.2685778
+                ],
+                [
+                    -72.4390106,
+                    43.2685065
+                ],
+                [
+                    -72.4382896,
+                    43.2684172
+                ],
+                [
+                    -72.4382682,
+                    43.268535
+                ],
+                [
+                    -72.438029,
+                    43.2684993
+                ],
+                [
+                    -72.4380754,
+                    43.2683137
+                ],
+                [
+                    -72.4378898,
+                    43.2682887
+                ],
+                [
+                    -72.437847,
+                    43.2684636
+                ],
+                [
+                    -72.4372153,
+                    43.2683851
+                ],
+                [
+                    -72.4370083,
+                    43.2684851
+                ],
+                [
+                    -72.4365371,
+                    43.2706516
+                ],
+                [
+                    -72.4370154,
+                    43.2711405
+                ],
+                [
+                    -72.4384645,
+                    43.2713047
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000094",
+        "NAME": "SOUTHERN STATE CORRECTIONAL FACILITY",
+        "ADDRESS": "700 CHARLESTOWN RD",
+        "CITY": "SPRINGFIELD",
+        "STATE": "VT",
+        "ZIP": "05156",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 885-9800",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 313,
+        "COUNTY": "WINDSOR",
+        "COUNTYFIPS": "50027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.vermont.gov/custody-supervision/facilities/sscfs-folder/facts-and-information-about-the-southern-state-correctional-facility/",
+        "SOURCEDATE": "2016/12/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://doc.vermont.gov/custody-supervision/facilities/sscfs-folder/facts-and-information-about-the-southern-state-correctional-facility/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 370,
+        "SHAPE_Leng": 0.0105317509142,
+        "SHAPE_Length": 0.010531750914245696,
+        "SHAPE_Area": 0.00000702932223954
+    },
+    "id": 3084
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86956"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -72.4262873,
+                    43.5009969
+                ],
+                [
+                    -72.4263444,
+                    43.501236
+                ],
+                [
+                    -72.4264265,
+                    43.5012289
+                ],
+                [
+                    -72.4264657,
+                    43.500979
+                ],
+                [
+                    -72.4264514,
+                    43.5007577
+                ],
+                [
+                    -72.4263979,
+                    43.5007542
+                ],
+                [
+                    -72.4264978,
+                    43.5002402
+                ],
+                [
+                    -72.426994,
+                    43.4995835
+                ],
+                [
+                    -72.4272973,
+                    43.4992694
+                ],
+                [
+                    -72.4277364,
+                    43.4988911
+                ],
+                [
+                    -72.4277506,
+                    43.4988125
+                ],
+                [
+                    -72.4273616,
+                    43.4987126
+                ],
+                [
+                    -72.4269083,
+                    43.4986376
+                ],
+                [
+                    -72.4264907,
+                    43.4985056
+                ],
+                [
+                    -72.4262266,
+                    43.4984877
+                ],
+                [
+                    -72.4239494,
+                    43.4991159
+                ],
+                [
+                    -72.4238566,
+                    43.4991909
+                ],
+                [
+                    -72.4239851,
+                    43.4998191
+                ],
+                [
+                    -72.4239066,
+                    43.5000261
+                ],
+                [
+                    -72.4240101,
+                    43.5003866
+                ],
+                [
+                    -72.4237353,
+                    43.5006757
+                ],
+                [
+                    -72.423671,
+                    43.5009469
+                ],
+                [
+                    -72.4238138,
+                    43.501236
+                ],
+                [
+                    -72.4241065,
+                    43.5015323
+                ],
+                [
+                    -72.424392,
+                    43.5017
+                ],
+                [
+                    -72.4251987,
+                    43.5017821
+                ],
+                [
+                    -72.4251951,
+                    43.501882
+                ],
+                [
+                    -72.4255163,
+                    43.5018999
+                ],
+                [
+                    -72.4255199,
+                    43.5017928
+                ],
+                [
+                    -72.425759,
+                    43.5018071
+                ],
+                [
+                    -72.426223,
+                    43.5009969
+                ],
+                [
+                    -72.4262873,
+                    43.5009969
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000093",
+        "NAME": "SOUTHEAST STATE CORRECTIONAL FACILITY - WINDSOR",
+        "ADDRESS": "546 STATE FARM RD",
+        "CITY": "WINDSOR",
+        "STATE": "VT",
+        "ZIP": "05089",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 674-6717",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "WINDSOR",
+        "COUNTYFIPS": "50027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.vnews.com/Only-staff-remains-and-Windsor-prison-closes-down-208-years-after-the-first-prison-opened-on-State-Street-in-1809-13432197",
+        "SOURCEDATE": "2017/11/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://www.vnews.com/Only-staff-remains-and-Windsor-prison-closes-down-208-years-after-the-first-prison-opened-on-State-Street-in-1809-13432197",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 106,
+        "SHAPE_Leng": 0.0129070259218,
+        "SHAPE_Length": 0.01290702592177461,
+        "SHAPE_Area": 0.00000839465827932
+    },
+    "id": 3116
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb866bf"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -72.028562,
+                    44.39506
+                ],
+                [
+                    -72.0283736,
+                    44.3944376
+                ],
+                [
+                    -72.0275189,
+                    44.3945937
+                ],
+                [
+                    -72.0275999,
+                    44.394811
+                ],
+                [
+                    -72.0274675,
+                    44.3948354
+                ],
+                [
+                    -72.0275379,
+                    44.3950124
+                ],
+                [
+                    -72.0276659,
+                    44.3949882
+                ],
+                [
+                    -72.0276806,
+                    44.3950277
+                ],
+                [
+                    -72.0276293,
+                    44.395041
+                ],
+                [
+                    -72.0276521,
+                    44.3951152
+                ],
+                [
+                    -72.0277099,
+                    44.3951062
+                ],
+                [
+                    -72.027753,
+                    44.3952218
+                ],
+                [
+                    -72.028562,
+                    44.39506
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000092",
+        "NAME": "NORTHEAST CORRECTIONAL COMPLEX WORK CAMP",
+        "ADDRESS": "1266 US ROUTE 5",
+        "CITY": "ST. JOHNSBURY",
+        "STATE": "VT",
+        "ZIP": "05819",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 748-8151",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 55,
+        "COUNTY": "CALEDONIA",
+        "COUNTYFIPS": "50005",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.vermont.gov/custody-supervision/facilities/ccwc",
+        "SOURCEDATE": "2016/12/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://doc.vermont.gov/custody-supervision/facilities/ccwc",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 112,
+        "SHAPE_Leng": 0.00338640410061,
+        "SHAPE_Length": 0.0033864041006102475,
+        "SHAPE_Area": 5.82950669419e-7
+    },
+    "id": 2443
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86954"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -72.0285047,
+                    44.3967943
+                ],
+                [
+                    -72.0285656,
+                    44.396621
+                ],
+                [
+                    -72.0286474,
+                    44.396562
+                ],
+                [
+                    -72.0282458,
+                    44.3962936
+                ],
+                [
+                    -72.028221,
+                    44.3961451
+                ],
+                [
+                    -72.0283467,
+                    44.3960481
+                ],
+                [
+                    -72.0277471,
+                    44.395635
+                ],
+                [
+                    -72.0276823,
+                    44.3956826
+                ],
+                [
+                    -72.0275262,
+                    44.3955722
+                ],
+                [
+                    -72.027412,
+                    44.3956597
+                ],
+                [
+                    -72.0273435,
+                    44.3956121
+                ],
+                [
+                    -72.0270713,
+                    44.3958253
+                ],
+                [
+                    -72.0275624,
+                    44.3961566
+                ],
+                [
+                    -72.0273073,
+                    44.3963393
+                ],
+                [
+                    -72.0276557,
+                    44.3965792
+                ],
+                [
+                    -72.0277385,
+                    44.3965168
+                ],
+                [
+                    -72.02832,
+                    44.3969351
+                ],
+                [
+                    -72.0285047,
+                    44.3967943
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001918",
+        "NAME": "NORTHEAST CORRECTIONAL COMPLEX",
+        "ADDRESS": "1270 US ROUTE 5",
+        "CITY": "ST. JOHNSBURY",
+        "STATE": "VT",
+        "ZIP": "05819",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 748-8151",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 118,
+        "COUNTY": "CALEDONIA",
+        "COUNTYFIPS": "50005",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.vermont.gov/custody-supervision/facilities/ccwc",
+        "SOURCEDATE": "2016/12/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://doc.vermont.gov/custody-supervision/facilities/ccwc",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 109,
+        "SHAPE_Leng": 0.0050310276864,
+        "SHAPE_Length": 0.005031027686402646,
+        "SHAPE_Area": 9.66548655662e-7
+    },
+    "id": 3115
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861b9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -72.4457773,
+                    43.9883664
+                ],
+                [
+                    -72.445746,
+                    43.9883576
+                ],
+                [
+                    -72.4457687,
+                    43.988297
+                ],
+                [
+                    -72.4456792,
+                    43.9882732
+                ],
+                [
+                    -72.4457078,
+                    43.988217
+                ],
+                [
+                    -72.4455622,
+                    43.9881798
+                ],
+                [
+                    -72.4455326,
+                    43.9882522
+                ],
+                [
+                    -72.4455108,
+                    43.9882465
+                ],
+                [
+                    -72.4454927,
+                    43.9882989
+                ],
+                [
+                    -72.4455574,
+                    43.9883179
+                ],
+                [
+                    -72.4455288,
+                    43.9883864
+                ],
+                [
+                    -72.4456183,
+                    43.9884083
+                ],
+                [
+                    -72.4456478,
+                    43.9883426
+                ],
+                [
+                    -72.4456811,
+                    43.9883493
+                ],
+                [
+                    -72.4456688,
+                    43.9883798
+                ],
+                [
+                    -72.445762,
+                    43.9884083
+                ],
+                [
+                    -72.4457773,
+                    43.9883664
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001917",
+        "NAME": "ORANGE COUNTY JAIL",
+        "ADDRESS": "11 STATE HWY 113",
+        "CITY": "CHELSEA",
+        "STATE": "VT",
+        "ZIP": "05038",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 685-4875",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "ORANGE",
+        "COUNTYFIPS": "50017",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://orangecountysheriff.com/sheriff.php",
+        "SOURCEDATE": "2016/03/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://orangecountysheriff.com/sheriff.php",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00107411757739,
+        "SHAPE_Length": 0.001074117577389385,
+        "SHAPE_Area": 3.81518141042e-8
+    },
+    "id": 1168
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85ecb"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -73.163101,
+                    44.0114365
+                ],
+                [
+                    -73.1633003,
+                    44.011731
+                ],
+                [
+                    -73.1638922,
+                    44.0115436
+                ],
+                [
+                    -73.1636959,
+                    44.0112432
+                ],
+                [
+                    -73.163101,
+                    44.0114365
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001916",
+        "NAME": "ADDISON COUNTY JAIL",
+        "ADDRESS": "35 COURT ST",
+        "CITY": "MIDDLEBURY",
+        "STATE": "VT",
+        "ZIP": "05753",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 388-2981",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 0,
+        "COUNTY": "ADDISON",
+        "COUNTYFIPS": "50001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.vtsheriffs.com/addison-county.php?id=1",
+        "SOURCEDATE": "2020/02/25 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://www.vtsheriffs.com/addison-county.php?id=1",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 22,
+        "SHAPE_Leng": 0.00196075069944,
+        "SHAPE_Length": 0.001960750699437891,
+        "SHAPE_Area": 2.14141480751e-7
+    },
+    "id": 418
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86957"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -72.7544086,
+                    44.3336383
+                ],
+                [
+                    -72.7557506,
+                    44.3329197
+                ],
+                [
+                    -72.7559219,
+                    44.3325818
+                ],
+                [
+                    -72.7556506,
+                    44.3319917
+                ],
+                [
+                    -72.7546037,
+                    44.332144
+                ],
+                [
+                    -72.7544895,
+                    44.3319298
+                ],
+                [
+                    -72.7552985,
+                    44.3315682
+                ],
+                [
+                    -72.7554888,
+                    44.3315682
+                ],
+                [
+                    -72.7558733,
+                    44.3313788
+                ],
+                [
+                    -72.7552366,
+                    44.3307258
+                ],
+                [
+                    -72.753866,
+                    44.3302975
+                ],
+                [
+                    -72.7532855,
+                    44.3301119
+                ],
+                [
+                    -72.7528619,
+                    44.3298407
+                ],
+                [
+                    -72.7523955,
+                    44.3296027
+                ],
+                [
+                    -72.7519482,
+                    44.3294742
+                ],
+                [
+                    -72.7505681,
+                    44.329893
+                ],
+                [
+                    -72.750097,
+                    44.3301595
+                ],
+                [
+                    -72.7515199,
+                    44.3316586
+                ],
+                [
+                    -72.7522099,
+                    44.3313826
+                ],
+                [
+                    -72.7526668,
+                    44.3315872
+                ],
+                [
+                    -72.7534996,
+                    44.3323867
+                ],
+                [
+                    -72.7532474,
+                    44.3328245
+                ],
+                [
+                    -72.7542848,
+                    44.3339
+                ],
+                [
+                    -72.7545264,
+                    44.3337696
+                ],
+                [
+                    -72.7544086,
+                    44.3336383
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004976",
+        "NAME": "DALE CORRECTIONAL FACILITY",
+        "ADDRESS": "103 S MAIN ST",
+        "CITY": "WATERBURY",
+        "STATE": "VT",
+        "ZIP": "05676",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "WASHINGTON",
+        "COUNTYFIPS": "50023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.vtcng.com/stowereporter/archives/waterbury-worries-about-closing-dale-prison-facility/article_e7e0e92a-de6f-5aa6-94e8-dd7b8752f8e4.html",
+        "SOURCEDATE": "2008/05/02 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://www.vtcng.com/stowereporter/archives/waterbury-worries-about-closing-dale-prison-facility/article_e7e0e92a-de6f-5aa6-94e8-dd7b8752f8e4.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0187049965428,
+        "SHAPE_Length": 0.01870499654283154,
+        "SHAPE_Area": 0.0000114109699948
+    },
+    "id": 3117
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86962"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -72.1919017,
+                    44.9077233
+                ],
+                [
+                    -72.1920409,
+                    44.9075198
+                ],
+                [
+                    -72.1917804,
+                    44.9059565
+                ],
+                [
+                    -72.1919231,
+                    44.9054568
+                ],
+                [
+                    -72.191502,
+                    44.904743
+                ],
+                [
+                    -72.1910344,
+                    44.904818
+                ],
+                [
+                    -72.1892748,
+                    44.9065562
+                ],
+                [
+                    -72.1896246,
+                    44.9067275
+                ],
+                [
+                    -72.1895461,
+                    44.9068096
+                ],
+                [
+                    -72.1897531,
+                    44.9069238
+                ],
+                [
+                    -72.1896389,
+                    44.9070416
+                ],
+                [
+                    -72.1899529,
+                    44.9072057
+                ],
+                [
+                    -72.1901421,
+                    44.9069916
+                ],
+                [
+                    -72.1917268,
+                    44.9078018
+                ],
+                [
+                    -72.1919017,
+                    44.9077233
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001913",
+        "NAME": "NORTHERN STATE CORRECTIONAL FACILITY",
+        "ADDRESS": "2559 GLEN RD",
+        "CITY": "NEWPORT",
+        "STATE": "VT",
+        "ZIP": "05855",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 334-3364",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 414,
+        "COUNTY": "ORLEANS",
+        "COUNTYFIPS": "50019",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.vermont.gov/custody-supervision/facilities/nscf",
+        "SOURCEDATE": "2016/12/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://doc.vermont.gov/custody-supervision/facilities/nscf",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 433,
+        "SHAPE_Leng": 0.00964204480494,
+        "SHAPE_Length": 0.00964204480493907,
+        "SHAPE_Area": 0.00000480516692682
+    },
+    "id": 3106
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e9f"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -73.080816,
+                    44.8111931
+                ],
+                [
+                    -73.0808264,
+                    44.8110799
+                ],
+                [
+                    -73.0804781,
+                    44.8110523
+                ],
+                [
+                    -73.0804647,
+                    44.8111655
+                ],
+                [
+                    -73.080816,
+                    44.8111931
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001912",
+        "NAME": "FRANKLIN COUNTY DETENTION FACILITY",
+        "ADDRESS": "30 LINCOLN AVE",
+        "CITY": "ST. ALBANS",
+        "STATE": "VT",
+        "ZIP": "05478",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 524-2121",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "FRANKLIN",
+        "COUNTYFIPS": "50011",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.facebook.com/fcsovt",
+        "SOURCEDATE": "2018/05/07 00:00:00",
+        "VAL_METHOD": "UNVERIFIED",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "http://franklincountysheriff.net/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 20,
+        "SHAPE_Leng": 0.000929523824245,
+        "SHAPE_Length": 0.0009295238242454505,
+        "SHAPE_Area": 3.99452337797e-8
+    },
+    "id": 366
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86965"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -73.1331805,
+                    44.8516849
+                ],
+                [
+                    -73.1335229,
+                    44.8511473
+                ],
+                [
+                    -73.1332626,
+                    44.8506819
+                ],
+                [
+                    -73.1334232,
+                    44.8504035
+                ],
+                [
+                    -73.1339229,
+                    44.8505534
+                ],
+                [
+                    -73.1340838,
+                    44.8505523
+                ],
+                [
+                    -73.1341942,
+                    44.8504714
+                ],
+                [
+                    -73.1346527,
+                    44.8497386
+                ],
+                [
+                    -73.1346582,
+                    44.8496433
+                ],
+                [
+                    -73.1345939,
+                    44.8495219
+                ],
+                [
+                    -73.134469,
+                    44.849422
+                ],
+                [
+                    -73.1345226,
+                    44.8493185
+                ],
+                [
+                    -73.1342691,
+                    44.8492043
+                ],
+                [
+                    -73.1319099,
+                    44.8484869
+                ],
+                [
+                    -73.1316422,
+                    44.8484262
+                ],
+                [
+                    -73.1314745,
+                    44.8484405
+                ],
+                [
+                    -73.1313353,
+                    44.8485012
+                ],
+                [
+                    -73.1312068,
+                    44.8486082
+                ],
+                [
+                    -73.1300004,
+                    44.8507176
+                ],
+                [
+                    -73.1300111,
+                    44.8508425
+                ],
+                [
+                    -73.1300789,
+                    44.8509461
+                ],
+                [
+                    -73.1302003,
+                    44.8510317
+                ],
+                [
+                    -73.1328129,
+                    44.851792
+                ],
+                [
+                    -73.1329593,
+                    44.8517884
+                ],
+                [
+                    -73.1330842,
+                    44.8517563
+                ],
+                [
+                    -73.1331805,
+                    44.8516849
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001116",
+        "NAME": "NORTHWEST STATE CORRECTIONAL FACILITY",
+        "ADDRESS": "3649 LOWER NEWTON RD",
+        "CITY": "SWANTON",
+        "STATE": "VT",
+        "ZIP": "05488",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 524-6771",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 215,
+        "COUNTY": "FRANKLIN",
+        "COUNTYFIPS": "50011",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.vermont.gov/custody-supervision/facilities/nwscf",
+        "SOURCEDATE": "2016/12/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://doc.vermont.gov/custody-supervision/facilities/nwscf",
+        "SECURELVL": "CLOSE",
+        "CAPACITY": 246,
+        "SHAPE_Leng": 0.0131348022891,
+        "SHAPE_Length": 0.01313480228910091,
+        "SHAPE_Area": 0.00000974263966146
+    },
+    "id": 3107
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb866d3"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -73.1438479,
+                    44.5024775
+                ],
+                [
+                    -73.144389,
+                    44.5024389
+                ],
+                [
+                    -73.1443718,
+                    44.502329
+                ],
+                [
+                    -73.1446131,
+                    44.5023047
+                ],
+                [
+                    -73.1446231,
+                    44.5024032
+                ],
+                [
+                    -73.1450014,
+                    44.5023718
+                ],
+                [
+                    -73.1451056,
+                    44.5023047
+                ],
+                [
+                    -73.1450814,
+                    44.502102
+                ],
+                [
+                    -73.1448101,
+                    44.5021234
+                ],
+                [
+                    -73.1447987,
+                    44.5020506
+                ],
+                [
+                    -73.1445746,
+                    44.5020649
+                ],
+                [
+                    -73.1445431,
+                    44.5018793
+                ],
+                [
+                    -73.1441534,
+                    44.5019121
+                ],
+                [
+                    -73.1441791,
+                    44.5021205
+                ],
+                [
+                    -73.1437993,
+                    44.5021591
+                ],
+                [
+                    -73.1437579,
+                    44.5022033
+                ],
+                [
+                    -73.143795,
+                    44.5024432
+                ],
+                [
+                    -73.1438479,
+                    44.5024775
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001915",
+        "NAME": "WOODSIDE JUVENILE REHABILITATION CENTER",
+        "ADDRESS": "26 WOODSIDE DR E",
+        "CITY": "COLCHESTER",
+        "STATE": "VT",
+        "ZIP": "05446",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 655-4990",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 5,
+        "COUNTY": "CHITTENDEN",
+        "COUNTYFIPS": "50007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://dcf.vermont.gov/sites/dcf/files/Youth/PREA-Woodside-2020.pdf",
+        "SOURCEDATE": "2017/04/21 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://dcf.vermont.gov/youth/woodside",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 30,
+        "SHAPE_Leng": 0.0038107811456,
+        "SHAPE_Length": 0.003810781145595528,
+        "SHAPE_Area": 4.7142942977e-7
+    },
+    "id": 2458
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb8694a"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -73.2063066,
+                    44.447017
+                ],
+                [
+                    -73.2063961,
+                    44.4469618
+                ],
+                [
+                    -73.2064494,
+                    44.4465678
+                ],
+                [
+                    -73.2059887,
+                    44.4461794
+                ],
+                [
+                    -73.2058374,
+                    44.4462667
+                ],
+                [
+                    -73.2058307,
+                    44.4463203
+                ],
+                [
+                    -73.2057184,
+                    44.4463089
+                ],
+                [
+                    -73.2057264,
+                    44.4462059
+                ],
+                [
+                    -73.2056765,
+                    44.4461598
+                ],
+                [
+                    -73.2056442,
+                    44.4460767
+                ],
+                [
+                    -73.2055338,
+                    44.4459624
+                ],
+                [
+                    -73.2051607,
+                    44.4459339
+                ],
+                [
+                    -73.2051435,
+                    44.4461033
+                ],
+                [
+                    -73.2050598,
+                    44.4460957
+                ],
+                [
+                    -73.2050465,
+                    44.4462665
+                ],
+                [
+                    -73.2048848,
+                    44.4462557
+                ],
+                [
+                    -73.2048409,
+                    44.4466192
+                ],
+                [
+                    -73.2052692,
+                    44.4468495
+                ],
+                [
+                    -73.2055947,
+                    44.4469275
+                ],
+                [
+                    -73.2056937,
+                    44.4469618
+                ],
+                [
+                    -73.2063066,
+                    44.447017
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001914",
+        "NAME": "CHITTENDEN REGIONAL CORRECTIONAL FACILITY",
+        "ADDRESS": "7 FARRELL ST",
+        "CITY": "SOUTH BURLINGTON",
+        "STATE": "VT",
+        "ZIP": "05403",
+        "ZIP4": "-999",
+        "TELEPHONE": "(802) 863-7356",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 142,
+        "COUNTY": "CHITTENDEN",
+        "COUNTYFIPS": "50007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.vermont.gov/custody-supervision/facilities/crcf",
+        "SOURCEDATE": "2016/12/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/25 00:00:00",
+        "WEBSITE": "https://doc.vermont.gov/custody-supervision/facilities/crcf",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 185,
+        "SHAPE_Leng": 0.00473542931087,
+        "SHAPE_Length": 0.004735429310865223,
+        "SHAPE_Area": 0.00000112363788016
+    },
+    "id": 3096
+}
+]

@@ -1,0 +1,1764 @@
+[
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8726e"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.4371205,
+                    38.9193072
+                ],
+                [
+                    -75.4372204,
+                    38.9192286
+                ],
+                [
+                    -75.4373375,
+                    38.9192095
+                ],
+                [
+                    -75.4372881,
+                    38.9190666
+                ],
+                [
+                    -75.4373818,
+                    38.9189398
+                ],
+                [
+                    -75.4372396,
+                    38.9188701
+                ],
+                [
+                    -75.4371204,
+                    38.9189921
+                ],
+                [
+                    -75.4370143,
+                    38.9189362
+                ],
+                [
+                    -75.437158,
+                    38.9187365
+                ],
+                [
+                    -75.4368878,
+                    38.9185935
+                ],
+                [
+                    -75.4368222,
+                    38.9186539
+                ],
+                [
+                    -75.4362344,
+                    38.918356
+                ],
+                [
+                    -75.4362678,
+                    38.9183017
+                ],
+                [
+                    -75.4360895,
+                    38.9182111
+                ],
+                [
+                    -75.4359325,
+                    38.9182836
+                ],
+                [
+                    -75.4358236,
+                    38.9183931
+                ],
+                [
+                    -75.4356559,
+                    38.9183079
+                ],
+                [
+                    -75.4355057,
+                    38.9184849
+                ],
+                [
+                    -75.4355943,
+                    38.9188029
+                ],
+                [
+                    -75.4362376,
+                    38.9191039
+                ],
+                [
+                    -75.4362992,
+                    38.9190374
+                ],
+                [
+                    -75.4369135,
+                    38.9192786
+                ],
+                [
+                    -75.4369777,
+                    38.9192358
+                ],
+                [
+                    -75.4371205,
+                    38.9193072
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000705",
+        "NAME": "STEVENSON HOUSE DETENTION CENTER",
+        "ADDRESS": "750 N DUPONT BOULEVARD",
+        "CITY": "MILFORD",
+        "STATE": "DE",
+        "ZIP": "19963",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 424-8100",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 20,
+        "COUNTY": "KENT",
+        "COUNTYFIPS": "10001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://kids.delaware.gov/yrs/reports.shtml, http://kids.delaware.gov/yrs/yrs.shtml",
+        "SOURCEDATE": "2017/09/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "http://kids.delaware.gov/yrs/yrs.shtml",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 55,
+        "SHAPE_Leng": 0.00534266379037,
+        "SHAPE_Length": 0.005342663790367278,
+        "SHAPE_Area": 0.0000010492339522
+    },
+    "id": 5442
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87273"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.3725091,
+                    38.6609694
+                ],
+                [
+                    -75.372581,
+                    38.6592575
+                ],
+                [
+                    -75.3700842,
+                    38.6591991
+                ],
+                [
+                    -75.3699107,
+                    38.6591991
+                ],
+                [
+                    -75.3697214,
+                    38.6590975
+                ],
+                [
+                    -75.3693193,
+                    38.6590913
+                ],
+                [
+                    -75.3691931,
+                    38.6591714
+                ],
+                [
+                    -75.3679432,
+                    38.6591929
+                ],
+                [
+                    -75.3679147,
+                    38.6608286
+                ],
+                [
+                    -75.3725091,
+                    38.6609694
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000707",
+        "NAME": "SUSSEX CORRECTIONAL INSTITUTION",
+        "ADDRESS": "23203 DUPONT BLVD",
+        "CITY": "GEORGETOWN",
+        "STATE": "DE",
+        "ZIP": "19947",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 856-5280",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 1130,
+        "COUNTY": "SUSSEX",
+        "COUNTYFIPS": "10005",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.delaware.gov/assets/documents/annual_report/DOC_2018AnnualReport.pdf",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "https://doc.delaware.gov/views/facilities.blade.shtml",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 1206,
+        "SHAPE_Leng": 0.012633414739,
+        "SHAPE_Length": 0.012633414738964186,
+        "SHAPE_Area": 0.00000786122324912
+    },
+    "id": 5447
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87271"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.3724419,
+                    38.6586249
+                ],
+                [
+                    -75.3723664,
+                    38.6584946
+                ],
+                [
+                    -75.3724803,
+                    38.658447
+                ],
+                [
+                    -75.3722737,
+                    38.6581192
+                ],
+                [
+                    -75.3714448,
+                    38.6584394
+                ],
+                [
+                    -75.3713785,
+                    38.6586745
+                ],
+                [
+                    -75.3717188,
+                    38.6587293
+                ],
+                [
+                    -75.37187,
+                    38.6586717
+                ],
+                [
+                    -75.371932,
+                    38.6587707
+                ],
+                [
+                    -75.372083,
+                    38.6587159
+                ],
+                [
+                    -75.3721068,
+                    38.6587541
+                ],
+                [
+                    -75.3724419,
+                    38.6586249
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000706",
+        "NAME": "SUSSEX COMMUNITY CORRECTIONS CENTER",
+        "ADDRESS": "23207 DUPONT BLVD",
+        "CITY": "GEORGETOWN",
+        "STATE": "DE",
+        "ZIP": "19947",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 856-5790",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 308,
+        "COUNTY": "SUSSEX",
+        "COUNTYFIPS": "10005",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.delaware.gov/assets/documents/annual_report/DOC_2018AnnualReport.pdf",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "https://doc.delaware.gov/views/facilities.blade.shtml",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 248,
+        "SHAPE_Leng": 0.00298242901694,
+        "SHAPE_Length": 0.002982429016943369,
+        "SHAPE_Area": 4.34681805143e-7
+    },
+    "id": 5446
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87280"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.369106,
+                    38.6579756
+                ],
+                [
+                    -75.3691152,
+                    38.656966
+                ],
+                [
+                    -75.3684942,
+                    38.656966
+                ],
+                [
+                    -75.3684942,
+                    38.6574871
+                ],
+                [
+                    -75.3679445,
+                    38.6574942
+                ],
+                [
+                    -75.3679302,
+                    38.6579725
+                ],
+                [
+                    -75.369106,
+                    38.6579756
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000708",
+        "NAME": "SUSSEX VIOLATION OF PROBATION CENTER",
+        "ADDRESS": "23207 DUPONT BLVD",
+        "CITY": "GEORGETOWN",
+        "STATE": "DE",
+        "ZIP": "19947",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 856-5790",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "SUSSEX",
+        "COUNTYFIPS": "10005",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.delaware.gov/assets/documents/annual_report/DOC_2018AnnualReport.pdf",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "https://doc.delaware.gov/views/facilities.blade.shtml",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 250,
+        "SHAPE_Leng": 0.00435571378654,
+        "SHAPE_Length": 0.00435571378653652,
+        "SHAPE_Area": 8.90528819702e-7
+    },
+    "id": 5431
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87292"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.5306832,
+                    39.742294
+                ],
+                [
+                    -75.5307079,
+                    39.742283
+                ],
+                [
+                    -75.5307343,
+                    39.7422645
+                ],
+                [
+                    -75.5307878,
+                    39.742215
+                ],
+                [
+                    -75.5308296,
+                    39.7421719
+                ],
+                [
+                    -75.5308715,
+                    39.7421507
+                ],
+                [
+                    -75.5309076,
+                    39.7421441
+                ],
+                [
+                    -75.5309509,
+                    39.7421417
+                ],
+                [
+                    -75.5310283,
+                    39.7420908
+                ],
+                [
+                    -75.5310768,
+                    39.7420732
+                ],
+                [
+                    -75.5311386,
+                    39.7420586
+                ],
+                [
+                    -75.5311909,
+                    39.7420564
+                ],
+                [
+                    -75.5312318,
+                    39.7420659
+                ],
+                [
+                    -75.5312774,
+                    39.7420747
+                ],
+                [
+                    -75.5313649,
+                    39.7420228
+                ],
+                [
+                    -75.5313868,
+                    39.7420081
+                ],
+                [
+                    -75.5314086,
+                    39.7419767
+                ],
+                [
+                    -75.531421,
+                    39.741938
+                ],
+                [
+                    -75.5314267,
+                    39.74187
+                ],
+                [
+                    -75.5313639,
+                    39.7417728
+                ],
+                [
+                    -75.5312299,
+                    39.7416148
+                ],
+                [
+                    -75.531204,
+                    39.7414135
+                ],
+                [
+                    -75.5283677,
+                    39.7402618
+                ],
+                [
+                    -75.5281012,
+                    39.7402523
+                ],
+                [
+                    -75.5276633,
+                    39.7403094
+                ],
+                [
+                    -75.5275301,
+                    39.7405473
+                ],
+                [
+                    -75.5273207,
+                    39.7404807
+                ],
+                [
+                    -75.5271684,
+                    39.7406901
+                ],
+                [
+                    -75.5272636,
+                    39.7408329
+                ],
+                [
+                    -75.5291546,
+                    39.7415992
+                ],
+                [
+                    -75.5291868,
+                    39.741628
+                ],
+                [
+                    -75.5291963,
+                    39.7417121
+                ],
+                [
+                    -75.5292068,
+                    39.7417377
+                ],
+                [
+                    -75.5292277,
+                    39.7417662
+                ],
+                [
+                    -75.5292571,
+                    39.7417925
+                ],
+                [
+                    -75.5292714,
+                    39.7418115
+                ],
+                [
+                    -75.5292714,
+                    39.7418385
+                ],
+                [
+                    -75.529298,
+                    39.7418634
+                ],
+                [
+                    -75.5293341,
+                    39.7418912
+                ],
+                [
+                    -75.5295376,
+                    39.7419782
+                ],
+                [
+                    -75.5296194,
+                    39.7419431
+                ],
+                [
+                    -75.5296526,
+                    39.7419336
+                ],
+                [
+                    -75.5296774,
+                    39.7419336
+                ],
+                [
+                    -75.5296992,
+                    39.7419365
+                ],
+                [
+                    -75.5297192,
+                    39.7419409
+                ],
+                [
+                    -75.529935,
+                    39.7420301
+                ],
+                [
+                    -75.5299036,
+                    39.7420871
+                ],
+                [
+                    -75.5301784,
+                    39.7421989
+                ],
+                [
+                    -75.530224,
+                    39.7422063
+                ],
+                [
+                    -75.5302506,
+                    39.7421946
+                ],
+                [
+                    -75.5302972,
+                    39.7422092
+                ],
+                [
+                    -75.5304997,
+                    39.742275
+                ],
+                [
+                    -75.5305834,
+                    39.7423028
+                ],
+                [
+                    -75.530648,
+                    39.7423013
+                ],
+                [
+                    -75.5306832,
+                    39.742294
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000699",
+        "NAME": "HOWARD R YOUNG CORRECTIONAL INSTITUTION",
+        "ADDRESS": "1301 E 12TH ST",
+        "CITY": "WILMINGTON",
+        "STATE": "DE",
+        "ZIP": "19802",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 429-7700",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 1658,
+        "COUNTY": "NEW CASTLE",
+        "COUNTYFIPS": "10003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.delaware.gov/assets/documents/annual_report/DOC_2018AnnualReport.pdf",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "https://doc.delaware.gov/views/facilities.blade.shtml",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 1180,
+        "SHAPE_Leng": 0.0100977779873,
+        "SHAPE_Length": 0.010097777987296191,
+        "SHAPE_Area": 0.00000389439485791
+    },
+    "id": 5428
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87277"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.5285029,
+                    39.7564758
+                ],
+                [
+                    -75.5286054,
+                    39.7566407
+                ],
+                [
+                    -75.5286215,
+                    39.7567002
+                ],
+                [
+                    -75.5289027,
+                    39.7568392
+                ],
+                [
+                    -75.5288833,
+                    39.7568747
+                ],
+                [
+                    -75.5290967,
+                    39.7570364
+                ],
+                [
+                    -75.529184,
+                    39.7571398
+                ],
+                [
+                    -75.529546,
+                    39.7569685
+                ],
+                [
+                    -75.5292842,
+                    39.7566388
+                ],
+                [
+                    -75.5293231,
+                    39.7565894
+                ],
+                [
+                    -75.5292906,
+                    39.7564868
+                ],
+                [
+                    -75.5292001,
+                    39.7563802
+                ],
+                [
+                    -75.5293682,
+                    39.7562994
+                ],
+                [
+                    -75.529265,
+                    39.7561955
+                ],
+                [
+                    -75.5290999,
+                    39.7562864
+                ],
+                [
+                    -75.5290417,
+                    39.7561992
+                ],
+                [
+                    -75.5285029,
+                    39.7564758
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000701",
+        "NAME": "PLUMMER COMMUNITY CORRECTIONS CENTER",
+        "ADDRESS": "38 TODDS LN",
+        "CITY": "WILMINGTON",
+        "STATE": "DE",
+        "ZIP": "19802",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 761-2800",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 130,
+        "COUNTY": "NEW CASTLE",
+        "COUNTYFIPS": "10003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.delaware.gov/assets/documents/annual_report/DOC_2018AnnualReport.pdf",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "https://doc.delaware.gov/views/facilities.blade.shtml",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 246,
+        "SHAPE_Leng": 0.00337682737111,
+        "SHAPE_Length": 0.0033768273711074293,
+        "SHAPE_Area": 5.00919400196e-7
+    },
+    "id": 5454
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8729e"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.6110445,
+                    39.7547937
+                ],
+                [
+                    -75.6111956,
+                    39.7546295
+                ],
+                [
+                    -75.6112034,
+                    39.7545113
+                ],
+                [
+                    -75.6111279,
+                    39.7544232
+                ],
+                [
+                    -75.6108908,
+                    39.7543471
+                ],
+                [
+                    -75.6107658,
+                    39.7541148
+                ],
+                [
+                    -75.610771,
+                    39.7540487
+                ],
+                [
+                    -75.6111461,
+                    39.7540767
+                ],
+                [
+                    -75.6113259,
+                    39.7540367
+                ],
+                [
+                    -75.6111774,
+                    39.7535921
+                ],
+                [
+                    -75.6105287,
+                    39.7536822
+                ],
+                [
+                    -75.6105574,
+                    39.7538344
+                ],
+                [
+                    -75.6097342,
+                    39.7539906
+                ],
+                [
+                    -75.6097706,
+                    39.7541388
+                ],
+                [
+                    -75.6098644,
+                    39.7541268
+                ],
+                [
+                    -75.6099035,
+                    39.754289
+                ],
+                [
+                    -75.6098019,
+                    39.7543051
+                ],
+                [
+                    -75.6098853,
+                    39.7546275
+                ],
+                [
+                    -75.6100911,
+                    39.7545975
+                ],
+                [
+                    -75.6101145,
+                    39.7547196
+                ],
+                [
+                    -75.6102916,
+                    39.7547076
+                ],
+                [
+                    -75.6104063,
+                    39.7547176
+                ],
+                [
+                    -75.6105417,
+                    39.7547417
+                ],
+                [
+                    -75.6107032,
+                    39.7547757
+                ],
+                [
+                    -75.6110445,
+                    39.7547937
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005219",
+        "NAME": "NEW CASTLE COUNTY DETENTION CENTER",
+        "ADDRESS": "963 CENTRE RD",
+        "CITY": "WILMINGTON",
+        "STATE": "DE",
+        "ZIP": "19805",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 633-3100",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 28,
+        "COUNTY": "NEW CASTLE",
+        "COUNTYFIPS": "10003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://kids.delaware.gov/yrs/reports.shtml, http://kids.delaware.gov/yrs/yrs.shtml",
+        "SOURCEDATE": "2017/09/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "http://kids.delaware.gov/yrs/yrs.shtml",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 64,
+        "SHAPE_Leng": 0.00583281933456,
+        "SHAPE_Length": 0.005832819334564444,
+        "SHAPE_Area": 0.00000118905773445
+    },
+    "id": 5486
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87296"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.6118643,
+                    39.750693
+                ],
+                [
+                    -75.6125095,
+                    39.7514117
+                ],
+                [
+                    -75.6128398,
+                    39.7514586
+                ],
+                [
+                    -75.6130634,
+                    39.7501226
+                ],
+                [
+                    -75.6136629,
+                    39.750189
+                ],
+                [
+                    -75.6136426,
+                    39.7504508
+                ],
+                [
+                    -75.6139169,
+                    39.7504742
+                ],
+                [
+                    -75.6140553,
+                    39.7501945
+                ],
+                [
+                    -75.6139528,
+                    39.75
+                ],
+                [
+                    -75.6137194,
+                    39.7499258
+                ],
+                [
+                    -75.6133517,
+                    39.7498728
+                ],
+                [
+                    -75.6128709,
+                    39.7495121
+                ],
+                [
+                    -75.6126906,
+                    39.7495263
+                ],
+                [
+                    -75.6127507,
+                    39.7492505
+                ],
+                [
+                    -75.6121461,
+                    39.749148
+                ],
+                [
+                    -75.6117077,
+                    39.7491056
+                ],
+                [
+                    -75.6115207,
+                    39.7492377
+                ],
+                [
+                    -75.6112952,
+                    39.7497476
+                ],
+                [
+                    -75.6114934,
+                    39.7497711
+                ],
+                [
+                    -75.6115239,
+                    39.7495093
+                ],
+                [
+                    -75.6121815,
+                    39.7495687
+                ],
+                [
+                    -75.6121037,
+                    39.750099
+                ],
+                [
+                    -75.6119446,
+                    39.7500813
+                ],
+                [
+                    -75.6118643,
+                    39.750693
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000702",
+        "NAME": "DIVISION OF YOUTH REHABILITATIVE SERVICES RESIDENTIAL COTTAGES",
+        "ADDRESS": "1825 FAULKLAND RD",
+        "CITY": "WILMINGTON",
+        "STATE": "DE",
+        "ZIP": "19805",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 633-2622",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "NEW CASTLE",
+        "COUNTYFIPS": "10003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://kids.delaware.gov/yrs/yrs.shtml",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "http://kids.delaware.gov/yrs/yrs.shtml",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 45,
+        "SHAPE_Leng": 0.0102839130013,
+        "SHAPE_Length": 0.01028391300129455,
+        "SHAPE_Area": 0.00000256527717565
+    },
+    "id": 5432
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87275"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.6109349,
+                    39.753381
+                ],
+                [
+                    -75.611115,
+                    39.7531453
+                ],
+                [
+                    -75.6112318,
+                    39.7527637
+                ],
+                [
+                    -75.6112246,
+                    39.7526383
+                ],
+                [
+                    -75.6112999,
+                    39.7524793
+                ],
+                [
+                    -75.6114836,
+                    39.7522574
+                ],
+                [
+                    -75.6120172,
+                    39.7518597
+                ],
+                [
+                    -75.6110882,
+                    39.751071
+                ],
+                [
+                    -75.6106321,
+                    39.751384
+                ],
+                [
+                    -75.6105212,
+                    39.7517122
+                ],
+                [
+                    -75.6111636,
+                    39.7518394
+                ],
+                [
+                    -75.6112074,
+                    39.7518918
+                ],
+                [
+                    -75.611115,
+                    39.752165
+                ],
+                [
+                    -75.6104823,
+                    39.7520378
+                ],
+                [
+                    -75.6104044,
+                    39.7522885
+                ],
+                [
+                    -75.6103265,
+                    39.7522697
+                ],
+                [
+                    -75.610234,
+                    39.7525466
+                ],
+                [
+                    -75.6101318,
+                    39.7525317
+                ],
+                [
+                    -75.6100618,
+                    39.7527492
+                ],
+                [
+                    -75.6102004,
+                    39.7527716
+                ],
+                [
+                    -75.6101075,
+                    39.7530705
+                ],
+                [
+                    -75.6105601,
+                    39.7531678
+                ],
+                [
+                    -75.6105212,
+                    39.7532912
+                ],
+                [
+                    -75.6109349,
+                    39.753381
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000703",
+        "NAME": "FERRIS SCHOOL FOR BOYS",
+        "ADDRESS": "959 CENTRE RD",
+        "CITY": "WILMINGTON",
+        "STATE": "DE",
+        "ZIP": "19805",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 993-3800",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "NEW CASTLE",
+        "COUNTYFIPS": "10003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://kids.delaware.gov/yrs/yrs.shtml",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "http://kids.delaware.gov/yrs/yrs.shtml",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 72,
+        "SHAPE_Leng": 0.00816156508937,
+        "SHAPE_Length": 0.008161565089370425,
+        "SHAPE_Area": 0.00000201652328247
+    },
+    "id": 5430
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb864d6"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.628252,
+                    39.7380038
+                ],
+                [
+                    -75.6282936,
+                    39.7377337
+                ],
+                [
+                    -75.6271542,
+                    39.7376407
+                ],
+                [
+                    -75.6271737,
+                    39.7379168
+                ],
+                [
+                    -75.6272881,
+                    39.7379278
+                ],
+                [
+                    -75.6272686,
+                    39.7381258
+                ],
+                [
+                    -75.627426,
+                    39.7381398
+                ],
+                [
+                    -75.6274494,
+                    39.7379448
+                ],
+                [
+                    -75.628252,
+                    39.7380038
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000700",
+        "NAME": "JOHN L WEBB CORRECTIONAL FACILITY",
+        "ADDRESS": "200 GREENBANK RD",
+        "CITY": "WILMINGTON",
+        "STATE": "DE",
+        "ZIP": "19808",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 995-6129",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "NEW CASTLE",
+        "COUNTYFIPS": "10003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.delawareonline.com/story/news/local/2016/08/25/webb-closing-delaware-prices-corner-probationer-work-release/89366018/",
+        "SOURCEDATE": "2016/08/25 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "http://www.doc.delaware.gov/BOCC/BOCC_CCC_Webb.shtml",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00316637320305,
+        "SHAPE_Length": 0.0031663732030548,
+        "SHAPE_Area": 3.38447479147e-7
+    },
+    "id": 1950
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87284"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.582202,
+                    39.7047128
+                ],
+                [
+                    -75.5824445,
+                    39.7035279
+                ],
+                [
+                    -75.582145,
+                    39.7036979
+                ],
+                [
+                    -75.5818241,
+                    39.703366
+                ],
+                [
+                    -75.5821058,
+                    39.7031987
+                ],
+                [
+                    -75.5818099,
+                    39.702908
+                ],
+                [
+                    -75.581546,
+                    39.7030478
+                ],
+                [
+                    -75.5813795,
+                    39.7028911
+                ],
+                [
+                    -75.5812507,
+                    39.702961
+                ],
+                [
+                    -75.5811147,
+                    39.7029546
+                ],
+                [
+                    -75.5810248,
+                    39.7028753
+                ],
+                [
+                    -75.5803079,
+                    39.7033584
+                ],
+                [
+                    -75.5801599,
+                    39.7045115
+                ],
+                [
+                    -75.5803079,
+                    39.7046985
+                ],
+                [
+                    -75.5818429,
+                    39.7048543
+                ],
+                [
+                    -75.5821307,
+                    39.7047046
+                ],
+                [
+                    -75.582202,
+                    39.7047128
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002260",
+        "NAME": "BAYLOR WOMEN'S CORRECTIONAL INSTITUTION",
+        "ADDRESS": "660 BAYLOR BLVD",
+        "CITY": "NEW CASTLE",
+        "STATE": "DE",
+        "ZIP": "19720",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 577-3004",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 394,
+        "COUNTY": "NEW CASTLE",
+        "COUNTYFIPS": "10003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.delaware.gov/assets/documents/annual_report/DOC_2018AnnualReport.pdf",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "https://doc.delaware.gov/views/facilities.blade.shtml",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 320,
+        "SHAPE_Leng": 0.00789242297336,
+        "SHAPE_Length": 0.007892422973363926,
+        "SHAPE_Area": 0.00000339112143382
+    },
+    "id": 5458
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb872b8"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.5832594,
+                    39.7027064
+                ],
+                [
+                    -75.5834807,
+                    39.7026279
+                ],
+                [
+                    -75.5831381,
+                    39.7022995
+                ],
+                [
+                    -75.5830239,
+                    39.7022852
+                ],
+                [
+                    -75.5829596,
+                    39.702171
+                ],
+                [
+                    -75.5825028,
+                    39.7023352
+                ],
+                [
+                    -75.5825456,
+                    39.702428
+                ],
+                [
+                    -75.5825099,
+                    39.7024423
+                ],
+                [
+                    -75.5825813,
+                    39.7025922
+                ],
+                [
+                    -75.5826455,
+                    39.702585
+                ],
+                [
+                    -75.5827098,
+                    39.7026636
+                ],
+                [
+                    -75.5831309,
+                    39.7025351
+                ],
+                [
+                    -75.5832594,
+                    39.7027064
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006387",
+        "NAME": "HAZEL D. PLANT WOMENS TREATMENT FACILITY",
+        "ADDRESS": "620 BAYLOR BOULEVARD",
+        "CITY": "NEW CASTLE",
+        "STATE": "DE",
+        "ZIP": "19720",
+        "ZIP4": "1140",
+        "TELEPHONE": "(302) 777-6800",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 92,
+        "COUNTY": "NEW CASTLE",
+        "COUNTYFIPS": "10003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.delaware.gov/assets/documents/annual_report/DOC_2018AnnualReport.pdf",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "https://doc.delaware.gov/views/facilities.blade.shtml",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 96,
+        "SHAPE_Leng": 0.00256825744385,
+        "SHAPE_Length": 0.002568257443848906,
+        "SHAPE_Area": 2.72897757618e-7
+    },
+    "id": 5493
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8725d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.5276263,
+                    39.1534679
+                ],
+                [
+                    -75.5275036,
+                    39.1531469
+                ],
+                [
+                    -75.5276442,
+                    39.1531112
+                ],
+                [
+                    -75.5276007,
+                    39.1529943
+                ],
+                [
+                    -75.5273017,
+                    39.1530657
+                ],
+                [
+                    -75.5272583,
+                    39.1529507
+                ],
+                [
+                    -75.5271075,
+                    39.1529864
+                ],
+                [
+                    -75.5271535,
+                    39.1531013
+                ],
+                [
+                    -75.5268801,
+                    39.1531727
+                ],
+                [
+                    -75.5270538,
+                    39.1536047
+                ],
+                [
+                    -75.5276263,
+                    39.1534679
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000704",
+        "NAME": "MORRIS COMMUNITY CORRECTIONS CENTER",
+        "ADDRESS": "300 WATER ST",
+        "CITY": "DOVER",
+        "STATE": "DE",
+        "ZIP": "19904",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 739-4758",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 135,
+        "COUNTY": "KENT",
+        "COUNTYFIPS": "10001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.delaware.gov/assets/documents/annual_report/DOC_2018AnnualReport.pdf",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "https://doc.delaware.gov/views/facilities.blade.shtml",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 150,
+        "SHAPE_Leng": 0.00265916992205,
+        "SHAPE_Length": 0.0026591699220489106,
+        "SHAPE_Area": 3.12653245615e-7
+    },
+    "id": 5422
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8727d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.6012951,
+                    39.3269887
+                ],
+                [
+                    -75.600736,
+                    39.3264223
+                ],
+                [
+                    -75.6002036,
+                    39.3267312
+                ],
+                [
+                    -75.6006375,
+                    39.3271555
+                ],
+                [
+                    -75.6004511,
+                    39.3272605
+                ],
+                [
+                    -75.6007733,
+                    39.3276168
+                ],
+                [
+                    -75.6013483,
+                    39.3272955
+                ],
+                [
+                    -75.6011859,
+                    39.3271205
+                ],
+                [
+                    -75.6012658,
+                    39.3270752
+                ],
+                [
+                    -75.6012259,
+                    39.3270278
+                ],
+                [
+                    -75.6012951,
+                    39.3269887
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002261",
+        "NAME": "CENTRAL VIOLATION OF PROBATION CENTER",
+        "ADDRESS": "875 SMYRNA LANDING RD",
+        "CITY": "SMYRNA",
+        "STATE": "DE",
+        "ZIP": "19977",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 659-6100",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 164,
+        "COUNTY": "NEW CASTLE",
+        "COUNTYFIPS": "10003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.delaware.gov/assets/documents/annual_report/DOC_2018AnnualReport.pdf",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "https://doc.delaware.gov/views/facilities.blade.shtml",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 250,
+        "SHAPE_Leng": 0.00384317015079,
+        "SHAPE_Length": 0.0038431701507919136,
+        "SHAPE_Area": 7.02777605261e-7
+    },
+    "id": 5459
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87293"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.5982721,
+                    39.3356067
+                ],
+                [
+                    -75.6033489,
+                    39.3339964
+                ],
+                [
+                    -75.6034559,
+                    39.3337868
+                ],
+                [
+                    -75.6023578,
+                    39.3314538
+                ],
+                [
+                    -75.6017089,
+                    39.3301577
+                ],
+                [
+                    -75.5994343,
+                    39.3308637
+                ],
+                [
+                    -75.5985145,
+                    39.3309023
+                ],
+                [
+                    -75.5982293,
+                    39.3309409
+                ],
+                [
+                    -75.5980796,
+                    39.3309795
+                ],
+                [
+                    -75.5980154,
+                    39.3310567
+                ],
+                [
+                    -75.5980154,
+                    39.3311174
+                ],
+                [
+                    -75.597723,
+                    39.3312167
+                ],
+                [
+                    -75.597609,
+                    39.3311671
+                ],
+                [
+                    -75.597445,
+                    39.3311615
+                ],
+                [
+                    -75.5971027,
+                    39.3312718
+                ],
+                [
+                    -75.5969387,
+                    39.3313491
+                ],
+                [
+                    -75.5967105,
+                    39.3315311
+                ],
+                [
+                    -75.5965537,
+                    39.3317186
+                ],
+                [
+                    -75.5959904,
+                    39.332772
+                ],
+                [
+                    -75.5959761,
+                    39.3329595
+                ],
+                [
+                    -75.597117,
+                    39.3352152
+                ],
+                [
+                    -75.5972524,
+                    39.3353365
+                ],
+                [
+                    -75.5980454,
+                    39.3355929
+                ],
+                [
+                    -75.5982721,
+                    39.3356067
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002262",
+        "NAME": "JAMES T VAUGHN CORRECTIONAL CENTER",
+        "ADDRESS": "1181 PADDOCK RD",
+        "CITY": "SMYRNA",
+        "STATE": "DE",
+        "ZIP": "19977",
+        "ZIP4": "-999",
+        "TELEPHONE": "(302) 653-9261",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 2385,
+        "COUNTY": "NEW CASTLE",
+        "COUNTYFIPS": "10003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://doc.delaware.gov/assets/documents/annual_report/DOC_2018AnnualReport.pdf",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/12/31 00:00:00",
+        "WEBSITE": "https://doc.delaware.gov/views/facilities.blade.shtml",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 2601,
+        "SHAPE_Leng": 0.0203223228487,
+        "SHAPE_Length": 0.020322322848743808,
+        "SHAPE_Area": 0.0000267389151112
+    },
+    "id": 5461
+}
+]

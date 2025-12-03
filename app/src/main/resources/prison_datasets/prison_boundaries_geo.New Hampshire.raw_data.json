@@ -1,0 +1,2576 @@
+[
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86222"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -72.2324969,
+                    42.9152423
+                ],
+                [
+                    -72.2320115,
+                    42.9154041
+                ],
+                [
+                    -72.2320591,
+                    42.9155374
+                ],
+                [
+                    -72.2316688,
+                    42.9156611
+                ],
+                [
+                    -72.2314309,
+                    42.9156706
+                ],
+                [
+                    -72.2313928,
+                    42.9158324
+                ],
+                [
+                    -72.2315927,
+                    42.915842
+                ],
+                [
+                    -72.2316117,
+                    42.9158896
+                ],
+                [
+                    -72.2314499,
+                    42.9159371
+                ],
+                [
+                    -72.2315356,
+                    42.9161465
+                ],
+                [
+                    -72.2331493,
+                    42.9157311
+                ],
+                [
+                    -72.2329347,
+                    42.9152519
+                ],
+                [
+                    -72.2325635,
+                    42.9153756
+                ],
+                [
+                    -72.2324969,
+                    42.9152423
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006060",
+        "NAME": "CHESHIRE COUNTY DEPARTMENT OF CORRECTIONS",
+        "ADDRESS": "825 MARLBORO RD",
+        "CITY": "KEENE",
+        "STATE": "NH",
+        "ZIP": "03431",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 903-1600",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 94,
+        "COUNTY": "CHESHIRE",
+        "COUNTYFIPS": "33005",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.co.cheshire.nh.us/departments/",
+        "SOURCEDATE": "2018/04/05 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.co.cheshire.nh.us/departments/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00484482450842,
+        "SHAPE_Length": 0.004844824508422123,
+        "SHAPE_Area": 8.42373177899e-7
+    },
+    "id": 1262
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb8605e"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -72.313037,
+                    43.309473
+                ],
+                [
+                    -72.313037,
+                    43.3094083
+                ],
+                [
+                    -72.3130008,
+                    43.3092998
+                ],
+                [
+                    -72.3129303,
+                    43.309205
+                ],
+                [
+                    -72.3128504,
+                    43.309138
+                ],
+                [
+                    -72.3124792,
+                    43.309039
+                ],
+                [
+                    -72.3123307,
+                    43.30902
+                ],
+                [
+                    -72.3121994,
+                    43.309079
+                ],
+                [
+                    -72.3121556,
+                    43.3091209
+                ],
+                [
+                    -72.3120052,
+                    43.3090676
+                ],
+                [
+                    -72.3115941,
+                    43.3091247
+                ],
+                [
+                    -72.3114323,
+                    43.3096767
+                ],
+                [
+                    -72.3112457,
+                    43.3099489
+                ],
+                [
+                    -72.3112419,
+                    43.3100612
+                ],
+                [
+                    -72.3116455,
+                    43.3100289
+                ],
+                [
+                    -72.3117121,
+                    43.3098671
+                ],
+                [
+                    -72.3117749,
+                    43.3098785
+                ],
+                [
+                    -72.3118472,
+                    43.3096938
+                ],
+                [
+                    -72.3119938,
+                    43.3097205
+                ],
+                [
+                    -72.3120147,
+                    43.3097471
+                ],
+                [
+                    -72.3124259,
+                    43.3095568
+                ],
+                [
+                    -72.3124069,
+                    43.3095339
+                ],
+                [
+                    -72.3124564,
+                    43.309513
+                ],
+                [
+                    -72.3125306,
+                    43.3096063
+                ],
+                [
+                    -72.312582,
+                    43.3095853
+                ],
+                [
+                    -72.3126198,
+                    43.3096432
+                ],
+                [
+                    -72.313037,
+                    43.309473
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006059",
+        "NAME": "SULLIVAN COUNTY DEPARTMENT OF CORRECTIONS",
+        "ADDRESS": "103 COUNTY FARM ROAD",
+        "CITY": "CLAREMONT",
+        "STATE": "NH",
+        "ZIP": "03743",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 542-8717",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 72,
+        "COUNTY": "SULLIVAN",
+        "COUNTYFIPS": "33019",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.sullivancountynh.gov/151/Department-of-Corrections",
+        "SOURCEDATE": "2016/10/20 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.sullivancountynh.gov/151/Department-of-Corrections",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 168,
+        "SHAPE_Leng": 0.00498798810594,
+        "SHAPE_Length": 0.0049879881059441585,
+        "SHAPE_Area": 9.61015461057e-7
+    },
+    "id": 821
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861b5"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.6470967,
+                    43.3600517
+                ],
+                [
+                    -71.6469717,
+                    43.3598678
+                ],
+                [
+                    -71.6466419,
+                    43.3600007
+                ],
+                [
+                    -71.6465938,
+                    43.3599308
+                ],
+                [
+                    -71.646921,
+                    43.359796
+                ],
+                [
+                    -71.6468112,
+                    43.3596403
+                ],
+                [
+                    -71.6466155,
+                    43.359718
+                ],
+                [
+                    -71.6465611,
+                    43.3596481
+                ],
+                [
+                    -71.6467072,
+                    43.3595937
+                ],
+                [
+                    -71.6463328,
+                    43.3590873
+                ],
+                [
+                    -71.6462567,
+                    43.3591199
+                ],
+                [
+                    -71.6462023,
+                    43.3590345
+                ],
+                [
+                    -71.6462986,
+                    43.3589972
+                ],
+                [
+                    -71.6461246,
+                    43.3587611
+                ],
+                [
+                    -71.6459025,
+                    43.3588418
+                ],
+                [
+                    -71.6458606,
+                    43.3588232
+                ],
+                [
+                    -71.6458015,
+                    43.3588154
+                ],
+                [
+                    -71.6457549,
+                    43.3588216
+                ],
+                [
+                    -71.6457145,
+                    43.3588418
+                ],
+                [
+                    -71.6456835,
+                    43.3588651
+                ],
+                [
+                    -71.6456664,
+                    43.3589024
+                ],
+                [
+                    -71.6456648,
+                    43.3589413
+                ],
+                [
+                    -71.6455095,
+                    43.3590065
+                ],
+                [
+                    -71.6455514,
+                    43.3590593
+                ],
+                [
+                    -71.6454365,
+                    43.3591059
+                ],
+                [
+                    -71.6455561,
+                    43.359269
+                ],
+                [
+                    -71.6457285,
+                    43.3592053
+                ],
+                [
+                    -71.6459786,
+                    43.3595471
+                ],
+                [
+                    -71.6460889,
+                    43.3595005
+                ],
+                [
+                    -71.6461479,
+                    43.3595937
+                ],
+                [
+                    -71.646115,
+                    43.3596114
+                ],
+                [
+                    -71.6461873,
+                    43.3597198
+                ],
+                [
+                    -71.6460066,
+                    43.3597894
+                ],
+                [
+                    -71.6459957,
+                    43.359864
+                ],
+                [
+                    -71.6462442,
+                    43.3602042
+                ],
+                [
+                    -71.6464307,
+                    43.360257
+                ],
+                [
+                    -71.6466824,
+                    43.3601544
+                ],
+                [
+                    -71.6467154,
+                    43.3602019
+                ],
+                [
+                    -71.6470967,
+                    43.3600517
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004119",
+        "NAME": "MERRIMACK COUNTY HOUSE OF CORRECTIONS",
+        "ADDRESS": "314 DANIEL WEBSTER HWY",
+        "CITY": "BOSCAWEN",
+        "STATE": "NH",
+        "ZIP": "03303",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 796-3600",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 232,
+        "COUNTY": "MERRIMACK",
+        "COUNTYFIPS": "33013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://merrimackcounty.net/departments/corrections",
+        "SOURCEDATE": "2016/02/15 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://merrimackcounty.net/departments/corrections",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 237,
+        "SHAPE_Leng": 0.00661607295356,
+        "SHAPE_Length": 0.0066160729535563725,
+        "SHAPE_Area": 0.00000100123548418
+    },
+    "id": 1164
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86202"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.5517976,
+                    43.17967
+                ],
+                [
+                    -71.5516976,
+                    43.1797175
+                ],
+                [
+                    -71.5517929,
+                    43.1798745
+                ],
+                [
+                    -71.5515441,
+                    43.1800039
+                ],
+                [
+                    -71.5517626,
+                    43.1803077
+                ],
+                [
+                    -71.552017,
+                    43.1801996
+                ],
+                [
+                    -71.5519594,
+                    43.1799127
+                ],
+                [
+                    -71.5517976,
+                    43.17967
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001737",
+        "NAME": "SHEA FARM TRANSITIONAL HOUSING UNIT",
+        "ADDRESS": "60 IRON WORKS RD",
+        "CITY": "CONCORD",
+        "STATE": "NH",
+        "ZIP": "03302",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 271-6368",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 49,
+        "COUNTY": "MERRIMACK",
+        "COUNTYFIPS": "33013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nh.gov/nhdoc/divisions/community/shea.html",
+        "SOURCEDATE": "2017/07/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.nh.gov/nhdoc/facilities/index.html",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 40,
+        "SHAPE_Leng": 0.00180976240699,
+        "SHAPE_Length": 0.0018097624069931104,
+        "SHAPE_Area": 1.55406238376e-7
+    },
+    "id": 1239
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb86061"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.5404936,
+                    43.010776
+                ],
+                [
+                    -71.54074,
+                    43.0100908
+                ],
+                [
+                    -71.5395936,
+                    43.0098585
+                ],
+                [
+                    -71.5390832,
+                    43.0100398
+                ],
+                [
+                    -71.539044,
+                    43.0101354
+                ],
+                [
+                    -71.5389536,
+                    43.0101165
+                ],
+                [
+                    -71.5390583,
+                    43.0098868
+                ],
+                [
+                    -71.5385922,
+                    43.0097914
+                ],
+                [
+                    -71.538404,
+                    43.0102433
+                ],
+                [
+                    -71.5384298,
+                    43.0103095
+                ],
+                [
+                    -71.5389389,
+                    43.0104179
+                ],
+                [
+                    -71.5389756,
+                    43.0105502
+                ],
+                [
+                    -71.5404936,
+                    43.010776
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004121",
+        "NAME": "NH CORRECTIONAL FACILITY FOR WOMEN",
+        "ADDRESS": "317 MAST RD",
+        "CITY": "GOFFSTOWN",
+        "STATE": "NH",
+        "ZIP": "03045",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 668-6137",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 162,
+        "COUNTY": "HILLSBOROUGH",
+        "COUNTYFIPS": "33011",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nh.gov/nhdoc/facilities/goffstown.html",
+        "SOURCEDATE": "2017/07/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.nh.gov/nhdoc/facilities/index.html",
+        "SECURELVL": "CLOSE",
+        "CAPACITY": 105,
+        "SHAPE_Leng": 0.00611634785031,
+        "SHAPE_Length": 0.006116347850313584,
+        "SHAPE_Area": 0.00000143548973363
+    },
+    "id": 824
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861f3"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4618249,
+                    42.9812181
+                ],
+                [
+                    -71.4618344,
+                    42.9804491
+                ],
+                [
+                    -71.4616841,
+                    42.9805519
+                ],
+                [
+                    -71.4615489,
+                    42.9804491
+                ],
+                [
+                    -71.4615489,
+                    42.9803882
+                ],
+                [
+                    -71.4613985,
+                    42.9802778
+                ],
+                [
+                    -71.4612957,
+                    42.9802759
+                ],
+                [
+                    -71.4612881,
+                    42.9804301
+                ],
+                [
+                    -71.4607532,
+                    42.9804225
+                ],
+                [
+                    -71.4607551,
+                    42.9811325
+                ],
+                [
+                    -71.4612847,
+                    42.9811344
+                ],
+                [
+                    -71.4612843,
+                    42.98122
+                ],
+                [
+                    -71.4618249,
+                    42.9812181
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001019",
+        "NAME": "HILLSBOROUGH COUNTY CORRECTIONS CENTER",
+        "ADDRESS": "445 WILLOW ST",
+        "CITY": "MANCHESTER",
+        "STATE": "NH",
+        "ZIP": "03103",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 627-5620",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 536,
+        "COUNTY": "HILLSBOROUGH",
+        "COUNTYFIPS": "33011",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.hillsboroughcountydoc.org/",
+        "SOURCEDATE": "2016/02/15 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.hillsboroughcountydoc.org/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 724,
+        "SHAPE_Leng": 0.00402660637931,
+        "SHAPE_Length": 0.004026606379312529,
+        "SHAPE_Area": 8.16123375936e-7
+    },
+    "id": 1201
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8621b"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4588386,
+                    42.9940266
+                ],
+                [
+                    -71.4588386,
+                    42.9939121
+                ],
+                [
+                    -71.4588225,
+                    42.9938478
+                ],
+                [
+                    -71.4587542,
+                    42.9937232
+                ],
+                [
+                    -71.4585774,
+                    42.9937152
+                ],
+                [
+                    -71.4585774,
+                    42.9940266
+                ],
+                [
+                    -71.4588386,
+                    42.9940266
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006389",
+        "NAME": "CALUMET TRANSITIONAL HOUSING UNIT",
+        "ADDRESS": "126 LOWELL STREET",
+        "CITY": "MANCHESTER",
+        "STATE": "NH",
+        "ZIP": "03104",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 271-1928",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 69,
+        "COUNTY": "HILLSBOROUGH",
+        "COUNTYFIPS": "33011",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nh.gov/nhdoc/divisions/community/calument.html",
+        "SOURCEDATE": "2017/07/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.nh.gov/nhdoc/facilities/index.html",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 64,
+        "SHAPE_Leng": 0.0010725958633,
+        "SHAPE_Length": 0.0010725958632956782,
+        "SHAPE_Area": 7.31959612799e-8
+    },
+    "id": 1237
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86221"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4740108,
+                    43.0203234
+                ],
+                [
+                    -71.4739627,
+                    43.020163
+                ],
+                [
+                    -71.4738423,
+                    43.020155
+                ],
+                [
+                    -71.4738183,
+                    43.0200587
+                ],
+                [
+                    -71.4740509,
+                    43.0200347
+                ],
+                [
+                    -71.4739947,
+                    43.0199304
+                ],
+                [
+                    -71.4739466,
+                    43.0199384
+                ],
+                [
+                    -71.4739226,
+                    43.0198502
+                ],
+                [
+                    -71.4738343,
+                    43.0198582
+                ],
+                [
+                    -71.4736017,
+                    43.0192807
+                ],
+                [
+                    -71.4737942,
+                    43.0192566
+                ],
+                [
+                    -71.4736819,
+                    43.0189598
+                ],
+                [
+                    -71.4736258,
+                    43.0189518
+                ],
+                [
+                    -71.4735696,
+                    43.0188235
+                ],
+                [
+                    -71.4736418,
+                    43.0187834
+                ],
+                [
+                    -71.4736177,
+                    43.0186951
+                ],
+                [
+                    -71.4734653,
+                    43.0184785
+                ],
+                [
+                    -71.473329,
+                    43.0184705
+                ],
+                [
+                    -71.4732167,
+                    43.0184785
+                ],
+                [
+                    -71.4729359,
+                    43.0185427
+                ],
+                [
+                    -71.4729119,
+                    43.0184785
+                ],
+                [
+                    -71.4727514,
+                    43.0185106
+                ],
+                [
+                    -71.4727274,
+                    43.0184705
+                ],
+                [
+                    -71.4722461,
+                    43.0185507
+                ],
+                [
+                    -71.4721579,
+                    43.0184144
+                ],
+                [
+                    -71.4730081,
+                    43.0183181
+                ],
+                [
+                    -71.472976,
+                    43.0181336
+                ],
+                [
+                    -71.4731525,
+                    43.0181256
+                ],
+                [
+                    -71.4730883,
+                    43.0179491
+                ],
+                [
+                    -71.4724948,
+                    43.0179973
+                ],
+                [
+                    -71.4723744,
+                    43.0177406
+                ],
+                [
+                    -71.4722862,
+                    43.0176523
+                ],
+                [
+                    -71.4726953,
+                    43.017532
+                ],
+                [
+                    -71.4726793,
+                    43.0174598
+                ],
+                [
+                    -71.4728156,
+                    43.0174438
+                ],
+                [
+                    -71.4728076,
+                    43.0173636
+                ],
+                [
+                    -71.4730001,
+                    43.0173315
+                ],
+                [
+                    -71.472944,
+                    43.017163
+                ],
+                [
+                    -71.4726953,
+                    43.0171871
+                ],
+                [
+                    -71.4725429,
+                    43.0170828
+                ],
+                [
+                    -71.4720536,
+                    43.0172914
+                ],
+                [
+                    -71.472198,
+                    43.0176764
+                ],
+                [
+                    -71.4717728,
+                    43.0178047
+                ],
+                [
+                    -71.471821,
+                    43.0179251
+                ],
+                [
+                    -71.4719974,
+                    43.0184063
+                ],
+                [
+                    -71.4716686,
+                    43.0185347
+                ],
+                [
+                    -71.4715482,
+                    43.0185026
+                ],
+                [
+                    -71.4712515,
+                    43.0182219
+                ],
+                [
+                    -71.4710509,
+                    43.0179572
+                ],
+                [
+                    -71.4706017,
+                    43.0180374
+                ],
+                [
+                    -71.469952,
+                    43.0180775
+                ],
+                [
+                    -71.4700803,
+                    43.01904
+                ],
+                [
+                    -71.471091,
+                    43.0190561
+                ],
+                [
+                    -71.4713638,
+                    43.0196898
+                ],
+                [
+                    -71.4721418,
+                    43.0198021
+                ],
+                [
+                    -71.4724466,
+                    43.019762
+                ],
+                [
+                    -71.4723985,
+                    43.0194972
+                ],
+                [
+                    -71.4729279,
+                    43.019409
+                ],
+                [
+                    -71.4730643,
+                    43.0194972
+                ],
+                [
+                    -71.4732247,
+                    43.0199224
+                ],
+                [
+                    -71.4735295,
+                    43.0202272
+                ],
+                [
+                    -71.47373,
+                    43.0203716
+                ],
+                [
+                    -71.4740108,
+                    43.0203234
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004122",
+        "NAME": "JOHN H. SUNUNU YOUTH SERVICES CENTER",
+        "ADDRESS": "1056 N RIVER RD",
+        "CITY": "MANCHESTER",
+        "STATE": "NH",
+        "ZIP": "03104",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 625-5471",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 60,
+        "COUNTY": "HILLSBOROUGH",
+        "COUNTYFIPS": "33011",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.dhhs.nh.gov/djjs/institutional/index.htm",
+        "SOURCEDATE": "2020/02/03 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.dhhs.nh.gov/djjs/institutional/index.htm",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 144,
+        "SHAPE_Leng": 0.0186468955952,
+        "SHAPE_Length": 0.01864689559521069,
+        "SHAPE_Area": 0.00000540138991601
+    },
+    "id": 1231
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86749"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.5619076,
+                    43.227637
+                ],
+                [
+                    -71.5609402,
+                    43.2268953
+                ],
+                [
+                    -71.5600738,
+                    43.2273794
+                ],
+                [
+                    -71.5599325,
+                    43.227238
+                ],
+                [
+                    -71.5599769,
+                    43.2269477
+                ],
+                [
+                    -71.5586588,
+                    43.2256861
+                ],
+                [
+                    -71.5573972,
+                    43.2255692
+                ],
+                [
+                    -71.557236,
+                    43.225666
+                ],
+                [
+                    -71.5571727,
+                    43.2261457
+                ],
+                [
+                    -71.557103,
+                    43.226323
+                ],
+                [
+                    -71.5570143,
+                    43.2262222
+                ],
+                [
+                    -71.5566514,
+                    43.2264756
+                ],
+                [
+                    -71.5567699,
+                    43.2265857
+                ],
+                [
+                    -71.5566598,
+                    43.2266534
+                ],
+                [
+                    -71.5568122,
+                    43.2267973
+                ],
+                [
+                    -71.5567868,
+                    43.2268566
+                ],
+                [
+                    -71.5575585,
+                    43.2276249
+                ],
+                [
+                    -71.5575222,
+                    43.2277942
+                ],
+                [
+                    -71.5576753,
+                    43.2279312
+                ],
+                [
+                    -71.557627,
+                    43.2279595
+                ],
+                [
+                    -71.5583684,
+                    43.2286845
+                ],
+                [
+                    -71.5599191,
+                    43.2278132
+                ],
+                [
+                    -71.5599784,
+                    43.2278556
+                ],
+                [
+                    -71.5612144,
+                    43.2280333
+                ],
+                [
+                    -71.5619076,
+                    43.227637
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004118",
+        "NAME": "NH STATE PRISON FOR MEN",
+        "ADDRESS": "281 N STATE ST",
+        "CITY": "CONCORD",
+        "STATE": "NH",
+        "ZIP": "03302",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 271-1801",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 1412,
+        "COUNTY": "MERRIMACK",
+        "COUNTYFIPS": "33013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nh.gov/nhdoc/facilities/concord.html",
+        "SOURCEDATE": "2017/07/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.nh.gov/nhdoc/facilities/index.html",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 1205,
+        "SHAPE_Leng": 0.0142601220676,
+        "SHAPE_Length": 0.014260122067629583,
+        "SHAPE_Area": 0.0000077697896759
+    },
+    "id": 2589
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861f5"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.5558507,
+                    43.2259233
+                ],
+                [
+                    -71.5556663,
+                    43.2257924
+                ],
+                [
+                    -71.5557614,
+                    43.2256853
+                ],
+                [
+                    -71.5556603,
+                    43.2256199
+                ],
+                [
+                    -71.5554343,
+                    43.2258341
+                ],
+                [
+                    -71.5557555,
+                    43.2260125
+                ],
+                [
+                    -71.5558507,
+                    43.2259233
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006596",
+        "NAME": "NORTH END TRANSITIONAL HOUSING UNIT / WORK CENTER",
+        "ADDRESS": "1 PERIMETER ROAD",
+        "CITY": "CONCORD",
+        "STATE": "NH",
+        "ZIP": "03302",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 271-3957",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 45,
+        "COUNTY": "MERRIMACK",
+        "COUNTYFIPS": "33013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nh.gov/nhdoc/divisions/community/northend.html",
+        "SOURCEDATE": "2017/07/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.nh.gov/nhdoc/facilities/index.html",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 48,
+        "SHAPE_Leng": 0.00129915878145,
+        "SHAPE_Length": 0.0012991587814477523,
+        "SHAPE_Area": 7.05075393145e-8
+    },
+    "id": 1221
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861fe"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.5548334,
+                    43.2251083
+                ],
+                [
+                    -71.5546312,
+                    43.2252927
+                ],
+                [
+                    -71.555351,
+                    43.2257567
+                ],
+                [
+                    -71.5555592,
+                    43.2255961
+                ],
+                [
+                    -71.5548334,
+                    43.2251083
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006597",
+        "NAME": "CONCORD TRANSITIONAL WORK CENTER",
+        "ADDRESS": "275 NORTH STATE STREET",
+        "CITY": "CONCORD",
+        "STATE": "NH",
+        "ZIP": "03302",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 271-1924",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 153,
+        "COUNTY": "MERRIMACK",
+        "COUNTYFIPS": "33013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nh.gov/nhdoc/divisions/community/northend.html",
+        "SOURCEDATE": "2017/07/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.nh.gov/nhdoc/facilities/index.html",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 130,
+        "SHAPE_Leng": 0.00226746918624,
+        "SHAPE_Length": 0.002267469186241382,
+        "SHAPE_Area": 2.22351374444e-7
+    },
+    "id": 1232
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85ec9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -70.9402264,
+                    43.2181175
+                ],
+                [
+                    -70.9404738,
+                    43.2173823
+                ],
+                [
+                    -70.9407475,
+                    43.2172633
+                ],
+                [
+                    -70.9408022,
+                    43.2172704
+                ],
+                [
+                    -70.9408379,
+                    43.2173418
+                ],
+                [
+                    -70.9409307,
+                    43.2173585
+                ],
+                [
+                    -70.9410497,
+                    43.2173085
+                ],
+                [
+                    -70.941309,
+                    43.217368
+                ],
+                [
+                    -70.9413281,
+                    43.2173133
+                ],
+                [
+                    -70.9414684,
+                    43.2173347
+                ],
+                [
+                    -70.9414851,
+                    43.2172823
+                ],
+                [
+                    -70.9417754,
+                    43.2173418
+                ],
+                [
+                    -70.9418182,
+                    43.2172205
+                ],
+                [
+                    -70.941152,
+                    43.2171205
+                ],
+                [
+                    -70.9411758,
+                    43.2170587
+                ],
+                [
+                    -70.9412186,
+                    43.2170682
+                ],
+                [
+                    -70.9412537,
+                    43.21699
+                ],
+                [
+                    -70.9410211,
+                    43.2169397
+                ],
+                [
+                    -70.9410092,
+                    43.216973
+                ],
+                [
+                    -70.9409069,
+                    43.2169564
+                ],
+                [
+                    -70.9409235,
+                    43.2169088
+                ],
+                [
+                    -70.9407974,
+                    43.2168874
+                ],
+                [
+                    -70.9407832,
+                    43.2169326
+                ],
+                [
+                    -70.9406975,
+                    43.2169183
+                ],
+                [
+                    -70.9406854,
+                    43.2169726
+                ],
+                [
+                    -70.94055,
+                    43.2169445
+                ],
+                [
+                    -70.9405238,
+                    43.2170135
+                ],
+                [
+                    -70.9403049,
+                    43.2169611
+                ],
+                [
+                    -70.9403763,
+                    43.2167612
+                ],
+                [
+                    -70.9403192,
+                    43.2167018
+                ],
+                [
+                    -70.9400884,
+                    43.2167303
+                ],
+                [
+                    -70.939415,
+                    43.2169921
+                ],
+                [
+                    -70.9392746,
+                    43.2175441
+                ],
+                [
+                    -70.9395672,
+                    43.21792
+                ],
+                [
+                    -70.9397719,
+                    43.2179129
+                ],
+                [
+                    -70.9397433,
+                    43.2180271
+                ],
+                [
+                    -70.9399694,
+                    43.2180652
+                ],
+                [
+                    -70.9399342,
+                    43.2181781
+                ],
+                [
+                    -70.940124,
+                    43.2182127
+                ],
+                [
+                    -70.9401645,
+                    43.2181056
+                ],
+                [
+                    -70.9402264,
+                    43.2181175
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004120",
+        "NAME": "STRAFFORD COUNTY CORRECTIONAL CENTER",
+        "ADDRESS": "266 COUNTY FARM RD",
+        "CITY": "DOVER",
+        "STATE": "NH",
+        "ZIP": "03820",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 742-3310",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 407,
+        "COUNTY": "STRAFFORD",
+        "COUNTYFIPS": "33017",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://co.strafford.nh.us/department/community-corrections",
+        "SOURCEDATE": "2016/06/23 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://co.strafford.nh.us/department/community-corrections",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 495,
+        "SHAPE_Leng": 0.00776677392791,
+        "SHAPE_Length": 0.007766773927911159,
+        "SHAPE_Area": 0.00000159321728889
+    },
+    "id": 416
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861b4"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.0510183,
+                    43.0145446
+                ],
+                [
+                    -71.0507727,
+                    43.0143047
+                ],
+                [
+                    -71.0509174,
+                    43.0142172
+                ],
+                [
+                    -71.0509802,
+                    43.0142705
+                ],
+                [
+                    -71.0510564,
+                    43.0142343
+                ],
+                [
+                    -71.0510944,
+                    43.0142666
+                ],
+                [
+                    -71.051241,
+                    43.0141886
+                ],
+                [
+                    -71.0514169,
+                    43.0143574
+                ],
+                [
+                    -71.0515951,
+                    43.0142495
+                ],
+                [
+                    -71.0516217,
+                    43.0141144
+                ],
+                [
+                    -71.0516009,
+                    43.0138484
+                ],
+                [
+                    -71.0514942,
+                    43.0137489
+                ],
+                [
+                    -71.0510849,
+                    43.013589
+                ],
+                [
+                    -71.0508051,
+                    43.0135966
+                ],
+                [
+                    -71.0505957,
+                    43.0136594
+                ],
+                [
+                    -71.050708,
+                    43.0137641
+                ],
+                [
+                    -71.05067,
+                    43.0137869
+                ],
+                [
+                    -71.050748,
+                    43.0138669
+                ],
+                [
+                    -71.0504225,
+                    43.0140573
+                ],
+                [
+                    -71.0504815,
+                    43.0141201
+                ],
+                [
+                    -71.0504111,
+                    43.0141562
+                ],
+                [
+                    -71.0504206,
+                    43.0142172
+                ],
+                [
+                    -71.049918,
+                    43.0142705
+                ],
+                [
+                    -71.0499809,
+                    43.0147083
+                ],
+                [
+                    -71.0500246,
+                    43.0148206
+                ],
+                [
+                    -71.0503064,
+                    43.0148187
+                ],
+                [
+                    -71.0506112,
+                    43.0147769
+                ],
+                [
+                    -71.0509155,
+                    43.0146493
+                ],
+                [
+                    -71.0508851,
+                    43.0146188
+                ],
+                [
+                    -71.0510183,
+                    43.0145446
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002631",
+        "NAME": "ROCKINGHAM COUNTY JAIL / HOUSE OF CORRECTIONS",
+        "ADDRESS": "99 NORTH RD",
+        "CITY": "BRENTWOOD",
+        "STATE": "NH",
+        "ZIP": "03833",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 679-2244",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 222,
+        "COUNTY": "ROCKINGHAM",
+        "COUNTYFIPS": "33015",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.rockinghamcountynh.org/about/documents/annual_reports/#wpfb-cat-4, http://www.fosters.com/apps/pbcs.dll/article?AID=/20121230/GJNEWS_01/121239943/-1/FOSNEWS",
+        "SOURCEDATE": "2016/02/15 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.rockinghamcountynh.org/departments/corrections/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 387,
+        "SHAPE_Leng": 0.00593255767571,
+        "SHAPE_Length": 0.005932557675709018,
+        "SHAPE_Area": 0.00000113034844954
+    },
+    "id": 1163
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85ed2"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.1323264,
+                    43.6825896
+                ],
+                [
+                    -71.1324181,
+                    43.6824683
+                ],
+                [
+                    -71.1323502,
+                    43.6824004
+                ],
+                [
+                    -71.1324752,
+                    43.6823291
+                ],
+                [
+                    -71.1325192,
+                    43.6821982
+                ],
+                [
+                    -71.1322194,
+                    43.6819234
+                ],
+                [
+                    -71.1320302,
+                    43.6819031
+                ],
+                [
+                    -71.1317601,
+                    43.6820471
+                ],
+                [
+                    -71.1316186,
+                    43.6819067
+                ],
+                [
+                    -71.1314306,
+                    43.6820126
+                ],
+                [
+                    -71.1313556,
+                    43.6819412
+                ],
+                [
+                    -71.1312688,
+                    43.6819912
+                ],
+                [
+                    -71.1314651,
+                    43.6821946
+                ],
+                [
+                    -71.1313604,
+                    43.6822577
+                ],
+                [
+                    -71.1315222,
+                    43.68241
+                ],
+                [
+                    -71.1316352,
+                    43.6823529
+                ],
+                [
+                    -71.1318553,
+                    43.682573
+                ],
+                [
+                    -71.1317601,
+                    43.6826241
+                ],
+                [
+                    -71.1318553,
+                    43.6827122
+                ],
+                [
+                    -71.1319683,
+                    43.6826479
+                ],
+                [
+                    -71.1321325,
+                    43.682805
+                ],
+                [
+                    -71.1324062,
+                    43.6826646
+                ],
+                [
+                    -71.1323264,
+                    43.6825896
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006058",
+        "NAME": "CARROLL COUNTY JAIL",
+        "ADDRESS": "50 COUNTY FARM RD",
+        "CITY": "OSSIPEE",
+        "STATE": "NH",
+        "ZIP": "03864",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 539-2282",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 61,
+        "COUNTY": "CARROLL",
+        "COUNTYFIPS": "33003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nh.gov/nhdoc/divisions/publicinformation/documents/012010_justice_rein_analyses.pdf, http://www.carrollcountynh.net/pages/CarrollcountyNH_WebDocs/Depts",
+        "SOURCEDATE": "2020/02/03 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.carrollcountynh.net/pages/CarrollcountyNH_WebDocs/Depts",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 220,
+        "SHAPE_Leng": 0.00412865337021,
+        "SHAPE_Length": 0.004128653370207579,
+        "SHAPE_Area": 6.4399279712e-7
+    },
+    "id": 411
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861db"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4854929,
+                    43.5437776
+                ],
+                [
+                    -71.4854227,
+                    43.5436622
+                ],
+                [
+                    -71.4854513,
+                    43.5436515
+                ],
+                [
+                    -71.4854275,
+                    43.543611
+                ],
+                [
+                    -71.4855489,
+                    43.5435634
+                ],
+                [
+                    -71.4854917,
+                    43.5434623
+                ],
+                [
+                    -71.4855964,
+                    43.5434147
+                ],
+                [
+                    -71.4854954,
+                    43.5432719
+                ],
+                [
+                    -71.4854168,
+                    43.5432993
+                ],
+                [
+                    -71.4853621,
+                    43.5432101
+                ],
+                [
+                    -71.4854311,
+                    43.5431827
+                ],
+                [
+                    -71.4853111,
+                    43.5430002
+                ],
+                [
+                    -71.4848137,
+                    43.5431648
+                ],
+                [
+                    -71.4849718,
+                    43.5434111
+                ],
+                [
+                    -71.4848981,
+                    43.5434409
+                ],
+                [
+                    -71.4849861,
+                    43.5435753
+                ],
+                [
+                    -71.4849445,
+                    43.543592
+                ],
+                [
+                    -71.4850051,
+                    43.5436919
+                ],
+                [
+                    -71.4849647,
+                    43.5437086
+                ],
+                [
+                    -71.4850194,
+                    43.5437954
+                ],
+                [
+                    -71.4851075,
+                    43.5437621
+                ],
+                [
+                    -71.4851919,
+                    43.5438858
+                ],
+                [
+                    -71.4854929,
+                    43.5437776
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004117",
+        "NAME": "BELKNAP COUNTY HOUSE OF CORRECTIONS",
+        "ADDRESS": "76 COUNTY DR",
+        "CITY": "LACONIA",
+        "STATE": "NH",
+        "ZIP": "03246",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 527-5480",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 96,
+        "COUNTY": "BELKNAP",
+        "COUNTYFIPS": "33001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.belknapcounty.org/pages/BelknapCounty_corrections/Index",
+        "SOURCEDATE": "2018/04/05 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.belknapcounty.org/pages/BelknapCounty_corrections/Index",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 110,
+        "SHAPE_Leng": 0.00315834011262,
+        "SHAPE_Length": 0.0031583401126239782,
+        "SHAPE_Area": 4.06372508955e-7
+    },
+    "id": 1202
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb862bb"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4903359,
+                    43.556592
+                ],
+                [
+                    -71.4888606,
+                    43.5592095
+                ],
+                [
+                    -71.4938337,
+                    43.5634211
+                ],
+                [
+                    -71.4966652,
+                    43.5614699
+                ],
+                [
+                    -71.4953565,
+                    43.55752
+                ],
+                [
+                    -71.4903359,
+                    43.556592
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001018",
+        "NAME": "LAKES REGIONAL FACILITY",
+        "ADDRESS": "1 RIGHT WAY PATH",
+        "CITY": "LACONIA",
+        "STATE": "NH",
+        "ZIP": "03246",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "BELKNAP",
+        "COUNTYFIPS": "33001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.nh.gov/nhdoc/facilities/laconia.html",
+        "SOURCEDATE": "2020/02/03 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0222268703642,
+        "SHAPE_Length": 0.022226870364168965,
+        "SHAPE_Area": 0.0000320040806629
+    },
+    "id": 1425
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861ec"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.1458499,
+                    44.5142311
+                ],
+                [
+                    -71.1462518,
+                    44.5137076
+                ],
+                [
+                    -71.1458129,
+                    44.5135437
+                ],
+                [
+                    -71.1454322,
+                    44.5140566
+                ],
+                [
+                    -71.1452894,
+                    44.5139297
+                ],
+                [
+                    -71.1454956,
+                    44.5138451
+                ],
+                [
+                    -71.1465056,
+                    44.512428
+                ],
+                [
+                    -71.1463998,
+                    44.5122905
+                ],
+                [
+                    -71.1468599,
+                    44.5121107
+                ],
+                [
+                    -71.1466748,
+                    44.5118357
+                ],
+                [
+                    -71.1464686,
+                    44.5119045
+                ],
+                [
+                    -71.146421,
+                    44.511878
+                ],
+                [
+                    -71.1461936,
+                    44.5119574
+                ],
+                [
+                    -71.1460138,
+                    44.5116507
+                ],
+                [
+                    -71.14576,
+                    44.5116242
+                ],
+                [
+                    -71.1434069,
+                    44.512502
+                ],
+                [
+                    -71.1433118,
+                    44.5126712
+                ],
+                [
+                    -71.1440097,
+                    44.5137341
+                ],
+                [
+                    -71.1450779,
+                    44.5139773
+                ],
+                [
+                    -71.1452788,
+                    44.5139456
+                ],
+                [
+                    -71.145411,
+                    44.5140831
+                ],
+                [
+                    -71.1458499,
+                    44.5142311
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10004116",
+        "NAME": "NORTHERN NH CORRECTIONAL FACILITY",
+        "ADDRESS": "138 EAST MILAN RD",
+        "CITY": "BERLIN",
+        "STATE": "NH",
+        "ZIP": "03570",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 752-2906",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 641,
+        "COUNTY": "COOS",
+        "COUNTYFIPS": "33007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nh.gov/nhdoc/facilities/berlin.html",
+        "SOURCEDATE": "2017/07/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.nh.gov/nhdoc/facilities/index.html",
+        "SECURELVL": "CLOSE",
+        "CAPACITY": 662,
+        "SHAPE_Leng": 0.0119735036576,
+        "SHAPE_Length": 0.011973503657561583,
+        "SHAPE_Area": 0.00000510664480769
+    },
+    "id": 1219
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8688c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.1385356,
+                    44.5223993
+                ],
+                [
+                    -71.1344475,
+                    44.5185651
+                ],
+                [
+                    -71.1319221,
+                    44.5199336
+                ],
+                [
+                    -71.1360578,
+                    44.5237592
+                ],
+                [
+                    -71.1385356,
+                    44.5223993
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006175",
+        "NAME": "FCI BERLIN",
+        "ADDRESS": "1 SUCCESS LOOP ROAD",
+        "CITY": "BERLIN",
+        "STATE": "NH",
+        "ZIP": "03570",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 342-4000",
+        "TYPE": "FEDERAL",
+        "STATUS": "OPEN",
+        "POPULATION": 867,
+        "COUNTY": "COOS",
+        "COUNTYFIPS": "33007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.bop.gov/about/statistics/population_statistics.jsp, http://jayhurst.net/wp-content/uploads/2013/09/16-0216_Capacities_PP80_population_report.pdf",
+        "SOURCEDATE": "2016/02/16 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.bop.gov/locations/",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 1149,
+        "SHAPE_Leng": 0.0169372096471,
+        "SHAPE_Length": 0.01693720964712705,
+        "SHAPE_Area": 0.0000151900664117
+    },
+    "id": 2914
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8689b"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.1399992,
+                    44.5258553
+                ],
+                [
+                    -71.1409119,
+                    44.5251792
+                ],
+                [
+                    -71.1399921,
+                    44.524559
+                ],
+                [
+                    -71.1390936,
+                    44.5252402
+                ],
+                [
+                    -71.1399992,
+                    44.5258553
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006176",
+        "NAME": "FCI BERLIN CAMP",
+        "ADDRESS": "1 SUCCESS LOOP ROAD",
+        "CITY": "BERLIN",
+        "STATE": "NH",
+        "ZIP": "03570",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 342-4000",
+        "TYPE": "FEDERAL",
+        "STATUS": "OPEN",
+        "POPULATION": 63,
+        "COUNTY": "COOS",
+        "COUNTYFIPS": "33007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.bop.gov/about/statistics/population_statistics.jsp, http://jayhurst.net/wp-content/uploads/2013/09/16-0216_Capacities_PP80_population_report.pdf",
+        "SOURCEDATE": "2016/02/16 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.bop.gov/locations/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 128,
+        "SHAPE_Leng": 0.00446740389013,
+        "SHAPE_Length": 0.004467403890126208,
+        "SHAPE_Area": 0.00000117872169841
+    },
+    "id": 2928
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85ec7"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -72.043907,
+                    44.1135817
+                ],
+                [
+                    -72.044164,
+                    44.1134199
+                ],
+                [
+                    -72.0444496,
+                    44.1132391
+                ],
+                [
+                    -72.0446018,
+                    44.1131629
+                ],
+                [
+                    -72.0446399,
+                    44.1130582
+                ],
+                [
+                    -72.0446685,
+                    44.112925
+                ],
+                [
+                    -72.0446589,
+                    44.1127822
+                ],
+                [
+                    -72.0446018,
+                    44.1126965
+                ],
+                [
+                    -72.0444971,
+                    44.1126394
+                ],
+                [
+                    -72.0443068,
+                    44.1125823
+                ],
+                [
+                    -72.0441985,
+                    44.1125847
+                ],
+                [
+                    -72.044032,
+                    44.1126228
+                ],
+                [
+                    -72.0438797,
+                    44.1128179
+                ],
+                [
+                    -72.0437536,
+                    44.1125062
+                ],
+                [
+                    -72.0431658,
+                    44.1126418
+                ],
+                [
+                    -72.043261,
+                    44.1128679
+                ],
+                [
+                    -72.0429969,
+                    44.1129202
+                ],
+                [
+                    -72.0428708,
+                    44.1129012
+                ],
+                [
+                    -72.0427899,
+                    44.1128203
+                ],
+                [
+                    -72.0426733,
+                    44.1128845
+                ],
+                [
+                    -72.0423068,
+                    44.1125205
+                ],
+                [
+                    -72.0422188,
+                    44.1125109
+                ],
+                [
+                    -72.0421117,
+                    44.1125609
+                ],
+                [
+                    -72.042057,
+                    44.112856
+                ],
+                [
+                    -72.0420023,
+                    44.1128964
+                ],
+                [
+                    -72.0419547,
+                    44.1131439
+                ],
+                [
+                    -72.0424663,
+                    44.1132057
+                ],
+                [
+                    -72.042709,
+                    44.113082
+                ],
+                [
+                    -72.0427375,
+                    44.1129488
+                ],
+                [
+                    -72.0427209,
+                    44.1129273
+                ],
+                [
+                    -72.0427732,
+                    44.112894
+                ],
+                [
+                    -72.0428256,
+                    44.1129607
+                ],
+                [
+                    -72.0428089,
+                    44.1130701
+                ],
+                [
+                    -72.0430885,
+                    44.1131344
+                ],
+                [
+                    -72.0431361,
+                    44.11322
+                ],
+                [
+                    -72.0432503,
+                    44.113201
+                ],
+                [
+                    -72.0432789,
+                    44.1133057
+                ],
+                [
+                    -72.043336,
+                    44.1132866
+                ],
+                [
+                    -72.0434407,
+                    44.1135246
+                ],
+                [
+                    -72.0437547,
+                    44.1134294
+                ],
+                [
+                    -72.0438214,
+                    44.1136198
+                ],
+                [
+                    -72.043907,
+                    44.1135817
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006057",
+        "NAME": "GRAFTON COUNTY DEPARTMENT OF CORRECTIONS",
+        "ADDRESS": "3787 DARTMOUTH COLLEGE HIGHWAY",
+        "CITY": "NORTH HAVERHILL",
+        "STATE": "NH",
+        "ZIP": "03774",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 787-2019",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 103,
+        "COUNTY": "GRAFTON",
+        "COUNTYFIPS": "33009",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nh.gov/nhdoc/divisions/publicinformation/documents/012010_justice_rein_analyses.pdf, http://www.co.grafton.nh.us/all-departments/",
+        "SOURCEDATE": "2016/02/15 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.graftoncountynhdoc.us/grafton-county-department-of-corrections.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 150,
+        "SHAPE_Leng": 0.00808429450264,
+        "SHAPE_Length": 0.008084294502636095,
+        "SHAPE_Area": 0.00000157764136787
+    },
+    "id": 414
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb869ed"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.5320623,
+                    44.989754
+                ],
+                [
+                    -71.5323002,
+                    44.9898301
+                ],
+                [
+                    -71.5324145,
+                    44.9894113
+                ],
+                [
+                    -71.532167,
+                    44.9893352
+                ],
+                [
+                    -71.5320623,
+                    44.989754
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006056",
+        "NAME": "COOS COUNTY DEPARTMENT OF CORRECTIONS",
+        "ADDRESS": "168 COUNTY FARM ROAD",
+        "CITY": "WEST STEWARTSTOWN",
+        "STATE": "NH",
+        "ZIP": "03597",
+        "ZIP4": "-999",
+        "TELEPHONE": "(603) 246-3315",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 39,
+        "COUNTY": "COOS",
+        "COUNTYFIPS": "33007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nh.gov/nhdoc/divisions/publicinformation/documents/012010_justice_rein_analyses.pdf, http://www.cooscountynh.us/departments",
+        "SOURCEDATE": "2016/02/15 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.cooscountynh.us/departments",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 61,
+        "SHAPE_Leng": 0.00137449876147,
+        "SHAPE_Length": 0.0013744987614699652,
+        "SHAPE_Area": 1.09975274167e-7
+    },
+    "id": 3239
+}
+]

@@ -1,0 +1,6372 @@
+[
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86a8c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -105.1913064,
+                    48.1159451
+                ],
+                [
+                    -105.1913007,
+                    48.1158937
+                ],
+                [
+                    -105.1914078,
+                    48.1158894
+                ],
+                [
+                    -105.1914078,
+                    48.1158666
+                ],
+                [
+                    -105.1914463,
+                    48.1158638
+                ],
+                [
+                    -105.1914363,
+                    48.1157667
+                ],
+                [
+                    -105.1913763,
+                    48.1157338
+                ],
+                [
+                    -105.1913706,
+                    48.1156839
+                ],
+                [
+                    -105.1914848,
+                    48.1156753
+                ],
+                [
+                    -105.1914663,
+                    48.1154897
+                ],
+                [
+                    -105.1907453,
+                    48.1155639
+                ],
+                [
+                    -105.190771,
+                    48.1157167
+                ],
+                [
+                    -105.1909937,
+                    48.1156981
+                ],
+                [
+                    -105.1910194,
+                    48.1159566
+                ],
+                [
+                    -105.1913064,
+                    48.1159451
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005661",
+        "NAME": "FORT PECK TRIBES JAIL",
+        "ADDRESS": "809 COURT AVE",
+        "CITY": "POPLAR",
+        "STATE": "MT",
+        "ZIP": "59255",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 768-3204",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": 30,
+        "COUNTY": "ROOSEVELT",
+        "COUNTYFIPS": "30085",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.fortpecktribes.org/adult_corrections.html",
+        "SOURCEDATE": "2018/05/22 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.fortpecktribes.org/adult_corrections.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 20,
+        "SHAPE_Leng": 0.00238774219476,
+        "SHAPE_Length": 0.002387742194761877,
+        "SHAPE_Area": 2.2149504497e-7
+    },
+    "id": 3417
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87189"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -105.1911124,
+                    48.1147484
+                ],
+                [
+                    -105.1911093,
+                    48.1146336
+                ],
+                [
+                    -105.1910762,
+                    48.1146336
+                ],
+                [
+                    -105.1910751,
+                    48.1145715
+                ],
+                [
+                    -105.1911806,
+                    48.1145715
+                ],
+                [
+                    -105.1911693,
+                    48.1143709
+                ],
+                [
+                    -105.1910141,
+                    48.1143729
+                ],
+                [
+                    -105.1910131,
+                    48.1143243
+                ],
+                [
+                    -105.1908962,
+                    48.1143243
+                ],
+                [
+                    -105.1908983,
+                    48.1143678
+                ],
+                [
+                    -105.1906717,
+                    48.1143719
+                ],
+                [
+                    -105.1906728,
+                    48.1144102
+                ],
+                [
+                    -105.1902239,
+                    48.1144205
+                ],
+                [
+                    -105.1902249,
+                    48.1144877
+                ],
+                [
+                    -105.1901204,
+                    48.1144888
+                ],
+                [
+                    -105.1900846,
+                    48.1144675
+                ],
+                [
+                    -105.1900439,
+                    48.1144608
+                ],
+                [
+                    -105.1899963,
+                    48.1144671
+                ],
+                [
+                    -105.1899663,
+                    48.1144826
+                ],
+                [
+                    -105.1899384,
+                    48.1145115
+                ],
+                [
+                    -105.1899353,
+                    48.114555
+                ],
+                [
+                    -105.189896,
+                    48.114555
+                ],
+                [
+                    -105.189896,
+                    48.1145953
+                ],
+                [
+                    -105.1899239,
+                    48.1145953
+                ],
+                [
+                    -105.189928,
+                    48.1147091
+                ],
+                [
+                    -105.1901959,
+                    48.114705
+                ],
+                [
+                    -105.1901959,
+                    48.1147308
+                ],
+                [
+                    -105.1902342,
+                    48.1147308
+                ],
+                [
+                    -105.1902373,
+                    48.1147701
+                ],
+                [
+                    -105.1904297,
+                    48.1147701
+                ],
+                [
+                    -105.1904245,
+                    48.1146408
+                ],
+                [
+                    -105.1905766,
+                    48.1147236
+                ],
+                [
+                    -105.1908807,
+                    48.1147174
+                ],
+                [
+                    -105.1908838,
+                    48.1147494
+                ],
+                [
+                    -105.1911124,
+                    48.1147484
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005660",
+        "NAME": "FORT PECK INDIAN YOUTH SERVICES CENTER",
+        "ADDRESS": "701 COURT AVE",
+        "CITY": "POPLAR",
+        "STATE": "MT",
+        "ZIP": "59255",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 768-2400",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": 12,
+        "COUNTY": "ROOSEVELT",
+        "COUNTYFIPS": "30085",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://fptc.org/",
+        "SOURCEDATE": "2018/05/22 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://fptc.org/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 16,
+        "SHAPE_Leng": 0.00366753277989,
+        "SHAPE_Length": 0.0036675327798858055,
+        "SHAPE_Area": 3.8573800566e-7
+    },
+    "id": 5189
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87171"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.1735689,
+                    47.7192809
+                ],
+                [
+                    -104.1727837,
+                    47.7192595
+                ],
+                [
+                    -104.1727837,
+                    47.7192238
+                ],
+                [
+                    -104.1726552,
+                    47.7192238
+                ],
+                [
+                    -104.1726552,
+                    47.7192666
+                ],
+                [
+                    -104.1724625,
+                    47.7192666
+                ],
+                [
+                    -104.1724553,
+                    47.7196521
+                ],
+                [
+                    -104.1728979,
+                    47.7196592
+                ],
+                [
+                    -104.1728908,
+                    47.7198734
+                ],
+                [
+                    -104.1732191,
+                    47.7198662
+                ],
+                [
+                    -104.173212,
+                    47.7196735
+                ],
+                [
+                    -104.1735761,
+                    47.7196735
+                ],
+                [
+                    -104.1735689,
+                    47.7192809
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006818",
+        "NAME": "RICHLAND COUNTY JAIL",
+        "ADDRESS": "300 12TH AVENUE NW",
+        "CITY": "SIDNEY",
+        "STATE": "MT",
+        "ZIP": "59270",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 433-2919",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "RICHLAND",
+        "COUNTYFIPS": "30083",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.richland.org/index.aspx?nid=411",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.richland.org/index.aspx?nid=411",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 17,
+        "SHAPE_Leng": 0.00350575617813,
+        "SHAPE_Length": 0.003505756178131367,
+        "SHAPE_Area": 5.11042891562e-7
+    },
+    "id": 5181
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86a55"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.1886295,
+                    46.9860342
+                ],
+                [
+                    -104.1888322,
+                    46.9860694
+                ],
+                [
+                    -104.1888684,
+                    46.9859524
+                ],
+                [
+                    -104.1890131,
+                    46.985979
+                ],
+                [
+                    -104.1890319,
+                    46.9859081
+                ],
+                [
+                    -104.1882966,
+                    46.985801
+                ],
+                [
+                    -104.188244,
+                    46.9859505
+                ],
+                [
+                    -104.1886333,
+                    46.9860142
+                ],
+                [
+                    -104.1886295,
+                    46.9860342
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005669",
+        "NAME": "WIBAUX COUNTY JAIL",
+        "ADDRESS": "200 S WIBAUX ST",
+        "CITY": "WIBAUX",
+        "STATE": "MT",
+        "ZIP": "59353",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 796-2415",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "WIBAUX",
+        "COUNTYFIPS": "30109",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.mspoa.org/county_map/county/1653",
+        "SOURCEDATE": "2016/03/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://www.mspoa.org/county_map/county/1653",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00186499565522,
+        "SHAPE_Length": 0.0018649956552209167,
+        "SHAPE_Area": 1.113741044e-7
+    },
+    "id": 3372
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8717b"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.6857209,
+                    47.1315942
+                ],
+                [
+                    -104.685728,
+                    47.1310041
+                ],
+                [
+                    -104.6854282,
+                    47.1309994
+                ],
+                [
+                    -104.685797,
+                    47.1307329
+                ],
+                [
+                    -104.6855186,
+                    47.1305425
+                ],
+                [
+                    -104.6853378,
+                    47.1306615
+                ],
+                [
+                    -104.6849785,
+                    47.130326
+                ],
+                [
+                    -104.6849737,
+                    47.1307876
+                ],
+                [
+                    -104.6844336,
+                    47.1311921
+                ],
+                [
+                    -104.6852094,
+                    47.1315929
+                ],
+                [
+                    -104.6857209,
+                    47.1315942
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001155",
+        "NAME": "DAWSON COUNTY CORRECTIONAL FACILITY",
+        "ADDRESS": "440 COLORADO BLVD",
+        "CITY": "GLENDIVE",
+        "STATE": "MT",
+        "ZIP": "59330",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 377-7600",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 141,
+        "COUNTY": "DAWSON",
+        "COUNTYFIPS": "30021",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/VisitingDawsonCounty",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://cor.mt.gov/Adult/MSP#contracted",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 141,
+        "SHAPE_Leng": 0.00491150643704,
+        "SHAPE_Length": 0.004911506437042309,
+        "SHAPE_Area": 9.22695804505e-7
+    },
+    "id": 5197
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8717d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.6924743,
+                    47.115074
+                ],
+                [
+                    -104.6922935,
+                    47.1149408
+                ],
+                [
+                    -104.6923696,
+                    47.1148075
+                ],
+                [
+                    -104.6920746,
+                    47.1146647
+                ],
+                [
+                    -104.6919128,
+                    47.114817
+                ],
+                [
+                    -104.6916939,
+                    47.1147028
+                ],
+                [
+                    -104.6911323,
+                    47.1152739
+                ],
+                [
+                    -104.6903423,
+                    47.1150169
+                ],
+                [
+                    -104.6901805,
+                    47.1150359
+                ],
+                [
+                    -104.6899711,
+                    47.1153119
+                ],
+                [
+                    -104.6900092,
+                    47.1154071
+                ],
+                [
+                    -104.6903804,
+                    47.115626
+                ],
+                [
+                    -104.690961,
+                    47.1156641
+                ],
+                [
+                    -104.69177,
+                    47.115607
+                ],
+                [
+                    -104.6918937,
+                    47.1154166
+                ],
+                [
+                    -104.6921222,
+                    47.1155023
+                ],
+                [
+                    -104.6924743,
+                    47.115074
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006575",
+        "NAME": "WATCH EAST",
+        "ADDRESS": "700 LITTLE STREET",
+        "CITY": "GLENDIVE",
+        "STATE": "MT",
+        "ZIP": "59330",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 377-6001",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 54,
+        "COUNTY": "DAWSON",
+        "COUNTYFIPS": "30021",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingWATChEast",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.cccscorp.com/programs/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 50,
+        "SHAPE_Leng": 0.00626780830018,
+        "SHAPE_Length": 0.006267808300177121,
+        "SHAPE_Area": 0.00000137632341636
+    },
+    "id": 5202
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87199"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.2767416,
+                    46.360779
+                ],
+                [
+                    -104.2767459,
+                    46.3601094
+                ],
+                [
+                    -104.276536,
+                    46.3601037
+                ],
+                [
+                    -104.276536,
+                    46.3602008
+                ],
+                [
+                    -104.2763833,
+                    46.3602008
+                ],
+                [
+                    -104.2763833,
+                    46.3604763
+                ],
+                [
+                    -104.2763308,
+                    46.3604763
+                ],
+                [
+                    -104.276329,
+                    46.3605134
+                ],
+                [
+                    -104.2756637,
+                    46.3605092
+                ],
+                [
+                    -104.2756637,
+                    46.3607776
+                ],
+                [
+                    -104.2767416,
+                    46.360779
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005676",
+        "NAME": "FALLON COUNTY DETENTION CENTER",
+        "ADDRESS": "10 WEST FALLON AVENUE",
+        "CITY": "BAKER",
+        "STATE": "MT",
+        "ZIP": "59313",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 778-2879",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 3,
+        "COUNTY": "FALLON",
+        "COUNTYFIPS": "30025",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.falloncounty.net/sheriff.html",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://www.falloncounty.net/sheriff/sheriff.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00350616194846,
+        "SHAPE_Length": 0.003506161948459597,
+        "SHAPE_Area": 4.21727453387e-7
+    },
+    "id": 5193
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87177"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -105.4078831,
+                    45.4443982
+                ],
+                [
+                    -105.4078816,
+                    45.4440704
+                ],
+                [
+                    -105.4073274,
+                    45.4440739
+                ],
+                [
+                    -105.4073243,
+                    45.4438512
+                ],
+                [
+                    -105.4069876,
+                    45.4438484
+                ],
+                [
+                    -105.4069904,
+                    45.4444037
+                ],
+                [
+                    -105.4078831,
+                    45.4443982
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005680",
+        "NAME": "POWDER RIVER COUNTY SHERIFF'S OFFICE",
+        "ADDRESS": "114 NORTH PARK AVENUE",
+        "CITY": "BROADUS",
+        "STATE": "MT",
+        "ZIP": "59317",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 436-2333",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "POWDER RIVER",
+        "COUNTYFIPS": "30075",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://prco.mt.gov/Sheriff-Office",
+        "SOURCEDATE": "2020/01/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://prco.mt.gov/Sheriff-Office",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00288968559309,
+        "SHAPE_Length": 0.002889685593089563,
+        "SHAPE_Area": 3.68646601523e-7
+    },
+    "id": 5186
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e34"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -107.6086231,
+                    45.7323019
+                ],
+                [
+                    -107.6086231,
+                    45.7322105
+                ],
+                [
+                    -107.6087944,
+                    45.7322105
+                ],
+                [
+                    -107.6087944,
+                    45.7317265
+                ],
+                [
+                    -107.6087059,
+                    45.7317265
+                ],
+                [
+                    -107.6087059,
+                    45.7316965
+                ],
+                [
+                    -107.6084289,
+                    45.7316965
+                ],
+                [
+                    -107.6084289,
+                    45.7317251
+                ],
+                [
+                    -107.608339,
+                    45.7317265
+                ],
+                [
+                    -107.6083475,
+                    45.7323019
+                ],
+                [
+                    -107.6086231,
+                    45.7323019
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005677",
+        "NAME": "BIG HORN COUNTY SHERIFF'S OFFICE / DETENTION CENTER",
+        "ADDRESS": "121 WEST 3RD STREET",
+        "CITY": "HARDIN",
+        "STATE": "MT",
+        "ZIP": "59034",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 665-9780",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 43,
+        "COUNTY": "BIG HORN",
+        "COUNTYFIPS": "30003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.bighorncountymt.gov/departments/sheriff/",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://www.bighorncountymt.gov/departments/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.002111607098,
+        "SHAPE_Length": 0.0021116070980005397,
+        "SHAPE_Area": 2.52282461058e-7
+    },
+    "id": 266
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8719a"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -106.6738933,
+                    46.266272
+                ],
+                [
+                    -106.6736221,
+                    46.2659437
+                ],
+                [
+                    -106.6732523,
+                    46.2660979
+                ],
+                [
+                    -106.6733023,
+                    46.266155
+                ],
+                [
+                    -106.6732452,
+                    46.2661807
+                ],
+                [
+                    -106.6734736,
+                    46.2664462
+                ],
+                [
+                    -106.6738933,
+                    46.266272
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005672",
+        "NAME": "ROSEBUD COUNTY DETENTION CENTER",
+        "ADDRESS": "180 SOUTH 13TH AVENUE",
+        "CITY": "FORSYTH",
+        "STATE": "MT",
+        "ZIP": "59327",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 346-2715",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 12,
+        "COUNTY": "ROSEBUD",
+        "COUNTYFIPS": "30087",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://rosebudcountymt.gov/departments/sheriff/",
+        "SOURCEDATE": "2018/03/19 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://rosebudcountymt.gov/departments/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 26,
+        "SHAPE_Leng": 0.00176976908567,
+        "SHAPE_Length": 0.001769769085667089,
+        "SHAPE_Area": 1.82134909088e-7
+    },
+    "id": 5187
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87166"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -105.8449324,
+                    46.4075338
+                ],
+                [
+                    -105.844911,
+                    46.4074981
+                ],
+                [
+                    -105.8451966,
+                    46.4074053
+                ],
+                [
+                    -105.8451537,
+                    46.4073554
+                ],
+                [
+                    -105.8452894,
+                    46.4073125
+                ],
+                [
+                    -105.8452251,
+                    46.4071983
+                ],
+                [
+                    -105.8451252,
+                    46.4072269
+                ],
+                [
+                    -105.8450966,
+                    46.4071769
+                ],
+                [
+                    -105.8450395,
+                    46.4071983
+                ],
+                [
+                    -105.8449753,
+                    46.4070698
+                ],
+                [
+                    -105.844547,
+                    46.4072062
+                ],
+                [
+                    -105.8446284,
+                    46.4073275
+                ],
+                [
+                    -105.8444542,
+                    46.4073839
+                ],
+                [
+                    -105.8446041,
+                    46.4076409
+                ],
+                [
+                    -105.8449324,
+                    46.4075338
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005671",
+        "NAME": "CUSTER COUNTY DETENTION CENTER",
+        "ADDRESS": "1010 MAIN STREET",
+        "CITY": "MILES CITY",
+        "STATE": "MT",
+        "ZIP": "59301",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 874-3301",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 29,
+        "COUNTY": "CUSTER",
+        "COUNTYFIPS": "30017",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.custercountymt.com/emergency-enforcement/sheriff/",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://www.custercountymt.com/emergency-enforcement/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 18,
+        "SHAPE_Leng": 0.00246864707739,
+        "SHAPE_Length": 0.0024686470773903997,
+        "SHAPE_Area": 2.54523789563e-7
+    },
+    "id": 5170
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87141"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -105.8220582,
+                    46.4081097
+                ],
+                [
+                    -105.8220582,
+                    46.4073539
+                ],
+                [
+                    -105.8211858,
+                    46.4073539
+                ],
+                [
+                    -105.8208764,
+                    46.4075162
+                ],
+                [
+                    -105.8189666,
+                    46.4075162
+                ],
+                [
+                    -105.8189793,
+                    46.4091876
+                ],
+                [
+                    -105.8201992,
+                    46.4092307
+                ],
+                [
+                    -105.8201992,
+                    46.4088249
+                ],
+                [
+                    -105.8204274,
+                    46.4088249
+                ],
+                [
+                    -105.8204274,
+                    46.409327
+                ],
+                [
+                    -105.8206633,
+                    46.409327
+                ],
+                [
+                    -105.8206633,
+                    46.4091926
+                ],
+                [
+                    -105.8208992,
+                    46.4091926
+                ],
+                [
+                    -105.8208992,
+                    46.4088401
+                ],
+                [
+                    -105.8211427,
+                    46.4088401
+                ],
+                [
+                    -105.8211427,
+                    46.4092966
+                ],
+                [
+                    -105.8218604,
+                    46.4092966
+                ],
+                [
+                    -105.8218604,
+                    46.4091582
+                ],
+                [
+                    -105.8220906,
+                    46.4091582
+                ],
+                [
+                    -105.8220912,
+                    46.4081984
+                ],
+                [
+                    -105.8218819,
+                    46.4081981
+                ],
+                [
+                    -105.8218807,
+                    46.4081097
+                ],
+                [
+                    -105.8220582,
+                    46.4081097
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001158",
+        "NAME": "PINE HILLS YOUTH CORRECTIONAL FACILITY",
+        "ADDRESS": "4 N HAYNES AVE",
+        "CITY": "MILES CITY",
+        "STATE": "MT",
+        "ZIP": "59301",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 232-1377",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 80,
+        "COUNTY": "CUSTER",
+        "COUNTYFIPS": "30017",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/Youth/PineHillsVisiting",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://cor.mt.gov/Youth",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 110,
+        "SHAPE_Leng": 0.0120958952176,
+        "SHAPE_Length": 0.012095895217622296,
+        "SHAPE_Area": 0.00000530460847162
+    },
+    "id": 5141
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87172"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -105.6378791,
+                    48.0875516
+                ],
+                [
+                    -105.6382361,
+                    48.0875373
+                ],
+                [
+                    -105.6382361,
+                    48.0874302
+                ],
+                [
+                    -105.6384359,
+                    48.0874231
+                ],
+                [
+                    -105.6384217,
+                    48.087316
+                ],
+                [
+                    -105.6378934,
+                    48.0873232
+                ],
+                [
+                    -105.6379005,
+                    48.0873803
+                ],
+                [
+                    -105.637715,
+                    48.0873731
+                ],
+                [
+                    -105.6377245,
+                    48.087479
+                ],
+                [
+                    -105.6378791,
+                    48.0874799
+                ],
+                [
+                    -105.6378791,
+                    48.0875516
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005659",
+        "NAME": "ROOSEVELT COUNTY JAIL",
+        "ADDRESS": "416 1/2 2ND AVE S",
+        "CITY": "WOLF POINT",
+        "STATE": "MT",
+        "ZIP": "59201",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 653-6216",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 17,
+        "COUNTY": "ROOSEVELT",
+        "COUNTYFIPS": "30085",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://rooseveltcounty.org/sheriff-coroner/",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://rooseveltcounty.org/sheriff-coroner/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00187651453356,
+        "SHAPE_Length": 0.001876514533559202,
+        "SHAPE_Area": 1.16313833344e-7
+    },
+    "id": 5182
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87176"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -106.6379623,
+                    48.1930622
+                ],
+                [
+                    -106.6380848,
+                    48.1928752
+                ],
+                [
+                    -106.6381919,
+                    48.1929251
+                ],
+                [
+                    -106.6380492,
+                    48.1930822
+                ],
+                [
+                    -106.6382633,
+                    48.1931678
+                ],
+                [
+                    -106.6383061,
+                    48.1931179
+                ],
+                [
+                    -106.6385845,
+                    48.1932035
+                ],
+                [
+                    -106.6387059,
+                    48.1929894
+                ],
+                [
+                    -106.6382562,
+                    48.1928323
+                ],
+                [
+                    -106.6382062,
+                    48.1928823
+                ],
+                [
+                    -106.6381284,
+                    48.1928435
+                ],
+                [
+                    -106.6382326,
+                    48.1927062
+                ],
+                [
+                    -106.6380727,
+                    48.1926491
+                ],
+                [
+                    -106.6382117,
+                    48.1924435
+                ],
+                [
+                    -106.6378709,
+                    48.1923198
+                ],
+                [
+                    -106.6377662,
+                    48.1924607
+                ],
+                [
+                    -106.6377053,
+                    48.1924397
+                ],
+                [
+                    -106.637416,
+                    48.1928433
+                ],
+                [
+                    -106.6375911,
+                    48.1929042
+                ],
+                [
+                    -106.6375131,
+                    48.1930032
+                ],
+                [
+                    -106.6377129,
+                    48.1930736
+                ],
+                [
+                    -106.6377739,
+                    48.1929937
+                ],
+                [
+                    -106.6379623,
+                    48.1930622
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005658",
+        "NAME": "VALLEY COUNTY JAIL / SHERIFF",
+        "ADDRESS": "501 COURT SQUARE",
+        "CITY": "GLASGOW",
+        "STATE": "MT",
+        "ZIP": "59230",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 228-4333",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 27,
+        "COUNTY": "VALLEY",
+        "COUNTYFIPS": "30105",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.valleycountymt.net/judicial_and_law_enforcement/valley_county_sheriff/judicial_and_law_enforcement/jail_information.php",
+        "SOURCEDATE": "2018/03/28 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.valleycountymt.net/judicial_and_law_enforcement/valley_county_sheriff/index.php",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00453553510087,
+        "SHAPE_Length": 0.004535535100872897,
+        "SHAPE_Area": 5.05440625322e-7
+    },
+    "id": 5188
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8719d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -109.4308152,
+                    47.0617128
+                ],
+                [
+                    -109.4305808,
+                    47.0615376
+                ],
+                [
+                    -109.4300972,
+                    47.0618707
+                ],
+                [
+                    -109.4303588,
+                    47.0620385
+                ],
+                [
+                    -109.4308152,
+                    47.0617128
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005666",
+        "NAME": "FERGUS COUNTY SHERIFF'S DEPARTMENT",
+        "ADDRESS": "121 8TH AVENUE SOUTH",
+        "CITY": "LEWISTOWN",
+        "STATE": "MT",
+        "ZIP": "59457",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 535-3415",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "FERGUS",
+        "COUNTYFIPS": "30027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.co.fergus.mt.us/sheriff-coroner-s-office/36-sheriffs-office/sheriff-s-office-news-info/271-detention-facility-inmate-visit-regulation",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.co.fergus.mt.us/sheriff-coroner-s-office/36-sheriffs-office/sheriff-s-office-news-info/271-detention-facility-inmate-visit-regulation",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00175130449623,
+        "SHAPE_Length": 0.0017513044962315328,
+        "SHAPE_Area": 1.62278502004e-7
+    },
+    "id": 5194
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87178"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -109.4265755,
+                    47.0558386
+                ],
+                [
+                    -109.4248147,
+                    47.0558386
+                ],
+                [
+                    -109.4245767,
+                    47.0563025
+                ],
+                [
+                    -109.4245767,
+                    47.056481
+                ],
+                [
+                    -109.4249574,
+                    47.0569569
+                ],
+                [
+                    -109.4265874,
+                    47.0569569
+                ],
+                [
+                    -109.4269205,
+                    47.0564691
+                ],
+                [
+                    -109.4268967,
+                    47.0562193
+                ],
+                [
+                    -109.4265755,
+                    47.0558386
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006569",
+        "NAME": "LEWISTOWN INFIRMARY",
+        "ADDRESS": "800 CASINO CREEK DRIVE",
+        "CITY": "LEWISTOWN",
+        "STATE": "MT",
+        "ZIP": "59457",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 535-6923",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 24,
+        "COUNTY": "FERGUS",
+        "COUNTYFIPS": "30027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://liv.mt.gov/Newsroom/dept-of-corrections-to-move-lewistown-infirmary-residents-to-riverside-campus-in-boulder",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://cor.mt.gov/Adult/MSP#contracted",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 25,
+        "SHAPE_Leng": 0.00603986845279,
+        "SHAPE_Length": 0.00603986845278921,
+        "SHAPE_Area": 0.00000232092860214
+    },
+    "id": 5198
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86626"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -109.4536863,
+                    47.0473036
+                ],
+                [
+                    -109.4538101,
+                    47.0474654
+                ],
+                [
+                    -109.4534769,
+                    47.0476367
+                ],
+                [
+                    -109.4534579,
+                    47.0477699
+                ],
+                [
+                    -109.4535245,
+                    47.0478461
+                ],
+                [
+                    -109.4535055,
+                    47.0479508
+                ],
+                [
+                    -109.4536007,
+                    47.0479888
+                ],
+                [
+                    -109.453753,
+                    47.0481602
+                ],
+                [
+                    -109.4539148,
+                    47.048084
+                ],
+                [
+                    -109.4540385,
+                    47.0481887
+                ],
+                [
+                    -109.4541146,
+                    47.0481506
+                ],
+                [
+                    -109.4543716,
+                    47.0481602
+                ],
+                [
+                    -109.4552377,
+                    47.0477699
+                ],
+                [
+                    -109.4552663,
+                    47.0476462
+                ],
+                [
+                    -109.4546001,
+                    47.0469704
+                ],
+                [
+                    -109.4544954,
+                    47.0469514
+                ],
+                [
+                    -109.4536863,
+                    47.0473036
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006573",
+        "NAME": "NEXUS TREATMENT CENTER",
+        "ADDRESS": "111 SKYLINE DRIVE",
+        "CITY": "LEWISTOWN",
+        "STATE": "MT",
+        "ZIP": "59457",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 535-6660",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 82,
+        "COUNTY": "FERGUS",
+        "COUNTYFIPS": "30027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.cccscorp.com/programs/",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.cccscorp.com/programs/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 82,
+        "SHAPE_Leng": 0.00495008988327,
+        "SHAPE_Length": 0.004950089883272668,
+        "SHAPE_Area": 0.00000140304749997
+    },
+    "id": 2299
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb871a0"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -110.6725848,
+                    47.8171224
+                ],
+                [
+                    -110.6728538,
+                    47.8168739
+                ],
+                [
+                    -110.6729389,
+                    47.816925
+                ],
+                [
+                    -110.673201,
+                    47.8166594
+                ],
+                [
+                    -110.6728912,
+                    47.8164994
+                ],
+                [
+                    -110.672738,
+                    47.816656
+                ],
+                [
+                    -110.6726733,
+                    47.8166186
+                ],
+                [
+                    -110.6725099,
+                    47.8167786
+                ],
+                [
+                    -110.6725712,
+                    47.8168092
+                ],
+                [
+                    -110.6723431,
+                    47.8170169
+                ],
+                [
+                    -110.6725848,
+                    47.8171224
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006434",
+        "NAME": "CHOUTEAU COUNTY DETENTION FACILITY",
+        "ADDRESS": "1215 WASHINGTON ST",
+        "CITY": "FORT BENTON",
+        "STATE": "MT",
+        "ZIP": "59442",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 622-3660",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 6,
+        "COUNTY": "CHOUTEAU",
+        "COUNTYFIPS": "30015",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.chouteaucosomt.com/Pages/Detention%20Center.html",
+        "SOURCEDATE": "2018/01/04 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.chouteaucosomt.com/Pages/Detention%20Center.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 28,
+        "SHAPE_Leng": 0.00235041944074,
+        "SHAPE_Length": 0.0023504194407432356,
+        "SHAPE_Area": 2.28199867276e-7
+    },
+    "id": 5192
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8715c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.2338743,
+                    47.5011271
+                ],
+                [
+                    -111.2336958,
+                    47.5011342
+                ],
+                [
+                    -111.2336958,
+                    47.5014911
+                ],
+                [
+                    -111.2338814,
+                    47.5014911
+                ],
+                [
+                    -111.2338743,
+                    47.5011271
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006577",
+        "NAME": "GREAT FALLS YOUTH TRANSITION CENTER",
+        "ADDRESS": "4212 3RD AVENUE SOUTH",
+        "CITY": "GREAT FALLS",
+        "STATE": "MT",
+        "ZIP": "59405",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 452-1792",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 7,
+        "COUNTY": "CASCADE",
+        "COUNTYFIPS": "30013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://news.mt.gov/youth-transition-center-in-great-falls-to-close",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://cor.mt.gov/Youth",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 7,
+        "SHAPE_Leng": 0.00108524768514,
+        "SHAPE_Length": 0.0010852476851386968,
+        "SHAPE_Area": 6.56320114744e-8
+    },
+    "id": 5142
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87146"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.2802196,
+                    47.5170581
+                ],
+                [
+                    -111.2806451,
+                    47.5171038
+                ],
+                [
+                    -111.2806836,
+                    47.5169339
+                ],
+                [
+                    -111.2804309,
+                    47.5169082
+                ],
+                [
+                    -111.2804395,
+                    47.516844
+                ],
+                [
+                    -111.2802767,
+                    47.5168268
+                ],
+                [
+                    -111.2802753,
+                    47.5164671
+                ],
+                [
+                    -111.2795258,
+                    47.5164656
+                ],
+                [
+                    -111.2794201,
+                    47.5170124
+                ],
+                [
+                    -111.2798399,
+                    47.5170538
+                ],
+                [
+                    -111.2802196,
+                    47.5170581
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001156",
+        "NAME": "GREAT FALLS WOMEN'S PRE-RELEASE CENTER",
+        "ADDRESS": "1019 15TH ST N",
+        "CITY": "GREAT FALLS",
+        "STATE": "MT",
+        "ZIP": "59401",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 727-0944",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 27,
+        "COUNTY": "CASCADE",
+        "COUNTYFIPS": "30013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingGreatFallsPrerelease",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.gfprc.org/index.html",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 40,
+        "SHAPE_Leng": 0.00355235927949,
+        "SHAPE_Length": 0.003552359279490993,
+        "SHAPE_Area": 5.44076811588e-7
+    },
+    "id": 5148
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87148"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.2783711,
+                    47.5166772
+                ],
+                [
+                    -111.2783711,
+                    47.516613
+                ],
+                [
+                    -111.278414,
+                    47.5166272
+                ],
+                [
+                    -111.2784354,
+                    47.5164631
+                ],
+                [
+                    -111.2781855,
+                    47.5163988
+                ],
+                [
+                    -111.2779714,
+                    47.5163774
+                ],
+                [
+                    -111.2779785,
+                    47.5164845
+                ],
+                [
+                    -111.2775502,
+                    47.5164559
+                ],
+                [
+                    -111.2775645,
+                    47.5166415
+                ],
+                [
+                    -111.2779571,
+                    47.5166415
+                ],
+                [
+                    -111.27795,
+                    47.5168271
+                ],
+                [
+                    -111.2781998,
+                    47.5168343
+                ],
+                [
+                    -111.2782069,
+                    47.5166915
+                ],
+                [
+                    -111.2783711,
+                    47.5166772
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006580",
+        "NAME": "GREAT FALLS PRE-RELEASE EAST CAMPUS",
+        "ADDRESS": "1715 10TH AVE NORTH",
+        "CITY": "GREAT FALLS",
+        "STATE": "MT",
+        "ZIP": "59401",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 727-0944",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 155,
+        "COUNTY": "CASCADE",
+        "COUNTYFIPS": "30013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingGreatFallsPrerelease",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.gfprc.org/index.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 148,
+        "SHAPE_Leng": 0.00260691020363,
+        "SHAPE_Length": 0.0026069102036342814,
+        "SHAPE_Area": 2.2894754966e-7
+    },
+    "id": 5149
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85fcc"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.2642735,
+                    47.4888058
+                ],
+                [
+                    -111.2642797,
+                    47.4872496
+                ],
+                [
+                    -111.2628275,
+                    47.4872434
+                ],
+                [
+                    -111.2628093,
+                    47.4888013
+                ],
+                [
+                    -111.2642735,
+                    47.4888058
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003622",
+        "NAME": "CASCADE COUNTY REGIONAL YOUTH SERVICES CENTER",
+        "ADDRESS": "1600 26TH ST S",
+        "CITY": "GREAT FALLS",
+        "STATE": "MT",
+        "ZIP": "59405",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 454-6930",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CASCADE",
+        "COUNTYFIPS": "30013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.cascadecountymt.gov/departments/juvenile-detention-center",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.cascadecountymt.gov/departments/juvenile-detention-center",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 24,
+        "SHAPE_Leng": 0.00603058118937,
+        "SHAPE_Length": 0.00603058118937263,
+        "SHAPE_Area": 0.00000227051093155
+    },
+    "id": 651
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8719e"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.3693081,
+                    47.4690169
+                ],
+                [
+                    -111.3692843,
+                    47.4685589
+                ],
+                [
+                    -111.3684628,
+                    47.4679617
+                ],
+                [
+                    -111.36584,
+                    47.4695553
+                ],
+                [
+                    -111.3663397,
+                    47.4699062
+                ],
+                [
+                    -111.3669137,
+                    47.4699271
+                ],
+                [
+                    -111.3669375,
+                    47.4696534
+                ],
+                [
+                    -111.3669851,
+                    47.4696534
+                ],
+                [
+                    -111.366994,
+                    47.4694869
+                ],
+                [
+                    -111.3672141,
+                    47.4696564
+                ],
+                [
+                    -111.3679875,
+                    47.4691775
+                ],
+                [
+                    -111.3678975,
+                    47.4691103
+                ],
+                [
+                    -111.3680886,
+                    47.4689931
+                ],
+                [
+                    -111.3681897,
+                    47.4690764
+                ],
+                [
+                    -111.3683265,
+                    47.4689872
+                ],
+                [
+                    -111.3682255,
+                    47.4689038
+                ],
+                [
+                    -111.3683809,
+                    47.4688072
+                ],
+                [
+                    -111.3684217,
+                    47.4688355
+                ],
+                [
+                    -111.3685883,
+                    47.4687284
+                ],
+                [
+                    -111.3689303,
+                    47.4688414
+                ],
+                [
+                    -111.3689987,
+                    47.4688444
+                ],
+                [
+                    -111.3689898,
+                    47.469011
+                ],
+                [
+                    -111.3693081,
+                    47.4690169
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001933",
+        "NAME": "CASCADE COUNTY REGIONAL PRISON",
+        "ADDRESS": "3800 ULM NORTH FRONTAGE RD",
+        "CITY": "GREAT FALLS",
+        "STATE": "MT",
+        "ZIP": "59404",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 454-6823",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 152,
+        "COUNTY": "CASCADE",
+        "COUNTYFIPS": "30013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/VisitingCascadeCounty",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://cor.mt.gov/Adult/MSP#contracted",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 152,
+        "SHAPE_Leng": 0.00951109284268,
+        "SHAPE_Length": 0.009511092842676339,
+        "SHAPE_Area": 0.00000250568345526
+    },
+    "id": 5196
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8719b"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.0365015,
+                    46.5861844
+                ],
+                [
+                    -112.0364432,
+                    46.5862558
+                ],
+                [
+                    -112.0364956,
+                    46.586276
+                ],
+                [
+                    -112.0364682,
+                    46.5863082
+                ],
+                [
+                    -112.0365479,
+                    46.5863415
+                ],
+                [
+                    -112.0365324,
+                    46.5863605
+                ],
+                [
+                    -112.0367954,
+                    46.586464
+                ],
+                [
+                    -112.0368085,
+                    46.5864438
+                ],
+                [
+                    -112.0369024,
+                    46.5864807
+                ],
+                [
+                    -112.036931,
+                    46.5864402
+                ],
+                [
+                    -112.036981,
+                    46.5864628
+                ],
+                [
+                    -112.0370976,
+                    46.5863189
+                ],
+                [
+                    -112.03705,
+                    46.5862939
+                ],
+                [
+                    -112.0370726,
+                    46.5862606
+                ],
+                [
+                    -112.0369905,
+                    46.5862296
+                ],
+                [
+                    -112.0370024,
+                    46.5862118
+                ],
+                [
+                    -112.0366538,
+                    46.5860821
+                ],
+                [
+                    -112.0366169,
+                    46.5861321
+                ],
+                [
+                    -112.0365312,
+                    46.5861
+                ],
+                [
+                    -112.0365194,
+                    46.586119
+                ],
+                [
+                    -112.0364614,
+                    46.5860955
+                ],
+                [
+                    -112.036422,
+                    46.5861517
+                ],
+                [
+                    -112.0365015,
+                    46.5861844
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001153",
+        "NAME": "LEWIS & CLARK COUNTY DETENTION CENTER",
+        "ADDRESS": "221 BRECKENRIDGE ST",
+        "CITY": "HELENA",
+        "STATE": "MT",
+        "ZIP": "59601",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 447-8232",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 86,
+        "COUNTY": "LEWIS AND CLARK",
+        "COUNTYFIPS": "30049",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.lccountymt.gov/sheriff/dcbi.html",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://www.lccountymt.gov/sheriff/dcbi.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 58,
+        "SHAPE_Leng": 0.00196685836544,
+        "SHAPE_Length": 0.00196685836543899,
+        "SHAPE_Area": 1.62668401776e-7
+    },
+    "id": 5190
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb86cd7"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.9737879,
+                    46.5942539
+                ],
+                [
+                    -111.9739754,
+                    46.5942539
+                ],
+                [
+                    -111.9739754,
+                    46.5940321
+                ],
+                [
+                    -111.9741211,
+                    46.5940321
+                ],
+                [
+                    -111.9741211,
+                    46.5937865
+                ],
+                [
+                    -111.9740649,
+                    46.5937865
+                ],
+                [
+                    -111.9740658,
+                    46.5937361
+                ],
+                [
+                    -111.9740278,
+                    46.5937361
+                ],
+                [
+                    -111.9740278,
+                    46.5936038
+                ],
+                [
+                    -111.9736947,
+                    46.5936038
+                ],
+                [
+                    -111.9736947,
+                    46.5937361
+                ],
+                [
+                    -111.9737499,
+                    46.5937361
+                ],
+                [
+                    -111.9737499,
+                    46.5937865
+                ],
+                [
+                    -111.9733177,
+                    46.5937865
+                ],
+                [
+                    -111.9733177,
+                    46.593915
+                ],
+                [
+                    -111.9735252,
+                    46.593915
+                ],
+                [
+                    -111.9735252,
+                    46.5939388
+                ],
+                [
+                    -111.9735559,
+                    46.5939668
+                ],
+                [
+                    -111.9733311,
+                    46.5941203
+                ],
+                [
+                    -111.973471,
+                    46.5942168
+                ],
+                [
+                    -111.9737632,
+                    46.5940197
+                ],
+                [
+                    -111.9737632,
+                    46.594054
+                ],
+                [
+                    -111.9737879,
+                    46.594054
+                ],
+                [
+                    -111.9737879,
+                    46.5942539
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001154",
+        "NAME": "HELENA PRE-RELEASE CENTER",
+        "ADDRESS": "805 COLLEEN ST",
+        "CITY": "HELENA",
+        "STATE": "MT",
+        "ZIP": "59601",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 442-6572",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 111,
+        "COUNTY": "LEWIS AND CLARK",
+        "COUNTYFIPS": "30049",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingHelenaPrerelease",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://www.boydandrew.com/services/helena-pre-release-center/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 121,
+        "SHAPE_Leng": 0.00353539202502,
+        "SHAPE_Length": 0.0035353920250245814,
+        "SHAPE_Area": 3.14329498506e-7
+    },
+    "id": 4010
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86a43"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -110.9049043,
+                    46.545289
+                ],
+                [
+                    -110.9049033,
+                    46.5451367
+                ],
+                [
+                    -110.9045873,
+                    46.5451386
+                ],
+                [
+                    -110.904594,
+                    46.5452909
+                ],
+                [
+                    -110.9049043,
+                    46.545289
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005670",
+        "NAME": "MEAGHER COUNTY SHERIFF'S DEPARTMENT",
+        "ADDRESS": "101 WEST CRAWFORD STREET",
+        "CITY": "WHITE SULPHUR SPRINGS",
+        "STATE": "MT",
+        "ZIP": "59645",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 547-3397",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "MEAGHER",
+        "COUNTYFIPS": "30059",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://sheriff.meaghercounty.net/node/7",
+        "SOURCEDATE": "2020/01/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://sheriff.meaghercounty.net/node/7",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00093100620393,
+        "SHAPE_Length": 0.0009310062039298789,
+        "SHAPE_Area": 4.76936297073e-8
+    },
+    "id": 3310
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86a41"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.5159554,
+                    46.3214915
+                ],
+                [
+                    -111.5158393,
+                    46.3213026
+                ],
+                [
+                    -111.5154102,
+                    46.3214186
+                ],
+                [
+                    -111.515367,
+                    46.3213619
+                ],
+                [
+                    -111.5150351,
+                    46.3214618
+                ],
+                [
+                    -111.5152105,
+                    46.3217398
+                ],
+                [
+                    -111.5159554,
+                    46.3214915
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005673",
+        "NAME": "BROADWATER COUNTY DETENTION CENTER",
+        "ADDRESS": "519 BROADWAY STREET",
+        "CITY": "TOWNSEND",
+        "STATE": "MT",
+        "ZIP": "59644",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 266-3441",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 30,
+        "COUNTY": "BROADWATER",
+        "COUNTYFIPS": "30007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.broadwatercountysheriff.org/detention_center",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://www.broadwatercountysheriff.org/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 50,
+        "SHAPE_Leng": 0.00219793042793,
+        "SHAPE_Length": 0.002197930427927024,
+        "SHAPE_Area": 2.09560364696e-7
+    },
+    "id": 3293
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e35"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.0591608,
+                    45.6747393
+                ],
+                [
+                    -111.0592541,
+                    45.6746841
+                ],
+                [
+                    -111.0592617,
+                    45.6740826
+                ],
+                [
+                    -111.0592236,
+                    45.6740826
+                ],
+                [
+                    -111.0592236,
+                    45.6739094
+                ],
+                [
+                    -111.0594444,
+                    45.6739113
+                ],
+                [
+                    -111.0594444,
+                    45.6737305
+                ],
+                [
+                    -111.0589876,
+                    45.6737267
+                ],
+                [
+                    -111.0589666,
+                    45.6736848
+                ],
+                [
+                    -111.0589266,
+                    45.67366
+                ],
+                [
+                    -111.0589266,
+                    45.6734659
+                ],
+                [
+                    -111.0583689,
+                    45.6734602
+                ],
+                [
+                    -111.0583689,
+                    45.6736676
+                ],
+                [
+                    -111.058129,
+                    45.6738313
+                ],
+                [
+                    -111.0580453,
+                    45.6737704
+                ],
+                [
+                    -111.0579349,
+                    45.6737704
+                ],
+                [
+                    -111.0579292,
+                    45.6746118
+                ],
+                [
+                    -111.0581195,
+                    45.6747374
+                ],
+                [
+                    -111.0591608,
+                    45.6747393
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003630",
+        "NAME": "GALLATIN COUNTY DETENTION CENTER",
+        "ADDRESS": "605 SOUTH 16TH AVE",
+        "CITY": "BOZEMAN",
+        "STATE": "MT",
+        "ZIP": "59715",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 582-2130",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 151,
+        "COUNTY": "GALLATIN",
+        "COUNTYFIPS": "30031",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://gallatincomt.virtualtownhall.net/detention-center",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://gallatincomt.virtualtownhall.net/Public_Documents/GallatinCoMT_WebDocs/departments",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 160,
+        "SHAPE_Leng": 0.00544815060076,
+        "SHAPE_Length": 0.00544815060076128,
+        "SHAPE_Area": 0.00000148743403505
+    },
+    "id": 267
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb86ce3"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.0585216,
+                    45.6725604
+                ],
+                [
+                    -111.0580219,
+                    45.6725461
+                ],
+                [
+                    -111.0580219,
+                    45.6727603
+                ],
+                [
+                    -111.0581718,
+                    45.6727674
+                ],
+                [
+                    -111.0581718,
+                    45.6728674
+                ],
+                [
+                    -111.0585073,
+                    45.6728602
+                ],
+                [
+                    -111.0585216,
+                    45.6725604
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006579",
+        "NAME": "GALLATIN COUNTY REENTRY PROGRAM",
+        "ADDRESS": "675 SOUTH 16TH AVENUE",
+        "CITY": "BOZEMAN",
+        "STATE": "MT",
+        "ZIP": "59715",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 994-0300",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 41,
+        "COUNTY": "GALLATIN",
+        "COUNTYFIPS": "30031",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingGallatinCountyReentry",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.cccscorp.com/programs/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 40,
+        "SHAPE_Leng": 0.00159978845231,
+        "SHAPE_Length": 0.0015997884523095685,
+        "SHAPE_Area": 1.37990406639e-7
+    },
+    "id": 4008
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86a65"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -109.8363966,
+                    46.4369652
+                ],
+                [
+                    -109.8361968,
+                    46.4367796
+                ],
+                [
+                    -109.8361554,
+                    46.4367996
+                ],
+                [
+                    -109.8359312,
+                    46.4366069
+                ],
+                [
+                    -109.8357071,
+                    46.4367354
+                ],
+                [
+                    -109.8359269,
+                    46.436931
+                ],
+                [
+                    -109.8359755,
+                    46.4369039
+                ],
+                [
+                    -109.8361711,
+                    46.4370866
+                ],
+                [
+                    -109.8363966,
+                    46.4369652
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005675",
+        "NAME": "WHEATLAND COUNTY SHERIFF'S OFFICE",
+        "ADDRESS": "203 A AVENUE NORTHWEST",
+        "CITY": "HARLOWTON",
+        "STATE": "MT",
+        "ZIP": "59036",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 632-5614",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "WHEATLAND",
+        "COUNTYFIPS": "30107",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.mspoa.org/county_map/county/1652",
+        "SOURCEDATE": "2020/01/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://www.mspoa.org/county_map/county/1652",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00174640555165,
+        "SHAPE_Length": 0.0017464055516450239,
+        "SHAPE_Area": 1.38655734077e-7
+    },
+    "id": 3388
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87170"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -108.5418034,
+                    46.4497684
+                ],
+                [
+                    -108.5418034,
+                    46.4495724
+                ],
+                [
+                    -108.5412419,
+                    46.4495802
+                ],
+                [
+                    -108.5412483,
+                    46.4497748
+                ],
+                [
+                    -108.5418034,
+                    46.4497684
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005674",
+        "NAME": "MUSSELSHELL COUNTY SHERIFF'S OFFICE",
+        "ADDRESS": "820 MAIN STREET",
+        "CITY": "ROUNDUP",
+        "STATE": "MT",
+        "ZIP": "59072",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 323-1402",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "MUSSELSHELL",
+        "COUNTYFIPS": "30065",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://musselshellcounty.org/public-office/sheriffs-office/",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://musselshellcounty.org/public-office/sheriffs-office/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0015072981243,
+        "SHAPE_Length": 0.0015072981243024947,
+        "SHAPE_Area": 1.09036744442e-7
+    },
+    "id": 5180
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86a51"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -108.5016912,
+                    45.7570536
+                ],
+                [
+                    -108.5017144,
+                    45.7566707
+                ],
+                [
+                    -108.5016758,
+                    45.7566692
+                ],
+                [
+                    -108.5016928,
+                    45.756382
+                ],
+                [
+                    -108.501665,
+                    45.7563804
+                ],
+                [
+                    -108.5016789,
+                    45.7557984
+                ],
+                [
+                    -108.5016156,
+                    45.7557984
+                ],
+                [
+                    -108.5015847,
+                    45.7557706
+                ],
+                [
+                    -108.5012821,
+                    45.7557737
+                ],
+                [
+                    -108.5012821,
+                    45.7556208
+                ],
+                [
+                    -108.5011184,
+                    45.7556193
+                ],
+                [
+                    -108.5006784,
+                    45.7559342
+                ],
+                [
+                    -108.5006815,
+                    45.7560516
+                ],
+                [
+                    -108.5009192,
+                    45.7560531
+                ],
+                [
+                    -108.5009192,
+                    45.7561334
+                ],
+                [
+                    -108.5007139,
+                    45.7562724
+                ],
+                [
+                    -108.5007556,
+                    45.756348
+                ],
+                [
+                    -108.5009161,
+                    45.756348
+                ],
+                [
+                    -108.5009161,
+                    45.7564329
+                ],
+                [
+                    -108.5007154,
+                    45.7565688
+                ],
+                [
+                    -108.5007525,
+                    45.7566429
+                ],
+                [
+                    -108.501103,
+                    45.7566475
+                ],
+                [
+                    -108.5010987,
+                    45.7568947
+                ],
+                [
+                    -108.5011416,
+                    45.7568946
+                ],
+                [
+                    -108.5011416,
+                    45.7570536
+                ],
+                [
+                    -108.5016912,
+                    45.7570536
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003627",
+        "NAME": "YELLOWSTONE COUNTY DETENTION FACILITY",
+        "ADDRESS": "3165 KING AVE E",
+        "CITY": "BILLINGS",
+        "STATE": "MT",
+        "ZIP": "59101",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 256-6881",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 502,
+        "COUNTY": "YELLOWSTONE",
+        "COUNTYFIPS": "30111",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.co.yellowstone.mt.gov/sheriff/detention/dcsearch.asp",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.co.yellowstone.mt.gov/sheriff/detention/dcsearch.asp",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 274,
+        "SHAPE_Leng": 0.00527491354884,
+        "SHAPE_Length": 0.005274913548842405,
+        "SHAPE_Area": 0.00000104430890731
+    },
+    "id": 3366
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87140"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -108.4935567,
+                    45.7722409
+                ],
+                [
+                    -108.4931569,
+                    45.7718126
+                ],
+                [
+                    -108.4919672,
+                    45.7721743
+                ],
+                [
+                    -108.4921004,
+                    45.7723647
+                ],
+                [
+                    -108.4930522,
+                    45.7720982
+                ],
+                [
+                    -108.4933282,
+                    45.7723552
+                ],
+                [
+                    -108.4935567,
+                    45.7722409
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006570",
+        "NAME": "PASSAGES WOMEN'S COMMUNITY CORRECTIONAL FACILITY",
+        "ADDRESS": "1001 SOUTH 27TH STREET",
+        "CITY": "BILLINGS",
+        "STATE": "MT",
+        "ZIP": "59101",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "MULTI",
+        "STATUS": "OPEN",
+        "POPULATION": 124,
+        "COUNTY": "YELLOWSTONE",
+        "COUNTYFIPS": "30111",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://altinc.net/passages/",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://altinc.net/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 184,
+        "SHAPE_Leng": 0.00368262980523,
+        "SHAPE_Length": 0.0036826298052344557,
+        "SHAPE_Area": 3.83872247487e-7
+    },
+    "id": 5143
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86629"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -108.4953846,
+                    45.7756102
+                ],
+                [
+                    -108.4954352,
+                    45.7756607
+                ],
+                [
+                    -108.4956255,
+                    45.7755626
+                ],
+                [
+                    -108.4955709,
+                    45.7755069
+                ],
+                [
+                    -108.496027,
+                    45.775283
+                ],
+                [
+                    -108.495968,
+                    45.7752185
+                ],
+                [
+                    -108.4961609,
+                    45.7751254
+                ],
+                [
+                    -108.4961112,
+                    45.7750648
+                ],
+                [
+                    -108.4964134,
+                    45.7749221
+                ],
+                [
+                    -108.4964494,
+                    45.774816
+                ],
+                [
+                    -108.4960092,
+                    45.7743669
+                ],
+                [
+                    -108.495914,
+                    45.774355
+                ],
+                [
+                    -108.4952864,
+                    45.7746554
+                ],
+                [
+                    -108.4953102,
+                    45.7746762
+                ],
+                [
+                    -108.4949533,
+                    45.7748517
+                ],
+                [
+                    -108.4950039,
+                    45.7749023
+                ],
+                [
+                    -108.4948373,
+                    45.7749796
+                ],
+                [
+                    -108.4947005,
+                    45.774938
+                ],
+                [
+                    -108.494406,
+                    45.7750807
+                ],
+                [
+                    -108.4950723,
+                    45.7757619
+                ],
+                [
+                    -108.4953846,
+                    45.7756102
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003626",
+        "NAME": "MONTANA WOMEN'S PRISON",
+        "ADDRESS": "701 S 27TH ST",
+        "CITY": "BILLINGS",
+        "STATE": "MT",
+        "ZIP": "59101",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 247-5100",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 208,
+        "COUNTY": "YELLOWSTONE",
+        "COUNTYFIPS": "30111",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/Adult/MWP",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://cor.mt.gov/Adult",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 194,
+        "SHAPE_Leng": 0.00557329824489,
+        "SHAPE_Length": 0.005573298244894875,
+        "SHAPE_Area": 0.00000143537782603
+    },
+    "id": 2277
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb86cd5"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -108.5104263,
+                    45.7804348
+                ],
+                [
+                    -108.510155,
+                    45.7801207
+                ],
+                [
+                    -108.5096625,
+                    45.7803634
+                ],
+                [
+                    -108.5099766,
+                    45.7806846
+                ],
+                [
+                    -108.5104263,
+                    45.7804348
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006578",
+        "NAME": "ALPHA HOUSE PRE-RELEASE CENTER",
+        "ADDRESS": "3109 1ST AVENUE NORTH",
+        "CITY": "BILLINGS",
+        "STATE": "MT",
+        "ZIP": "59101",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 259-9695",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "YELLOWSTONE",
+        "COUNTYFIPS": "30111",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingAlphaHousePrerelease",
+        "SOURCEDATE": "2017/12/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://altinc.net/alpha-house/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00192783198687,
+        "SHAPE_Length": 0.0019278319868651194,
+        "SHAPE_Area": 2.21737163179e-7
+    },
+    "id": 4009
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e33"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.6344164,
+                    45.2155999
+                ],
+                [
+                    -112.6342165,
+                    45.2154762
+                ],
+                [
+                    -112.6340623,
+                    45.2156133
+                ],
+                [
+                    -112.633997,
+                    45.2155771
+                ],
+                [
+                    -112.63383,
+                    45.215727
+                ],
+                [
+                    -112.6341384,
+                    45.2159154
+                ],
+                [
+                    -112.6342812,
+                    45.2157755
+                ],
+                [
+                    -112.6344999,
+                    45.215912
+                ],
+                [
+                    -112.6346709,
+                    45.2157627
+                ],
+                [
+                    -112.6345553,
+                    45.2156927
+                ],
+                [
+                    -112.6346829,
+                    45.2155809
+                ],
+                [
+                    -112.6345458,
+                    45.2154895
+                ],
+                [
+                    -112.6344164,
+                    45.2155999
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005678",
+        "NAME": "BEAVERHEAD COUNTY DETENTION CENTER",
+        "ADDRESS": "2 SOUTH PACIFIC STREET",
+        "CITY": "DILLON",
+        "STATE": "MT",
+        "ZIP": "59725",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 683-3700 EXT 3718",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 14,
+        "COUNTY": "BEAVERHEAD",
+        "COUNTYFIPS": "30001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://beaverheadcounty.org/departments/sheriff/#department-wrap",
+        "SOURCEDATE": "2018/03/28 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://beaverheadcounty.org/departments/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0024263042242,
+        "SHAPE_Length": 0.002426304224196736,
+        "SHAPE_Area": 2.15643370906e-7
+    },
+    "id": 265
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8716c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.9568927,
+                    45.2999731
+                ],
+                [
+                    -111.9562473,
+                    45.299411
+                ],
+                [
+                    -111.9552836,
+                    45.2996965
+                ],
+                [
+                    -111.9559142,
+                    45.3004639
+                ],
+                [
+                    -111.9568927,
+                    45.2999731
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005679",
+        "NAME": "MADISON COUNTY SHERIFF'S DEPARTMENT",
+        "ADDRESS": "5 PLACER LOOP",
+        "CITY": "VIRGINIA CITY",
+        "STATE": "MT",
+        "ZIP": "59755",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 843-5301",
+        "TYPE": "COUNTY",
+        "STATUS": "NOT AVAILABLE",
+        "POPULATION": -999,
+        "COUNTY": "MADISON",
+        "COUNTYFIPS": "30057",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://madisoncountymt.gov/154/Sheriffs-Office",
+        "SOURCEDATE": "2020/01/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://madisoncountymt.gov/154/Sheriffs-Office",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00394893961676,
+        "SHAPE_Length": 0.003948939616759951,
+        "SHAPE_Area": 8.93198662088e-7
+    },
+    "id": 5176
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87151"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.5232245,
+                    46.0126417
+                ],
+                [
+                    -112.5248235,
+                    46.0126702
+                ],
+                [
+                    -112.5248139,
+                    46.0119183
+                ],
+                [
+                    -112.5232245,
+                    46.0119564
+                ],
+                [
+                    -112.5232245,
+                    46.0126417
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001161",
+        "NAME": "MONTANA CHEMICAL DEPENDENCY CENTER",
+        "ADDRESS": "525 E. MERCURY",
+        "CITY": "BUTTE",
+        "STATE": "MT",
+        "ZIP": "59701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 496-5400",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 0,
+        "COUNTY": "SILVER BOW",
+        "COUNTYFIPS": "30093",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://dphhs.mt.gov/amdd/MCDC",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://dphhs.mt.gov/amdd/MCDC",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 5,
+        "SHAPE_Leng": 0.00462644306346,
+        "SHAPE_Length": 0.004626443063455577,
+        "SHAPE_Area": 0.00000114563801073
+    },
+    "id": 5160
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86616"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.5383841,
+                    46.0138867
+                ],
+                [
+                    -112.5383556,
+                    46.0135964
+                ],
+                [
+                    -112.537618,
+                    46.0136654
+                ],
+                [
+                    -112.5376537,
+                    46.0139557
+                ],
+                [
+                    -112.5383841,
+                    46.0138867
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006184",
+        "NAME": "CONNECTIONS CORRECTIONS - BUTTE",
+        "ADDRESS": "111 WEST BROADWAY",
+        "CITY": "BUTTE",
+        "STATE": "MT",
+        "ZIP": "59701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 782-6626",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 52,
+        "COUNTY": "SILVER BOW",
+        "COUNTYFIPS": "30093",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingConnectionsCorrectionsEast",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.cccscorp.com/programs/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 52,
+        "SHAPE_Leng": 0.00205877534303,
+        "SHAPE_Length": 0.002058775343033978,
+        "SHAPE_Area": 2.15310990285e-7
+    },
+    "id": 2285
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85df0"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.5379015,
+                    46.0134603
+                ],
+                [
+                    -112.5378771,
+                    46.0131724
+                ],
+                [
+                    -112.5373684,
+                    46.0132245
+                ],
+                [
+                    -112.5374041,
+                    46.0134886
+                ],
+                [
+                    -112.5379015,
+                    46.0134603
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001936",
+        "NAME": "BUTTE PRE-RELEASE / WOMEN'S TRANSITIONAL CENTER",
+        "ADDRESS": "62 W BROADWAY ST",
+        "CITY": "BUTTE",
+        "STATE": "MT",
+        "ZIP": "59701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 496-5070",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 204,
+        "COUNTY": "SILVER BOW",
+        "COUNTYFIPS": "30093",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingButtePrerelease",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.cccscorp.com/programs/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 220,
+        "SHAPE_Leng": 0.00156501255906,
+        "SHAPE_Length": 0.0015650125590563199,
+        "SHAPE_Area": 1.40056694126e-7
+    },
+    "id": 199
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87173"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.5393433,
+                    46.0158396
+                ],
+                [
+                    -112.5392993,
+                    46.0152412
+                ],
+                [
+                    -112.5390245,
+                    46.0152453
+                ],
+                [
+                    -112.5390197,
+                    46.0152079
+                ],
+                [
+                    -112.53889,
+                    46.0152114
+                ],
+                [
+                    -112.5388912,
+                    46.0152472
+                ],
+                [
+                    -112.5388198,
+                    46.0152483
+                ],
+                [
+                    -112.5388317,
+                    46.0154946
+                ],
+                [
+                    -112.5389555,
+                    46.0154946
+                ],
+                [
+                    -112.5389828,
+                    46.0158479
+                ],
+                [
+                    -112.5393433,
+                    46.0158396
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001935",
+        "NAME": "BUTTE SILVER BOW DETENTION FACILITY",
+        "ADDRESS": "155 W QUARTZ ST",
+        "CITY": "BUTTE",
+        "STATE": "MT",
+        "ZIP": "59701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 497-1040",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 101,
+        "COUNTY": "SILVER BOW",
+        "COUNTYFIPS": "30093",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://co.silverbow.mt.us/230/Detention-Center",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://co.silverbow.mt.us/230/Detention-Center",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 72,
+        "SHAPE_Leng": 0.00223488948292,
+        "SHAPE_Length": 0.002234889482917756,
+        "SHAPE_Area": 2.51841940912e-7
+    },
+    "id": 5183
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86ad7"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.1208584,
+                    46.2362578
+                ],
+                [
+                    -112.1208825,
+                    46.2361931
+                ],
+                [
+                    -112.1208422,
+                    46.2361835
+                ],
+                [
+                    -112.120885,
+                    46.2360636
+                ],
+                [
+                    -112.1209273,
+                    46.2360729
+                ],
+                [
+                    -112.1209478,
+                    46.2360179
+                ],
+                [
+                    -112.1209041,
+                    46.2360084
+                ],
+                [
+                    -112.1209231,
+                    46.235957
+                ],
+                [
+                    -112.120491,
+                    46.2358694
+                ],
+                [
+                    -112.1203996,
+                    46.2361055
+                ],
+                [
+                    -112.1204777,
+                    46.2361245
+                ],
+                [
+                    -112.1204548,
+                    46.2361788
+                ],
+                [
+                    -112.1208584,
+                    46.2362578
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001159",
+        "NAME": "JEFFERSON COUNTY CRIMINAL JUSTICE",
+        "ADDRESS": "110 S WASHINGTON ST",
+        "CITY": "BOULDER",
+        "STATE": "MT",
+        "ZIP": "59632",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 225-4075",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 14,
+        "COUNTY": "JEFFERSON",
+        "COUNTYFIPS": "30043",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://jeffersoncounty-mt.gov/sheriff.html",
+        "SOURCEDATE": "2018/03/12 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://jeffersoncounty-mt.gov/sheriff.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00168376782716,
+        "SHAPE_Length": 0.0016837678271613681,
+        "SHAPE_Area": 1.38292063675e-7
+    },
+    "id": 3479
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87179"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.1165089,
+                    46.2276915
+                ],
+                [
+                    -112.1167391,
+                    46.2261668
+                ],
+                [
+                    -112.1154388,
+                    46.2260302
+                ],
+                [
+                    -112.1150722,
+                    46.2276135
+                ],
+                [
+                    -112.1165089,
+                    46.2276915
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003625",
+        "NAME": "RIVERSIDE RECOVERY & REENTRY PROGRAM",
+        "ADDRESS": "2 RIVERSIDE ROAD",
+        "CITY": "BOULDER",
+        "STATE": "MT",
+        "ZIP": "59632",
+        "ZIP4": "0088",
+        "TELEPHONE": "(406) 225-4500",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 31,
+        "COUNTY": "JEFFERSON",
+        "COUNTYFIPS": "30043",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://cor.mt.gov/FamilyFriends/Visiting",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 22,
+        "SHAPE_Leng": 0.00591343546895,
+        "SHAPE_Length": 0.005913435468954044,
+        "SHAPE_Area": 0.00000215867001135
+    },
+    "id": 5199
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8717a"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.1175068,
+                    46.2249642
+                ],
+                [
+                    -112.1174306,
+                    46.2252783
+                ],
+                [
+                    -112.1172117,
+                    46.2251546
+                ],
+                [
+                    -112.117107,
+                    46.2252593
+                ],
+                [
+                    -112.1172879,
+                    46.2254021
+                ],
+                [
+                    -112.1172498,
+                    46.2254497
+                ],
+                [
+                    -112.1173259,
+                    46.2255258
+                ],
+                [
+                    -112.1174402,
+                    46.2254877
+                ],
+                [
+                    -112.1173735,
+                    46.2258018
+                ],
+                [
+                    -112.1175639,
+                    46.2258304
+                ],
+                [
+                    -112.1179732,
+                    46.2258589
+                ],
+                [
+                    -112.1180874,
+                    46.2258209
+                ],
+                [
+                    -112.1181445,
+                    46.2255353
+                ],
+                [
+                    -112.1181826,
+                    46.2253545
+                ],
+                [
+                    -112.1177828,
+                    46.2252688
+                ],
+                [
+                    -112.1177067,
+                    46.2251927
+                ],
+                [
+                    -112.1177352,
+                    46.2249833
+                ],
+                [
+                    -112.1175068,
+                    46.2249642
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006572",
+        "NAME": "ELKHORN TREATMENT CENTER",
+        "ADDRESS": "P.O. BOX 448",
+        "CITY": "BOULDER",
+        "STATE": "MT",
+        "ZIP": "59632",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 447-5300",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 40,
+        "COUNTY": "JEFFERSON",
+        "COUNTYFIPS": "30043",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingElkhorn",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://www.boydandrew.com/services/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 42,
+        "SHAPE_Leng": 0.00371939855839,
+        "SHAPE_Length": 0.003719398558386597,
+        "SHAPE_Area": 5.36334598222e-7
+    },
+    "id": 5200
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86a6d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.7331099,
+                    46.3991808
+                ],
+                [
+                    -112.7326019,
+                    46.399157
+                ],
+                [
+                    -112.7325852,
+                    46.3994212
+                ],
+                [
+                    -112.7330338,
+                    46.3994461
+                ],
+                [
+                    -112.7330124,
+                    46.3997317
+                ],
+                [
+                    -112.7333836,
+                    46.3997483
+                ],
+                [
+                    -112.7334026,
+                    46.3994854
+                ],
+                [
+                    -112.7330921,
+                    46.3994711
+                ],
+                [
+                    -112.7331099,
+                    46.3991808
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005667",
+        "NAME": "POWELL COUNTY SHERIFF'S OFFICE",
+        "ADDRESS": "313 4TH STREET",
+        "CITY": "DEER LODGE",
+        "STATE": "MT",
+        "ZIP": "59722",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 846-1650",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "POWELL",
+        "COUNTYFIPS": "30077",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.powellcountymt.gov/county-departments/sheriff/",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.powellcountymt.gov/county-departments/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0027456556103,
+        "SHAPE_Length": 0.002745655610300901,
+        "SHAPE_Area": 2.3499245898e-7
+    },
+    "id": 3380
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8719c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.8058544,
+                    46.385902
+                ],
+                [
+                    -112.8058221,
+                    46.3856601
+                ],
+                [
+                    -112.8027095,
+                    46.3835958
+                ],
+                [
+                    -112.8027095,
+                    46.3826765
+                ],
+                [
+                    -112.8036771,
+                    46.3826443
+                ],
+                [
+                    -112.803661,
+                    46.3820959
+                ],
+                [
+                    -112.8030804,
+                    46.3821282
+                ],
+                [
+                    -112.8031127,
+                    46.3798542
+                ],
+                [
+                    -112.8029191,
+                    46.3796606
+                ],
+                [
+                    -112.7994517,
+                    46.3796606
+                ],
+                [
+                    -112.7992259,
+                    46.3798703
+                ],
+                [
+                    -112.7991937,
+                    46.3807573
+                ],
+                [
+                    -112.7957423,
+                    46.3807089
+                ],
+                [
+                    -112.7957101,
+                    46.3825797
+                ],
+                [
+                    -112.7957585,
+                    46.3826604
+                ],
+                [
+                    -112.7973067,
+                    46.3826443
+                ],
+                [
+                    -112.7972745,
+                    46.3827894
+                ],
+                [
+                    -112.7973067,
+                    46.3857246
+                ],
+                [
+                    -112.7975648,
+                    46.3859182
+                ],
+                [
+                    -112.7989517,
+                    46.3859343
+                ],
+                [
+                    -112.7990808,
+                    46.3858375
+                ],
+                [
+                    -112.799242,
+                    46.3859343
+                ],
+                [
+                    -112.8058544,
+                    46.385902
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003624",
+        "NAME": "MONTANA STATE PRISON",
+        "ADDRESS": "400 CONLEY LAKE RD",
+        "CITY": "DEER LODGE",
+        "STATE": "MT",
+        "ZIP": "59722",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 846-1320",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 1550,
+        "COUNTY": "POWELL",
+        "COUNTYFIPS": "30077",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/Adult/MSP",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://cor.mt.gov/Adult",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 1495,
+        "SHAPE_Leng": 0.0329282950891,
+        "SHAPE_Length": 0.03292829508906455,
+        "SHAPE_Area": 0.0000402796899286
+    },
+    "id": 5195
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86b22"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.9558146,
+                    46.1226353
+                ],
+                [
+                    -112.9558289,
+                    46.1225746
+                ],
+                [
+                    -112.955936,
+                    46.1225889
+                ],
+                [
+                    -112.9559538,
+                    46.1225354
+                ],
+                [
+                    -112.955861,
+                    46.1225104
+                ],
+                [
+                    -112.9558824,
+                    46.1224462
+                ],
+                [
+                    -112.9557004,
+                    46.1224105
+                ],
+                [
+                    -112.9556504,
+                    46.1225354
+                ],
+                [
+                    -112.9557539,
+                    46.1225497
+                ],
+                [
+                    -112.9557218,
+                    46.122621
+                ],
+                [
+                    -112.9558146,
+                    46.1226353
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006958",
+        "NAME": "DISCOVERY HOUSE",
+        "ADDRESS": "65 SHEEP GULCH RD",
+        "CITY": "ANACONDA",
+        "STATE": "MT",
+        "ZIP": "59711",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 563-3842",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "DEER LODGE",
+        "COUNTYFIPS": "30023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.cccscorp.com/programs/dhouse/",
+        "SOURCEDATE": "2020/04/22 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2020/04/30 00:00:00",
+        "WEBSITE": "http://www.cccscorp.com/programs/dhouse/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 9,
+        "SHAPE_Leng": 0.00098731012289,
+        "SHAPE_Length": 0.0009873101228898382,
+        "SHAPE_Area": 3.67333098145e-8
+    },
+    "id": 3571
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86ac9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.9541694,
+                    46.1230966
+                ],
+                [
+                    -112.9542217,
+                    46.1229289
+                ],
+                [
+                    -112.9544965,
+                    46.1229776
+                ],
+                [
+                    -112.9544763,
+                    46.1230454
+                ],
+                [
+                    -112.9547583,
+                    46.1230918
+                ],
+                [
+                    -112.9547892,
+                    46.1229943
+                ],
+                [
+                    -112.9546845,
+                    46.1229753
+                ],
+                [
+                    -112.9547154,
+                    46.1228813
+                ],
+                [
+                    -112.9542752,
+                    46.1228004
+                ],
+                [
+                    -112.9543086,
+                    46.1226897
+                ],
+                [
+                    -112.954261,
+                    46.12261
+                ],
+                [
+                    -112.9542134,
+                    46.1226278
+                ],
+                [
+                    -112.9540123,
+                    46.1225933
+                ],
+                [
+                    -112.9540004,
+                    46.1226397
+                ],
+                [
+                    -112.953935,
+                    46.122629
+                ],
+                [
+                    -112.9538886,
+                    46.1227849
+                ],
+                [
+                    -112.9539516,
+                    46.1227956
+                ],
+                [
+                    -112.9539683,
+                    46.1228218
+                ],
+                [
+                    -112.9539612,
+                    46.1228513
+                ],
+                [
+                    -112.9539219,
+                    46.1228456
+                ],
+                [
+                    -112.953866,
+                    46.1230419
+                ],
+                [
+                    -112.9541694,
+                    46.1230966
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001160",
+        "NAME": "ANACONDA-DEER LODGE COUNTY JAIL",
+        "ADDRESS": "800 S OAK ST",
+        "CITY": "ANACONDA",
+        "STATE": "MT",
+        "ZIP": "59711",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 563-5241",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 15,
+        "COUNTY": "DEER LODGE",
+        "COUNTYFIPS": "30023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.adlc.us/169/Law-Enforcement",
+        "SOURCEDATE": "2018/03/22 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://www.adlc.us/169/Law-Enforcement",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00298415251968,
+        "SHAPE_Length": 0.0029841525196782387,
+        "SHAPE_Area": 2.39258830098e-7
+    },
+    "id": 3487
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8717c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.8828182,
+                    46.1348488
+                ],
+                [
+                    -112.8830847,
+                    46.1350772
+                ],
+                [
+                    -112.8830466,
+                    46.1350962
+                ],
+                [
+                    -112.8831513,
+                    46.1352295
+                ],
+                [
+                    -112.8832655,
+                    46.1351724
+                ],
+                [
+                    -112.8838081,
+                    46.1355911
+                ],
+                [
+                    -112.8845885,
+                    46.1351819
+                ],
+                [
+                    -112.8839794,
+                    46.1346298
+                ],
+                [
+                    -112.8838271,
+                    46.134706
+                ],
+                [
+                    -112.8835416,
+                    46.134468
+                ],
+                [
+                    -112.8828182,
+                    46.1348488
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006574",
+        "NAME": "START CENTER",
+        "ADDRESS": "801 HIGHWAY 48",
+        "CITY": "ANACONDA",
+        "STATE": "MT",
+        "ZIP": "59711",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 563-7002",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 136,
+        "COUNTY": "DEER LODGE",
+        "COUNTYFIPS": "30111",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingSTART",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.cccscorp.com/programs/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 138,
+        "SHAPE_Leng": 0.00443877404909,
+        "SHAPE_Length": 0.004438774049085074,
+        "SHAPE_Area": 0.00000100853116839
+    },
+    "id": 5201
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb86cd8"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.7900387,
+                    46.1839887
+                ],
+                [
+                    -112.7936529,
+                    46.1823925
+                ],
+                [
+                    -112.7931872,
+                    46.1810895
+                ],
+                [
+                    -112.7928249,
+                    46.180527
+                ],
+                [
+                    -112.792111,
+                    46.1807173
+                ],
+                [
+                    -112.7916447,
+                    46.1798131
+                ],
+                [
+                    -112.7903324,
+                    46.1786315
+                ],
+                [
+                    -112.7901926,
+                    46.1784217
+                ],
+                [
+                    -112.789689,
+                    46.1786315
+                ],
+                [
+                    -112.7888358,
+                    46.1795827
+                ],
+                [
+                    -112.788612,
+                    46.1800722
+                ],
+                [
+                    -112.7886959,
+                    46.1806457
+                ],
+                [
+                    -112.7887239,
+                    46.1816808
+                ],
+                [
+                    -112.7886539,
+                    46.1822683
+                ],
+                [
+                    -112.7888917,
+                    46.1830516
+                ],
+                [
+                    -112.788598,
+                    46.1833313
+                ],
+                [
+                    -112.7885001,
+                    46.1838489
+                ],
+                [
+                    -112.7890036,
+                    46.1842125
+                ],
+                [
+                    -112.7900387,
+                    46.1839887
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003629",
+        "NAME": "MONTANA STATE HOSPITAL",
+        "ADDRESS": "300 GARNET WAY",
+        "CITY": "WARM SPRINGS",
+        "STATE": "MT",
+        "ZIP": "59756",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 693-7000",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 168,
+        "COUNTY": "DEER LODGE",
+        "COUNTYFIPS": "30023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://dphhs.mt.gov/amdd/MSH",
+        "SOURCEDATE": "2020/01/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://dphhs.mt.gov/amdd/MSH",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 200,
+        "SHAPE_Leng": 0.0177773736766,
+        "SHAPE_Length": 0.01777737367657904,
+        "SHAPE_Area": 0.0000181712977562
+    },
+    "id": 4013
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb86cef"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.7938623,
+                    46.1822449
+                ],
+                [
+                    -112.7943477,
+                    46.1826399
+                ],
+                [
+                    -112.795547,
+                    46.1824353
+                ],
+                [
+                    -112.7955089,
+                    46.1818499
+                ],
+                [
+                    -112.7954518,
+                    46.1814359
+                ],
+                [
+                    -112.7949188,
+                    46.181493
+                ],
+                [
+                    -112.7937576,
+                    46.1819118
+                ],
+                [
+                    -112.7938623,
+                    46.1822449
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006571",
+        "NAME": "CONNECTIONS CORRECTIONS WEST - WARM SPRINGS",
+        "ADDRESS": "725 OROFINO WAY",
+        "CITY": "WARM SPRINGS",
+        "STATE": "MT",
+        "ZIP": "59756",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 693-2272",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 54,
+        "COUNTY": "DEER LODGE",
+        "COUNTYFIPS": "30023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingWATChWest",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.cccscorp.com/programs/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 52,
+        "SHAPE_Leng": 0.00496655073101,
+        "SHAPE_Length": 0.004966550731013485,
+        "SHAPE_Area": 0.00000151363505752
+    },
+    "id": 4006
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8659b"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.7954899,
+                    46.1797132
+                ],
+                [
+                    -112.7940432,
+                    46.1800749
+                ],
+                [
+                    -112.7946047,
+                    46.181217
+                ],
+                [
+                    -112.7955184,
+                    46.1810457
+                ],
+                [
+                    -112.7958325,
+                    46.1804746
+                ],
+                [
+                    -112.7954899,
+                    46.1797132
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006576",
+        "NAME": "WATCH WEST",
+        "ADDRESS": "P.O. BOX G",
+        "CITY": "WARM SPRINGS",
+        "STATE": "MT",
+        "ZIP": "59756",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 693-2272",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 113,
+        "COUNTY": "DEER LODGE",
+        "COUNTYFIPS": "30023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingWATChWest",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.cccscorp.com/programs/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 115,
+        "SHAPE_Leng": 0.00518031387235,
+        "SHAPE_Length": 0.005180313872345053,
+        "SHAPE_Area": 0.00000175634621345
+    },
+    "id": 2151
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb86ce5"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.7779316,
+                    46.2348857
+                ],
+                [
+                    -112.7790014,
+                    46.2349866
+                ],
+                [
+                    -112.7789937,
+                    46.2342251
+                ],
+                [
+                    -112.7773814,
+                    46.2342499
+                ],
+                [
+                    -112.7773434,
+                    46.2345583
+                ],
+                [
+                    -112.7772615,
+                    46.2345526
+                ],
+                [
+                    -112.7771892,
+                    46.2349883
+                ],
+                [
+                    -112.7774861,
+                    46.2350113
+                ],
+                [
+                    -112.7774975,
+                    46.2349542
+                ],
+                [
+                    -112.777646,
+                    46.2349656
+                ],
+                [
+                    -112.7776422,
+                    46.2350094
+                ],
+                [
+                    -112.7778078,
+                    46.2350227
+                ],
+                [
+                    -112.7778154,
+                    46.2349352
+                ],
+                [
+                    -112.7779277,
+                    46.2349428
+                ],
+                [
+                    -112.7779316,
+                    46.2348857
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003628",
+        "NAME": "MONTANA STATE HOSPITAL - FORENSIC MENTAL HEALTH FACILITY",
+        "ADDRESS": "1316 GALEN RD",
+        "CITY": "DEER LODGE",
+        "STATE": "MT",
+        "ZIP": "59722",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "DEER LODGE",
+        "COUNTYFIPS": "30023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://helenair.com/news/politics/state/forensic-mental-health-facility-opening-soon-in-galen/article_04240244-c902-51e8-9fc1-d77f1ed1c305.html",
+        "SOURCEDATE": "2016/01/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 60,
+        "SHAPE_Leng": 0.00525577578181,
+        "SHAPE_Length": 0.005255775781814062,
+        "SHAPE_Area": 0.00000122888403541
+    },
+    "id": 4012
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb86cd9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.8491167,
+                    46.3941322
+                ],
+                [
+                    -112.8477248,
+                    46.3941101
+                ],
+                [
+                    -112.8477343,
+                    46.3943957
+                ],
+                [
+                    -112.847927,
+                    46.3943957
+                ],
+                [
+                    -112.847927,
+                    46.3943195
+                ],
+                [
+                    -112.8481745,
+                    46.3943195
+                ],
+                [
+                    -112.8481745,
+                    46.3944885
+                ],
+                [
+                    -112.8483435,
+                    46.3944885
+                ],
+                [
+                    -112.8483435,
+                    46.3943624
+                ],
+                [
+                    -112.8484053,
+                    46.3943195
+                ],
+                [
+                    -112.8485457,
+                    46.3943195
+                ],
+                [
+                    -112.8485457,
+                    46.3942815
+                ],
+                [
+                    -112.8491168,
+                    46.3942815
+                ],
+                [
+                    -112.8491167,
+                    46.3941322
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001157",
+        "NAME": "TREASURE STATE CORRECTIONAL TRAINING CENTER",
+        "ADDRESS": "1100 CONLEY LAKE RD",
+        "CITY": "DEER LODGE",
+        "STATE": "MT",
+        "ZIP": "59722",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "POWELL",
+        "COUNTYFIPS": "30077",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://helenair.com/news/politics/state/effort-to-protect-status-quo-at-deer-lodge-boot-camp/article_4d3db693-5071-53a1-966f-223e93812291.html",
+        "SOURCEDATE": "2017/04/13 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://mtstandard.com/news/state-and-regional/govt-and-politics/effort-to-protect-status-quo-at-deer-lodge-boot-camp/article_92ab8d11-4fed-5c10-af5d-d58cf898e847.html",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 60,
+        "SHAPE_Leng": 0.00363212120537,
+        "SHAPE_Length": 0.0036321212053669573,
+        "SHAPE_Area": 2.98266240494e-7
+    },
+    "id": 4014
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8716f"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.0296293,
+                    46.8829285
+                ],
+                [
+                    -114.0294074,
+                    46.8828651
+                ],
+                [
+                    -114.0292992,
+                    46.8830349
+                ],
+                [
+                    -114.0290197,
+                    46.8830867
+                ],
+                [
+                    -114.0288813,
+                    46.883275
+                ],
+                [
+                    -114.0288148,
+                    46.8832362
+                ],
+                [
+                    -114.028837,
+                    46.8831531
+                ],
+                [
+                    -114.0287775,
+                    46.8830897
+                ],
+                [
+                    -114.0279755,
+                    46.8828287
+                ],
+                [
+                    -114.0280209,
+                    46.8827644
+                ],
+                [
+                    -114.0271849,
+                    46.8824693
+                ],
+                [
+                    -114.0270889,
+                    46.8822638
+                ],
+                [
+                    -114.0268142,
+                    46.8823483
+                ],
+                [
+                    -114.0257842,
+                    46.8820263
+                ],
+                [
+                    -114.0250021,
+                    46.8831843
+                ],
+                [
+                    -114.0269485,
+                    46.8833968
+                ],
+                [
+                    -114.0281798,
+                    46.8843646
+                ],
+                [
+                    -114.029239,
+                    46.8833659
+                ],
+                [
+                    -114.0296293,
+                    46.8829285
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003623",
+        "NAME": "MISSOULA COUNTY DETENTION FACILITY",
+        "ADDRESS": "2340 MULLAN RD",
+        "CITY": "MISSOULA",
+        "STATE": "MT",
+        "ZIP": "59808",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 258-4000",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 327,
+        "COUNTY": "MISSOULA",
+        "COUNTYFIPS": "30063",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://apps.missoulacounty.us/jailroster/",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://www.missoulacounty.us/government/public-safety",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 394,
+        "SHAPE_Leng": 0.0115654944212,
+        "SHAPE_Length": 0.011565494421223366,
+        "SHAPE_Area": 0.00000433129796099
+    },
+    "id": 5179
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb86ce4"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.0291218,
+                    46.8830103
+                ],
+                [
+                    -114.0291482,
+                    46.8829573
+                ],
+                [
+                    -114.0292126,
+                    46.8829762
+                ],
+                [
+                    -114.0292806,
+                    46.8828628
+                ],
+                [
+                    -114.0291861,
+                    46.8828363
+                ],
+                [
+                    -114.0293298,
+                    46.8825677
+                ],
+                [
+                    -114.0286829,
+                    46.8823861
+                ],
+                [
+                    -114.02863,
+                    46.8824882
+                ],
+                [
+                    -114.0285241,
+                    46.8824656
+                ],
+                [
+                    -114.02835,
+                    46.8827758
+                ],
+                [
+                    -114.0286148,
+                    46.882859
+                ],
+                [
+                    -114.0285732,
+                    46.8829309
+                ],
+                [
+                    -114.0288002,
+                    46.8829989
+                ],
+                [
+                    -114.0288494,
+                    46.8829271
+                ],
+                [
+                    -114.0291218,
+                    46.8830103
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006581",
+        "NAME": "MISSOULA PRE-RELEASE CENTER",
+        "ADDRESS": "2350 MULLAN RD",
+        "CITY": "MISSOULA",
+        "STATE": "MT",
+        "ZIP": "59808",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 541-9200",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 172,
+        "COUNTY": "MISSOULA",
+        "COUNTYFIPS": "30063",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/Visiting/VisitingMissoulaPrerelease",
+        "SOURCEDATE": "2017/12/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://cor.mt.gov/FamilyFriends/Visiting",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 134,
+        "SHAPE_Leng": 0.00288188270327,
+        "SHAPE_Length": 0.0028818827032741356,
+        "SHAPE_Area": 3.90653462225e-7
+    },
+    "id": 4011
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8716e"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.8905762,
+                    47.1932498
+                ],
+                [
+                    -114.8906146,
+                    47.1927605
+                ],
+                [
+                    -114.8905542,
+                    47.1926952
+                ],
+                [
+                    -114.8905606,
+                    47.1926277
+                ],
+                [
+                    -114.890225,
+                    47.1926066
+                ],
+                [
+                    -114.890027,
+                    47.192738
+                ],
+                [
+                    -114.8898707,
+                    47.19273
+                ],
+                [
+                    -114.8898366,
+                    47.1930083
+                ],
+                [
+                    -114.8903582,
+                    47.1930311
+                ],
+                [
+                    -114.8903426,
+                    47.1932363
+                ],
+                [
+                    -114.8905762,
+                    47.1932498
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005668",
+        "NAME": "MINERAL COUNTY SHERIFF'S DEPARTMENT",
+        "ADDRESS": "310 RIVER STREET",
+        "CITY": "SUPERIOR",
+        "STATE": "MT",
+        "ZIP": "59872",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 822-3555",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "MINERAL",
+        "COUNTYFIPS": "30061",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://co.mineral.mt.us/departments/sheriff/",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://co.mineral.mt.us/departments/sheriff/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00262013015714,
+        "SHAPE_Length": 0.002620130157137303,
+        "SHAPE_Area": 3.18826575879e-7
+    },
+    "id": 5178
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb864b4"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.1577427,
+                    46.2447538
+                ],
+                [
+                    -114.1577226,
+                    46.2446022
+                ],
+                [
+                    -114.1580911,
+                    46.2445783
+                ],
+                [
+                    -114.1580255,
+                    46.2439701
+                ],
+                [
+                    -114.1573045,
+                    46.2440172
+                ],
+                [
+                    -114.1573359,
+                    46.2442571
+                ],
+                [
+                    -114.1570061,
+                    46.2442785
+                ],
+                [
+                    -114.1570389,
+                    46.244604
+                ],
+                [
+                    -114.1573673,
+                    46.244584
+                ],
+                [
+                    -114.1573944,
+                    46.2447796
+                ],
+                [
+                    -114.1577427,
+                    46.2447538
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001934",
+        "NAME": "RAVALLI COUNTY DETENTION CENTER",
+        "ADDRESS": "205 BEDFORD STREET",
+        "CITY": "HAMILTON",
+        "STATE": "MT",
+        "ZIP": "59840",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 375-4080",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 55,
+        "COUNTY": "RAVALLI",
+        "COUNTYFIPS": "30081",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://ravalli.us/239/Adult-Detention-Center",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://ravalli.us/239/Adult-Detention-Center",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00363181077239,
+        "SHAPE_Length": 0.0036318107723865727,
+        "SHAPE_Area": 6.01499680596e-7
+    },
+    "id": 1875
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85eeb"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.3512481,
+                    47.5949287
+                ],
+                [
+                    -115.3513207,
+                    47.5947752
+                ],
+                [
+                    -115.3508781,
+                    47.5946735
+                ],
+                [
+                    -115.3508097,
+                    47.594824
+                ],
+                [
+                    -115.3512481,
+                    47.5949287
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005663",
+        "NAME": "SANDERS COUNTY JAIL",
+        "ADDRESS": "1115 MAIN ST",
+        "CITY": "THOMPSON FALLS",
+        "STATE": "MT",
+        "ZIP": "59873",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 827-3584",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "SANDERS",
+        "COUNTYFIPS": "30089",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://co.sanders.mt.us/departments/sherrifs-office/",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://co.sanders.mt.us/departments/sherrifs-office/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00123995010841,
+        "SHAPE_Length": 0.0012399501084123896,
+        "SHAPE_Area": 7.42256912491e-8
+    },
+    "id": 405
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86541"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.8910511,
+                    48.4630437
+                ],
+                [
+                    -115.8909499,
+                    48.4628657
+                ],
+                [
+                    -115.890416,
+                    48.4630088
+                ],
+                [
+                    -115.8905172,
+                    48.4631902
+                ],
+                [
+                    -115.8910511,
+                    48.4630437
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005657",
+        "NAME": "TROY JUVENILE DETENTION FACILITY",
+        "ADDRESS": "301 EAST KOOTENAI AVENUE",
+        "CITY": "TROY",
+        "STATE": "MT",
+        "ZIP": "59935",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 295-0806",
+        "TYPE": "COUNTY",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "LINCOLN",
+        "COUNTYFIPS": "30053",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.lincolncountymt.us/juvenile-detention-home",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.lincolncountymt.us/juvenile-detention-home",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00151880846986,
+        "SHAPE_Length": 0.0015188084698588697,
+        "SHAPE_Area": 1.10592271754e-7
+    },
+    "id": 2061
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87167"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.3112256,
+                    48.1897747
+                ],
+                [
+                    -114.3112114,
+                    48.1897355
+                ],
+                [
+                    -114.311278,
+                    48.1897224
+                ],
+                [
+                    -114.3112447,
+                    48.1896284
+                ],
+                [
+                    -114.3113803,
+                    48.189601
+                ],
+                [
+                    -114.3113664,
+                    48.189561
+                ],
+                [
+                    -114.3114374,
+                    48.1895451
+                ],
+                [
+                    -114.3114005,
+                    48.1894357
+                ],
+                [
+                    -114.3113244,
+                    48.1894511
+                ],
+                [
+                    -114.3113101,
+                    48.1894083
+                ],
+                [
+                    -114.3111699,
+                    48.1894319
+                ],
+                [
+                    -114.3111364,
+                    48.1893357
+                ],
+                [
+                    -114.3110733,
+                    48.1893464
+                ],
+                [
+                    -114.3110507,
+                    48.1892834
+                ],
+                [
+                    -114.3108449,
+                    48.1893167
+                ],
+                [
+                    -114.3108556,
+                    48.1893488
+                ],
+                [
+                    -114.3106891,
+                    48.1893726
+                ],
+                [
+                    -114.3107402,
+                    48.1895118
+                ],
+                [
+                    -114.3106962,
+                    48.1895189
+                ],
+                [
+                    -114.3107569,
+                    48.1896938
+                ],
+                [
+                    -114.3108092,
+                    48.1896867
+                ],
+                [
+                    -114.3108592,
+                    48.1898306
+                ],
+                [
+                    -114.3112256,
+                    48.1897747
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003621",
+        "NAME": "FLATHEAD COUNTY DETENTION CENTER",
+        "ADDRESS": "920 S MAIN ST",
+        "CITY": "KALISPELL",
+        "STATE": "MT",
+        "ZIP": "59901",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 758-5617",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 89,
+        "COUNTY": "FLATHEAD",
+        "COUNTYFIPS": "30029",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://flatheadcountysheriff.com/jail/",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://flatheadcountysheriff.com/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 63,
+        "SHAPE_Leng": 0.00244072642022,
+        "SHAPE_Length": 0.002440726420221252,
+        "SHAPE_Area": 2.58126762237e-7
+    },
+    "id": 5171
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86a0f"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.5544272,
+                    48.3917549
+                ],
+                [
+                    -115.5545034,
+                    48.3916388
+                ],
+                [
+                    -115.5543568,
+                    48.3915893
+                ],
+                [
+                    -115.5544786,
+                    48.391417
+                ],
+                [
+                    -115.5545367,
+                    48.3914389
+                ],
+                [
+                    -115.5546014,
+                    48.3913476
+                ],
+                [
+                    -115.5543509,
+                    48.3912692
+                ],
+                [
+                    -115.5543152,
+                    48.3913235
+                ],
+                [
+                    -115.5541125,
+                    48.3912535
+                ],
+                [
+                    -115.5539397,
+                    48.3915076
+                ],
+                [
+                    -115.5540211,
+                    48.3916261
+                ],
+                [
+                    -115.5544272,
+                    48.3917549
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005656",
+        "NAME": "LINCOLN COUNTY SHERIFF'S DEPARTMENT / DETENTION CENTER",
+        "ADDRESS": "512 CALIFORNIA AVENUE",
+        "CITY": "LIBBY",
+        "STATE": "MT",
+        "ZIP": "59923",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 293-4115",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "LINCOLN",
+        "COUNTYFIPS": "30053",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.lincolncountymt.us/detention",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.lincolncountymt.us/sheriff-home",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 29,
+        "SHAPE_Leng": 0.00209753827299,
+        "SHAPE_Length": 0.002097538272986953,
+        "SHAPE_Area": 1.89167028425e-7
+    },
+    "id": 3301
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86135"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.1144223,
+                    47.5956295
+                ],
+                [
+                    -114.1145413,
+                    47.595502
+                ],
+                [
+                    -114.1145089,
+                    47.5954868
+                ],
+                [
+                    -114.1145679,
+                    47.5954192
+                ],
+                [
+                    -114.1142538,
+                    47.5952897
+                ],
+                [
+                    -114.1140054,
+                    47.5955924
+                ],
+                [
+                    -114.1141701,
+                    47.5956571
+                ],
+                [
+                    -114.1142253,
+                    47.5955895
+                ],
+                [
+                    -114.1142662,
+                    47.5956057
+                ],
+                [
+                    -114.11429,
+                    47.5955762
+                ],
+                [
+                    -114.1144223,
+                    47.5956295
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005664",
+        "NAME": "PABLO TRIBAL JAIL",
+        "ADDRESS": "19 COMPLEX BLVD",
+        "CITY": "RONAN",
+        "STATE": "MT",
+        "ZIP": "59864",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 675-4700",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "LAKE",
+        "COUNTYFIPS": "30047",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.cskt.org/",
+        "SOURCEDATE": "2018/05/22 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.cskt.org/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00151989641444,
+        "SHAPE_Length": 0.0015198964144376315,
+        "SHAPE_Area": 1.12704803465e-7
+    },
+    "id": 1015
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8719f"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.1612852,
+                    47.6919177
+                ],
+                [
+                    -114.1612828,
+                    47.6917529
+                ],
+                [
+                    -114.1613411,
+                    47.6917517
+                ],
+                [
+                    -114.1613387,
+                    47.6915994
+                ],
+                [
+                    -114.1614282,
+                    47.6915971
+                ],
+                [
+                    -114.1614256,
+                    47.691459
+                ],
+                [
+                    -114.1608724,
+                    47.691459
+                ],
+                [
+                    -114.1608795,
+                    47.6916078
+                ],
+                [
+                    -114.1609783,
+                    47.6916113
+                ],
+                [
+                    -114.1609844,
+                    47.6919127
+                ],
+                [
+                    -114.1612852,
+                    47.6919177
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001932",
+        "NAME": "LAKE COUNTY JAIL",
+        "ADDRESS": "106 4TH AVE E",
+        "CITY": "POLSON",
+        "STATE": "MT",
+        "ZIP": "59860",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 883-7272",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 38,
+        "COUNTY": "LAKE",
+        "COUNTYFIPS": "30047",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.lakemt.gov/sheriff/sheriff.html",
+        "SOURCEDATE": "2018/03/25 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.lakemt.gov/sheriff/sheriff.html",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 42,
+        "SHAPE_Leng": 0.00200625417341,
+        "SHAPE_Length": 0.0020062541734116456,
+        "SHAPE_Area": 1.82431824882e-7
+    },
+    "id": 5191
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8716a"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -112.3267735,
+                    48.6320543
+                ],
+                [
+                    -112.3266022,
+                    48.6319544
+                ],
+                [
+                    -112.3264023,
+                    48.6319615
+                ],
+                [
+                    -112.3263238,
+                    48.6320543
+                ],
+                [
+                    -112.3264166,
+                    48.6321257
+                ],
+                [
+                    -112.326388,
+                    48.6321542
+                ],
+                [
+                    -112.3264666,
+                    48.6321971
+                ],
+                [
+                    -112.3261739,
+                    48.6324112
+                ],
+                [
+                    -112.326438,
+                    48.6325397
+                ],
+                [
+                    -112.3264666,
+                    48.632504
+                ],
+                [
+                    -112.3265522,
+                    48.6325397
+                ],
+                [
+                    -112.3266522,
+                    48.6324398
+                ],
+                [
+                    -112.3266022,
+                    48.6324112
+                ],
+                [
+                    -112.3267093,
+                    48.6323184
+                ],
+                [
+                    -112.3266736,
+                    48.6322827
+                ],
+                [
+                    -112.3266879,
+                    48.6321828
+                ],
+                [
+                    -112.3267807,
+                    48.6321757
+                ],
+                [
+                    -112.3267735,
+                    48.6320543
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006816",
+        "NAME": "GLACIER COUNTY JAIL",
+        "ADDRESS": "28 6TH AVE SE",
+        "CITY": "CUT BANK",
+        "STATE": "MT",
+        "ZIP": "59427",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 873-2711 EXT 3651",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 13,
+        "COUNTY": "GLACIER",
+        "COUNTYFIPS": "30035",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.glaciercountygov.com/?page_id=11881",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.glaciercountygov.com/?page_id=11881",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00226832654946,
+        "SHAPE_Length": 0.0022683265494622467,
+        "SHAPE_Area": 1.96513655331e-7
+    },
+    "id": 5174
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87174"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.8562411,
+                    48.5074218
+                ],
+                [
+                    -111.8561787,
+                    48.5073757
+                ],
+                [
+                    -111.8562244,
+                    48.5073486
+                ],
+                [
+                    -111.8561216,
+                    48.5072693
+                ],
+                [
+                    -111.856078,
+                    48.5073
+                ],
+                [
+                    -111.855906,
+                    48.5071658
+                ],
+                [
+                    -111.855704,
+                    48.5072986
+                ],
+                [
+                    -111.8560335,
+                    48.5075448
+                ],
+                [
+                    -111.8562411,
+                    48.5074218
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001152",
+        "NAME": "TOOLE COUNTY DETENTION FACILITY",
+        "ADDRESS": "235 DEER LODGE AVE",
+        "CITY": "SHELBY",
+        "STATE": "MT",
+        "ZIP": "59474",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 434-5585",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "TOOLE",
+        "COUNTYFIPS": "30101",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.toolecountymt.gov/sheriffs_office.html",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://www.toolecountymt.gov/sheriffs_office.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00142645339645,
+        "SHAPE_Length": 0.0014264533964538162,
+        "SHAPE_Area": 9.98154492327e-8
+    },
+    "id": 5184
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb862f6"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.895984,
+                    48.5033292
+                ],
+                [
+                    -111.8964509,
+                    48.5030231
+                ],
+                [
+                    -111.8964509,
+                    48.5011122
+                ],
+                [
+                    -111.8959871,
+                    48.5007906
+                ],
+                [
+                    -111.8926538,
+                    48.5007937
+                ],
+                [
+                    -111.8926538,
+                    48.5031375
+                ],
+                [
+                    -111.892861,
+                    48.5033199
+                ],
+                [
+                    -111.895984,
+                    48.5033292
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001151",
+        "NAME": "CROSSROADS CORRECTIONAL CENTER",
+        "ADDRESS": "50 CROSSROADS DR",
+        "CITY": "SHELBY",
+        "STATE": "MT",
+        "ZIP": "59474",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 434-7055",
+        "TYPE": "MULTI",
+        "STATUS": "OPEN",
+        "POPULATION": 604,
+        "COUNTY": "TOOLE",
+        "COUNTYFIPS": "30101",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://cor.mt.gov/FamilyFriends/VisitingCrossroads",
+        "SOURCEDATE": "2017/10/12 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://cor.mt.gov/FamilyFriends/VisitingCrossroads",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 664,
+        "SHAPE_Leng": 0.0121096553095,
+        "SHAPE_Length": 0.012109655309474124,
+        "SHAPE_Area": 0.00000945264863865
+    },
+    "id": 1482
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86a80"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.9483238,
+                    48.1689159
+                ],
+                [
+                    -111.9484114,
+                    48.1687503
+                ],
+                [
+                    -111.9480516,
+                    48.1686475
+                ],
+                [
+                    -111.9479584,
+                    48.1688379
+                ],
+                [
+                    -111.9480057,
+                    48.1688519
+                ],
+                [
+                    -111.9479488,
+                    48.1689692
+                ],
+                [
+                    -111.9480193,
+                    48.1689864
+                ],
+                [
+                    -111.9480097,
+                    48.1690111
+                ],
+                [
+                    -111.9483314,
+                    48.1691044
+                ],
+                [
+                    -111.948419,
+                    48.1689426
+                ],
+                [
+                    -111.9483238,
+                    48.1689159
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005662",
+        "NAME": "PONDERA COUNTY SHERIFF'S DEPARTMENT",
+        "ADDRESS": "20 4TH AVENUE SOUTHWEST",
+        "CITY": "CONRAD",
+        "STATE": "MT",
+        "ZIP": "59425",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 271-4060",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "PONDERA",
+        "COUNTYFIPS": "30073",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://ponderacountymontana.org/services/sanitarian/sheriffs-department/",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "https://ponderacountymontana.org/services/sanitarian/sheriffs-department/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00167004706729,
+        "SHAPE_Length": 0.0016700470672907643,
+        "SHAPE_Area": 1.41260750341e-7
+    },
+    "id": 3405
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8716d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -109.7069509,
+                    48.5526794
+                ],
+                [
+                    -109.7069509,
+                    48.5526437
+                ],
+                [
+                    -109.7074649,
+                    48.5526509
+                ],
+                [
+                    -109.7074578,
+                    48.5523296
+                ],
+                [
+                    -109.7077361,
+                    48.5523154
+                ],
+                [
+                    -109.7077361,
+                    48.5522226
+                ],
+                [
+                    -109.7069366,
+                    48.5522154
+                ],
+                [
+                    -109.7069295,
+                    48.5523939
+                ],
+                [
+                    -109.7069652,
+                    48.5524224
+                ],
+                [
+                    -109.7069652,
+                    48.5524581
+                ],
+                [
+                    -109.7069295,
+                    48.5524581
+                ],
+                [
+                    -109.7069224,
+                    48.5525367
+                ],
+                [
+                    -109.706801,
+                    48.5525224
+                ],
+                [
+                    -109.7067939,
+                    48.5526723
+                ],
+                [
+                    -109.7069509,
+                    48.5526794
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006817",
+        "NAME": "HILL COUNTY DETENTION CENTER",
+        "ADDRESS": "1452 2ND STREET WEST",
+        "CITY": "HAVRE",
+        "STATE": "MT",
+        "ZIP": "59501",
+        "ZIP4": "-999",
+        "TELEPHONE": "(406) 265-2512 EXT 2106",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "HILL",
+        "COUNTYFIPS": "30041",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://hillcounty.us/departments/sheriff-coroners-office/",
+        "SOURCEDATE": "2018/03/29 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://hillcounty.us/departments/sheriff-coroners-office/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00284611776167,
+        "SHAPE_Length": 0.002846117761672571,
+        "SHAPE_Area": 2.73993030161e-7
+    },
+    "id": 5177
+}
+]

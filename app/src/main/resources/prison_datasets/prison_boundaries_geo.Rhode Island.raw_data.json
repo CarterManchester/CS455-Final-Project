@@ -1,0 +1,1516 @@
+[
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb876e2"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.3846127,
+                    41.8929386
+                ],
+                [
+                    -71.3847326,
+                    41.8927749
+                ],
+                [
+                    -71.384567,
+                    41.8918764
+                ],
+                [
+                    -71.3843614,
+                    41.8917622
+                ],
+                [
+                    -71.3840872,
+                    41.891767
+                ],
+                [
+                    -71.3838684,
+                    41.8918288
+                ],
+                [
+                    -71.3835048,
+                    41.8920896
+                ],
+                [
+                    -71.3835315,
+                    41.8922038
+                ],
+                [
+                    -71.3832821,
+                    41.8922362
+                ],
+                [
+                    -71.3833221,
+                    41.8924589
+                ],
+                [
+                    -71.3831888,
+                    41.8924779
+                ],
+                [
+                    -71.3833049,
+                    41.8929881
+                ],
+                [
+                    -71.383442,
+                    41.8930719
+                ],
+                [
+                    -71.3846127,
+                    41.8929386
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003551",
+        "NAME": "DONALD W. WYATT DETENTION FACILITY",
+        "ADDRESS": "950 HIGH ST",
+        "CITY": "CENTRAL FALLS",
+        "STATE": "RI",
+        "ZIP": "02863",
+        "ZIP4": "1506",
+        "TELEPHONE": "(401) 729-1190",
+        "TYPE": "MULTI",
+        "STATUS": "OPEN",
+        "POPULATION": 513,
+        "COUNTY": "PROVIDENCE",
+        "COUNTYFIPS": "44007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.wyattdetention.com/About-Us/PREA-Annual-Reports, http://www.wyattdetention.com/Home",
+        "SOURCEDATE": "2017/10/20 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.wyattdetention.com/Home",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 770,
+        "SHAPE_Leng": 0.00489251602159,
+        "SHAPE_Length": 0.0048925160215892455,
+        "SHAPE_Area": 0.00000151318796964
+    },
+    "id": 6575
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85dd6"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.5009615,
+                    41.6928278
+                ],
+                [
+                    -71.5011006,
+                    41.6924905
+                ],
+                [
+                    -71.5006978,
+                    41.692386
+                ],
+                [
+                    -71.5008583,
+                    41.6920092
+                ],
+                [
+                    -71.5009526,
+                    41.6920331
+                ],
+                [
+                    -71.5010273,
+                    41.6918782
+                ],
+                [
+                    -71.5007471,
+                    41.6918007
+                ],
+                [
+                    -71.500751,
+                    41.6917585
+                ],
+                [
+                    -71.5005768,
+                    41.6917445
+                ],
+                [
+                    -71.5008648,
+                    41.691165
+                ],
+                [
+                    -71.5008962,
+                    41.6909027
+                ],
+                [
+                    -71.5006237,
+                    41.6908376
+                ],
+                [
+                    -71.5005852,
+                    41.6909276
+                ],
+                [
+                    -71.5005407,
+                    41.6909091
+                ],
+                [
+                    -71.5004439,
+                    41.6910637
+                ],
+                [
+                    -71.4998042,
+                    41.6925261
+                ],
+                [
+                    -71.5009615,
+                    41.6928278
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003563",
+        "NAME": "KENT COUNTY JAIL",
+        "ADDRESS": "222 QUAKER LANE",
+        "CITY": "WARWICK",
+        "STATE": "RI",
+        "ZIP": "02886",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "COUNTY",
+        "STATUS": "NOT AVAILABLE",
+        "POPULATION": -999,
+        "COUNTY": "KENT",
+        "COUNTYFIPS": "44003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.countyoffice.org/kent-county-jail-warwick-ri-7b4/",
+        "SOURCEDATE": "2020/05/28 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00627977010804,
+        "SHAPE_Length": 0.006279770108038882,
+        "SHAPE_Area": 0.00000125739584241
+    },
+    "id": 158
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86828"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4496033,
+                    41.7444149
+                ],
+                [
+                    -71.4496105,
+                    41.744008
+                ],
+                [
+                    -71.4495795,
+                    41.7439771
+                ],
+                [
+                    -71.4495795,
+                    41.7437915
+                ],
+                [
+                    -71.4496176,
+                    41.7437558
+                ],
+                [
+                    -71.4496247,
+                    41.7433537
+                ],
+                [
+                    -71.4495534,
+                    41.7432847
+                ],
+                [
+                    -71.4478687,
+                    41.7432728
+                ],
+                [
+                    -71.4476795,
+                    41.7433924
+                ],
+                [
+                    -71.4476574,
+                    41.7443348
+                ],
+                [
+                    -71.4478211,
+                    41.7444649
+                ],
+                [
+                    -71.4495272,
+                    41.7444728
+                ],
+                [
+                    -71.4496033,
+                    41.7444149
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003555",
+        "NAME": "DONALD PRICE FACILITY",
+        "ADDRESS": "20 GODDARD RD",
+        "CITY": "CRANSTON",
+        "STATE": "RI",
+        "ZIP": "02920",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "PROVIDENCE",
+        "COUNTYFIPS": "44007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.doc.ri.gov/institutions/facilities/price.php, http://www.doc.ri.gov/administration/planning/docs/FY09-10%20Cap%20and%20Midnight%20Count.pdf",
+        "SOURCEDATE": "2014/10/02 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 324,
+        "SHAPE_Leng": 0.00605199576658,
+        "SHAPE_Length": 0.006051995766578256,
+        "SHAPE_Area": 0.00000228204530972
+    },
+    "id": 2810
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb876d8"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4632919,
+                    41.7426233
+                ],
+                [
+                    -71.4635203,
+                    41.7428755
+                ],
+                [
+                    -71.464089,
+                    41.7425948
+                ],
+                [
+                    -71.4637963,
+                    41.7422854
+                ],
+                [
+                    -71.4638772,
+                    41.742245
+                ],
+                [
+                    -71.4641056,
+                    41.7424972
+                ],
+                [
+                    -71.4645744,
+                    41.7422521
+                ],
+                [
+                    -71.4643365,
+                    41.7419785
+                ],
+                [
+                    -71.4646053,
+                    41.7418429
+                ],
+                [
+                    -71.4644816,
+                    41.741712
+                ],
+                [
+                    -71.4642127,
+                    41.7418452
+                ],
+                [
+                    -71.4641461,
+                    41.7417715
+                ],
+                [
+                    -71.4642437,
+                    41.7417191
+                ],
+                [
+                    -71.4641247,
+                    41.7415764
+                ],
+                [
+                    -71.4640771,
+                    41.7416025
+                ],
+                [
+                    -71.4639772,
+                    41.7414859
+                ],
+                [
+                    -71.4640414,
+                    41.7414502
+                ],
+                [
+                    -71.4639082,
+                    41.7413218
+                ],
+                [
+                    -71.4631491,
+                    41.7417049
+                ],
+                [
+                    -71.4632419,
+                    41.7418044
+                ],
+                [
+                    -71.4627517,
+                    41.7420546
+                ],
+                [
+                    -71.4627018,
+                    41.7420047
+                ],
+                [
+                    -71.4625614,
+                    41.7420784
+                ],
+                [
+                    -71.4631277,
+                    41.7427018
+                ],
+                [
+                    -71.4632919,
+                    41.7426233
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003557",
+        "NAME": "MINIMUM SECURITY FACILITY",
+        "ADDRESS": "16 HOWARD AVE",
+        "CITY": "CRANSTON",
+        "STATE": "RI",
+        "ZIP": "02920",
+        "ZIP4": "-999",
+        "TELEPHONE": "(401) 462-2162",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 232,
+        "COUNTY": "PROVIDENCE",
+        "COUNTYFIPS": "44007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.doc.ri.gov/administration/planning/statistics_reports.php",
+        "SOURCEDATE": "2018/01/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.doc.ri.gov/institutions/facilities/index.php",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 710,
+        "SHAPE_Leng": 0.00715643402354,
+        "SHAPE_Length": 0.007156434023539721,
+        "SHAPE_Area": 0.00000162411663245
+    },
+    "id": 6565
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb876d1"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4682786,
+                    41.7451898
+                ],
+                [
+                    -71.4710997,
+                    41.741898
+                ],
+                [
+                    -71.4701995,
+                    41.7409215
+                ],
+                [
+                    -71.4700081,
+                    41.7408954
+                ],
+                [
+                    -71.4683598,
+                    41.741762
+                ],
+                [
+                    -71.4682425,
+                    41.7416357
+                ],
+                [
+                    -71.4679806,
+                    41.7417643
+                ],
+                [
+                    -71.4680787,
+                    41.741889
+                ],
+                [
+                    -71.4659666,
+                    41.7429718
+                ],
+                [
+                    -71.4659309,
+                    41.7431278
+                ],
+                [
+                    -71.4678817,
+                    41.7452079
+                ],
+                [
+                    -71.4682786,
+                    41.7451898
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003556",
+        "NAME": "JOHN J MORAN MEDIUM SECURITY FACILITY",
+        "ADDRESS": "51 WEST RD",
+        "CITY": "CRANSTON",
+        "STATE": "RI",
+        "ZIP": "02920",
+        "ZIP4": "-999",
+        "TELEPHONE": "(401) 462-3771",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 964,
+        "COUNTY": "PROVIDENCE",
+        "COUNTYFIPS": "44007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.doc.ri.gov/administration/planning/statistics_reports.php",
+        "SOURCEDATE": "2018/01/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.doc.ri.gov/institutions/facilities/index.php",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 1126,
+        "SHAPE_Leng": 0.0141241140701,
+        "SHAPE_Length": 0.014124114070139424,
+        "SHAPE_Area": 0.0000108513254559
+    },
+    "id": 6563
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8615a"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4653865,
+                    41.7472025
+                ],
+                [
+                    -71.465401,
+                    41.7472162
+                ],
+                [
+                    -71.4655388,
+                    41.7471394
+                ],
+                [
+                    -71.4654436,
+                    41.7470502
+                ],
+                [
+                    -71.4655554,
+                    41.7469776
+                ],
+                [
+                    -71.4657065,
+                    41.7469847
+                ],
+                [
+                    -71.4657958,
+                    41.7468967
+                ],
+                [
+                    -71.4658255,
+                    41.7467385
+                ],
+                [
+                    -71.465659,
+                    41.7465933
+                ],
+                [
+                    -71.4653044,
+                    41.7466135
+                ],
+                [
+                    -71.4645549,
+                    41.7471418
+                ],
+                [
+                    -71.4645168,
+                    41.7473881
+                ],
+                [
+                    -71.4646881,
+                    41.7475165
+                ],
+                [
+                    -71.4653044,
+                    41.7474892
+                ],
+                [
+                    -71.4654377,
+                    41.7474321
+                ],
+                [
+                    -71.4654615,
+                    41.7473785
+                ],
+                [
+                    -71.4653413,
+                    41.7472346
+                ],
+                [
+                    -71.4653865,
+                    41.7472025
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003562",
+        "NAME": "ROOSEVELT BENTON YOUTH ASSESSMENT CENTER",
+        "ADDRESS": "45 CHERRYDALE COURT",
+        "CITY": "CRANSTON",
+        "STATE": "RI",
+        "ZIP": "02920",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": -999,
+        "COUNTY": "PROVIDENCE",
+        "COUNTYFIPS": "44007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nepsy.com/articles/general/benton-center-retrofitted-for-psychiatric-patients/",
+        "SOURCEDATE": "2017/02/28 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 56,
+        "SHAPE_Leng": 0.00389895357722,
+        "SHAPE_Length": 0.0038989535772164657,
+        "SHAPE_Area": 7.15827357057e-7
+    },
+    "id": 1042
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb876cf"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4645653,
+                    41.7493685
+                ],
+                [
+                    -71.4645596,
+                    41.7481255
+                ],
+                [
+                    -71.4645044,
+                    41.7480417
+                ],
+                [
+                    -71.4638781,
+                    41.7480398
+                ],
+                [
+                    -71.4638762,
+                    41.7480684
+                ],
+                [
+                    -71.4636878,
+                    41.7480608
+                ],
+                [
+                    -71.4635298,
+                    41.748097
+                ],
+                [
+                    -71.4635279,
+                    41.7480494
+                ],
+                [
+                    -71.4634042,
+                    41.7480494
+                ],
+                [
+                    -71.4634042,
+                    41.7481103
+                ],
+                [
+                    -71.4631738,
+                    41.748116
+                ],
+                [
+                    -71.4632157,
+                    41.7484396
+                ],
+                [
+                    -71.4629168,
+                    41.7486509
+                ],
+                [
+                    -71.46325,
+                    41.7494637
+                ],
+                [
+                    -71.4633604,
+                    41.7495151
+                ],
+                [
+                    -71.4643883,
+                    41.7495189
+                ],
+                [
+                    -71.4645653,
+                    41.7493685
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001721",
+        "NAME": "ANTHONY P. TRAVISONO INTAKE SERVICE CENTER",
+        "ADDRESS": "18 SLATE HILL RD",
+        "CITY": "CRANSTON",
+        "STATE": "RI",
+        "ZIP": "02920",
+        "ZIP4": "-999",
+        "TELEPHONE": "(401) 462-3802",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 845,
+        "COUNTY": "PROVIDENCE",
+        "COUNTYFIPS": "44007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.doc.ri.gov/administration/planning/statistics_reports.php",
+        "SOURCEDATE": "2018/01/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.doc.ri.gov/institutions/facilities/index.php",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 1118,
+        "SHAPE_Leng": 0.00576436852464,
+        "SHAPE_Length": 0.00576436852464343,
+        "SHAPE_Area": 0.00000208882955525
+    },
+    "id": 6561
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb876d0"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4627617,
+                    41.7504732
+                ],
+                [
+                    -71.4627596,
+                    41.7489589
+                ],
+                [
+                    -71.462485,
+                    41.7485928
+                ],
+                [
+                    -71.4621037,
+                    41.7484316
+                ],
+                [
+                    -71.4614625,
+                    41.7484373
+                ],
+                [
+                    -71.4614625,
+                    41.7483688
+                ],
+                [
+                    -71.4613883,
+                    41.7483688
+                ],
+                [
+                    -71.4613883,
+                    41.7484294
+                ],
+                [
+                    -71.4612975,
+                    41.7484294
+                ],
+                [
+                    -71.4612975,
+                    41.7491724
+                ],
+                [
+                    -71.4611201,
+                    41.7491676
+                ],
+                [
+                    -71.4611201,
+                    41.7496183
+                ],
+                [
+                    -71.4614682,
+                    41.7498751
+                ],
+                [
+                    -71.4614609,
+                    41.7499438
+                ],
+                [
+                    -71.4613716,
+                    41.7499438
+                ],
+                [
+                    -71.4612409,
+                    41.7498501
+                ],
+                [
+                    -71.4612409,
+                    41.7497999
+                ],
+                [
+                    -71.461169,
+                    41.7497999
+                ],
+                [
+                    -71.4611678,
+                    41.7500333
+                ],
+                [
+                    -71.4613694,
+                    41.7500331
+                ],
+                [
+                    -71.4613716,
+                    41.7499982
+                ],
+                [
+                    -71.4614631,
+                    41.7499939
+                ],
+                [
+                    -71.4614631,
+                    41.7501725
+                ],
+                [
+                    -71.4613934,
+                    41.7501791
+                ],
+                [
+                    -71.4613128,
+                    41.7502553
+                ],
+                [
+                    -71.4613106,
+                    41.7503251
+                ],
+                [
+                    -71.4613454,
+                    41.7503883
+                ],
+                [
+                    -71.4614893,
+                    41.7504907
+                ],
+                [
+                    -71.4627312,
+                    41.7504907
+                ],
+                [
+                    -71.4627617,
+                    41.7504732
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003561",
+        "NAME": "HIGH SECURITY CENTER",
+        "ADDRESS": "54 POWER RD",
+        "CITY": "CRANSTON",
+        "STATE": "RI",
+        "ZIP": "02920",
+        "ZIP4": "-999",
+        "TELEPHONE": "(401) 462-2028",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 88,
+        "COUNTY": "PROVIDENCE",
+        "COUNTYFIPS": "44007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.doc.ri.gov/administration/planning/statistics_reports.php",
+        "SOURCEDATE": "2018/01/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.doc.ri.gov/institutions/facilities/index.php",
+        "SECURELVL": "CLOSE",
+        "CAPACITY": 138,
+        "SHAPE_Leng": 0.00808294633669,
+        "SHAPE_Length": 0.008082946336692261,
+        "SHAPE_Area": 0.00000293993015034
+    },
+    "id": 6562
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb876dc"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4619273,
+                    41.7463626
+                ],
+                [
+                    -71.4615751,
+                    41.7459724
+                ],
+                [
+                    -71.4611563,
+                    41.7461533
+                ],
+                [
+                    -71.4610516,
+                    41.746001
+                ],
+                [
+                    -71.4604044,
+                    41.7462865
+                ],
+                [
+                    -71.4605376,
+                    41.7464578
+                ],
+                [
+                    -71.4604805,
+                    41.7464864
+                ],
+                [
+                    -71.4608613,
+                    41.7468481
+                ],
+                [
+                    -71.4619273,
+                    41.7463626
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003558",
+        "NAME": "GLORIA MCDONALD AWAITING TRIAL / MEDIUM SEC FAC",
+        "ADDRESS": "20 FLEMING RD",
+        "CITY": "CRANSTON",
+        "STATE": "RI",
+        "ZIP": "02920",
+        "ZIP4": "-999",
+        "TELEPHONE": "(401) 462-0787",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 138,
+        "COUNTY": "PROVIDENCE",
+        "COUNTYFIPS": "44007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.doc.ri.gov/administration/planning/statistics_reports.php",
+        "SOURCEDATE": "2018/01/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.doc.ri.gov/institutions/facilities/index.php",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 173,
+        "SHAPE_Leng": 0.00385133025686,
+        "SHAPE_Length": 0.0038513302568584894,
+        "SHAPE_Area": 7.35540042144e-7
+    },
+    "id": 6569
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb876df"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.460283,
+                    41.7454418
+                ],
+                [
+                    -71.460383,
+                    41.7455846
+                ],
+                [
+                    -71.4602688,
+                    41.7456631
+                ],
+                [
+                    -71.4602259,
+                    41.7456916
+                ],
+                [
+                    -71.4603687,
+                    41.7458772
+                ],
+                [
+                    -71.4604544,
+                    41.745813
+                ],
+                [
+                    -71.4605614,
+                    41.7459629
+                ],
+                [
+                    -71.4605186,
+                    41.7459843
+                ],
+                [
+                    -71.4606043,
+                    41.7460914
+                ],
+                [
+                    -71.4606757,
+                    41.7460628
+                ],
+                [
+                    -71.4607042,
+                    41.7461128
+                ],
+                [
+                    -71.4608113,
+                    41.7460628
+                ],
+                [
+                    -71.4607899,
+                    41.7460057
+                ],
+                [
+                    -71.460847,
+                    41.7459486
+                ],
+                [
+                    -71.4607756,
+                    41.7458415
+                ],
+                [
+                    -71.4607042,
+                    41.7458701
+                ],
+                [
+                    -71.4605686,
+                    41.7457345
+                ],
+                [
+                    -71.4606899,
+                    41.7457416
+                ],
+                [
+                    -71.4608256,
+                    41.7456774
+                ],
+                [
+                    -71.4607685,
+                    41.7455846
+                ],
+                [
+                    -71.4611254,
+                    41.7454204
+                ],
+                [
+                    -71.4609041,
+                    41.7451491
+                ],
+                [
+                    -71.460283,
+                    41.7454418
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003559",
+        "NAME": "BERNADETTE BUILDING",
+        "ADDRESS": "15 FLEMING ROAD",
+        "CITY": "CRANSTON",
+        "STATE": "RI",
+        "ZIP": "02920",
+        "ZIP4": "-999",
+        "TELEPHONE": "(401) 462-1165",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 145,
+        "COUNTY": "PROVIDENCE",
+        "COUNTYFIPS": "44007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.doc.ri.gov/administration/planning/statistics_reports.php",
+        "SOURCEDATE": "2018/01/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.doc.ri.gov/institutions/facilities/index.php",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 100,
+        "SHAPE_Leng": 0.00367662860531,
+        "SHAPE_Length": 0.0036766286053097146,
+        "SHAPE_Area": 3.84568684302e-7
+    },
+    "id": 6572
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb876d7"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4572837,
+                    41.7478054
+                ],
+                [
+                    -71.4575549,
+                    41.7476066
+                ],
+                [
+                    -71.4575572,
+                    41.7474619
+                ],
+                [
+                    -71.4577131,
+                    41.7474619
+                ],
+                [
+                    -71.4578035,
+                    41.7474031
+                ],
+                [
+                    -71.4578736,
+                    41.7472156
+                ],
+                [
+                    -71.4578872,
+                    41.746029
+                ],
+                [
+                    -71.4573967,
+                    41.7456154
+                ],
+                [
+                    -71.4554643,
+                    41.7456154
+                ],
+                [
+                    -71.4554598,
+                    41.7463432
+                ],
+                [
+                    -71.4552948,
+                    41.746411
+                ],
+                [
+                    -71.4552881,
+                    41.7465986
+                ],
+                [
+                    -71.455209,
+                    41.7466166
+                ],
+                [
+                    -71.4552745,
+                    41.7468042
+                ],
+                [
+                    -71.4550078,
+                    41.7467952
+                ],
+                [
+                    -71.4549988,
+                    41.7468924
+                ],
+                [
+                    -71.4550922,
+                    41.7468969
+                ],
+                [
+                    -71.4550959,
+                    41.7469692
+                ],
+                [
+                    -71.4553107,
+                    41.7469737
+                ],
+                [
+                    -71.4553129,
+                    41.7473195
+                ],
+                [
+                    -71.4554711,
+                    41.7475162
+                ],
+                [
+                    -71.4554711,
+                    41.7475636
+                ],
+                [
+                    -71.4554169,
+                    41.7475614
+                ],
+                [
+                    -71.4554191,
+                    41.7477083
+                ],
+                [
+                    -71.4555728,
+                    41.7477173
+                ],
+                [
+                    -71.4558706,
+                    41.7478186
+                ],
+                [
+                    -71.4572837,
+                    41.7478054
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003554",
+        "NAME": "MAXIMUM SECURITY FACILITY",
+        "ADDRESS": "1375 PONTIAC AVE",
+        "CITY": "CRANSTON",
+        "STATE": "RI",
+        "ZIP": "02920",
+        "ZIP4": "-999",
+        "TELEPHONE": "(401) 462-2054",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 394,
+        "COUNTY": "PROVIDENCE",
+        "COUNTYFIPS": "44007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.doc.ri.gov/administration/planning/statistics_reports.php",
+        "SOURCEDATE": "2018/01/08 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.doc.ri.gov/institutions/facilities/index.php",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 409,
+        "SHAPE_Leng": 0.0095529852693,
+        "SHAPE_Length": 0.009552985269303893,
+        "SHAPE_Area": 0.00000525804949976
+    },
+    "id": 6564
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb8770c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4590483,
+                    41.7509169
+                ],
+                [
+                    -71.4590532,
+                    41.7507465
+                ],
+                [
+                    -71.4591034,
+                    41.7507465
+                ],
+                [
+                    -71.459092,
+                    41.7503134
+                ],
+                [
+                    -71.459045,
+                    41.7503182
+                ],
+                [
+                    -71.4590207,
+                    41.7500505
+                ],
+                [
+                    -71.4587838,
+                    41.7500603
+                ],
+                [
+                    -71.4587774,
+                    41.7499808
+                ],
+                [
+                    -71.4583588,
+                    41.7499613
+                ],
+                [
+                    -71.4583782,
+                    41.7495005
+                ],
+                [
+                    -71.4572848,
+                    41.7494713
+                ],
+                [
+                    -71.4572539,
+                    41.7498088
+                ],
+                [
+                    -71.4573123,
+                    41.750117
+                ],
+                [
+                    -71.4574551,
+                    41.7505097
+                ],
+                [
+                    -71.4574649,
+                    41.7507271
+                ],
+                [
+                    -71.4575119,
+                    41.7508195
+                ],
+                [
+                    -71.4576076,
+                    41.7508877
+                ],
+                [
+                    -71.4578007,
+                    41.7509477
+                ],
+                [
+                    -71.4581283,
+                    41.7510102
+                ],
+                [
+                    -71.4586703,
+                    41.7510483
+                ],
+                [
+                    -71.4586841,
+                    41.7509202
+                ],
+                [
+                    -71.4590483,
+                    41.7509169
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003553",
+        "NAME": "RI TRAINING SCHOOL / YOUTH DEVELOPMENT CENTER",
+        "ADDRESS": "57 POWER RD",
+        "CITY": "CRANSTON",
+        "STATE": "RI",
+        "ZIP": "02920",
+        "ZIP4": "-999",
+        "TELEPHONE": "(401) 462-7390",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 64,
+        "COUNTY": "PROVIDENCE",
+        "COUNTYFIPS": "44007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://wpri.com/2017/10/06/dcyf-releases-60-day-review-on-rhode-island-training-school/, http://www.dcyf.ri.gov/contact/",
+        "SOURCEDATE": "2017/10/06 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "http://www.dcyf.ri.gov/juvenile_corrections.php",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00634216007087,
+        "SHAPE_Length": 0.0063421600708652645,
+        "SHAPE_Area": 0.00000215359326888
+    },
+    "id": 6583
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85dc9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -71.4698883,
+                    41.4484743
+                ],
+                [
+                    -71.4699495,
+                    41.4484138
+                ],
+                [
+                    -71.4700068,
+                    41.4484502
+                ],
+                [
+                    -71.4702884,
+                    41.4481886
+                ],
+                [
+                    -71.4702359,
+                    41.4481513
+                ],
+                [
+                    -71.4702968,
+                    41.448095
+                ],
+                [
+                    -71.4698149,
+                    41.4477979
+                ],
+                [
+                    -71.4697595,
+                    41.4478528
+                ],
+                [
+                    -71.4696937,
+                    41.4478153
+                ],
+                [
+                    -71.4694119,
+                    41.4480864
+                ],
+                [
+                    -71.4694513,
+                    41.448111
+                ],
+                [
+                    -71.4694155,
+                    41.4481417
+                ],
+                [
+                    -71.4694446,
+                    41.4481623
+                ],
+                [
+                    -71.4694165,
+                    41.4481855
+                ],
+                [
+                    -71.4698883,
+                    41.4484743
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003564",
+        "NAME": "WASHINGTON COUNTY JAIL",
+        "ADDRESS": "4800 TOWER HILL RD",
+        "CITY": "WAKEFIELD",
+        "STATE": "RI",
+        "ZIP": "02879",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "COUNTY",
+        "STATUS": "NOT AVAILABLE",
+        "POPULATION": -999,
+        "COUNTY": "WASHINGTON",
+        "COUNTYFIPS": "44009",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.usacops.com/ri/s02879/",
+        "SOURCEDATE": "2020/05/28 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2020/01/31 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0025157079424,
+        "SHAPE_Length": 0.0025157079424010125,
+        "SHAPE_Area": 3.5527564384e-7
+    },
+    "id": 160
+}
+]
