@@ -1,0 +1,1744 @@
+[
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86b11"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -155.0853385,
+                    19.7164449
+                ],
+                [
+                    -155.085586,
+                    19.716345
+                ],
+                [
+                    -155.0855765,
+                    19.7163164
+                ],
+                [
+                    -155.0859191,
+                    19.7161594
+                ],
+                [
+                    -155.085843,
+                    19.7160071
+                ],
+                [
+                    -155.0857097,
+                    19.7160594
+                ],
+                [
+                    -155.0853956,
+                    19.7154884
+                ],
+                [
+                    -155.0855717,
+                    19.7154074
+                ],
+                [
+                    -155.0855907,
+                    19.7154503
+                ],
+                [
+                    -155.0855194,
+                    19.7154931
+                ],
+                [
+                    -155.0857097,
+                    19.71585
+                ],
+                [
+                    -155.086019,
+                    19.7156977
+                ],
+                [
+                    -155.0858525,
+                    19.7153503
+                ],
+                [
+                    -155.0857525,
+                    19.7153789
+                ],
+                [
+                    -155.0857335,
+                    19.7153028
+                ],
+                [
+                    -155.0859429,
+                    19.7151981
+                ],
+                [
+                    -155.0859286,
+                    19.7151552
+                ],
+                [
+                    -155.0856478,
+                    19.7152742
+                ],
+                [
+                    -155.0855241,
+                    19.7151219
+                ],
+                [
+                    -155.0852671,
+                    19.7152361
+                ],
+                [
+                    -155.0852386,
+                    19.7151838
+                ],
+                [
+                    -155.085329,
+                    19.7151219
+                ],
+                [
+                    -155.0851339,
+                    19.7147745
+                ],
+                [
+                    -155.0849007,
+                    19.7148697
+                ],
+                [
+                    -155.084953,
+                    19.7149934
+                ],
+                [
+                    -155.0849197,
+                    19.7150029
+                ],
+                [
+                    -155.084953,
+                    19.7150696
+                ],
+                [
+                    -155.0850101,
+                    19.7150791
+                ],
+                [
+                    -155.0850863,
+                    19.7152409
+                ],
+                [
+                    -155.0851196,
+                    19.7152266
+                ],
+                [
+                    -155.0851577,
+                    19.7152837
+                ],
+                [
+                    -155.0849388,
+                    19.7153789
+                ],
+                [
+                    -155.0849626,
+                    19.7154455
+                ],
+                [
+                    -155.0848579,
+                    19.7154979
+                ],
+                [
+                    -155.0848864,
+                    19.7155359
+                ],
+                [
+                    -155.0848579,
+                    19.715555
+                ],
+                [
+                    -155.0848817,
+                    19.7156026
+                ],
+                [
+                    -155.0849055,
+                    19.7155835
+                ],
+                [
+                    -155.0849483,
+                    19.7156644
+                ],
+                [
+                    -155.0850482,
+                    19.7156216
+                ],
+                [
+                    -155.0850673,
+                    19.7156549
+                ],
+                [
+                    -155.0852766,
+                    19.7155455
+                ],
+                [
+                    -155.0855765,
+                    19.716126
+                ],
+                [
+                    -155.0854956,
+                    19.7161641
+                ],
+                [
+                    -155.0854527,
+                    19.7160689
+                ],
+                [
+                    -155.0851767,
+                    19.7161832
+                ],
+                [
+                    -155.0853385,
+                    19.7164449
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006941",
+        "NAME": "HAWAII POLICE DEPARTMENT",
+        "ADDRESS": "349 KAPIOLANI ST",
+        "CITY": "HILO",
+        "STATE": "HI",
+        "ZIP": "96720",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 935-3311",
+        "TYPE": "COUNTY",
+        "STATUS": "NOT AVAILABLE",
+        "POPULATION": -999,
+        "COUNTY": "HAWAII",
+        "COUNTYFIPS": "15001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.hawaiipolice.com/contact-us/police-department-contacts",
+        "SOURCEDATE": "2020/04/22 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2020/04/30 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00826679453737,
+        "SHAPE_Length": 0.008266794537365453,
+        "SHAPE_Area": 7.49650122588e-7
+    },
+    "id": 3524
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87381"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -155.0998227,
+                    19.718538
+                ],
+                [
+                    -155.099071,
+                    19.7173898
+                ],
+                [
+                    -155.0981872,
+                    19.7179903
+                ],
+                [
+                    -155.0987197,
+                    19.7192406
+                ],
+                [
+                    -155.0998227,
+                    19.718538
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003694",
+        "NAME": "HAWAII COMMUNITY CORRECTIONAL CENTER",
+        "ADDRESS": "60 PUNAHELE STREET",
+        "CITY": "HILO",
+        "STATE": "HI",
+        "ZIP": "96720",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 933-0431",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 512,
+        "COUNTY": "HAWAII",
+        "COUNTYFIPS": "15001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dps.hawaii.gov/about/divisions/corrections/about-corrections/hccc/",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/05 00:00:00",
+        "WEBSITE": "http://dps.hawaii.gov/about/divisions/corrections/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 226,
+        "SHAPE_Leng": 0.005107652288,
+        "SHAPE_Length": 0.0051076522879970575,
+        "SHAPE_Area": 0.00000160972356381
+    },
+    "id": 5713
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87395"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -155.3009384,
+                    19.5502889
+                ],
+                [
+                    -155.3017517,
+                    19.5508554
+                ],
+                [
+                    -155.3028991,
+                    19.5498968
+                ],
+                [
+                    -155.3034074,
+                    19.5488366
+                ],
+                [
+                    -155.303451,
+                    19.5478199
+                ],
+                [
+                    -155.3025941,
+                    19.5473551
+                ],
+                [
+                    -155.3021874,
+                    19.5473261
+                ],
+                [
+                    -155.3021293,
+                    19.5477908
+                ],
+                [
+                    -155.3013596,
+                    19.5477618
+                ],
+                [
+                    -155.3013305,
+                    19.5474858
+                ],
+                [
+                    -155.3001977,
+                    19.5474713
+                ],
+                [
+                    -155.2992681,
+                    19.5478925
+                ],
+                [
+                    -155.2991665,
+                    19.5504196
+                ],
+                [
+                    -155.2999508,
+                    19.5519592
+                ],
+                [
+                    -155.3009384,
+                    19.5502889
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000128",
+        "NAME": "KULANI CORRECTIONAL FACILITY",
+        "ADDRESS": "HC 01, STAINBACK HWY",
+        "CITY": "HILO",
+        "STATE": "HI",
+        "ZIP": "96720",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 932-4430",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 145,
+        "COUNTY": "HAWAII",
+        "COUNTYFIPS": "15001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://dps.hawaii.gov/about/divisions/corrections/about-corrections/kcf/",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/05 00:00:00",
+        "WEBSITE": "http://dps.hawaii.gov/about/divisions/corrections/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 200,
+        "SHAPE_Leng": 0.0159291679104,
+        "SHAPE_Length": 0.01592916791042489,
+        "SHAPE_Area": 0.0000127133501245
+    },
+    "id": 5712
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e3b"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -156.0067777,
+                    19.6638637
+                ],
+                [
+                    -156.0070305,
+                    19.663831
+                ],
+                [
+                    -156.0070216,
+                    19.6638132
+                ],
+                [
+                    -156.007087,
+                    19.6638043
+                ],
+                [
+                    -156.007093,
+                    19.6638191
+                ],
+                [
+                    -156.0073399,
+                    19.6637686
+                ],
+                [
+                    -156.0072536,
+                    19.6634384
+                ],
+                [
+                    -156.0070097,
+                    19.6634771
+                ],
+                [
+                    -156.0070097,
+                    19.663492
+                ],
+                [
+                    -156.0069502,
+                    19.6635068
+                ],
+                [
+                    -156.0069473,
+                    19.663492
+                ],
+                [
+                    -156.0066974,
+                    19.6635514
+                ],
+                [
+                    -156.0067777,
+                    19.6638637
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10007002",
+        "NAME": "HAWAII COUNTY POLICE DEPARTMENT",
+        "ADDRESS": "74-611 HALE MAKAI PL",
+        "CITY": "KAILUA-KONA",
+        "STATE": "HI",
+        "ZIP": "96740",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 326-4646",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "HAWAII",
+        "COUNTYFIPS": "15001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.hawaiipolice.com/contact-us/police-department-contacts, https://www.facebook.com/pages/Hawaii-County-Police-Department/978070672264231",
+        "SOURCEDATE": "2020/04/22 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2020/04/30 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00186774903366,
+        "SHAPE_Length": 0.0018677490336557743,
+        "SHAPE_Area": 1.92214896707e-7
+    },
+    "id": 268
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8738c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -156.4982124,
+                    20.8780908
+                ],
+                [
+                    -156.4989334,
+                    20.8776525
+                ],
+                [
+                    -156.4989337,
+                    20.8763583
+                ],
+                [
+                    -156.4980569,
+                    20.8761963
+                ],
+                [
+                    -156.4978731,
+                    20.8771648
+                ],
+                [
+                    -156.4982124,
+                    20.8780908
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000127",
+        "NAME": "MAUI COMMUNITY CORRECTIONAL CENTER",
+        "ADDRESS": "600 WAIALE DR",
+        "CITY": "WAILUKU",
+        "STATE": "HI",
+        "ZIP": "96793",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 243-5101",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 495,
+        "COUNTY": "MAUI",
+        "COUNTYFIPS": "15009",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dps.hawaii.gov/mccc/",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/05 00:00:00",
+        "WEBSITE": "http://dps.hawaii.gov/about/divisions/corrections/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 301,
+        "SHAPE_Leng": 0.00500139373597,
+        "SHAPE_Length": 0.005001393735973478,
+        "SHAPE_Area": 0.00000153373822724
+    },
+    "id": 5716
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86b1d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -156.489014,
+                    20.8881197
+                ],
+                [
+                    -156.4889045,
+                    20.8880198
+                ],
+                [
+                    -156.4886713,
+                    20.8882482
+                ],
+                [
+                    -156.4885809,
+                    20.8882435
+                ],
+                [
+                    -156.4885762,
+                    20.8882292
+                ],
+                [
+                    -156.4885143,
+                    20.8882149
+                ],
+                [
+                    -156.4885143,
+                    20.8882387
+                ],
+                [
+                    -156.4884572,
+                    20.8882387
+                ],
+                [
+                    -156.4882525,
+                    20.8880674
+                ],
+                [
+                    -156.4883953,
+                    20.8879342
+                ],
+                [
+                    -156.4882192,
+                    20.8878152
+                ],
+                [
+                    -156.4880574,
+                    20.8878342
+                ],
+                [
+                    -156.4879908,
+                    20.8879389
+                ],
+                [
+                    -156.4879956,
+                    20.8880817
+                ],
+                [
+                    -156.4880384,
+                    20.8881388
+                ],
+                [
+                    -156.4879575,
+                    20.8882197
+                ],
+                [
+                    -156.4879051,
+                    20.8881483
+                ],
+                [
+                    -156.4878433,
+                    20.8881435
+                ],
+                [
+                    -156.4877862,
+                    20.8881769
+                ],
+                [
+                    -156.4877196,
+                    20.8881626
+                ],
+                [
+                    -156.4877338,
+                    20.8883482
+                ],
+                [
+                    -156.4887618,
+                    20.8883482
+                ],
+                [
+                    -156.489014,
+                    20.8881197
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006950",
+        "NAME": "MAUI POLICE DEPARTMENT JAIL/JUVENILE DETENTION",
+        "ADDRESS": "55 MAHALANI ST",
+        "CITY": "WAILUKU",
+        "STATE": "HI",
+        "ZIP": "96793",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 244-6300",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "MAUI",
+        "COUNTYFIPS": "15009",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.mauicounty.gov/122/Police-Department",
+        "SOURCEDATE": "2020/04/22 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2020/04/30 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00385415239487,
+        "SHAPE_Length": 0.0038541523948673814,
+        "SHAPE_Area": 3.0887534972e-7
+    },
+    "id": 3559
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87390"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -157.7527394,
+                    21.3743286
+                ],
+                [
+                    -157.7527394,
+                    21.3732858
+                ],
+                [
+                    -157.7519449,
+                    21.3732512
+                ],
+                [
+                    -157.7506392,
+                    21.3731906
+                ],
+                [
+                    -157.7497889,
+                    21.3735843
+                ],
+                [
+                    -157.7497889,
+                    21.3743286
+                ],
+                [
+                    -157.7508344,
+                    21.3743286
+                ],
+                [
+                    -157.7527394,
+                    21.3743286
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003690",
+        "NAME": "HAWAII YOUTH CORRECTIONAL FACILITY",
+        "ADDRESS": "42-477 KALANIANAOLE HIGHWAY",
+        "CITY": "KAILUA",
+        "STATE": "HI",
+        "ZIP": "96734",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 266-9500",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "HONOLULU",
+        "COUNTYFIPS": "15003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://humanservices.hawaii.gov/oys/",
+        "SOURCEDATE": "2017/11/22 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/05 00:00:00",
+        "WEBSITE": "http://humanservices.hawaii.gov/oys/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 56,
+        "SHAPE_Leng": 0.00777697587627,
+        "SHAPE_Length": 0.007776975876274322,
+        "SHAPE_Area": 0.00000308881072573
+    },
+    "id": 5720
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8738e"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -157.7471389,
+                    21.3772282
+                ],
+                [
+                    -157.7475824,
+                    21.3783856
+                ],
+                [
+                    -157.7485107,
+                    21.3790319
+                ],
+                [
+                    -157.7488914,
+                    21.3783561
+                ],
+                [
+                    -157.7495529,
+                    21.3784656
+                ],
+                [
+                    -157.7495957,
+                    21.3790129
+                ],
+                [
+                    -157.7496719,
+                    21.3790081
+                ],
+                [
+                    -157.7497385,
+                    21.3794459
+                ],
+                [
+                    -157.750419,
+                    21.379346
+                ],
+                [
+                    -157.7505332,
+                    21.3789796
+                ],
+                [
+                    -157.7503381,
+                    21.378951
+                ],
+                [
+                    -157.750281,
+                    21.3783895
+                ],
+                [
+                    -157.7495481,
+                    21.3784275
+                ],
+                [
+                    -157.7487439,
+                    21.3782848
+                ],
+                [
+                    -157.7481665,
+                    21.3779529
+                ],
+                [
+                    -157.7480403,
+                    21.3773508
+                ],
+                [
+                    -157.7482638,
+                    21.3766874
+                ],
+                [
+                    -157.7473228,
+                    21.3764603
+                ],
+                [
+                    -157.7471389,
+                    21.3772282
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000126",
+        "NAME": "WOMEN'S COMMUNITY CORRECTIONAL CENTER",
+        "ADDRESS": "42-477 KALANIANAOLE HWY",
+        "CITY": "KAILUA",
+        "STATE": "HI",
+        "ZIP": "96734",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 266-9580",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 272,
+        "COUNTY": "HONOLULU",
+        "COUNTYFIPS": "15003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://dps.hawaii.gov/wp-content/uploads/2019/09/Pop-Reports-EOM-2019-08-31.pdf",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/05 00:00:00",
+        "WEBSITE": "http://dps.hawaii.gov/about/divisions/corrections/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 260,
+        "SHAPE_Leng": 0.0120076878999,
+        "SHAPE_Length": 0.012007687899883992,
+        "SHAPE_Area": 0.00000287965604129
+    },
+    "id": 5719
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85deb"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -158.0854945,
+                    21.3267675
+                ],
+                [
+                    -158.0856801,
+                    21.3261822
+                ],
+                [
+                    -158.0848021,
+                    21.3259537
+                ],
+                [
+                    -158.0846593,
+                    21.3263535
+                ],
+                [
+                    -158.0849092,
+                    21.3264177
+                ],
+                [
+                    -158.0848592,
+                    21.3265248
+                ],
+                [
+                    -158.0851304,
+                    21.3266033
+                ],
+                [
+                    -158.0851162,
+                    21.326639
+                ],
+                [
+                    -158.0854945,
+                    21.3267675
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006936",
+        "NAME": "KAPOLEI JUVENILE DETENTION FACILITY",
+        "ADDRESS": "287 KAMOKILA BLVD",
+        "CITY": "KAPOLEI",
+        "STATE": "HI",
+        "ZIP": "96707",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 954-8400",
+        "TYPE": "STATE",
+        "STATUS": "NOT AVAILABLE",
+        "POPULATION": -999,
+        "COUNTY": "HONOLULU",
+        "COUNTYFIPS": "15003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.courts.state.hi.us/courts/family/family_court_programs",
+        "SOURCEDATE": "2020/04/22 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2020/04/30 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00304232189318,
+        "SHAPE_Length": 0.0030423218931829497,
+        "SHAPE_Area": 4.89538906296e-7
+    },
+    "id": 194
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87396"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -157.961937,
+                    21.4447118
+                ],
+                [
+                    -157.9614722,
+                    21.4448505
+                ],
+                [
+                    -157.9610133,
+                    21.4447456
+                ],
+                [
+                    -157.9609181,
+                    21.4446932
+                ],
+                [
+                    -157.9606183,
+                    21.4440222
+                ],
+                [
+                    -157.9605517,
+                    21.4439556
+                ],
+                [
+                    -157.960328,
+                    21.4439175
+                ],
+                [
+                    -157.9602709,
+                    21.443889
+                ],
+                [
+                    -157.9602519,
+                    21.4438319
+                ],
+                [
+                    -157.9602471,
+                    21.4437652
+                ],
+                [
+                    -157.9601662,
+                    21.4436558
+                ],
+                [
+                    -157.9597189,
+                    21.4433655
+                ],
+                [
+                    -157.9595285,
+                    21.4430038
+                ],
+                [
+                    -157.9590288,
+                    21.44298
+                ],
+                [
+                    -157.9588956,
+                    21.4431846
+                ],
+                [
+                    -157.9591621,
+                    21.4436891
+                ],
+                [
+                    -157.959814,
+                    21.4444124
+                ],
+                [
+                    -157.9598236,
+                    21.4445933
+                ],
+                [
+                    -157.959782,
+                    21.4446981
+                ],
+                [
+                    -157.9600282,
+                    21.4453357
+                ],
+                [
+                    -157.960071,
+                    21.4453737
+                ],
+                [
+                    -157.9604946,
+                    21.4456926
+                ],
+                [
+                    -157.9608134,
+                    21.4452976
+                ],
+                [
+                    -157.9609229,
+                    21.4454023
+                ],
+                [
+                    -157.9610609,
+                    21.4454451
+                ],
+                [
+                    -157.9623791,
+                    21.4456307
+                ],
+                [
+                    -157.9630263,
+                    21.4454118
+                ],
+                [
+                    -157.9631929,
+                    21.4453785
+                ],
+                [
+                    -157.9631024,
+                    21.4449026
+                ],
+                [
+                    -157.9629406,
+                    21.4449264
+                ],
+                [
+                    -157.9628407,
+                    21.4445267
+                ],
+                [
+                    -157.961937,
+                    21.4447118
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001191",
+        "NAME": "WAIAWA CORRECTIONAL FACILITY",
+        "ADDRESS": "94-560 KAMEHAMEHA HWY",
+        "CITY": "WAIPAHU",
+        "STATE": "HI",
+        "ZIP": "96797",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 677-6150",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 238,
+        "COUNTY": "HONOLULU",
+        "COUNTYFIPS": "15003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dps.hawaii.gov/about/divisions/corrections/",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/05 00:00:00",
+        "WEBSITE": "http://dps.hawaii.gov/about/divisions/corrections/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 334,
+        "SHAPE_Leng": 0.0122133525778,
+        "SHAPE_Length": 0.01221335257777795,
+        "SHAPE_Area": 0.00000414330847244
+    },
+    "id": 5717
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86b13"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -157.851613,
+                    21.304363
+                ],
+                [
+                    -157.8518509,
+                    21.3037741
+                ],
+                [
+                    -157.8512263,
+                    21.3035302
+                ],
+                [
+                    -157.8509884,
+                    21.3041251
+                ],
+                [
+                    -157.8510836,
+                    21.3041727
+                ],
+                [
+                    -157.8510657,
+                    21.3042322
+                ],
+                [
+                    -157.8514881,
+                    21.3043868
+                ],
+                [
+                    -157.8515119,
+                    21.3043154
+                ],
+                [
+                    -157.851613,
+                    21.304363
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006948",
+        "NAME": "HONOLULU POLICE DEPARTMENT",
+        "ADDRESS": "801 SOUTH BERETANIA STREET",
+        "CITY": "HONOLULU",
+        "STATE": "HI",
+        "ZIP": "96813",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 529-3111",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "HONOLULU",
+        "COUNTYFIPS": "15003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.honolulupd.org/contact/index.php",
+        "SOURCEDATE": "2020/04/22 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2020/04/30 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00275170749115,
+        "SHAPE_Length": 0.00275170749115013,
+        "SHAPE_Area": 4.58519920205e-7
+    },
+    "id": 3550
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e00"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -157.844098,
+                    21.2991227
+                ],
+                [
+                    -157.8441932,
+                    21.2989571
+                ],
+                [
+                    -157.8442827,
+                    21.29898
+                ],
+                [
+                    -157.8444064,
+                    21.2987363
+                ],
+                [
+                    -157.8438601,
+                    21.2984946
+                ],
+                [
+                    -157.843704,
+                    21.2988696
+                ],
+                [
+                    -157.8437611,
+                    21.2988962
+                ],
+                [
+                    -157.8437345,
+                    21.2989533
+                ],
+                [
+                    -157.8436793,
+                    21.2989343
+                ],
+                [
+                    -157.843645,
+                    21.2990028
+                ],
+                [
+                    -157.8439515,
+                    21.2991189
+                ],
+                [
+                    -157.844098,
+                    21.2991227
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006935",
+        "NAME": "FAMILY COURT DETENTION FACILITY",
+        "ADDRESS": "902 ALDER ST",
+        "CITY": "HONOLULU",
+        "STATE": "HI",
+        "ZIP": "96814",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 591-2581",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "HONOLULU",
+        "COUNTYFIPS": "15003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.courts.state.hi.us/courts/family/family_court_programs",
+        "SOURCEDATE": "2020/04/22 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2020/04/30 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.002295648185,
+        "SHAPE_Length": 0.0022956481849989575,
+        "SHAPE_Area": 2.79022671018e-7
+    },
+    "id": 191
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8738d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -157.8866439,
+                    21.3303673
+                ],
+                [
+                    -157.8844531,
+                    21.3281765
+                ],
+                [
+                    -157.8830581,
+                    21.3297478
+                ],
+                [
+                    -157.8855661,
+                    21.3314903
+                ],
+                [
+                    -157.8866439,
+                    21.3303673
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003691",
+        "NAME": "OAHU COMMUNITY CORRECTIONAL CENTER",
+        "ADDRESS": "2199 KAMEHAMEHA HIGHWAY",
+        "CITY": "HONOLULU",
+        "STATE": "HI",
+        "ZIP": "96819",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 832-1777",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 1419,
+        "COUNTY": "HONOLULU",
+        "COUNTYFIPS": "15003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dps.hawaii.gov/about/divisions/corrections/",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/05 00:00:00",
+        "WEBSITE": "http://dps.hawaii.gov/about/divisions/corrections/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 950,
+        "SHAPE_Leng": 0.00980996895085,
+        "SHAPE_Length": 0.009809968950845675,
+        "SHAPE_Area": 0.0000055966783394
+    },
+    "id": 5714
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87387"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -157.9004356,
+                    21.373951
+                ],
+                [
+                    -157.9005481,
+                    21.3734917
+                ],
+                [
+                    -157.9006569,
+                    21.3734083
+                ],
+                [
+                    -157.9006377,
+                    21.3715132
+                ],
+                [
+                    -157.8997482,
+                    21.3721985
+                ],
+                [
+                    -157.897662,
+                    21.3743558
+                ],
+                [
+                    -157.8972972,
+                    21.3739804
+                ],
+                [
+                    -157.8960493,
+                    21.3742962
+                ],
+                [
+                    -157.8959597,
+                    21.3744988
+                ],
+                [
+                    -157.8959789,
+                    21.3746836
+                ],
+                [
+                    -157.8961133,
+                    21.3747729
+                ],
+                [
+                    -157.8977964,
+                    21.3749517
+                ],
+                [
+                    -157.8981418,
+                    21.3749885
+                ],
+                [
+                    -157.898965,
+                    21.3749314
+                ],
+                [
+                    -157.8995076,
+                    21.3748457
+                ],
+                [
+                    -157.8998692,
+                    21.3747315
+                ],
+                [
+                    -157.9001738,
+                    21.3745745
+                ],
+                [
+                    -157.9003261,
+                    21.3743984
+                ],
+                [
+                    -157.9004356,
+                    21.373951
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000124",
+        "NAME": "HALAWA CORRECTIONAL FACILITY",
+        "ADDRESS": "99-902 MOANALUA RD",
+        "CITY": "AIEA",
+        "STATE": "HI",
+        "ZIP": "96701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 485-5200",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 752,
+        "COUNTY": "HONOLULU",
+        "COUNTYFIPS": "15003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dps.hawaii.gov/about/divisions/corrections/",
+        "SOURCEDATE": "2017/11/27 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/05 00:00:00",
+        "WEBSITE": "http://dps.hawaii.gov/about/divisions/corrections/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 1124,
+        "SHAPE_Leng": 0.0138382299778,
+        "SHAPE_Length": 0.013838229977753198,
+        "SHAPE_Area": 0.00000682949414476
+    },
+    "id": 5718
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87397"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -157.9287244,
+                    21.3333523
+                ],
+                [
+                    -157.9286129,
+                    21.3333228
+                ],
+                [
+                    -157.9286351,
+                    21.3331739
+                ],
+                [
+                    -157.9287412,
+                    21.3331906
+                ],
+                [
+                    -157.9287804,
+                    21.3329393
+                ],
+                [
+                    -157.9282258,
+                    21.332874
+                ],
+                [
+                    -157.9282115,
+                    21.3329787
+                ],
+                [
+                    -157.9281021,
+                    21.3329692
+                ],
+                [
+                    -157.9280688,
+                    21.3331881
+                ],
+                [
+                    -157.9278927,
+                    21.3331834
+                ],
+                [
+                    -157.9277785,
+                    21.3338306
+                ],
+                [
+                    -157.9278308,
+                    21.3339067
+                ],
+                [
+                    -157.9281355,
+                    21.3339293
+                ],
+                [
+                    -157.9282545,
+                    21.3338758
+                ],
+                [
+                    -157.9284805,
+                    21.3337449
+                ],
+                [
+                    -157.9286947,
+                    21.3335308
+                ],
+                [
+                    -157.9287244,
+                    21.3333523
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000123",
+        "NAME": "FDC HONOLULU",
+        "ADDRESS": "351 ELLIOTT ST",
+        "CITY": "HONOLULU",
+        "STATE": "HI",
+        "ZIP": "96819",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 838-4200",
+        "TYPE": "FEDERAL",
+        "STATUS": "OPEN",
+        "POPULATION": 496,
+        "COUNTY": "HONOLULU",
+        "COUNTYFIPS": "15003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.bop.gov/locations/institutions/hon/",
+        "SOURCEDATE": "2016/02/16 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/05 00:00:00",
+        "WEBSITE": "https://www.bop.gov/locations/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 690,
+        "SHAPE_Leng": 0.00372973271368,
+        "SHAPE_Length": 0.0037297327136835514,
+        "SHAPE_Area": 7.17615697028e-7
+    },
+    "id": 5711
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87383"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -159.3437445,
+                    22.0259401
+                ],
+                [
+                    -159.3426869,
+                    22.0238853
+                ],
+                [
+                    -159.3420423,
+                    22.0240767
+                ],
+                [
+                    -159.3426617,
+                    22.0263279
+                ],
+                [
+                    -159.3437445,
+                    22.0259401
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003692",
+        "NAME": "KAUAI COMMUNITY CORRECTIONAL CENTER",
+        "ADDRESS": "3-5351 KUHIO HIGHWAY",
+        "CITY": "LIHUE",
+        "STATE": "HI",
+        "ZIP": "96766",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 241-3050",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 225,
+        "COUNTY": "KAUAI",
+        "COUNTYFIPS": "15007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dps.hawaii.gov/about/divisions/corrections/",
+        "SOURCEDATE": "2017/10/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/05 00:00:00",
+        "WEBSITE": "http://dps.hawaii.gov/about/divisions/corrections/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 130,
+        "SHAPE_Leng": 0.00646845409215,
+        "SHAPE_Length": 0.006468454092150003,
+        "SHAPE_Area": 0.00000210240131498
+    },
+    "id": 5715
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb866b3"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -159.3553622,
+                    21.9771598
+                ],
+                [
+                    -159.355423,
+                    21.976612
+                ],
+                [
+                    -159.355396,
+                    21.9766052
+                ],
+                [
+                    -159.3553892,
+                    21.9765511
+                ],
+                [
+                    -159.3552945,
+                    21.9765376
+                ],
+                [
+                    -159.3553081,
+                    21.9765105
+                ],
+                [
+                    -159.355254,
+                    21.9765038
+                ],
+                [
+                    -159.355254,
+                    21.9764767
+                ],
+                [
+                    -159.3551254,
+                    21.9764632
+                ],
+                [
+                    -159.3550984,
+                    21.976869
+                ],
+                [
+                    -159.3545844,
+                    21.9768487
+                ],
+                [
+                    -159.3545709,
+                    21.9770989
+                ],
+                [
+                    -159.3553622,
+                    21.9771598
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006978",
+        "NAME": "KAUAI POLICE DEPARTMENT",
+        "ADDRESS": "3990 KAANA STREET",
+        "CITY": "LIHUE",
+        "STATE": "HI",
+        "ZIP": "96766",
+        "ZIP4": "-999",
+        "TELEPHONE": "(808) 241-1711",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "KAUAI",
+        "COUNTYFIPS": "15007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.kauai.gov/Government/Departments-Agencies/Police-Department/Contact-Us",
+        "SOURCEDATE": "2020/04/22 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2020/04/30 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00293565627917,
+        "SHAPE_Length": 0.002935656279166912,
+        "SHAPE_Area": 3.22298850766e-7
+    },
+    "id": 2437
+}
+]

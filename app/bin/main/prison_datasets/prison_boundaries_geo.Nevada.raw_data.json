@@ -1,0 +1,6564 @@
+[
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86149"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.1609478,
+                    38.9959267
+                ],
+                [
+                    -119.1609478,
+                    38.9956055
+                ],
+                [
+                    -119.1608854,
+                    38.9956055
+                ],
+                [
+                    -119.1608854,
+                    38.9953556
+                ],
+                [
+                    -119.1606147,
+                    38.9953556
+                ],
+                [
+                    -119.1606147,
+                    38.9955489
+                ],
+                [
+                    -119.1602667,
+                    38.9955489
+                ],
+                [
+                    -119.1602679,
+                    38.9958315
+                ],
+                [
+                    -119.1601626,
+                    38.9958315
+                ],
+                [
+                    -119.1601626,
+                    38.9968011
+                ],
+                [
+                    -119.1602459,
+                    38.9968636
+                ],
+                [
+                    -119.1602459,
+                    38.9970629
+                ],
+                [
+                    -119.1604719,
+                    38.9969945
+                ],
+                [
+                    -119.1606593,
+                    38.9969142
+                ],
+                [
+                    -119.1606117,
+                    38.9968517
+                ],
+                [
+                    -119.1606117,
+                    38.9967952
+                ],
+                [
+                    -119.160695,
+                    38.9967952
+                ],
+                [
+                    -119.1608318,
+                    38.9964591
+                ],
+                [
+                    -119.1608764,
+                    38.9964383
+                ],
+                [
+                    -119.1609508,
+                    38.9965037
+                ],
+                [
+                    -119.1611025,
+                    38.9965037
+                ],
+                [
+                    -119.1611025,
+                    38.9964591
+                ],
+                [
+                    -119.1612006,
+                    38.9963937
+                ],
+                [
+                    -119.1611322,
+                    38.9963044
+                ],
+                [
+                    -119.161037,
+                    38.9963044
+                ],
+                [
+                    -119.161037,
+                    38.9959267
+                ],
+                [
+                    -119.1609478,
+                    38.9959267
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005760",
+        "NAME": "LYON COUNTY DETENTION FACILITY",
+        "ADDRESS": "911 HARVEY WAY",
+        "CITY": "YERINGTON",
+        "STATE": "NV",
+        "ZIP": "89447",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 463-6615",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "LYON",
+        "COUNTYFIPS": "32019",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.lyon-county.org/893/Jail",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.lyon-county.org/893/Jail",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0052647636385,
+        "SHAPE_Length": 0.0052647636384983,
+        "SHAPE_Area": 0.00000109106215234
+    },
+    "id": 1055
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8611d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -118.777604,
+                    39.4759714
+                ],
+                [
+                    -118.7776076,
+                    39.4758572
+                ],
+                [
+                    -118.7771936,
+                    39.4758536
+                ],
+                [
+                    -118.7771829,
+                    39.4759679
+                ],
+                [
+                    -118.777604,
+                    39.4759714
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005759",
+        "NAME": "CHURCHILL COUNTY DETENTION CENTER",
+        "ADDRESS": "73 N MAINE ST",
+        "CITY": "FALLON",
+        "STATE": "NV",
+        "ZIP": "89406",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 423-3116",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 39,
+        "COUNTY": "CHURCHILL",
+        "COUNTYFIPS": "32001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.churchillcounty.org/633/Detention-Facility",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.churchillcounty.org/633/Detention-Facility",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 52,
+        "SHAPE_Leng": 0.00106420611317,
+        "SHAPE_Length": 0.0010642061131735253,
+        "SHAPE_Area": 4.77207297444e-8
+    },
+    "id": 1011
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8612a"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -118.7748635,
+                    39.4787218
+                ],
+                [
+                    -118.7744923,
+                    39.4787218
+                ],
+                [
+                    -118.7744923,
+                    39.4788431
+                ],
+                [
+                    -118.7743424,
+                    39.4788431
+                ],
+                [
+                    -118.7743424,
+                    39.4790359
+                ],
+                [
+                    -118.7742353,
+                    39.4790359
+                ],
+                [
+                    -118.7742496,
+                    39.4794214
+                ],
+                [
+                    -118.7747421,
+                    39.4794142
+                ],
+                [
+                    -118.7747421,
+                    39.4793928
+                ],
+                [
+                    -118.7748706,
+                    39.4793928
+                ],
+                [
+                    -118.7748635,
+                    39.4787218
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006834",
+        "NAME": "TEURMAN HALL YOUTH DETENTION FACILITY",
+        "ADDRESS": "335 N. BROADWAY STREET",
+        "CITY": "FALLON",
+        "STATE": "NV",
+        "ZIP": "89406",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 423-6587 EXT 259",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CHURCHILL",
+        "COUNTYFIPS": "32001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.churchillcounty.org/159/Juvenile-Justice-Center",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.churchillcounty.org/159/Juvenile-Justice-Center",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 16,
+        "SHAPE_Leng": 0.00264155496004,
+        "SHAPE_Length": 0.0026415549600420475,
+        "SHAPE_Area": 3.82046550516e-7
+    },
+    "id": 1022
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb86099"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.281177,
+                    39.3944691
+                ],
+                [
+                    -119.2811521,
+                    39.393974
+                ],
+                [
+                    -119.280959,
+                    39.3939646
+                ],
+                [
+                    -119.2809528,
+                    39.3940051
+                ],
+                [
+                    -119.280931,
+                    39.3939989
+                ],
+                [
+                    -119.2809123,
+                    39.3939273
+                ],
+                [
+                    -119.2807348,
+                    39.3939273
+                ],
+                [
+                    -119.2807348,
+                    39.3939958
+                ],
+                [
+                    -119.2806165,
+                    39.3939896
+                ],
+                [
+                    -119.2806071,
+                    39.3941546
+                ],
+                [
+                    -119.2807317,
+                    39.3941608
+                ],
+                [
+                    -119.2807317,
+                    39.3941826
+                ],
+                [
+                    -119.2806974,
+                    39.3941826
+                ],
+                [
+                    -119.2807036,
+                    39.3944753
+                ],
+                [
+                    -119.281177,
+                    39.3944691
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002992",
+        "NAME": "WESTERN NEVADA REGIONAL YOUTH CENTER",
+        "ADDRESS": "3550 GRAHAM AVE",
+        "CITY": "SILVER SPRINGS",
+        "STATE": "NV",
+        "ZIP": "89429",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 577-4200 EXT 10",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "LYON",
+        "COUNTYFIPS": "32019",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.wnryc.org/index.html",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.wnryc.org/index.html",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 34,
+        "SHAPE_Leng": 0.00230337950825,
+        "SHAPE_Length": 0.0023033795082493817,
+        "SHAPE_Area": 2.531941942e-7
+    },
+    "id": 879
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85ebd"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.3035859,
+                    39.3770692
+                ],
+                [
+                    -119.3053705,
+                    39.3770543
+                ],
+                [
+                    -119.3053676,
+                    39.3768313
+                ],
+                [
+                    -119.3052426,
+                    39.3768342
+                ],
+                [
+                    -119.3052367,
+                    39.3758557
+                ],
+                [
+                    -119.3035711,
+                    39.3758616
+                ],
+                [
+                    -119.3035859,
+                    39.3770692
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002001",
+        "NAME": "SILVER SPRINGS CONSERVATION CAMP",
+        "ADDRESS": "4950 SHIRLEE AVE",
+        "CITY": "SILVER SPRINGS",
+        "STATE": "NV",
+        "ZIP": "89429",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "LYON",
+        "COUNTYFIPS": "32019",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/SSCC_Facility/",
+        "SOURCEDATE": "2020/02/03 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/SSCC_Facility/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00598458247156,
+        "SHAPE_Length": 0.005984582471556636,
+        "SHAPE_Area": 0.00000202829460901
+    },
+    "id": 393
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb860a0"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.7594293,
+                    39.1644186
+                ],
+                [
+                    -119.7594214,
+                    39.163998
+                ],
+                [
+                    -119.7600461,
+                    39.1639837
+                ],
+                [
+                    -119.7601686,
+                    39.1639523
+                ],
+                [
+                    -119.7603478,
+                    39.1639554
+                ],
+                [
+                    -119.7603446,
+                    39.163792
+                ],
+                [
+                    -119.7610108,
+                    39.163792
+                ],
+                [
+                    -119.7610108,
+                    39.1634935
+                ],
+                [
+                    -119.76042,
+                    39.1634809
+                ],
+                [
+                    -119.7604106,
+                    39.1633584
+                ],
+                [
+                    -119.7600681,
+                    39.163349
+                ],
+                [
+                    -119.7600744,
+                    39.1634275
+                ],
+                [
+                    -119.7597225,
+                    39.1634212
+                ],
+                [
+                    -119.7592417,
+                    39.1634275
+                ],
+                [
+                    -119.7588941,
+                    39.1634287
+                ],
+                [
+                    -119.7588989,
+                    39.1638946
+                ],
+                [
+                    -119.7588797,
+                    39.1644058
+                ],
+                [
+                    -119.7594293,
+                    39.1644186
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002002",
+        "NAME": "CARSON CITY DETENTION FACILITY",
+        "ADDRESS": "897 E MUSSER ST",
+        "CITY": "CARSON CITY",
+        "STATE": "NV",
+        "ZIP": "89701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 283-5245",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": 200,
+        "COUNTY": "CARSON CITY (CITY)",
+        "COUNTYFIPS": "32510",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.carson.org/government/departments-g-z/sheriff-s-office/about-us/divisions/detention#ad-image-0",
+        "SOURCEDATE": "2018/05/18 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.carson.org/government/departments-g-z/sheriff-s-office/about-us/divisions/detention#ad-image-0",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00632201861142,
+        "SHAPE_Length": 0.00632201861141535,
+        "SHAPE_Area": 0.00000126834124001
+    },
+    "id": 867
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86169"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.6507654,
+                    39.2979368
+                ],
+                [
+                    -119.650901,
+                    39.2979225
+                ],
+                [
+                    -119.6513079,
+                    39.2976941
+                ],
+                [
+                    -119.6508623,
+                    39.2973622
+                ],
+                [
+                    -119.6504378,
+                    39.2976467
+                ],
+                [
+                    -119.6504732,
+                    39.2976806
+                ],
+                [
+                    -119.650412,
+                    39.2977211
+                ],
+                [
+                    -119.6505005,
+                    39.2978118
+                ],
+                [
+                    -119.6506037,
+                    39.2977544
+                ],
+                [
+                    -119.6507654,
+                    39.2979368
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005761",
+        "NAME": "STOREY COUNTY JAIL",
+        "ADDRESS": "911 STATE ROUTE 341 S",
+        "CITY": "VIRGINIA CITY",
+        "STATE": "NV",
+        "ZIP": "89440",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 847-0959",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "STOREY",
+        "COUNTYFIPS": "32029",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.storeycounty.org/370/Detention-Facility",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.storeycounty.org/370/Detention-Facility",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 25,
+        "SHAPE_Leng": 0.00228041854179,
+        "SHAPE_Length": 0.0022804185417884394,
+        "SHAPE_Area": 2.71420853281e-7
+    },
+    "id": 1078
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861c5"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.7784785,
+                    39.5310949
+                ],
+                [
+                    -119.7783357,
+                    39.5310663
+                ],
+                [
+                    -119.7781501,
+                    39.5310949
+                ],
+                [
+                    -119.777886,
+                    39.5311448
+                ],
+                [
+                    -119.7779074,
+                    39.5312091
+                ],
+                [
+                    -119.7776933,
+                    39.531259
+                ],
+                [
+                    -119.7777218,
+                    39.5313233
+                ],
+                [
+                    -119.7776433,
+                    39.5313376
+                ],
+                [
+                    -119.7776647,
+                    39.5314589
+                ],
+                [
+                    -119.7775148,
+                    39.5314946
+                ],
+                [
+                    -119.7775219,
+                    39.531616
+                ],
+                [
+                    -119.7774291,
+                    39.5316231
+                ],
+                [
+                    -119.7775219,
+                    39.5317445
+                ],
+                [
+                    -119.7776147,
+                    39.5318373
+                ],
+                [
+                    -119.778093,
+                    39.5320514
+                ],
+                [
+                    -119.7782358,
+                    39.5320728
+                ],
+                [
+                    -119.7783286,
+                    39.5320371
+                ],
+                [
+                    -119.778714,
+                    39.531566
+                ],
+                [
+                    -119.7786998,
+                    39.5311877
+                ],
+                [
+                    -119.7786212,
+                    39.531052
+                ],
+                [
+                    -119.7784785,
+                    39.5310949
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006613",
+        "NAME": "LAKE'S CROSSING CENTER",
+        "ADDRESS": "500 GALLETTI WAY",
+        "CITY": "SPARKS",
+        "STATE": "NV",
+        "ZIP": "89431",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 688-1900",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "WASHOE",
+        "COUNTYFIPS": "32031",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dpbh.nv.gov/About/Overview/Lake_s_Crossing_Center_Overview/",
+        "SOURCEDATE": "2015/11/23 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://dpbh.nv.gov/Programs/ClinicalBehavioralServ/Clinical_Behavioral_Services_-_Home/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 86,
+        "SHAPE_Leng": 0.00387681492282,
+        "SHAPE_Length": 0.003876814922822238,
+        "SHAPE_Area": 8.83178243411e-7
+    },
+    "id": 1157
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86194"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.7888537,
+                    39.5272073
+                ],
+                [
+                    -119.7888537,
+                    39.527086
+                ],
+                [
+                    -119.7889394,
+                    39.5270931
+                ],
+                [
+                    -119.7889394,
+                    39.5269361
+                ],
+                [
+                    -119.7888466,
+                    39.5269289
+                ],
+                [
+                    -119.7888537,
+                    39.5264507
+                ],
+                [
+                    -119.7885039,
+                    39.5264578
+                ],
+                [
+                    -119.7885253,
+                    39.5269932
+                ],
+                [
+                    -119.7883826,
+                    39.5269932
+                ],
+                [
+                    -119.7883964,
+                    39.5271964
+                ],
+                [
+                    -119.7888537,
+                    39.5272073
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000260",
+        "NAME": "NORTHERN NEVADA TRANSITIONAL HOUSING",
+        "ADDRESS": "225 SUNSHINE LANE",
+        "CITY": "RENO",
+        "STATE": "NV",
+        "ZIP": "89502",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 688-1140",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 104,
+        "COUNTY": "WASHOE",
+        "COUNTYFIPS": "32031",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/NNTH_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/Home/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 112,
+        "SHAPE_Leng": 0.00262531644816,
+        "SHAPE_Length": 0.00262531644816069,
+        "SHAPE_Area": 2.91338640975e-7
+    },
+    "id": 1121
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86171"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.8135859,
+                    39.5750166
+                ],
+                [
+                    -119.8137048,
+                    39.5748353
+                ],
+                [
+                    -119.8136959,
+                    39.5740477
+                ],
+                [
+                    -119.8136126,
+                    39.5739317
+                ],
+                [
+                    -119.813467,
+                    39.5738664
+                ],
+                [
+                    -119.8124446,
+                    39.573795
+                ],
+                [
+                    -119.8121652,
+                    39.5735454
+                ],
+                [
+                    -119.8121309,
+                    39.5735756
+                ],
+                [
+                    -119.8116243,
+                    39.5732036
+                ],
+                [
+                    -119.8116243,
+                    39.5730906
+                ],
+                [
+                    -119.8113776,
+                    39.5730906
+                ],
+                [
+                    -119.8112646,
+                    39.5731828
+                ],
+                [
+                    -119.8100728,
+                    39.5731828
+                ],
+                [
+                    -119.8103938,
+                    39.5734176
+                ],
+                [
+                    -119.8097994,
+                    39.5738872
+                ],
+                [
+                    -119.8100104,
+                    39.5744816
+                ],
+                [
+                    -119.8103344,
+                    39.5748531
+                ],
+                [
+                    -119.8117075,
+                    39.5748501
+                ],
+                [
+                    -119.8118115,
+                    39.5747996
+                ],
+                [
+                    -119.811865,
+                    39.5748412
+                ],
+                [
+                    -119.8118033,
+                    39.5748991
+                ],
+                [
+                    -119.8124713,
+                    39.5753822
+                ],
+                [
+                    -119.8126705,
+                    39.5752246
+                ],
+                [
+                    -119.8130569,
+                    39.5752544
+                ],
+                [
+                    -119.8135859,
+                    39.5750166
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002990",
+        "NAME": "WASHOE COUNTY DETENTION FACILITY",
+        "ADDRESS": "911 PARR BLVD",
+        "CITY": "RENO",
+        "STATE": "NV",
+        "ZIP": "89512",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 328-2971",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 1085,
+        "COUNTY": "WASHOE",
+        "COUNTYFIPS": "32031",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.washoesheriff.com/",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.washoesheriff.com/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 1124,
+        "SHAPE_Leng": 0.0110438580995,
+        "SHAPE_Length": 0.01104385809947711,
+        "SHAPE_Area": 0.00000559076953907
+    },
+    "id": 1084
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8617c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.8083867,
+                    39.570344
+                ],
+                [
+                    -119.8082438,
+                    39.5704323
+                ],
+                [
+                    -119.8085039,
+                    39.5706699
+                ],
+                [
+                    -119.8088957,
+                    39.5706667
+                ],
+                [
+                    -119.8093773,
+                    39.5703617
+                ],
+                [
+                    -119.8093324,
+                    39.5703135
+                ],
+                [
+                    -119.8094689,
+                    39.5700839
+                ],
+                [
+                    -119.8096792,
+                    39.5699506
+                ],
+                [
+                    -119.8096278,
+                    39.5698238
+                ],
+                [
+                    -119.8097258,
+                    39.5697628
+                ],
+                [
+                    -119.809896,
+                    39.5699169
+                ],
+                [
+                    -119.8100437,
+                    39.5698222
+                ],
+                [
+                    -119.8099152,
+                    39.5696985
+                ],
+                [
+                    -119.8099795,
+                    39.5696134
+                ],
+                [
+                    -119.8100357,
+                    39.5696391
+                ],
+                [
+                    -119.8100613,
+                    39.569599
+                ],
+                [
+                    -119.8095652,
+                    39.5693694
+                ],
+                [
+                    -119.8096471,
+                    39.5692602
+                ],
+                [
+                    -119.8096455,
+                    39.5692313
+                ],
+                [
+                    -119.8096214,
+                    39.569204
+                ],
+                [
+                    -119.8095829,
+                    39.5691992
+                ],
+                [
+                    -119.8095588,
+                    39.5692104
+                ],
+                [
+                    -119.8095443,
+                    39.5692265
+                ],
+                [
+                    -119.8093806,
+                    39.5691366
+                ],
+                [
+                    -119.8092071,
+                    39.56909
+                ],
+                [
+                    -119.8090509,
+                    39.5692013
+                ],
+                [
+                    -119.8092432,
+                    39.5693878
+                ],
+                [
+                    -119.8091099,
+                    39.5694735
+                ],
+                [
+                    -119.8091423,
+                    39.5695058
+                ],
+                [
+                    -119.809009,
+                    39.5695934
+                ],
+                [
+                    -119.8089748,
+                    39.569561
+                ],
+                [
+                    -119.8089386,
+                    39.5695839
+                ],
+                [
+                    -119.808832,
+                    39.5694849
+                ],
+                [
+                    -119.8085332,
+                    39.5696772
+                ],
+                [
+                    -119.8086226,
+                    39.5697628
+                ],
+                [
+                    -119.8086569,
+                    39.56974
+                ],
+                [
+                    -119.8087197,
+                    39.5698066
+                ],
+                [
+                    -119.8081791,
+                    39.5701454
+                ],
+                [
+                    -119.8083867,
+                    39.570344
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003798",
+        "NAME": "JAN EVANS JUVENILE JUSTICE CENTER",
+        "ADDRESS": "650 FERRARI MCLEOD BLVD",
+        "CITY": "RENO",
+        "STATE": "NV",
+        "ZIP": "89512",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 325-7810",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "WASHOE",
+        "COUNTYFIPS": "32031",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.washoecounty.us/juvenilesvs/index.php",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.washoecounty.us/juvenilesvs/index.php",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 108,
+        "SHAPE_Leng": 0.00691381865829,
+        "SHAPE_Length": 0.006913818658287069,
+        "SHAPE_Area": 0.00000143672454324
+    },
+    "id": 1091
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861fd"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.9347411,
+                    38.9697088
+                ],
+                [
+                    -119.9347468,
+                    38.9696831
+                ],
+                [
+                    -119.9346211,
+                    38.9696588
+                ],
+                [
+                    -119.9346354,
+                    38.9696046
+                ],
+                [
+                    -119.9344155,
+                    38.9695646
+                ],
+                [
+                    -119.9343713,
+                    38.9697273
+                ],
+                [
+                    -119.9342514,
+                    38.9697031
+                ],
+                [
+                    -119.9342185,
+                    38.9698201
+                ],
+                [
+                    -119.9342642,
+                    38.9698301
+                ],
+                [
+                    -119.9342071,
+                    38.9700628
+                ],
+                [
+                    -119.9343099,
+                    38.97008
+                ],
+                [
+                    -119.9342856,
+                    38.9701756
+                ],
+                [
+                    -119.9344769,
+                    38.9702099
+                ],
+                [
+                    -119.9345483,
+                    38.9699472
+                ],
+                [
+                    -119.934614,
+                    38.96996
+                ],
+                [
+                    -119.9346197,
+                    38.9699286
+                ],
+                [
+                    -119.9347382,
+                    38.96995
+                ],
+                [
+                    -119.9347982,
+                    38.9697216
+                ],
+                [
+                    -119.9347411,
+                    38.9697088
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005765",
+        "NAME": "DOUGLAS COUNTY LAKE TAHOE JAIL / YOUTH CENTER",
+        "ADDRESS": "175 US HWY 50",
+        "CITY": "STATELINE",
+        "STATE": "NV",
+        "ZIP": "89449",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 586-7200",
+        "TYPE": "COUNTY",
+        "STATUS": "NOT AVAILABLE",
+        "POPULATION": -999,
+        "COUNTY": "DOUGLAS",
+        "COUNTYFIPS": "32005",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://tahoejusticecourt.com/what-to-expect/jail-bail-bond/",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://tahoejusticecourt.com/what-to-expect/jail-bail-bond/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 22,
+        "SHAPE_Leng": 0.00231626691354,
+        "SHAPE_Length": 0.0023162669135408805,
+        "SHAPE_Area": 2.20994357511e-7
+    },
+    "id": 1229
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb860a9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.7513857,
+                    39.1609222
+                ],
+                [
+                    -119.7514485,
+                    39.1608461
+                ],
+                [
+                    -119.751475,
+                    39.160866
+                ],
+                [
+                    -119.751508,
+                    39.1607998
+                ],
+                [
+                    -119.7515576,
+                    39.1608197
+                ],
+                [
+                    -119.751627,
+                    39.160737
+                ],
+                [
+                    -119.7516733,
+                    39.1606643
+                ],
+                [
+                    -119.7516006,
+                    39.1606379
+                ],
+                [
+                    -119.7516535,
+                    39.1605684
+                ],
+                [
+                    -119.7515973,
+                    39.1605486
+                ],
+                [
+                    -119.75167,
+                    39.1604461
+                ],
+                [
+                    -119.7515708,
+                    39.1603866
+                ],
+                [
+                    -119.7518617,
+                    39.1599469
+                ],
+                [
+                    -119.7518419,
+                    39.1596858
+                ],
+                [
+                    -119.7514188,
+                    39.1594676
+                ],
+                [
+                    -119.7511146,
+                    39.1594643
+                ],
+                [
+                    -119.7511179,
+                    39.1605618
+                ],
+                [
+                    -119.7512997,
+                    39.1606412
+                ],
+                [
+                    -119.751151,
+                    39.1608098
+                ],
+                [
+                    -119.7513857,
+                    39.1609222
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002993",
+        "NAME": "MURPHY BERNARDINI REGIONAL JUVENILE JUSTICE CENTER",
+        "ADDRESS": "1545 E 5TH ST",
+        "CITY": "CARSON CITY",
+        "STATE": "NV",
+        "ZIP": "89701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 887-2034",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CARSON CITY (CITY)",
+        "COUNTYFIPS": "32510",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.carson.org/government/departments-g-z/juvenile-services/juvenile-detention-center",
+        "SOURCEDATE": "2018/05/18 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.carson.org/government/departments-g-z/juvenile-services/juvenile-detention-center",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 18,
+        "SHAPE_Leng": 0.00426911810668,
+        "SHAPE_Length": 0.0042691181066765085,
+        "SHAPE_Area": 7.78824775643e-7
+    },
+    "id": 887
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861a0"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.7375544,
+                    39.1610106
+                ],
+                [
+                    -119.7377247,
+                    39.160581
+                ],
+                [
+                    -119.7378062,
+                    39.1606254
+                ],
+                [
+                    -119.7379247,
+                    39.1604328
+                ],
+                [
+                    -119.7377914,
+                    39.1603958
+                ],
+                [
+                    -119.7379395,
+                    39.1598328
+                ],
+                [
+                    -119.737184,
+                    39.1584254
+                ],
+                [
+                    -119.7353839,
+                    39.1577735
+                ],
+                [
+                    -119.7350802,
+                    39.1578328
+                ],
+                [
+                    -119.7337321,
+                    39.1594476
+                ],
+                [
+                    -119.7337839,
+                    39.1596402
+                ],
+                [
+                    -119.7348358,
+                    39.1600625
+                ],
+                [
+                    -119.7347469,
+                    39.1602625
+                ],
+                [
+                    -119.734821,
+                    39.1604328
+                ],
+                [
+                    -119.735058,
+                    39.1604847
+                ],
+                [
+                    -119.735095,
+                    39.1603662
+                ],
+                [
+                    -119.7353765,
+                    39.1604476
+                ],
+                [
+                    -119.7353839,
+                    39.1603365
+                ],
+                [
+                    -119.7351691,
+                    39.1602625
+                ],
+                [
+                    -119.7352062,
+                    39.160181
+                ],
+                [
+                    -119.7355099,
+                    39.1602995
+                ],
+                [
+                    -119.7350728,
+                    39.1613069
+                ],
+                [
+                    -119.7360284,
+                    39.1613291
+                ],
+                [
+                    -119.7360284,
+                    39.1614254
+                ],
+                [
+                    -119.7362432,
+                    39.1614254
+                ],
+                [
+                    -119.736258,
+                    39.1613143
+                ],
+                [
+                    -119.7378284,
+                    39.1612921
+                ],
+                [
+                    -119.7378803,
+                    39.1612106
+                ],
+                [
+                    -119.7375544,
+                    39.1610106
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002994",
+        "NAME": "NEVADA STATE PRISON",
+        "ADDRESS": "3301 E 5TH ST",
+        "CITY": "CARSON CITY",
+        "STATE": "NV",
+        "ZIP": "89701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 297-0240",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "CARSON CITY (CITY)",
+        "COUNTYFIPS": "32510",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/NSP_Facility/",
+        "SOURCEDATE": "2020/02/03 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/NSP_Facility/",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 841,
+        "SHAPE_Leng": 0.0151048834952,
+        "SHAPE_Length": 0.015104883495231921,
+        "SHAPE_Area": 0.00000986317115904
+    },
+    "id": 1143
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861a4"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.7390424,
+                    39.1580971
+                ],
+                [
+                    -119.7390424,
+                    39.15804
+                ],
+                [
+                    -119.7390924,
+                    39.1580364
+                ],
+                [
+                    -119.7391495,
+                    39.157808
+                ],
+                [
+                    -119.7392209,
+                    39.1578116
+                ],
+                [
+                    -119.7392602,
+                    39.1573951
+                ],
+                [
+                    -119.7394529,
+                    39.157394
+                ],
+                [
+                    -119.7394529,
+                    39.156491
+                ],
+                [
+                    -119.7390353,
+                    39.1562233
+                ],
+                [
+                    -119.7353983,
+                    39.155281
+                ],
+                [
+                    -119.7351591,
+                    39.1575117
+                ],
+                [
+                    -119.7356338,
+                    39.1576795
+                ],
+                [
+                    -119.738168,
+                    39.1576831
+                ],
+                [
+                    -119.7380074,
+                    39.1578794
+                ],
+                [
+                    -119.7382608,
+                    39.1581007
+                ],
+                [
+                    -119.7390424,
+                    39.1580971
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002995",
+        "NAME": "WARM SPRINGS CORRECTIONAL CENTER",
+        "ADDRESS": "3301 E 5TH ST",
+        "CITY": "CARSON CITY",
+        "STATE": "NV",
+        "ZIP": "89701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 684-3000",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 573,
+        "COUNTY": "CARSON CITY (CITY)",
+        "COUNTYFIPS": "32510",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/WSCC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/Home/",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 532,
+        "SHAPE_Leng": 0.0128340699634,
+        "SHAPE_Length": 0.012834069963444798,
+        "SHAPE_Area": 0.00000820694882293
+    },
+    "id": 1147
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861a7"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.7464338,
+                    39.1109194
+                ],
+                [
+                    -119.7464338,
+                    39.1098473
+                ],
+                [
+                    -119.7464866,
+                    39.1096887
+                ],
+                [
+                    -119.7464867,
+                    39.1089226
+                ],
+                [
+                    -119.7471549,
+                    39.1089243
+                ],
+                [
+                    -119.7471549,
+                    39.1085829
+                ],
+                [
+                    -119.7464963,
+                    39.1085877
+                ],
+                [
+                    -119.7464963,
+                    39.1078137
+                ],
+                [
+                    -119.7466934,
+                    39.1078137
+                ],
+                [
+                    -119.7466934,
+                    39.1075685
+                ],
+                [
+                    -119.7464964,
+                    39.1075698
+                ],
+                [
+                    -119.7464963,
+                    39.1070205
+                ],
+                [
+                    -119.7439401,
+                    39.1070062
+                ],
+                [
+                    -119.7439435,
+                    39.1062513
+                ],
+                [
+                    -119.7429964,
+                    39.1062465
+                ],
+                [
+                    -119.7429916,
+                    39.1070301
+                ],
+                [
+                    -119.7428185,
+                    39.1068811
+                ],
+                [
+                    -119.741583,
+                    39.1068763
+                ],
+                [
+                    -119.7415733,
+                    39.110905
+                ],
+                [
+                    -119.7464338,
+                    39.1109194
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002996",
+        "NAME": "NORTHERN NEVADA CORRECTIONAL CENTER",
+        "ADDRESS": "1721 SNYDER AVE",
+        "CITY": "CARSON CITY",
+        "STATE": "NV",
+        "ZIP": "89701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 887-9297",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 1411,
+        "COUNTY": "CARSON CITY (CITY)",
+        "COUNTYFIPS": "32510",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/NNCC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/Home/",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 1619,
+        "SHAPE_Leng": 0.0210310577462,
+        "SHAPE_Length": 0.021031057746227984,
+        "SHAPE_Area": 0.0000202679694765
+    },
+    "id": 1150
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8618f"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.7475353,
+                    39.1068667
+                ],
+                [
+                    -119.7475339,
+                    39.1066711
+                ],
+                [
+                    -119.7473811,
+                    39.1066687
+                ],
+                [
+                    -119.7473828,
+                    39.106304
+                ],
+                [
+                    -119.7475741,
+                    39.1063026
+                ],
+                [
+                    -119.7475627,
+                    39.1059657
+                ],
+                [
+                    -119.7470901,
+                    39.1059671
+                ],
+                [
+                    -119.7470887,
+                    39.1059
+                ],
+                [
+                    -119.7469859,
+                    39.1059
+                ],
+                [
+                    -119.7469845,
+                    39.1057972
+                ],
+                [
+                    -119.7461265,
+                    39.1058043
+                ],
+                [
+                    -119.7462021,
+                    39.1061141
+                ],
+                [
+                    -119.7461979,
+                    39.1066053
+                ],
+                [
+                    -119.746342,
+                    39.1067081
+                ],
+                [
+                    -119.7468946,
+                    39.1067066
+                ],
+                [
+                    -119.7468988,
+                    39.1069493
+                ],
+                [
+                    -119.7473854,
+                    39.1069509
+                ],
+                [
+                    -119.747384,
+                    39.1068681
+                ],
+                [
+                    -119.7475353,
+                    39.1068667
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002997",
+        "NAME": "STEWART CONSERVATION CAMP",
+        "ADDRESS": "1721 SNYDER AVE",
+        "CITY": "CARSON CITY",
+        "STATE": "NV",
+        "ZIP": "89702",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 887-9310",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 357,
+        "COUNTY": "CARSON CITY (CITY)",
+        "COUNTYFIPS": "32510",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/SCC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/Home/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 360,
+        "SHAPE_Leng": 0.00534802560778,
+        "SHAPE_Length": 0.005348025607777938,
+        "SHAPE_Area": 0.00000122801687351
+    },
+    "id": 1116
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb86097"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -119.7656849,
+                    38.9562367
+                ],
+                [
+                    -119.7657777,
+                    38.9560796
+                ],
+                [
+                    -119.7659895,
+                    38.9560059
+                ],
+                [
+                    -119.7660823,
+                    38.9561701
+                ],
+                [
+                    -119.7662703,
+                    38.9558845
+                ],
+                [
+                    -119.7658396,
+                    38.9557156
+                ],
+                [
+                    -119.7658063,
+                    38.9557727
+                ],
+                [
+                    -119.7650758,
+                    38.9554824
+                ],
+                [
+                    -119.7648402,
+                    38.9558465
+                ],
+                [
+                    -119.765209,
+                    38.955994
+                ],
+                [
+                    -119.7651448,
+                    38.9561082
+                ],
+                [
+                    -119.7654113,
+                    38.9562105
+                ],
+                [
+                    -119.7654398,
+                    38.9561653
+                ],
+                [
+                    -119.7655992,
+                    38.9562319
+                ],
+                [
+                    -119.7655707,
+                    38.9562843
+                ],
+                [
+                    -119.7657063,
+                    38.9563366
+                ],
+                [
+                    -119.7657515,
+                    38.9562605
+                ],
+                [
+                    -119.7656849,
+                    38.9562367
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002999",
+        "NAME": "DOUGLAS COUNTY MAIN JAIL",
+        "ADDRESS": "1038 BUCKEYE ROAD",
+        "CITY": "MINDEN",
+        "STATE": "NV",
+        "ZIP": "89423",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 782-9945",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "DOUGLAS",
+        "COUNTYFIPS": "32005",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://douglasconvsheriff.com/Jail-Civil.shtml",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://douglasconvsheriff.com/Jail-Civil.shtml",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 98,
+        "SHAPE_Leng": 0.00408984854819,
+        "SHAPE_Length": 0.004089848548187291,
+        "SHAPE_Area": 5.61252336788e-7
+    },
+    "id": 877
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8615e"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -117.7229839,
+                    40.9786457
+                ],
+                [
+                    -117.7228963,
+                    40.9784568
+                ],
+                [
+                    -117.7227193,
+                    40.9782574
+                ],
+                [
+                    -117.722508,
+                    40.9783126
+                ],
+                [
+                    -117.722468,
+                    40.9782155
+                ],
+                [
+                    -117.722055,
+                    40.9783278
+                ],
+                [
+                    -117.7220645,
+                    40.9784611
+                ],
+                [
+                    -117.7220974,
+                    40.9784555
+                ],
+                [
+                    -117.7221578,
+                    40.9785772
+                ],
+                [
+                    -117.722272,
+                    40.9785429
+                ],
+                [
+                    -117.7224014,
+                    40.9788171
+                ],
+                [
+                    -117.7229839,
+                    40.9786457
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005755",
+        "NAME": "HUMBOLDT COUNTY JUVENILE SERVICES",
+        "ADDRESS": "737 E FAIRGROUNDS RD",
+        "CITY": "WINNEMUCCA",
+        "STATE": "NV",
+        "ZIP": "89445",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 623-6382",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 11,
+        "COUNTY": "HUMBOLDT",
+        "COUNTYFIPS": "32013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://sixthjudicialdistrict.com/juvenile-services/",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://sixthjudicialdistrict.com/juvenile-services/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0025587192868,
+        "SHAPE_Length": 0.0025587192867952387,
+        "SHAPE_Area": 3.3352981034e-7
+    },
+    "id": 1046
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86145"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -117.7216476,
+                    40.9794224
+                ],
+                [
+                    -117.7216076,
+                    40.9794243
+                ],
+                [
+                    -117.7215883,
+                    40.9792969
+                ],
+                [
+                    -117.7217028,
+                    40.9792834
+                ],
+                [
+                    -117.7216781,
+                    40.9791445
+                ],
+                [
+                    -117.721482,
+                    40.9791691
+                ],
+                [
+                    -117.7214687,
+                    40.9790797
+                ],
+                [
+                    -117.7213754,
+                    40.9790855
+                ],
+                [
+                    -117.7213583,
+                    40.978975
+                ],
+                [
+                    -117.721269,
+                    40.9789844
+                ],
+                [
+                    -117.7212593,
+                    40.9789332
+                ],
+                [
+                    -117.7211641,
+                    40.9789389
+                ],
+                [
+                    -117.7211736,
+                    40.9789944
+                ],
+                [
+                    -117.721067,
+                    40.9790055
+                ],
+                [
+                    -117.7211032,
+                    40.979194
+                ],
+                [
+                    -117.7210689,
+                    40.9791997
+                ],
+                [
+                    -117.7210765,
+                    40.9792339
+                ],
+                [
+                    -117.7210366,
+                    40.9792377
+                ],
+                [
+                    -117.7210537,
+                    40.9793558
+                ],
+                [
+                    -117.7211203,
+                    40.9793462
+                ],
+                [
+                    -117.7211698,
+                    40.9796032
+                ],
+                [
+                    -117.7216743,
+                    40.9795499
+                ],
+                [
+                    -117.7216476,
+                    40.9794224
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002989",
+        "NAME": "HUMBOLDT COUNTY DETENTION CENTER",
+        "ADDRESS": "801 FAIRGROUND RD",
+        "CITY": "WINNEMUCCA",
+        "STATE": "NV",
+        "ZIP": "89445",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 623-6423",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 46,
+        "COUNTY": "HUMBOLDT",
+        "COUNTYFIPS": "32013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.hcsonv.com/inmate-search/",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.hcsonv.com/inmate-search/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 84,
+        "SHAPE_Leng": 0.00270693851189,
+        "SHAPE_Length": 0.0027069385118928054,
+        "SHAPE_Area": 2.90352380987e-7
+    },
+    "id": 1041
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861ad"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -117.9218642,
+                    40.901283
+                ],
+                [
+                    -117.9218732,
+                    40.9009722
+                ],
+                [
+                    -117.9226621,
+                    40.9002012
+                ],
+                [
+                    -117.9227129,
+                    40.8994451
+                ],
+                [
+                    -117.9213971,
+                    40.8993924
+                ],
+                [
+                    -117.9214066,
+                    40.8998112
+                ],
+                [
+                    -117.9209973,
+                    40.8998303
+                ],
+                [
+                    -117.9209973,
+                    40.9000492
+                ],
+                [
+                    -117.9208831,
+                    40.9000396
+                ],
+                [
+                    -117.920899,
+                    40.9009692
+                ],
+                [
+                    -117.9215564,
+                    40.9009871
+                ],
+                [
+                    -117.9215504,
+                    40.901271
+                ],
+                [
+                    -117.9218642,
+                    40.901283
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002988",
+        "NAME": "HUMBOLDT CONSERVATION CAMP",
+        "ADDRESS": "8105 CONSERVATION RD",
+        "CITY": "WINNEMUCCA",
+        "STATE": "NV",
+        "ZIP": "89446",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 623-6530",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 122,
+        "COUNTY": "HUMBOLDT",
+        "COUNTYFIPS": "32013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/HCC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/Home/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 152,
+        "SHAPE_Leng": 0.00683624776136,
+        "SHAPE_Length": 0.0068362477613600064,
+        "SHAPE_Area": 0.00000233836329738
+    },
+    "id": 1106
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861ae"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -118.3858575,
+                    40.2239526
+                ],
+                [
+                    -118.3901256,
+                    40.2253488
+                ],
+                [
+                    -118.3900306,
+                    40.2255534
+                ],
+                [
+                    -118.3903643,
+                    40.2256808
+                ],
+                [
+                    -118.3906167,
+                    40.2252312
+                ],
+                [
+                    -118.3902673,
+                    40.2251196
+                ],
+                [
+                    -118.3902041,
+                    40.225239
+                ],
+                [
+                    -118.3900385,
+                    40.2251827
+                ],
+                [
+                    -118.3915416,
+                    40.222477
+                ],
+                [
+                    -118.3912848,
+                    40.2219487
+                ],
+                [
+                    -118.3876214,
+                    40.2207876
+                ],
+                [
+                    -118.3858575,
+                    40.2239526
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002991",
+        "NAME": "LOVELOCK CORRECTIONAL CENTER",
+        "ADDRESS": "1200 PRISON RD",
+        "CITY": "LOVELOCK",
+        "STATE": "NV",
+        "ZIP": "89419",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 273-1300",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 1681,
+        "COUNTY": "PERSHING",
+        "COUNTYFIPS": "32027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/LCC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/Home/",
+        "SECURELVL": "CLOSE",
+        "CAPACITY": 1680,
+        "SHAPE_Leng": 0.0174145896227,
+        "SHAPE_Length": 0.017414589622711536,
+        "SHAPE_Area": 0.0000155804692318
+    },
+    "id": 1142
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86168"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -118.4764941,
+                    40.1791599
+                ],
+                [
+                    -118.47633,
+                    40.1791099
+                ],
+                [
+                    -118.47628,
+                    40.1791956
+                ],
+                [
+                    -118.4762586,
+                    40.1791813
+                ],
+                [
+                    -118.47628,
+                    40.1791313
+                ],
+                [
+                    -118.4761729,
+                    40.1790814
+                ],
+                [
+                    -118.4761372,
+                    40.1791242
+                ],
+                [
+                    -118.4760801,
+                    40.1791028
+                ],
+                [
+                    -118.4760087,
+                    40.1792313
+                ],
+                [
+                    -118.4760587,
+                    40.1792456
+                ],
+                [
+                    -118.476023,
+                    40.1792812
+                ],
+                [
+                    -118.4763371,
+                    40.1794026
+                ],
+                [
+                    -118.4764941,
+                    40.1791599
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006835",
+        "NAME": "PERSHING COUNTY JAIL / SHERIFF",
+        "ADDRESS": "395 9TH ST",
+        "CITY": "LOVELOCK",
+        "STATE": "NV",
+        "ZIP": "89419",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 273-2641",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "PERSHING",
+        "COUNTYFIPS": "32027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.pershingcounty.net/government/sheriff_s_office/index.php",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.pershingcounty.net/government/sheriff_s_office/index.php",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00146102383033,
+        "SHAPE_Length": 0.0014610238303314356,
+        "SHAPE_Area": 9.01419584361e-8
+    },
+    "id": 1076
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86178"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.0846928,
+                    40.728207
+                ],
+                [
+                    -116.0840572,
+                    40.7273957
+                ],
+                [
+                    -116.0828513,
+                    40.7279428
+                ],
+                [
+                    -116.083455,
+                    40.7287716
+                ],
+                [
+                    -116.083593,
+                    40.728713
+                ],
+                [
+                    -116.0837268,
+                    40.7289054
+                ],
+                [
+                    -116.0841324,
+                    40.7287088
+                ],
+                [
+                    -116.084007,
+                    40.7285206
+                ],
+                [
+                    -116.0846928,
+                    40.728207
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002987",
+        "NAME": "CARLIN CONSERVATION CAMP",
+        "ADDRESS": "124 SUZIE CREEK RD",
+        "CITY": "CARLIN",
+        "STATE": "NV",
+        "ZIP": "89822",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 754-6307",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 111,
+        "COUNTY": "ELKO",
+        "COUNTYFIPS": "32007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/CCC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/CCC_Facility/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 150,
+        "SHAPE_Leng": 0.00519544140286,
+        "SHAPE_Length": 0.00519544140286222,
+        "SHAPE_Area": 0.00000145124231981
+    },
+    "id": 1103
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861c9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.7273898,
+                    40.8814508
+                ],
+                [
+                    -115.7273876,
+                    40.8813549
+                ],
+                [
+                    -115.7285063,
+                    40.8813549
+                ],
+                [
+                    -115.7288973,
+                    40.8815826
+                ],
+                [
+                    -115.7295606,
+                    40.8815826
+                ],
+                [
+                    -115.7299071,
+                    40.8814391
+                ],
+                [
+                    -115.7299071,
+                    40.8796917
+                ],
+                [
+                    -115.7291448,
+                    40.8790582
+                ],
+                [
+                    -115.7284914,
+                    40.8790582
+                ],
+                [
+                    -115.7284914,
+                    40.8795729
+                ],
+                [
+                    -115.7274717,
+                    40.8795729
+                ],
+                [
+                    -115.7258135,
+                    40.8788255
+                ],
+                [
+                    -115.7255413,
+                    40.8788552
+                ],
+                [
+                    -115.7245364,
+                    40.8802214
+                ],
+                [
+                    -115.7251651,
+                    40.8804837
+                ],
+                [
+                    -115.7251651,
+                    40.8806174
+                ],
+                [
+                    -115.7245364,
+                    40.8808847
+                ],
+                [
+                    -115.7256353,
+                    40.8823598
+                ],
+                [
+                    -115.7269866,
+                    40.8817707
+                ],
+                [
+                    -115.7273898,
+                    40.8814508
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000259",
+        "NAME": "NEVADA YOUTH TRAINING CENTER",
+        "ADDRESS": "100 YOUTH CENTER DRIVE",
+        "CITY": "ELKO",
+        "STATE": "NV",
+        "ZIP": "89801",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 738-6200",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 51,
+        "COUNTY": "ELKO",
+        "COUNTYFIPS": "32007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dcfs.nv.gov/Programs/JJS/Nevada_Youth_Training_Center/",
+        "SOURCEDATE": "2017/12/12 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://dcfs.nv.gov/Programs/JJS/Nevada_Youth_Training_Center/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 160,
+        "SHAPE_Leng": 0.016746708359,
+        "SHAPE_Length": 0.016746708359007788,
+        "SHAPE_Area": 0.0000122674170943
+    },
+    "id": 1155
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86136"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.7714732,
+                    40.8249735
+                ],
+                [
+                    -115.7714523,
+                    40.8248993
+                ],
+                [
+                    -115.7716636,
+                    40.8248517
+                ],
+                [
+                    -115.7716065,
+                    40.8246708
+                ],
+                [
+                    -115.7714713,
+                    40.8246975
+                ],
+                [
+                    -115.7714409,
+                    40.8245833
+                ],
+                [
+                    -115.7706718,
+                    40.8247489
+                ],
+                [
+                    -115.7707975,
+                    40.8251753
+                ],
+                [
+                    -115.7710757,
+                    40.8251244
+                ],
+                [
+                    -115.7710849,
+                    40.8251544
+                ],
+                [
+                    -115.7713609,
+                    40.8251049
+                ],
+                [
+                    -115.7713476,
+                    40.8250535
+                ],
+                [
+                    -115.7714142,
+                    40.8250401
+                ],
+                [
+                    -115.771399,
+                    40.8249868
+                ],
+                [
+                    -115.7714732,
+                    40.8249735
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001313",
+        "NAME": "ELKO COUNTY JUVENILE DETENTION CENTER",
+        "ADDRESS": "665 W SILVER ST",
+        "CITY": "ELKO",
+        "STATE": "NV",
+        "ZIP": "89801",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 753-4608",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "ELKO",
+        "COUNTYFIPS": "32007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.elkocountynv.net/departments/juvenile/detention/index.php",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.elkocountynv.net/departments/juvenile/detention/index.php",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00281707314271,
+        "SHAPE_Length": 0.0028170731427093034,
+        "SHAPE_Area": 3.73454418349e-7
+    },
+    "id": 1024
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86129"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.7733669,
+                    40.8247427
+                ],
+                [
+                    -115.773228,
+                    40.8238271
+                ],
+                [
+                    -115.7716785,
+                    40.8244971
+                ],
+                [
+                    -115.7717813,
+                    40.8251348
+                ],
+                [
+                    -115.7722686,
+                    40.8250968
+                ],
+                [
+                    -115.7722743,
+                    40.8251406
+                ],
+                [
+                    -115.7724627,
+                    40.8251253
+                ],
+                [
+                    -115.772457,
+                    40.8250815
+                ],
+                [
+                    -115.772497,
+                    40.8250777
+                ],
+                [
+                    -115.7724875,
+                    40.8250092
+                ],
+                [
+                    -115.7728358,
+                    40.8248569
+                ],
+                [
+                    -115.7728701,
+                    40.8249064
+                ],
+                [
+                    -115.7732299,
+                    40.824756
+                ],
+                [
+                    -115.7733669,
+                    40.8247427
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001314",
+        "NAME": "ELKO COUNTY JAIL",
+        "ADDRESS": "775 W SILVER ST",
+        "CITY": "ELKO",
+        "STATE": "NV",
+        "ZIP": "89801",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 777-2530",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 96,
+        "COUNTY": "ELKO",
+        "COUNTYFIPS": "32007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.shouselaw.com/nevada/jail-elko.html",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.shouselaw.com/nevada/jail-elko.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00510374260696,
+        "SHAPE_Length": 0.005103742606956358,
+        "SHAPE_Area": 0.00000134065663645
+    },
+    "id": 1023
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8615d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.9501505,
+                    40.6312544
+                ],
+                [
+                    -116.9502495,
+                    40.6312601
+                ],
+                [
+                    -116.950476,
+                    40.6311382
+                ],
+                [
+                    -116.9500687,
+                    40.6307118
+                ],
+                [
+                    -116.9500021,
+                    40.6307556
+                ],
+                [
+                    -116.9498155,
+                    40.6305558
+                ],
+                [
+                    -116.9490883,
+                    40.6309669
+                ],
+                [
+                    -116.9491778,
+                    40.6310697
+                ],
+                [
+                    -116.9492901,
+                    40.6310735
+                ],
+                [
+                    -116.9494348,
+                    40.6312258
+                ],
+                [
+                    -116.9494253,
+                    40.6312867
+                ],
+                [
+                    -116.9495509,
+                    40.6313
+                ],
+                [
+                    -116.9495395,
+                    40.6313591
+                ],
+                [
+                    -116.9496023,
+                    40.6313686
+                ],
+                [
+                    -116.9495966,
+                    40.6313971
+                ],
+                [
+                    -116.9496575,
+                    40.6314047
+                ],
+                [
+                    -116.9496575,
+                    40.6314238
+                ],
+                [
+                    -116.9498147,
+                    40.6314452
+                ],
+                [
+                    -116.9501505,
+                    40.6312544
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005756",
+        "NAME": "LANDER COUNTY JAIL",
+        "ADDRESS": "2 STATE ROUTE 305",
+        "CITY": "BATTLE MOUNTAIN",
+        "STATE": "NV",
+        "ZIP": "89820",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 635-5161",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "LANDER",
+        "COUNTYFIPS": "32015",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.landerso.org/",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.landerso.org/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00355936839873,
+        "SHAPE_Length": 0.0035593683987340226,
+        "SHAPE_Area": 6.49484851339e-7
+    },
+    "id": 1051
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85ea5"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.7051589,
+                    41.0898863
+                ],
+                [
+                    -114.703912,
+                    41.0894676
+                ],
+                [
+                    -114.7042118,
+                    41.0889488
+                ],
+                [
+                    -114.7020608,
+                    41.0882255
+                ],
+                [
+                    -114.7003571,
+                    41.0882683
+                ],
+                [
+                    -114.7004808,
+                    41.0919136
+                ],
+                [
+                    -114.7052303,
+                    41.0918327
+                ],
+                [
+                    -114.7051589,
+                    41.0898863
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000258",
+        "NAME": "WELLS CONSERVATION CAMP",
+        "ADDRESS": "HC 67-50",
+        "CITY": "WELLS",
+        "STATE": "NV",
+        "ZIP": "89835",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 478-5120",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 142,
+        "COUNTY": "ELKO",
+        "COUNTYFIPS": "32007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/WCC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/WCC_Facility/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 150,
+        "SHAPE_Leng": 0.0162332910629,
+        "SHAPE_Length": 0.016233291062946475,
+        "SHAPE_Area": 0.0000150376758108
+    },
+    "id": 380
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86193"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.9377905,
+                    39.3883064
+                ],
+                [
+                    -114.9422176,
+                    39.3862643
+                ],
+                [
+                    -114.9394779,
+                    39.3828106
+                ],
+                [
+                    -114.9391101,
+                    39.3827545
+                ],
+                [
+                    -114.9357565,
+                    39.3843565
+                ],
+                [
+                    -114.9356443,
+                    39.384238
+                ],
+                [
+                    -114.935476,
+                    39.3843253
+                ],
+                [
+                    -114.9355695,
+                    39.38445
+                ],
+                [
+                    -114.9349841,
+                    39.384732
+                ],
+                [
+                    -114.9348651,
+                    39.385011
+                ],
+                [
+                    -114.9374271,
+                    39.38824
+                ],
+                [
+                    -114.9377905,
+                    39.3883064
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003799",
+        "NAME": "ELY STATE PRISON",
+        "ADDRESS": "4569 N STATE ROUTE",
+        "CITY": "ELY",
+        "STATE": "NV",
+        "ZIP": "89301",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 289-8800",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 1142,
+        "COUNTY": "WHITE PINE",
+        "COUNTYFIPS": "32033",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/ESP_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/ESP_Facility/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 1183,
+        "SHAPE_Leng": 0.0193255952708,
+        "SHAPE_Length": 0.019325595270778814,
+        "SHAPE_Area": 0.0000227961646299
+    },
+    "id": 1120
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85eb3"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.7269829,
+                    39.0422518
+                ],
+                [
+                    -114.7269829,
+                    39.0412767
+                ],
+                [
+                    -114.7260163,
+                    39.0412762
+                ],
+                [
+                    -114.7260163,
+                    39.0413695
+                ],
+                [
+                    -114.7258036,
+                    39.0413695
+                ],
+                [
+                    -114.7258036,
+                    39.0414509
+                ],
+                [
+                    -114.7256765,
+                    39.0414509
+                ],
+                [
+                    -114.7256037,
+                    39.0417735
+                ],
+                [
+                    -114.7257394,
+                    39.0418007
+                ],
+                [
+                    -114.7257394,
+                    39.0418749
+                ],
+                [
+                    -114.7256637,
+                    39.0418749
+                ],
+                [
+                    -114.7256637,
+                    39.0420776
+                ],
+                [
+                    -114.7258664,
+                    39.0420776
+                ],
+                [
+                    -114.7258664,
+                    39.0422518
+                ],
+                [
+                    -114.7269829,
+                    39.0422518
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003800",
+        "NAME": "ELY CONSERVATION CAMP",
+        "ADDRESS": "HC 10 BOX 10813",
+        "CITY": "ELY",
+        "STATE": "NV",
+        "ZIP": "89301",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 289-8430",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 125,
+        "COUNTY": "WHITE PINE",
+        "COUNTYFIPS": "32033",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/ECC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/ECC_Facility/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 150,
+        "SHAPE_Leng": 0.00477119172721,
+        "SHAPE_Length": 0.004771191727211539,
+        "SHAPE_Area": 0.00000120893857147
+    },
+    "id": 372
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e8c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.867306,
+                    39.2420997
+                ],
+                [
+                    -114.8677144,
+                    39.241974
+                ],
+                [
+                    -114.867543,
+                    39.2416457
+                ],
+                [
+                    -114.8671932,
+                    39.2417556
+                ],
+                [
+                    -114.8672389,
+                    39.2418456
+                ],
+                [
+                    -114.8670519,
+                    39.2419112
+                ],
+                [
+                    -114.8670976,
+                    39.2420112
+                ],
+                [
+                    -114.8671989,
+                    39.2419798
+                ],
+                [
+                    -114.8672318,
+                    39.2420411
+                ],
+                [
+                    -114.8672689,
+                    39.2420297
+                ],
+                [
+                    -114.867306,
+                    39.2420997
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005758",
+        "NAME": "WHITE PINE COUNTY JAIL",
+        "ADDRESS": "1785 GREAT BASIN BLVD",
+        "CITY": "ELY",
+        "STATE": "NV",
+        "ZIP": "89301",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 289-8808",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "WHITE PINE",
+        "COUNTYFIPS": "32033",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.whitepinecounty.net/312/Jail-Information",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.whitepinecounty.net/312/Jail-Information",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00186708401422,
+        "SHAPE_Length": 0.0018670840142179762,
+        "SHAPE_Area": 1.67810269331e-7
+    },
+    "id": 340
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861c8"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.5053324,
+                    37.6201441
+                ],
+                [
+                    -114.5052002,
+                    37.6194856
+                ],
+                [
+                    -114.5039704,
+                    37.6188362
+                ],
+                [
+                    -114.5029525,
+                    37.6184677
+                ],
+                [
+                    -114.502561,
+                    37.6186703
+                ],
+                [
+                    -114.5021635,
+                    37.6186706
+                ],
+                [
+                    -114.5021649,
+                    37.6184999
+                ],
+                [
+                    -114.501824,
+                    37.6184999
+                ],
+                [
+                    -114.501787,
+                    37.6195611
+                ],
+                [
+                    -114.5020726,
+                    37.6195611
+                ],
+                [
+                    -114.5024044,
+                    37.619481
+                ],
+                [
+                    -114.5028373,
+                    37.6199278
+                ],
+                [
+                    -114.5028834,
+                    37.6203884
+                ],
+                [
+                    -114.5041665,
+                    37.6207627
+                ],
+                [
+                    -114.5053324,
+                    37.6201441
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003000",
+        "NAME": "CALIENTE YOUTH CENTER",
+        "ADDRESS": "500 YOUTH CENTER DRIVE",
+        "CITY": "CALIENTE",
+        "STATE": "NV",
+        "ZIP": "89008",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 726-8200",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 115,
+        "COUNTY": "LINCOLN",
+        "COUNTYFIPS": "32017",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dcfs.nv.gov/Programs/JJS/Caliente/",
+        "SOURCEDATE": "2017/12/12 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://dcfs.nv.gov/Programs/JJS/Caliente/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 140,
+        "SHAPE_Leng": 0.00992504018115,
+        "SHAPE_Length": 0.009925040181149675,
+        "SHAPE_Area": 0.00000492475937629
+    },
+    "id": 1154
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8615f"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.4425221,
+                    37.9426282
+                ],
+                [
+                    -114.4425006,
+                    37.942564
+                ],
+                [
+                    -114.4426791,
+                    37.9424807
+                ],
+                [
+                    -114.4426416,
+                    37.9424062
+                ],
+                [
+                    -114.4426862,
+                    37.9423926
+                ],
+                [
+                    -114.4427457,
+                    37.9423212
+                ],
+                [
+                    -114.442741,
+                    37.9422737
+                ],
+                [
+                    -114.4421984,
+                    37.9419715
+                ],
+                [
+                    -114.4419629,
+                    37.9420095
+                ],
+                [
+                    -114.441744,
+                    37.9423784
+                ],
+                [
+                    -114.4417721,
+                    37.9424175
+                ],
+                [
+                    -114.4416321,
+                    37.9426306
+                ],
+                [
+                    -114.4422698,
+                    37.9428614
+                ],
+                [
+                    -114.4425221,
+                    37.9426282
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003001",
+        "NAME": "LINCOLN COUNTY DETENTION CENTER",
+        "ADDRESS": "1050 EAST SR 322",
+        "CITY": "PIOCHE",
+        "STATE": "NV",
+        "ZIP": "89042",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 962-5151",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "LINCOLN",
+        "COUNTYFIPS": "32017",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.lincolncountydetentioncenternevada.com/",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.lincolncountydetentioncenternevada.com/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0031488201557,
+        "SHAPE_Length": 0.0031488201556952164,
+        "SHAPE_Area": 5.96163310454e-7
+    },
+    "id": 1052
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86189"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.4182693,
+                    37.9563264
+                ],
+                [
+                    -114.4184666,
+                    37.9559792
+                ],
+                [
+                    -114.4187419,
+                    37.9560756
+                ],
+                [
+                    -114.4188367,
+                    37.9559104
+                ],
+                [
+                    -114.4185691,
+                    37.955811
+                ],
+                [
+                    -114.4187159,
+                    37.9555877
+                ],
+                [
+                    -114.4186822,
+                    37.9554853
+                ],
+                [
+                    -114.4178748,
+                    37.9550649
+                ],
+                [
+                    -114.4177096,
+                    37.9550984
+                ],
+                [
+                    -114.4176347,
+                    37.9553904
+                ],
+                [
+                    -114.4172998,
+                    37.9557636
+                ],
+                [
+                    -114.4173244,
+                    37.9558366
+                ],
+                [
+                    -114.4171805,
+                    37.9560435
+                ],
+                [
+                    -114.4171897,
+                    37.9561123
+                ],
+                [
+                    -114.4174496,
+                    37.9561291
+                ],
+                [
+                    -114.4172677,
+                    37.9564395
+                ],
+                [
+                    -114.4175062,
+                    37.9565298
+                ],
+                [
+                    -114.4175903,
+                    37.9563875
+                ],
+                [
+                    -114.4178732,
+                    37.9564625
+                ],
+                [
+                    -114.4182693,
+                    37.9563264
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003002",
+        "NAME": "PIOCHE CONSERVATION CAMP",
+        "ADDRESS": "1 HARDTIMES RD",
+        "CITY": "PIOCHE",
+        "STATE": "NV",
+        "ZIP": "89043",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 962-5125",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 213,
+        "COUNTY": "LINCOLN",
+        "COUNTYFIPS": "32017",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/PCC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/Home/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 238,
+        "SHAPE_Leng": 0.00557432999619,
+        "SHAPE_Length": 0.005574329996186304,
+        "SHAPE_Area": 0.00000139581056541
+    },
+    "id": 1113
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86162"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -116.7667952,
+                    36.9012411
+                ],
+                [
+                    -116.7667952,
+                    36.9011488
+                ],
+                [
+                    -116.7668446,
+                    36.9011488
+                ],
+                [
+                    -116.7668446,
+                    36.9010194
+                ],
+                [
+                    -116.7670188,
+                    36.9010194
+                ],
+                [
+                    -116.7670188,
+                    36.9009461
+                ],
+                [
+                    -116.7669636,
+                    36.9009461
+                ],
+                [
+                    -116.7669503,
+                    36.9006377
+                ],
+                [
+                    -116.7664782,
+                    36.9006025
+                ],
+                [
+                    -116.7664782,
+                    36.9009375
+                ],
+                [
+                    -116.7664378,
+                    36.9009376
+                ],
+                [
+                    -116.7664382,
+                    36.9011393
+                ],
+                [
+                    -116.7664782,
+                    36.9011393
+                ],
+                [
+                    -116.7664782,
+                    36.9012411
+                ],
+                [
+                    -116.7667952,
+                    36.9012411
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005763",
+        "NAME": "NYE COUNTY JAIL - CENTRAL AREA COMMAND",
+        "ADDRESS": "426 C AVE",
+        "CITY": "BEATTY",
+        "STATE": "NV",
+        "ZIP": "89003",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 553-2345",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "NYE",
+        "COUNTYFIPS": "32023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nyecounty.net/109/Sheriff",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.nyecounty.net/109/Sheriff",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00239189284754,
+        "SHAPE_Length": 0.0023918928475397012,
+        "SHAPE_Area": 2.80367373074e-7
+    },
+    "id": 1067
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e86"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.9626266,
+                    39.5170215
+                ],
+                [
+                    -115.9625247,
+                    39.5168055
+                ],
+                [
+                    -115.9623773,
+                    39.5168448
+                ],
+                [
+                    -115.9623458,
+                    39.5167693
+                ],
+                [
+                    -115.9622696,
+                    39.5167903
+                ],
+                [
+                    -115.9623012,
+                    39.5168651
+                ],
+                [
+                    -115.9621859,
+                    39.5168959
+                ],
+                [
+                    -115.9622991,
+                    39.5171757
+                ],
+                [
+                    -115.9624724,
+                    39.517132
+                ],
+                [
+                    -115.9624467,
+                    39.5170663
+                ],
+                [
+                    -115.9626266,
+                    39.5170215
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005757",
+        "NAME": "EUREKA COUNTY JAIL",
+        "ADDRESS": "411 N MAIN ST",
+        "CITY": "EUREKA",
+        "STATE": "NV",
+        "ZIP": "89316",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 237-5330",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "EUREKA",
+        "COUNTYFIPS": "32011",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.co.eureka.nv.us/ecso/jail.html",
+        "SOURCEDATE": "2016/02/15 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.co.eureka.nv.us/ecso/jail.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 20,
+        "SHAPE_Leng": 0.00148930950731,
+        "SHAPE_Length": 0.0014893095073058049,
+        "SHAPE_Area": 1.01826891808e-7
+    },
+    "id": 349
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e47"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -117.1074104,
+                    38.1695832
+                ],
+                [
+                    -117.1073434,
+                    38.1694413
+                ],
+                [
+                    -117.108404,
+                    38.1691101
+                ],
+                [
+                    -117.1077673,
+                    38.1677991
+                ],
+                [
+                    -117.1064385,
+                    38.1682052
+                ],
+                [
+                    -117.1071344,
+                    38.169668
+                ],
+                [
+                    -117.1074104,
+                    38.1695832
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002998",
+        "NAME": "TONOPAH CONSERVATION CAMP",
+        "ADDRESS": "HC 76, BOX 8045",
+        "CITY": "TONOPAH",
+        "STATE": "NV",
+        "ZIP": "89049",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 482-6700",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 147,
+        "COUNTY": "NYE",
+        "COUNTYFIPS": "32023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/TCC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/TCC_Facility/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 152,
+        "SHAPE_Leng": 0.00602366716985,
+        "SHAPE_Length": 0.006023667169845452,
+        "SHAPE_Area": 0.00000205984445791
+    },
+    "id": 285
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e95"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -117.2515086,
+                    38.0853037
+                ],
+                [
+                    -117.2515779,
+                    38.0851121
+                ],
+                [
+                    -117.2514322,
+                    38.0850794
+                ],
+                [
+                    -117.251447,
+                    38.0850318
+                ],
+                [
+                    -117.2516404,
+                    38.0850734
+                ],
+                [
+                    -117.2517058,
+                    38.084889
+                ],
+                [
+                    -117.2515184,
+                    38.0848444
+                ],
+                [
+                    -117.2515363,
+                    38.0847968
+                ],
+                [
+                    -117.2516523,
+                    38.0848177
+                ],
+                [
+                    -117.2517147,
+                    38.0846332
+                ],
+                [
+                    -117.2515125,
+                    38.0845886
+                ],
+                [
+                    -117.2516404,
+                    38.0842406
+                ],
+                [
+                    -117.251337,
+                    38.0841752
+                ],
+                [
+                    -117.251215,
+                    38.0845143
+                ],
+                [
+                    -117.2511109,
+                    38.0844934
+                ],
+                [
+                    -117.2511734,
+                    38.0843388
+                ],
+                [
+                    -117.2507391,
+                    38.0842406
+                ],
+                [
+                    -117.2508135,
+                    38.0840473
+                ],
+                [
+                    -117.2506707,
+                    38.0840116
+                ],
+                [
+                    -117.2505666,
+                    38.0843061
+                ],
+                [
+                    -117.2503074,
+                    38.08425
+                ],
+                [
+                    -117.25018,
+                    38.0846184
+                ],
+                [
+                    -117.250751,
+                    38.0847522
+                ],
+                [
+                    -117.2507594,
+                    38.0847341
+                ],
+                [
+                    -117.2509116,
+                    38.0847671
+                ],
+                [
+                    -117.2509384,
+                    38.0846898
+                ],
+                [
+                    -117.2511258,
+                    38.0847314
+                ],
+                [
+                    -117.2509563,
+                    38.0851746
+                ],
+                [
+                    -117.2515086,
+                    38.0853037
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005762",
+        "NAME": "NYE COUNTY JAIL - NORTH AREA COMMAND",
+        "ADDRESS": "101 RADAR RD",
+        "CITY": "TONOPAH",
+        "STATE": "NV",
+        "ZIP": "89049",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 482-7358",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "NYE",
+        "COUNTYFIPS": "32023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.nyecounty.net/109/Sheriff",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.nyecounty.net/109/Sheriff",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00671863734285,
+        "SHAPE_Length": 0.006718637342847738,
+        "SHAPE_Area": 9.20588323053e-7
+    },
+    "id": 354
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8614a"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -118.6295119,
+                    38.5174771
+                ],
+                [
+                    -118.6296071,
+                    38.5174779
+                ],
+                [
+                    -118.6296065,
+                    38.5173895
+                ],
+                [
+                    -118.6295138,
+                    38.5173904
+                ],
+                [
+                    -118.6295138,
+                    38.5173047
+                ],
+                [
+                    -118.6289808,
+                    38.5173022
+                ],
+                [
+                    -118.6289808,
+                    38.5172857
+                ],
+                [
+                    -118.6288571,
+                    38.5172857
+                ],
+                [
+                    -118.6288571,
+                    38.5176188
+                ],
+                [
+                    -118.6292283,
+                    38.5176188
+                ],
+                [
+                    -118.6292283,
+                    38.5175845
+                ],
+                [
+                    -118.6295119,
+                    38.5175845
+                ],
+                [
+                    -118.6295119,
+                    38.5174771
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005767",
+        "NAME": "MINERAL COUNTY JAIL",
+        "ADDRESS": "105 S \"A\" ST, SUITE 4",
+        "CITY": "HAWTHORNE",
+        "STATE": "NV",
+        "ZIP": "89415",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 945-0704",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "MINERAL",
+        "COUNTYFIPS": "32021",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.mineralcountynv.us/government/divisions/index.php",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.mineralcountynv.us/government/divisions/index.php",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00216485888038,
+        "SHAPE_Length": 0.0021648588803787434,
+        "SHAPE_Area": 2.0744765053e-7
+    },
+    "id": 1056
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86154"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -118.6328988,
+                    38.5304445
+                ],
+                [
+                    -118.6328988,
+                    38.5304048
+                ],
+                [
+                    -118.6330485,
+                    38.5303987
+                ],
+                [
+                    -118.6330332,
+                    38.5299833
+                ],
+                [
+                    -118.6323032,
+                    38.5299802
+                ],
+                [
+                    -118.632291,
+                    38.5303254
+                ],
+                [
+                    -118.6324406,
+                    38.5303315
+                ],
+                [
+                    -118.6324498,
+                    38.5304537
+                ],
+                [
+                    -118.6328988,
+                    38.5304445
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005766",
+        "NAME": "MINERAL COUNTY JUVENILE CENTER",
+        "ADDRESS": "525 W 9TH ST",
+        "CITY": "HAWTHORNE",
+        "STATE": "NV",
+        "ZIP": "89415",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 945-3393",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "MINERAL",
+        "COUNTYFIPS": "32021",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.eleventhjudicialdistrict.com/county-courts/mineral-county/mineral-youth-family-services",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.eleventhjudicialdistrict.com/county-courts/mineral-county/mineral-youth-family-services",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00240209406614,
+        "SHAPE_Length": 0.002402094066142955,
+        "SHAPE_Area": 3.23086727513e-7
+    },
+    "id": 1066
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e12"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -117.2332112,
+                    37.708172
+                ],
+                [
+                    -117.2333504,
+                    37.7079424
+                ],
+                [
+                    -117.2334955,
+                    37.7079971
+                ],
+                [
+                    -117.2336312,
+                    37.7077746
+                ],
+                [
+                    -117.2333563,
+                    37.7076735
+                ],
+                [
+                    -117.2330756,
+                    37.7081184
+                ],
+                [
+                    -117.2332112,
+                    37.708172
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005768",
+        "NAME": "ESMERALDA COUNTY JAIL",
+        "ADDRESS": "233 E CROOK AVE",
+        "CITY": "GOLDFIELD",
+        "STATE": "NV",
+        "ZIP": "89013",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 485-6373",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "ESMERALDA",
+        "COUNTYFIPS": "32009",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.accessesmeralda.com/county_offices/sheriff.php",
+        "SOURCEDATE": "2016/03/07 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.accessesmeralda.com/county_offices/sheriff.php",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00164899818001,
+        "SHAPE_Length": 0.0016489981800098198,
+        "SHAPE_Area": 1.12827797632e-7
+    },
+    "id": 232
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e9c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.9775504,
+                    36.2545456
+                ],
+                [
+                    -115.9781571,
+                    36.2540601
+                ],
+                [
+                    -115.9781215,
+                    36.2518615
+                ],
+                [
+                    -115.9775147,
+                    36.251369
+                ],
+                [
+                    -115.976601,
+                    36.2513761
+                ],
+                [
+                    -115.9759871,
+                    36.2518687
+                ],
+                [
+                    -115.9759871,
+                    36.2540387
+                ],
+                [
+                    -115.9766295,
+                    36.2545598
+                ],
+                [
+                    -115.9775504,
+                    36.2545456
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006308",
+        "NAME": "NEVADA SOUTHERN DETENTION CENTER",
+        "ADDRESS": "2190 EAST MESQUITE AVENUE",
+        "CITY": "PAHRUMP",
+        "STATE": "NV",
+        "ZIP": "89060",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 751-4500",
+        "TYPE": "FEDERAL",
+        "STATUS": "OPEN",
+        "POPULATION": 1175,
+        "COUNTY": "NYE",
+        "COUNTYFIPS": "32023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.corecivic.com/facilities/nevada-southern-detention-center",
+        "SOURCEDATE": "2017/10/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.corecivic.com/facilities/nevada-southern-detention-center",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 1072,
+        "SHAPE_Leng": 0.00937652268462,
+        "SHAPE_Length": 0.009376522684622829,
+        "SHAPE_Area": 0.00000622940709944
+    },
+    "id": 363
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86157"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.9868743,
+                    36.2200135
+                ],
+                [
+                    -115.9867392,
+                    36.2200135
+                ],
+                [
+                    -115.9867392,
+                    36.2202019
+                ],
+                [
+                    -115.986446,
+                    36.2204456
+                ],
+                [
+                    -115.986446,
+                    36.2207083
+                ],
+                [
+                    -115.9866173,
+                    36.2208472
+                ],
+                [
+                    -115.9867144,
+                    36.2208472
+                ],
+                [
+                    -115.9867144,
+                    36.2209843
+                ],
+                [
+                    -115.9867353,
+                    36.2209843
+                ],
+                [
+                    -115.9867353,
+                    36.2210642
+                ],
+                [
+                    -115.9870342,
+                    36.2210642
+                ],
+                [
+                    -115.9870342,
+                    36.2209862
+                ],
+                [
+                    -115.9872493,
+                    36.2209862
+                ],
+                [
+                    -115.9872493,
+                    36.2208453
+                ],
+                [
+                    -115.9873407,
+                    36.2208453
+                ],
+                [
+                    -115.9873407,
+                    36.2206911
+                ],
+                [
+                    -115.9872474,
+                    36.2206911
+                ],
+                [
+                    -115.9872474,
+                    36.2204475
+                ],
+                [
+                    -115.9871656,
+                    36.2204475
+                ],
+                [
+                    -115.9871656,
+                    36.2201087
+                ],
+                [
+                    -115.9873007,
+                    36.2201087
+                ],
+                [
+                    -115.9873007,
+                    36.2200306
+                ],
+                [
+                    -115.9871694,
+                    36.2200306
+                ],
+                [
+                    -115.9871694,
+                    36.2199088
+                ],
+                [
+                    -115.9868743,
+                    36.2199088
+                ],
+                [
+                    -115.9868743,
+                    36.2200135
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005764",
+        "NAME": "NYE COUNTY JAIL - SOUTH AREA COMMAND",
+        "ADDRESS": "1520 E BASIN ROAD",
+        "CITY": "PAHRUMP",
+        "STATE": "NV",
+        "ZIP": "89060",
+        "ZIP4": "-999",
+        "TELEPHONE": "(775) 751-7027",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "NYE",
+        "COUNTYFIPS": "32023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.nyecounty.net/109/Sheriff",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.nyecounty.net/109/Sheriff",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00412528587637,
+        "SHAPE_Length": 0.004125285876374521,
+        "SHAPE_Area": 6.83297565692e-7
+    },
+    "id": 1069
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86190"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.5623785,
+                    36.5156869
+                ],
+                [
+                    -115.5620063,
+                    36.5151804
+                ],
+                [
+                    -115.563202,
+                    36.5145736
+                ],
+                [
+                    -115.5625417,
+                    36.5137706
+                ],
+                [
+                    -115.5627499,
+                    36.5136576
+                ],
+                [
+                    -115.5623097,
+                    36.5130984
+                ],
+                [
+                    -115.5621073,
+                    36.5131931
+                ],
+                [
+                    -115.5616435,
+                    36.5126225
+                ],
+                [
+                    -115.5589725,
+                    36.5139966
+                ],
+                [
+                    -115.5606018,
+                    36.5160668
+                ],
+                [
+                    -115.5601355,
+                    36.5163142
+                ],
+                [
+                    -115.5604305,
+                    36.516733
+                ],
+                [
+                    -115.5623785,
+                    36.5156869
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003006",
+        "NAME": "THREE LAKES VALLEY CONSERVATION & BOOT CAMP",
+        "ADDRESS": "20825 COLD CREEK RD",
+        "CITY": "INDIAN SPRINGS",
+        "STATE": "NV",
+        "ZIP": "89070",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 879-5472",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 330,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/TLVBC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/TLVCC_Facility/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 192,
+        "SHAPE_Leng": 0.0138058780055,
+        "SHAPE_Length": 0.013805878005486116,
+        "SHAPE_Area": 0.00000884832058651
+    },
+    "id": 1117
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861a8"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+            [
+                [
+                    [
+                        -115.5543313,
+                        36.5173815
+                    ],
+                    [
+                        -115.5582453,
+                        36.5153441
+                    ],
+                    [
+                        -115.5584359,
+                        36.5146352
+                    ],
+                    [
+                        -115.5568923,
+                        36.5127031
+                    ],
+                    [
+                        -115.5535193,
+                        36.5121356
+                    ],
+                    [
+                        -115.5518173,
+                        36.5130208
+                    ],
+                    [
+                        -115.5513944,
+                        36.5145697
+                    ],
+                    [
+                        -115.5509535,
+                        36.5147901
+                    ],
+                    [
+                        -115.5508165,
+                        36.5153143
+                    ],
+                    [
+                        -115.5519484,
+                        36.5167203
+                    ],
+                    [
+                        -115.5519841,
+                        36.5176317
+                    ],
+                    [
+                        -115.5521807,
+                        36.517882
+                    ],
+                    [
+                        -115.5534675,
+                        36.5172147
+                    ],
+                    [
+                        -115.5543313,
+                        36.5173815
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        -115.5587636,
+                        36.5167679
+                    ],
+                    [
+                        -115.5579355,
+                        36.5157194
+                    ],
+                    [
+                        -115.5554811,
+                        36.5169467
+                    ],
+                    [
+                        -115.5557134,
+                        36.5172386
+                    ],
+                    [
+                        -115.5574113,
+                        36.5164045
+                    ],
+                    [
+                        -115.5580129,
+                        36.5171194
+                    ],
+                    [
+                        -115.5587636,
+                        36.5167679
+                    ]
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003005",
+        "NAME": "SOUTHERN DESERT CORRECTIONAL CENTER",
+        "ADDRESS": "20825 COLD CREEK RD",
+        "CITY": "INDIAN SPRINGS",
+        "STATE": "NV",
+        "ZIP": "89070",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 879-3800",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 2150,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/SDCC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/Home/",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 2149,
+        "SHAPE_Leng": 0.0290714292533,
+        "SHAPE_Length": 0.029071429253272753,
+        "SHAPE_Area": 0.0000296881688696
+    },
+    "id": 1151
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86192"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.5895742,
+                    36.5164324
+                ],
+                [
+                    -115.5835854,
+                    36.5119611
+                ],
+                [
+                    -115.5834741,
+                    36.5115665
+                ],
+                [
+                    -115.5832515,
+                    36.5114148
+                ],
+                [
+                    -115.5828975,
+                    36.5117385
+                ],
+                [
+                    -115.5827053,
+                    36.5113338
+                ],
+                [
+                    -115.5823571,
+                    36.5114368
+                ],
+                [
+                    -115.5825347,
+                    36.5118511
+                ],
+                [
+                    -115.5819263,
+                    36.512042
+                ],
+                [
+                    -115.5820376,
+                    36.512305
+                ],
+                [
+                    -115.5802571,
+                    36.5128917
+                ],
+                [
+                    -115.5845161,
+                    36.5212983
+                ],
+                [
+                    -115.5895742,
+                    36.5164324
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003004",
+        "NAME": "HIGH DESERT STATE PRISON",
+        "ADDRESS": "22010 COLD CREEK RD",
+        "CITY": "INDIAN SPRINGS",
+        "STATE": "NV",
+        "ZIP": "89070",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 879-6789",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 3669,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/HDSP_Faciltiy/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/HDSP_Faciltiy/",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 4176,
+        "SHAPE_Leng": 0.0291349784835,
+        "SHAPE_Length": 0.02913497848354807,
+        "SHAPE_Area": 0.0000427852329273
+    },
+    "id": 1119
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86b70"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.5830335,
+                    36.3192531
+                ],
+                [
+                    -115.5831751,
+                    36.3193046
+                ],
+                [
+                    -115.584128,
+                    36.3190696
+                ],
+                [
+                    -115.5843019,
+                    36.3189665
+                ],
+                [
+                    -115.5844854,
+                    36.3189504
+                ],
+                [
+                    -115.5849425,
+                    36.3190084
+                ],
+                [
+                    -115.5857474,
+                    36.3188474
+                ],
+                [
+                    -115.5859309,
+                    36.3186028
+                ],
+                [
+                    -115.5859824,
+                    36.3183452
+                ],
+                [
+                    -115.5853192,
+                    36.3181939
+                ],
+                [
+                    -115.5848653,
+                    36.3183356
+                ],
+                [
+                    -115.5848653,
+                    36.3179203
+                ],
+                [
+                    -115.5842021,
+                    36.317917
+                ],
+                [
+                    -115.5827405,
+                    36.3183677
+                ],
+                [
+                    -115.5827534,
+                    36.3189537
+                ],
+                [
+                    -115.5825763,
+                    36.3189537
+                ],
+                [
+                    -115.5825763,
+                    36.3192434
+                ],
+                [
+                    -115.5830335,
+                    36.3192531
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003007",
+        "NAME": "SPRING MOUNTAIN YOUTH CAMP",
+        "ADDRESS": "2400 ANGEL PEAK PL",
+        "CITY": "LAS VEGAS",
+        "STATE": "NV",
+        "ZIP": "89124",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 455-5555",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.clarkcountynv.gov/jjs/Services/pages/SpringMtnYouthCmp.aspx",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.clarkcountynv.gov/jjs/Services/pages/SpringMtnYouthCmp.aspx",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 100,
+        "SHAPE_Leng": 0.00864238902394,
+        "SHAPE_Length": 0.00864238902393591,
+        "SHAPE_Area": 0.00000297440541944
+    },
+    "id": 3654
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85e8d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.2270623,
+                    36.1565974
+                ],
+                [
+                    -115.2268624,
+                    36.1565593
+                ],
+                [
+                    -115.2265388,
+                    36.1566926
+                ],
+                [
+                    -115.2265102,
+                    36.1568829
+                ],
+                [
+                    -115.2267006,
+                    36.1571209
+                ],
+                [
+                    -115.22691,
+                    36.157178
+                ],
+                [
+                    -115.2271479,
+                    36.1571018
+                ],
+                [
+                    -115.2272431,
+                    36.1568353
+                ],
+                [
+                    -115.2270623,
+                    36.1565974
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006614",
+        "NAME": "STEIN FORENSIC UNIT",
+        "ADDRESS": "6161 WEST CHARLESTON BLVD",
+        "CITY": "LAS VEGAS",
+        "STATE": "NV",
+        "ZIP": "89146",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 486-4400",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 12,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dhhs.nv.gov/Reports/Press_Releases/2015/State_Opens_Stein_Forensic_Unit_in_Las_Vegas/",
+        "SOURCEDATE": "2015/11/23 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://dpbh.nv.gov/Programs/ClinicalBehavioralServ/Clinical_Behavioral_Services_-_Home/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 47,
+        "SHAPE_Leng": 0.00209936535758,
+        "SHAPE_Length": 0.0020993653575790312,
+        "SHAPE_Area": 3.24626866376e-7
+    },
+    "id": 341
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb860cd"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.1191152,
+                    36.2017026
+                ],
+                [
+                    -115.1191831,
+                    36.2015902
+                ],
+                [
+                    -115.1191729,
+                    36.2015179
+                ],
+                [
+                    -115.1191191,
+                    36.2014679
+                ],
+                [
+                    -115.1190345,
+                    36.2014641
+                ],
+                [
+                    -115.1187732,
+                    36.20121
+                ],
+                [
+                    -115.1186883,
+                    36.201191
+                ],
+                [
+                    -115.1185806,
+                    36.2010756
+                ],
+                [
+                    -115.1176884,
+                    36.2015026
+                ],
+                [
+                    -115.1176307,
+                    36.2014372
+                ],
+                [
+                    -115.1176307,
+                    36.2010141
+                ],
+                [
+                    -115.1173807,
+                    36.2009064
+                ],
+                [
+                    -115.1173807,
+                    36.2005257
+                ],
+                [
+                    -115.1176922,
+                    36.2005257
+                ],
+                [
+                    -115.1176922,
+                    36.2007064
+                ],
+                [
+                    -115.1179807,
+                    36.2007064
+                ],
+                [
+                    -115.1179807,
+                    36.2005872
+                ],
+                [
+                    -115.1181742,
+                    36.2005858
+                ],
+                [
+                    -115.1181742,
+                    36.2002776
+                ],
+                [
+                    -115.1180191,
+                    36.2002795
+                ],
+                [
+                    -115.1180191,
+                    36.2000795
+                ],
+                [
+                    -115.1175268,
+                    36.2000795
+                ],
+                [
+                    -115.1175268,
+                    36.1999107
+                ],
+                [
+                    -115.1179999,
+                    36.1999107
+                ],
+                [
+                    -115.1179999,
+                    36.199968
+                ],
+                [
+                    -115.1182076,
+                    36.199968
+                ],
+                [
+                    -115.1182076,
+                    36.1995949
+                ],
+                [
+                    -115.117996,
+                    36.1994065
+                ],
+                [
+                    -115.1179922,
+                    36.1989257
+                ],
+                [
+                    -115.1177691,
+                    36.1989257
+                ],
+                [
+                    -115.1177653,
+                    36.1984719
+                ],
+                [
+                    -115.1168458,
+                    36.1984719
+                ],
+                [
+                    -115.1168461,
+                    36.1990449
+                ],
+                [
+                    -115.1171576,
+                    36.1990449
+                ],
+                [
+                    -115.1171576,
+                    36.1989449
+                ],
+                [
+                    -115.1173614,
+                    36.1989449
+                ],
+                [
+                    -115.1173614,
+                    36.199268
+                ],
+                [
+                    -115.1165038,
+                    36.199268
+                ],
+                [
+                    -115.1165076,
+                    36.1995565
+                ],
+                [
+                    -115.1166115,
+                    36.1996488
+                ],
+                [
+                    -115.1166115,
+                    36.1998334
+                ],
+                [
+                    -115.1165192,
+                    36.199918
+                ],
+                [
+                    -115.1165538,
+                    36.2020756
+                ],
+                [
+                    -115.116646,
+                    36.2021339
+                ],
+                [
+                    -115.1177307,
+                    36.2021333
+                ],
+                [
+                    -115.1178191,
+                    36.2020525
+                ],
+                [
+                    -115.1178191,
+                    36.2018679
+                ],
+                [
+                    -115.1179153,
+                    36.2018102
+                ],
+                [
+                    -115.1180883,
+                    36.2020333
+                ],
+                [
+                    -115.118073,
+                    36.202091
+                ],
+                [
+                    -115.1180999,
+                    36.2021487
+                ],
+                [
+                    -115.1181691,
+                    36.2021795
+                ],
+                [
+                    -115.1183499,
+                    36.202141
+                ],
+                [
+                    -115.1191152,
+                    36.2017026
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003009",
+        "NAME": "NORTH LAS VEGAS JUSTICE FACILITY / DETENTION CTR",
+        "ADDRESS": "2332 LAS VEGAS BLVD N",
+        "CITY": "NORTH LAS VEGAS",
+        "STATE": "NV",
+        "ZIP": "89030",
+        "ZIP4": "-999",
+        "TELEPHONE": "(704) 229-6444",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.cityofnorthlasvegas.com/departments/police/detention_services.php",
+        "SOURCEDATE": "2018/05/18 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.cityofnorthlasvegas.com/departments/police/detention_services.php",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0174366614774,
+        "SHAPE_Length": 0.017436661477369535,
+        "SHAPE_Area": 0.00000530828584924
+    },
+    "id": 921
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8612f"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.101411,
+                    36.1760269
+                ],
+                [
+                    -115.1014214,
+                    36.1755877
+                ],
+                [
+                    -115.1014369,
+                    36.1747869
+                ],
+                [
+                    -115.1008427,
+                    36.1747714
+                ],
+                [
+                    -115.100853,
+                    36.1742082
+                ],
+                [
+                    -115.1006774,
+                    36.1741875
+                ],
+                [
+                    -115.100667,
+                    36.1741462
+                ],
+                [
+                    -115.099985,
+                    36.1741669
+                ],
+                [
+                    -115.0999799,
+                    36.1741927
+                ],
+                [
+                    -115.0999127,
+                    36.1741927
+                ],
+                [
+                    -115.0999024,
+                    36.1742392
+                ],
+                [
+                    -115.0998145,
+                    36.174234
+                ],
+                [
+                    -115.0997939,
+                    36.1738155
+                ],
+                [
+                    -115.0995252,
+                    36.1738414
+                ],
+                [
+                    -115.0990964,
+                    36.1742495
+                ],
+                [
+                    -115.0990705,
+                    36.174389
+                ],
+                [
+                    -115.0989104,
+                    36.174389
+                ],
+                [
+                    -115.0988949,
+                    36.1745182
+                ],
+                [
+                    -115.0990137,
+                    36.1745182
+                ],
+                [
+                    -115.0990292,
+                    36.1752209
+                ],
+                [
+                    -115.099055,
+                    36.1752209
+                ],
+                [
+                    -115.099055,
+                    36.1754327
+                ],
+                [
+                    -115.0991319,
+                    36.1755391
+                ],
+                [
+                    -115.099055,
+                    36.1756187
+                ],
+                [
+                    -115.0991842,
+                    36.1757427
+                ],
+                [
+                    -115.0992152,
+                    36.1764867
+                ],
+                [
+                    -115.0992617,
+                    36.1764815
+                ],
+                [
+                    -115.0992617,
+                    36.1765229
+                ],
+                [
+                    -115.099613,
+                    36.1765229
+                ],
+                [
+                    -115.0996234,
+                    36.1764764
+                ],
+                [
+                    -115.099644,
+                    36.1762645
+                ],
+                [
+                    -115.0999437,
+                    36.1762594
+                ],
+                [
+                    -115.100202,
+                    36.1761302
+                ],
+                [
+                    -115.101287,
+                    36.1761302
+                ],
+                [
+                    -115.101411,
+                    36.1760269
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003010",
+        "NAME": "CLARK COUNTY FAMILY & JUVENILE COURTS",
+        "ADDRESS": "601 N PECOS RD",
+        "CITY": "LAS VEGAS",
+        "STATE": "NV",
+        "ZIP": "89101",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 455-5200",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.clarkcountynv.gov/jjs/Pages/default.aspx",
+        "SOURCEDATE": "2016/02/15 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.clarkcountynv.gov/jjs/Pages/default.aspx",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 192,
+        "SHAPE_Leng": 0.0100017115736,
+        "SHAPE_Length": 0.010001711573581377,
+        "SHAPE_Area": 0.00000462019735
+    },
+    "id": 1019
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85eaa"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.1052556,
+                    36.1672401
+                ],
+                [
+                    -115.1052477,
+                    36.1666387
+                ],
+                [
+                    -115.1051369,
+                    36.1664725
+                ],
+                [
+                    -115.1006581,
+                    36.1663301
+                ],
+                [
+                    -115.1005869,
+                    36.1665121
+                ],
+                [
+                    -115.1005236,
+                    36.16652
+                ],
+                [
+                    -115.1005473,
+                    36.1669156
+                ],
+                [
+                    -115.1027472,
+                    36.1671768
+                ],
+                [
+                    -115.1052556,
+                    36.1672401
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002003",
+        "NAME": "CITY OF LAS VEGAS DETENTION CENTER",
+        "ADDRESS": "3300 STEWART AVE",
+        "CITY": "LAS VEGAS",
+        "STATE": "NV",
+        "ZIP": "89101",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 229-6444",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": 1415,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.cityofnorthlasvegas.com/departments/police/detention_services.php",
+        "SOURCEDATE": "2018/05/18 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.lasvegasnevada.gov/Government/Departments/Public-Safety/Inmate-Search-and-Information",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0106623912064,
+        "SHAPE_Length": 0.010662391206402765,
+        "SHAPE_Area": 0.00000342087259545
+    },
+    "id": 385
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb86091"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.1470663,
+                    36.1681331
+                ],
+                [
+                    -115.1478327,
+                    36.1669547
+                ],
+                [
+                    -115.1469401,
+                    36.1665627
+                ],
+                [
+                    -115.1461763,
+                    36.1677596
+                ],
+                [
+                    -115.1470663,
+                    36.1681331
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10002004",
+        "NAME": "CLARK COUNTY DETENTION CENTER",
+        "ADDRESS": "330 S CASINO CENTER BLVD",
+        "CITY": "LAS VEGAS",
+        "STATE": "NV",
+        "ZIP": "89101",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 671-3900",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 2492,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.clarkcountynv.gov/ccdc/Pages/default.aspx",
+        "SOURCEDATE": "2018/04/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://www.clarkcountynv.gov/ccdc/Pages/default.aspx",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00476551251157,
+        "SHAPE_Length": 0.004765512511572666,
+        "SHAPE_Area": 0.00000135133383751
+    },
+    "id": 871
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85eb2"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.1925997,
+                    36.0860173
+                ],
+                [
+                    -115.1925994,
+                    36.0859711
+                ],
+                [
+                    -115.1926866,
+                    36.0859711
+                ],
+                [
+                    -115.1926865,
+                    36.0857026
+                ],
+                [
+                    -115.192544,
+                    36.0857021
+                ],
+                [
+                    -115.192544,
+                    36.0855081
+                ],
+                [
+                    -115.1925117,
+                    36.0855081
+                ],
+                [
+                    -115.1925117,
+                    36.0854522
+                ],
+                [
+                    -115.1922678,
+                    36.0854522
+                ],
+                [
+                    -115.1922678,
+                    36.0855986
+                ],
+                [
+                    -115.1922154,
+                    36.0855986
+                ],
+                [
+                    -115.1922154,
+                    36.0857247
+                ],
+                [
+                    -115.1919442,
+                    36.0857247
+                ],
+                [
+                    -115.1919442,
+                    36.0858234
+                ],
+                [
+                    -115.1918859,
+                    36.0858234
+                ],
+                [
+                    -115.1918859,
+                    36.0858746
+                ],
+                [
+                    -115.1918549,
+                    36.0858746
+                ],
+                [
+                    -115.1918549,
+                    36.0860173
+                ],
+                [
+                    -115.1919727,
+                    36.0860173
+                ],
+                [
+                    -115.1919727,
+                    36.085965
+                ],
+                [
+                    -115.1921774,
+                    36.085965
+                ],
+                [
+                    -115.1921774,
+                    36.08599
+                ],
+                [
+                    -115.1923118,
+                    36.08599
+                ],
+                [
+                    -115.1923118,
+                    36.0859662
+                ],
+                [
+                    -115.1925069,
+                    36.0859662
+                ],
+                [
+                    -115.1925069,
+                    36.0860173
+                ],
+                [
+                    -115.1925997,
+                    36.0860173
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003014",
+        "NAME": "CASA GRANDE TRANSITIONAL HOUSING",
+        "ADDRESS": "3955 W RUSSELL RD",
+        "CITY": "LAS VEGAS",
+        "STATE": "NV",
+        "ZIP": "89118",
+        "ZIP4": "2316",
+        "TELEPHONE": "(702) 486-9906",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 331,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/layouts/Page_Style_1.aspx?id=92214",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/layouts/Page_Style_1.aspx?id=92214",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 400,
+        "SHAPE_Leng": 0.00294554018,
+        "SHAPE_Length": 0.0029455401800031434,
+        "SHAPE_Area": 2.87837515877e-7
+    },
+    "id": 374
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb86114"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.9800427,
+                    36.0310765
+                ],
+                [
+                    -114.9801317,
+                    36.0309801
+                ],
+                [
+                    -114.9801836,
+                    36.0310506
+                ],
+                [
+                    -114.9803022,
+                    36.0310432
+                ],
+                [
+                    -114.9802985,
+                    36.0308133
+                ],
+                [
+                    -114.9803986,
+                    36.0308207
+                ],
+                [
+                    -114.9803949,
+                    36.0309542
+                ],
+                [
+                    -114.980432,
+                    36.0309542
+                ],
+                [
+                    -114.9805506,
+                    36.0308133
+                ],
+                [
+                    -114.9805543,
+                    36.0306687
+                ],
+                [
+                    -114.9805914,
+                    36.0306502
+                ],
+                [
+                    -114.9805914,
+                    36.0306057
+                ],
+                [
+                    -114.9805543,
+                    36.0305909
+                ],
+                [
+                    -114.9804727,
+                    36.0305909
+                ],
+                [
+                    -114.980469,
+                    36.0304982
+                ],
+                [
+                    -114.980343,
+                    36.0304945
+                ],
+                [
+                    -114.9803244,
+                    36.0304166
+                ],
+                [
+                    -114.9802169,
+                    36.030424
+                ],
+                [
+                    -114.9802058,
+                    36.0303647
+                ],
+                [
+                    -114.9802651,
+                    36.0303054
+                ],
+                [
+                    -114.9801984,
+                    36.0302424
+                ],
+                [
+                    -114.9800464,
+                    36.0302202
+                ],
+                [
+                    -114.9798981,
+                    36.0303314
+                ],
+                [
+                    -114.9798796,
+                    36.0304203
+                ],
+                [
+                    -114.9793087,
+                    36.0304389
+                ],
+                [
+                    -114.978823,
+                    36.0307614
+                ],
+                [
+                    -114.9789342,
+                    36.0308912
+                ],
+                [
+                    -114.9789458,
+                    36.0309815
+                ],
+                [
+                    -114.9788125,
+                    36.0309815
+                ],
+                [
+                    -114.9787554,
+                    36.0308958
+                ],
+                [
+                    -114.9785555,
+                    36.0310386
+                ],
+                [
+                    -114.9789267,
+                    36.0314193
+                ],
+                [
+                    -114.9792503,
+                    36.0314288
+                ],
+                [
+                    -114.9792503,
+                    36.0312765
+                ],
+                [
+                    -114.9795073,
+                    36.0312956
+                ],
+                [
+                    -114.9795073,
+                    36.0314193
+                ],
+                [
+                    -114.9799071,
+                    36.0314193
+                ],
+                [
+                    -114.9798975,
+                    36.0310862
+                ],
+                [
+                    -114.9800427,
+                    36.0310765
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003011",
+        "NAME": "HENDERSON DETENTION CENTER",
+        "ADDRESS": "18 E BASIC RD",
+        "CITY": "HENDERSON",
+        "STATE": "NV",
+        "ZIP": "89015",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 267-5245",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": 503,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.cityofhenderson.com/police/detention-center/corrections-division",
+        "SOURCEDATE": "2018/05/18 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.cityofhenderson.com/police/detention-center/corrections-division",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 280,
+        "SHAPE_Leng": 0.00661274945029,
+        "SHAPE_Length": 0.006612749450293062,
+        "SHAPE_Area": 0.00000138460272235
+    },
+    "id": 1001
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb861ca"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.0551463,
+                    36.2654273
+                ],
+                [
+                    -115.055109,
+                    36.2641493
+                ],
+                [
+                    -115.0549722,
+                    36.2640631
+                ],
+                [
+                    -115.0530776,
+                    36.2641107
+                ],
+                [
+                    -115.052798,
+                    36.2643635
+                ],
+                [
+                    -115.0528157,
+                    36.2653572
+                ],
+                [
+                    -115.0531401,
+                    36.2656001
+                ],
+                [
+                    -115.0549739,
+                    36.2655591
+                ],
+                [
+                    -115.0551463,
+                    36.2654273
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003008",
+        "NAME": "SUMMIT VIEW YOUTH CENTER",
+        "ADDRESS": "5730 RANGE RD",
+        "CITY": "LAS VEGAS",
+        "STATE": "NV",
+        "ZIP": "89115",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 668-4755",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 34,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dcfs.nv.gov/Programs/JJS/SUMMIT_VIEW_YOUTH_CENTER/",
+        "SOURCEDATE": "2017/12/12 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://dcfs.nv.gov/Programs/JJS/SUMMIT_VIEW_YOUTH_CENTER/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 50,
+        "SHAPE_Leng": 0.00716279730205,
+        "SHAPE_Length": 0.007162797302052677,
+        "SHAPE_Area": 0.00000337420829337
+    },
+    "id": 1156
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86191"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.0758497,
+                    36.2561842
+                ],
+                [
+                    -115.0758617,
+                    36.25895
+                ],
+                [
+                    -115.0771965,
+                    36.258956
+                ],
+                [
+                    -115.0781946,
+                    36.2581353
+                ],
+                [
+                    -115.0782006,
+                    36.2562083
+                ],
+                [
+                    -115.0773198,
+                    36.2562023
+                ],
+                [
+                    -115.0770372,
+                    36.2564277
+                ],
+                [
+                    -115.076938,
+                    36.2564277
+                ],
+                [
+                    -115.0766764,
+                    36.2562083
+                ],
+                [
+                    -115.0758497,
+                    36.2561842
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000261",
+        "NAME": "FLORENCE MCCLURE WOMEN'S CORRECTIONAL CENTER",
+        "ADDRESS": "4370 SMILEY RD",
+        "CITY": "LAS VEGAS",
+        "STATE": "NV",
+        "ZIP": "89115",
+        "ZIP4": "1808",
+        "TELEPHONE": "(702) 668-7200",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 991,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/FMWCC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/FMWCC_Facility/",
+        "SECURELVL": "CLOSE",
+        "CAPACITY": 950,
+        "SHAPE_Leng": 0.0098299269716,
+        "SHAPE_Length": 0.00982992697159623,
+        "SHAPE_Area": 0.00000595065845729
+    },
+    "id": 1118
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb860c3"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -114.0586553,
+                    36.8121196
+                ],
+                [
+                    -114.0587788,
+                    36.812041
+                ],
+                [
+                    -114.0587826,
+                    36.8119586
+                ],
+                [
+                    -114.0589436,
+                    36.8119624
+                ],
+                [
+                    -114.0589585,
+                    36.8118313
+                ],
+                [
+                    -114.0588612,
+                    36.8118351
+                ],
+                [
+                    -114.0588537,
+                    36.8116479
+                ],
+                [
+                    -114.0587788,
+                    36.8116404
+                ],
+                [
+                    -114.0587938,
+                    36.8115543
+                ],
+                [
+                    -114.058206,
+                    36.8114569
+                ],
+                [
+                    -114.0580562,
+                    36.8120522
+                ],
+                [
+                    -114.0582547,
+                    36.8120709
+                ],
+                [
+                    -114.0582547,
+                    36.8120859
+                ],
+                [
+                    -114.0586553,
+                    36.8121196
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003003",
+        "NAME": "MESQUITE DETENTION CENTER",
+        "ADDRESS": "500 HILLSIDE DR",
+        "CITY": "MESQUITE",
+        "STATE": "NV",
+        "ZIP": "89027",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 346-6925",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.mesquitenv.gov/departments/mesquite-detention-center",
+        "SOURCEDATE": "2018/05/18 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "https://www.mesquitenv.gov/departments/mesquite-detention-center",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 20,
+        "SHAPE_Leng": 0.00279520440362,
+        "SHAPE_Length": 0.0027952044036218173,
+        "SHAPE_Area": 4.21558242746e-7
+    },
+    "id": 891
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb86096"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.3149808,
+                    35.7757114
+                ],
+                [
+                    -115.3136846,
+                    35.7729015
+                ],
+                [
+                    -115.3134189,
+                    35.7727969
+                ],
+                [
+                    -115.3111887,
+                    35.7728371
+                ],
+                [
+                    -115.3112853,
+                    35.775333
+                ],
+                [
+                    -115.3117121,
+                    35.7756469
+                ],
+                [
+                    -115.3122112,
+                    35.7756389
+                ],
+                [
+                    -115.3124769,
+                    35.7754296
+                ],
+                [
+                    -115.3129841,
+                    35.7754457
+                ],
+                [
+                    -115.3129439,
+                    35.7752846
+                ],
+                [
+                    -115.3130646,
+                    35.7752363
+                ],
+                [
+                    -115.3130727,
+                    35.7754376
+                ],
+                [
+                    -115.313435,
+                    35.7756389
+                ],
+                [
+                    -115.3149808,
+                    35.7757114
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003013",
+        "NAME": "SOUTHERN NEVADA CORRECTIONAL CENTER",
+        "ADDRESS": "1 PRISON RD",
+        "CITY": "JEAN",
+        "STATE": "NV",
+        "ZIP": "89019",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 874-2509",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/SNCC_Facility/",
+        "SOURCEDATE": "2020/02/03 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/SNCC_Facility/",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 500,
+        "SHAPE_Leng": 0.0124423910315,
+        "SHAPE_Length": 0.012442391031523482,
+        "SHAPE_Area": 0.00000840252802875
+    },
+    "id": 876
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86187"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -115.3156516,
+                    35.7736825
+                ],
+                [
+                    -115.3162025,
+                    35.7736501
+                ],
+                [
+                    -115.3163767,
+                    35.7726173
+                ],
+                [
+                    -115.3158845,
+                    35.7723844
+                ],
+                [
+                    -115.3146633,
+                    35.7725342
+                ],
+                [
+                    -115.3146248,
+                    35.7727631
+                ],
+                [
+                    -115.3143676,
+                    35.7727368
+                ],
+                [
+                    -115.3143413,
+                    35.7729454
+                ],
+                [
+                    -115.3145884,
+                    35.7729717
+                ],
+                [
+                    -115.3145053,
+                    35.7731013
+                ],
+                [
+                    -115.3144345,
+                    35.7732957
+                ],
+                [
+                    -115.3148517,
+                    35.7742638
+                ],
+                [
+                    -115.3151008,
+                    35.774199
+                ],
+                [
+                    -115.3150825,
+                    35.7741645
+                ],
+                [
+                    -115.3153965,
+                    35.7740633
+                ],
+                [
+                    -115.3154775,
+                    35.7738668
+                ],
+                [
+                    -115.3156982,
+                    35.7737433
+                ],
+                [
+                    -115.3156516,
+                    35.7736825
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003012",
+        "NAME": "JEAN CONSERVATION CAMP",
+        "ADDRESS": "3 PRISON RD",
+        "CITY": "JEAN",
+        "STATE": "NV",
+        "ZIP": "89019",
+        "ZIP4": "-999",
+        "TELEPHONE": "(702) 874-2509",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 184,
+        "COUNTY": "CLARK",
+        "COUNTYFIPS": "32003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://doc.nv.gov/Facilities/JCC_Facility/",
+        "SOURCEDATE": "2016/12/31 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/02/03 00:00:00",
+        "WEBSITE": "http://doc.nv.gov/Facilities/JCC_Facility/",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 240,
+        "SHAPE_Leng": 0.00690666786729,
+        "SHAPE_Length": 0.006906667867291079,
+        "SHAPE_Area": 0.00000253387337272
+    },
+    "id": 1112
+}
+]

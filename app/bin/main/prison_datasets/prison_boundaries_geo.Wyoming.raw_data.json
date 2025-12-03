@@ -1,0 +1,4040 @@
+[
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8702a"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -110.5407828,
+                    41.7922941
+                ],
+                [
+                    -110.5407352,
+                    41.7922156
+                ],
+                [
+                    -110.5408672,
+                    41.7921632
+                ],
+                [
+                    -110.5407525,
+                    41.7920006
+                ],
+                [
+                    -110.5406245,
+                    41.7920514
+                ],
+                [
+                    -110.5405448,
+                    41.7919324
+                ],
+                [
+                    -110.5402759,
+                    41.7920311
+                ],
+                [
+                    -110.5403545,
+                    41.7921466
+                ],
+                [
+                    -110.5402569,
+                    41.7921858
+                ],
+                [
+                    -110.5403568,
+                    41.7923262
+                ],
+                [
+                    -110.5404574,
+                    41.7922865
+                ],
+                [
+                    -110.5405274,
+                    41.7923928
+                ],
+                [
+                    -110.5405585,
+                    41.7923787
+                ],
+                [
+                    -110.5405787,
+                    41.792409
+                ],
+                [
+                    -110.540778,
+                    41.7923345
+                ],
+                [
+                    -110.5407578,
+                    41.792306
+                ],
+                [
+                    -110.5407828,
+                    41.7922941
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001896",
+        "NAME": "LINCOLN COUNTY JAIL",
+        "ADDRESS": "1032 BEECH AVE",
+        "CITY": "KEMMERER",
+        "STATE": "WY",
+        "ZIP": "83101",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 877-2169",
+        "TYPE": "COUNTY",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "LINCOLN",
+        "COUNTYFIPS": "56023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.lcwy.org/departments/sheriff/detention.php",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://www.lcwy.org/departments/sheriff/detention.php",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00199864072362,
+        "SHAPE_Length": 0.0019986407236170763,
+        "SHAPE_Area": 1.71707305708e-7
+    },
+    "id": 4859
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb867c9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -110.572656,
+                    41.7936348
+                ],
+                [
+                    -110.5725132,
+                    41.7936062
+                ],
+                [
+                    -110.5722848,
+                    41.7936919
+                ],
+                [
+                    -110.5722348,
+                    41.7938489
+                ],
+                [
+                    -110.5722348,
+                    41.7939132
+                ],
+                [
+                    -110.5720064,
+                    41.7939917
+                ],
+                [
+                    -110.5720992,
+                    41.794163
+                ],
+                [
+                    -110.5722491,
+                    41.7940988
+                ],
+                [
+                    -110.5722919,
+                    41.7941987
+                ],
+                [
+                    -110.5722777,
+                    41.7942058
+                ],
+                [
+                    -110.5723205,
+                    41.7942701
+                ],
+                [
+                    -110.572349,
+                    41.794263
+                ],
+                [
+                    -110.5723633,
+                    41.7943058
+                ],
+                [
+                    -110.5724133,
+                    41.7942986
+                ],
+                [
+                    -110.572449,
+                    41.7943415
+                ],
+                [
+                    -110.5726774,
+                    41.7942344
+                ],
+                [
+                    -110.572656,
+                    41.7941702
+                ],
+                [
+                    -110.572706,
+                    41.7941559
+                ],
+                [
+                    -110.5726703,
+                    41.7940702
+                ],
+                [
+                    -110.5727631,
+                    41.7940488
+                ],
+                [
+                    -110.5728987,
+                    41.7944771
+                ],
+                [
+                    -110.5730415,
+                    41.7944557
+                ],
+                [
+                    -110.5730272,
+                    41.7943914
+                ],
+                [
+                    -110.5732057,
+                    41.7943557
+                ],
+                [
+                    -110.5730557,
+                    41.7940702
+                ],
+                [
+                    -110.5730843,
+                    41.7940631
+                ],
+                [
+                    -110.5730272,
+                    41.7939774
+                ],
+                [
+                    -110.5729986,
+                    41.7939846
+                ],
+                [
+                    -110.5729558,
+                    41.7938989
+                ],
+                [
+                    -110.5727845,
+                    41.7938703
+                ],
+                [
+                    -110.572656,
+                    41.7936348
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006893",
+        "NAME": "LINCOLN COUNTY DETENTION FACILITY",
+        "ADDRESS": "1040 JUSTICE CENTER DR",
+        "CITY": "KEMMERER",
+        "STATE": "WY",
+        "ZIP": "83101",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "LINCOLN",
+        "COUNTYFIPS": "56023",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.lcwy.org/departments/sheriff/index.php",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00402433633268,
+        "SHAPE_Length": 0.004024336332675658,
+        "SHAPE_Area": 4.92723992548e-7
+    },
+    "id": 2676
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86444"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -110.9212718,
+                    41.2696562
+                ],
+                [
+                    -110.9214391,
+                    41.2696566
+                ],
+                [
+                    -110.9214396,
+                    41.2698454
+                ],
+                [
+                    -110.9216549,
+                    41.2698454
+                ],
+                [
+                    -110.9216549,
+                    41.2696015
+                ],
+                [
+                    -110.9216002,
+                    41.2696015
+                ],
+                [
+                    -110.9216002,
+                    41.2691982
+                ],
+                [
+                    -110.9215799,
+                    41.2691982
+                ],
+                [
+                    -110.9215799,
+                    41.2690888
+                ],
+                [
+                    -110.9216727,
+                    41.2690887
+                ],
+                [
+                    -110.9216727,
+                    41.2689662
+                ],
+                [
+                    -110.9212444,
+                    41.2689662
+                ],
+                [
+                    -110.9212429,
+                    41.2690598
+                ],
+                [
+                    -110.9212016,
+                    41.26906
+                ],
+                [
+                    -110.9212016,
+                    41.2691363
+                ],
+                [
+                    -110.9209807,
+                    41.2691363
+                ],
+                [
+                    -110.9209803,
+                    41.269435
+                ],
+                [
+                    -110.9212195,
+                    41.2694373
+                ],
+                [
+                    -110.9212195,
+                    41.2696075
+                ],
+                [
+                    -110.9212718,
+                    41.2696075
+                ],
+                [
+                    -110.9212718,
+                    41.2696562
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001902",
+        "NAME": "UINTA COUNTY JAIL",
+        "ADDRESS": "77 COUNTY RD 109",
+        "CITY": "EVANSTON",
+        "STATE": "WY",
+        "ZIP": "82930",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 783-1000",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 96,
+        "COUNTY": "UINTA",
+        "COUNTYFIPS": "56041",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.uintacounty.com/96/Detention-Center",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://www.uintacounty.com/96/Detention-Center",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0032879125916,
+        "SHAPE_Length": 0.0032879125916027772,
+        "SHAPE_Area": 3.81363649389e-7
+    },
+    "id": 1819
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87041"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -109.8610376,
+                    42.8664525
+                ],
+                [
+                    -109.8610364,
+                    42.8663454
+                ],
+                [
+                    -109.8609352,
+                    42.8663455
+                ],
+                [
+                    -109.8609329,
+                    42.8663157
+                ],
+                [
+                    -109.8608853,
+                    42.8663157
+                ],
+                [
+                    -109.8608817,
+                    42.8660456
+                ],
+                [
+                    -109.8609245,
+                    42.8660456
+                ],
+                [
+                    -109.8609245,
+                    42.8660122
+                ],
+                [
+                    -109.8610387,
+                    42.8660111
+                ],
+                [
+                    -109.8610387,
+                    42.8658934
+                ],
+                [
+                    -109.8609281,
+                    42.8658934
+                ],
+                [
+                    -109.8609281,
+                    42.8657756
+                ],
+                [
+                    -109.8602571,
+                    42.8657756
+                ],
+                [
+                    -109.8602571,
+                    42.8658291
+                ],
+                [
+                    -109.8600572,
+                    42.8658291
+                ],
+                [
+                    -109.8600572,
+                    42.8661004
+                ],
+                [
+                    -109.8601809,
+                    42.8661004
+                ],
+                [
+                    -109.8601809,
+                    42.8661194
+                ],
+                [
+                    -109.8603356,
+                    42.8661194
+                ],
+                [
+                    -109.8603356,
+                    42.8661408
+                ],
+                [
+                    -109.8605095,
+                    42.8661408
+                ],
+                [
+                    -109.8605093,
+                    42.8661682
+                ],
+                [
+                    -109.8607346,
+                    42.8661682
+                ],
+                [
+                    -109.8607342,
+                    42.8663514
+                ],
+                [
+                    -109.8606866,
+                    42.8663514
+                ],
+                [
+                    -109.8606851,
+                    42.8664514
+                ],
+                [
+                    -109.8610376,
+                    42.8664525
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001895",
+        "NAME": "SUBLETTE COUNTY DETENTION CENTER",
+        "ADDRESS": "35 1/2 S TYLER AVE",
+        "CITY": "PINEDALE",
+        "STATE": "WY",
+        "ZIP": "82941",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 367-4378",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "SUBLETTE",
+        "COUNTYFIPS": "56035",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.sublettewyo.com/index.aspx?NID=139",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 52,
+        "SHAPE_Leng": 0.00371681994081,
+        "SHAPE_Length": 0.00371681994081096,
+        "SHAPE_Area": 3.83069876792e-7
+    },
+    "id": 4882
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87053"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -108.3724452,
+                    43.0595881
+                ],
+                [
+                    -108.3724112,
+                    43.0577388
+                ],
+                [
+                    -108.3715048,
+                    43.0573627
+                ],
+                [
+                    -108.3719026,
+                    43.0559735
+                ],
+                [
+                    -108.3678565,
+                    43.0559807
+                ],
+                [
+                    -108.3674483,
+                    43.056382
+                ],
+                [
+                    -108.3694399,
+                    43.0599664
+                ],
+                [
+                    -108.3685262,
+                    43.0609444
+                ],
+                [
+                    -108.3666916,
+                    43.0620365
+                ],
+                [
+                    -108.3666864,
+                    43.0627292
+                ],
+                [
+                    -108.3669993,
+                    43.0629946
+                ],
+                [
+                    -108.3708362,
+                    43.063015
+                ],
+                [
+                    -108.3707105,
+                    43.061494
+                ],
+                [
+                    -108.3716028,
+                    43.0614655
+                ],
+                [
+                    -108.3717612,
+                    43.06103
+                ],
+                [
+                    -108.371717,
+                    43.0603233
+                ],
+                [
+                    -108.3721882,
+                    43.0603019
+                ],
+                [
+                    -108.3724452,
+                    43.0595881
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000055",
+        "NAME": "WYOMING HONOR FARM",
+        "ADDRESS": "40 HONOR FARM RD",
+        "CITY": "RIVERTON",
+        "STATE": "WY",
+        "ZIP": "82501",
+        "ZIP4": "9411",
+        "TELEPHONE": "(307) 856-9578",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 271,
+        "COUNTY": "FREMONT",
+        "COUNTYFIPS": "56013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://corrections.wyo.gov/home/institutions/whf",
+        "SOURCEDATE": "2016/08/02 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://corrections.wyo.gov/home/institutions/whf",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 283,
+        "SHAPE_Leng": 0.0262290406906,
+        "SHAPE_Length": 0.026229040690614287,
+        "SHAPE_Area": 0.0000257390805825
+    },
+    "id": 4888
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb864d9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -108.7244273,
+                    42.8359302
+                ],
+                [
+                    -108.7245347,
+                    42.8356591
+                ],
+                [
+                    -108.7243179,
+                    42.8356185
+                ],
+                [
+                    -108.7243471,
+                    42.835541
+                ],
+                [
+                    -108.7244343,
+                    42.8355598
+                ],
+                [
+                    -108.7244772,
+                    42.8354518
+                ],
+                [
+                    -108.7244214,
+                    42.8354412
+                ],
+                [
+                    -108.7244486,
+                    42.8353732
+                ],
+                [
+                    -108.7245036,
+                    42.8353835
+                ],
+                [
+                    -108.7245693,
+                    42.8352169
+                ],
+                [
+                    -108.7243048,
+                    42.835158
+                ],
+                [
+                    -108.7242679,
+                    42.835258
+                ],
+                [
+                    -108.724043,
+                    42.835209
+                ],
+                [
+                    -108.7239893,
+                    42.8353599
+                ],
+                [
+                    -108.7240161,
+                    42.8353635
+                ],
+                [
+                    -108.7238432,
+                    42.8358064
+                ],
+                [
+                    -108.7244273,
+                    42.8359302
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001891",
+        "NAME": "FREMONT COUNTY DETENTION CENTER",
+        "ADDRESS": "460 RAILROAD ST",
+        "CITY": "LANDER",
+        "STATE": "WY",
+        "ZIP": "82520",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 332-1858",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 158,
+        "COUNTY": "FREMONT",
+        "COUNTYFIPS": "56013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://fremontcountywy.org/2015/01/fremont-county-detention-center-job-opening/",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://fremontcountywy.org/county-clerk/financial-information/sheriff-2/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 171,
+        "SHAPE_Leng": 0.00303308255535,
+        "SHAPE_Length": 0.003033082555353196,
+        "SHAPE_Area": 3.50854826837e-7
+    },
+    "id": 1965
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8703b"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -109.3017653,
+                    41.537526
+                ],
+                [
+                    -109.3022127,
+                    41.537545
+                ],
+                [
+                    -109.302365,
+                    41.5374403
+                ],
+                [
+                    -109.302365,
+                    41.5372595
+                ],
+                [
+                    -109.3023333,
+                    41.5370531
+                ],
+                [
+                    -109.3022297,
+                    41.5369407
+                ],
+                [
+                    -109.3018955,
+                    41.5369407
+                ],
+                [
+                    -109.3016322,
+                    41.53713
+                ],
+                [
+                    -109.3009726,
+                    41.5367218
+                ],
+                [
+                    -109.3009075,
+                    41.5367248
+                ],
+                [
+                    -109.3007596,
+                    41.5368342
+                ],
+                [
+                    -109.3007744,
+                    41.5371803
+                ],
+                [
+                    -109.3009696,
+                    41.5375116
+                ],
+                [
+                    -109.3014037,
+                    41.537526
+                ],
+                [
+                    -109.3014037,
+                    41.5374879
+                ],
+                [
+                    -109.3016511,
+                    41.5374784
+                ],
+                [
+                    -109.3017653,
+                    41.537526
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001900",
+        "NAME": "SWEETWATER COUNTY DETENTION CENTER",
+        "ADDRESS": "50140 US HWY 191 S",
+        "CITY": "ROCK SPRINGS",
+        "STATE": "WY",
+        "ZIP": "82901",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 352-4900",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 94,
+        "COUNTY": "SWEETWATER",
+        "COUNTYFIPS": "56037",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://sweetwater911.org/apps/jailroster/?page=contact",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://www.sweet.wy.us/departments/sheriff/detention.php",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 200,
+        "SHAPE_Leng": 0.00443303294527,
+        "SHAPE_Length": 0.004433032945266872,
+        "SHAPE_Area": 8.89671694726e-7
+    },
+    "id": 4874
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8702d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -107.2233174,
+                    41.7954726
+                ],
+                [
+                    -107.2233226,
+                    41.7950345
+                ],
+                [
+                    -107.2230434,
+                    41.795031
+                ],
+                [
+                    -107.2230433,
+                    41.7952089
+                ],
+                [
+                    -107.2229524,
+                    41.7952067
+                ],
+                [
+                    -107.2229519,
+                    41.7952422
+                ],
+                [
+                    -107.2228413,
+                    41.795241
+                ],
+                [
+                    -107.2227412,
+                    41.7953117
+                ],
+                [
+                    -107.2227406,
+                    41.7953526
+                ],
+                [
+                    -107.2226273,
+                    41.7953526
+                ],
+                [
+                    -107.2226289,
+                    41.7954737
+                ],
+                [
+                    -107.2224907,
+                    41.7954721
+                ],
+                [
+                    -107.2224877,
+                    41.7956518
+                ],
+                [
+                    -107.2228525,
+                    41.7956518
+                ],
+                [
+                    -107.222852,
+                    41.7957676
+                ],
+                [
+                    -107.2233488,
+                    41.7957676
+                ],
+                [
+                    -107.2233488,
+                    41.7956838
+                ],
+                [
+                    -107.2234868,
+                    41.7956838
+                ],
+                [
+                    -107.2234868,
+                    41.7955792
+                ],
+                [
+                    -107.2235011,
+                    41.7955792
+                ],
+                [
+                    -107.2235011,
+                    41.7955316
+                ],
+                [
+                    -107.2235534,
+                    41.7955316
+                ],
+                [
+                    -107.2235534,
+                    41.7954726
+                ],
+                [
+                    -107.2233174,
+                    41.7954726
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001111",
+        "NAME": "CARBON COUNTY JAIL",
+        "ADDRESS": "1302 E DALEY ST",
+        "CITY": "RAWLINS",
+        "STATE": "WY",
+        "ZIP": "82301",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 324-2776",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CARBON",
+        "COUNTYFIPS": "56007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.carbonwy.com/1008/Inmate-Information",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://www.carbonwy.com/1008/Inmate-Information",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00356118913242,
+        "SHAPE_Length": 0.00356118913242392,
+        "SHAPE_Area": 4.49929976715e-7
+    },
+    "id": 4860
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87076"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+            [
+                [
+                    [
+                        -107.2162957,
+                        41.76221
+                    ],
+                    [
+                        -107.2123844,
+                        41.7632126
+                    ],
+                    [
+                        -107.2111999,
+                        41.7650128
+                    ],
+                    [
+                        -107.2114212,
+                        41.7654911
+                    ],
+                    [
+                        -107.2116139,
+                        41.7655553
+                    ],
+                    [
+                        -107.2120993,
+                        41.7654411
+                    ],
+                    [
+                        -107.2126801,
+                        41.7656679
+                    ],
+                    [
+                        -107.213941,
+                        41.7653341
+                    ],
+                    [
+                        -107.2159683,
+                        41.7654126
+                    ],
+                    [
+                        -107.2169052,
+                        41.7646308
+                    ],
+                    [
+                        -107.2182026,
+                        41.7642847
+                    ],
+                    [
+                        -107.2187594,
+                        41.7634495
+                    ],
+                    [
+                        -107.2185738,
+                        41.7630498
+                    ],
+                    [
+                        -107.2162957,
+                        41.76221
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        -107.2087657,
+                        41.7610939
+                    ],
+                    [
+                        -107.2089799,
+                        41.761258
+                    ],
+                    [
+                        -107.2110357,
+                        41.761258
+                    ],
+                    [
+                        -107.2111856,
+                        41.7614579
+                    ],
+                    [
+                        -107.2123849,
+                        41.7614722
+                    ],
+                    [
+                        -107.2154901,
+                        41.7603943
+                    ],
+                    [
+                        -107.2156682,
+                        41.7600017
+                    ],
+                    [
+                        -107.2153259,
+                        41.759345
+                    ],
+                    [
+                        -107.211836,
+                        41.7589749
+                    ],
+                    [
+                        -107.2113569,
+                        41.7592807
+                    ],
+                    [
+                        -107.2113569,
+                        41.7606084
+                    ],
+                    [
+                        -107.2108073,
+                        41.7597804
+                    ],
+                    [
+                        -107.2089584,
+                        41.7597733
+                    ],
+                    [
+                        -107.2087657,
+                        41.759916
+                    ],
+                    [
+                        -107.2087657,
+                        41.7610939
+                    ]
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000057",
+        "NAME": "WYOMING STATE PENITENTIARY",
+        "ADDRESS": "2900 S HIGLEY RD",
+        "CITY": "RAWLINS",
+        "STATE": "WY",
+        "ZIP": "82301",
+        "ZIP4": "0400",
+        "TELEPHONE": "(307) 328-1441",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 678,
+        "COUNTY": "CARBON",
+        "COUNTYFIPS": "56007",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://corrections.wyo.gov/home/institutions/wsp",
+        "SOURCEDATE": "2016/08/05 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://corrections.wyo.gov/home/institutions/wsp",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 820,
+        "SHAPE_Leng": 0.0357132638195,
+        "SHAPE_Length": 0.035713263819502745,
+        "SHAPE_Area": 0.0000280511617587
+    },
+    "id": 4889
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87051"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -106.49099,
+                    42.8931972
+                ],
+                [
+                    -106.491542,
+                    42.8926833
+                ],
+                [
+                    -106.489943,
+                    42.8917315
+                ],
+                [
+                    -106.4896099,
+                    42.8920741
+                ],
+                [
+                    -106.4895052,
+                    42.8923311
+                ],
+                [
+                    -106.49099,
+                    42.8931972
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006675",
+        "NAME": "CASPER REENTRY CENTER",
+        "ADDRESS": "10007 LANDMARK LANE",
+        "CITY": "CASPER",
+        "STATE": "WY",
+        "ZIP": "82604",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 268-4840",
+        "TYPE": "MULTI",
+        "STATUS": "OPEN",
+        "POPULATION": 249,
+        "COUNTY": "NATRONA",
+        "COUNTYFIPS": "56025",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://corrections.wyo.gov/home/services-and-programs/adult-community-corrections",
+        "SOURCEDATE": "2017/08/03 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://www.geogroup.com/FacilityDetail/FacilityID/243",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 342,
+        "SHAPE_Leng": 0.00508940235439,
+        "SHAPE_Length": 0.005089402354388308,
+        "SHAPE_Area": 0.00000133324908392
+    },
+    "id": 4891
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87033"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -106.3264057,
+                    42.8517985
+                ],
+                [
+                    -106.3264053,
+                    42.8512792
+                ],
+                [
+                    -106.326015,
+                    42.8512792
+                ],
+                [
+                    -106.3260147,
+                    42.8517985
+                ],
+                [
+                    -106.3264057,
+                    42.8517985
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001892",
+        "NAME": "REGIONAL JUVENILE DETENTION CENTER",
+        "ADDRESS": "201 N DAVID ST",
+        "CITY": "CASPER",
+        "STATE": "WY",
+        "ZIP": "82601",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "NATRONA",
+        "COUNTYFIPS": "56025",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.natrona.net/Facilities/Facility/Details/City-of-Casper-Municipal-Court-35",
+        "SOURCEDATE": "2020/03/03 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://www.natrona.net/Facilities/Facility/Details/City-of-Casper-Municipal-Court-35",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00181981325057,
+        "SHAPE_Length": 0.00181981325057398,
+        "SHAPE_Area": 2.02839638629e-7
+    },
+    "id": 4866
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87055"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -106.3443392,
+                    42.8630381
+                ],
+                [
+                    -106.3452842,
+                    42.8637146
+                ],
+                [
+                    -106.3456897,
+                    42.8634215
+                ],
+                [
+                    -106.3459847,
+                    42.8632806
+                ],
+                [
+                    -106.3462017,
+                    42.8631169
+                ],
+                [
+                    -106.3462798,
+                    42.8629608
+                ],
+                [
+                    -106.3462817,
+                    42.8627171
+                ],
+                [
+                    -106.3457544,
+                    42.8623498
+                ],
+                [
+                    -106.3452195,
+                    42.8627343
+                ],
+                [
+                    -106.345189,
+                    42.8628028
+                ],
+                [
+                    -106.3452461,
+                    42.8628428
+                ],
+                [
+                    -106.3451681,
+                    42.8628999
+                ],
+                [
+                    -106.3448597,
+                    42.8626715
+                ],
+                [
+                    -106.3443392,
+                    42.8630381
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001893",
+        "NAME": "NATRONA COUNTY JAIL",
+        "ADDRESS": "1100 BRUCE LANE",
+        "CITY": "CASPER",
+        "STATE": "WY",
+        "ZIP": "82601",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 235-9524",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 294,
+        "COUNTY": "NATRONA",
+        "COUNTYFIPS": "56025",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.natrona.net/121/Detention-Center",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://www.natrona.net/121/Detention-Center",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 476,
+        "SHAPE_Leng": 0.0052427776308,
+        "SHAPE_Length": 0.005242777630797606,
+        "SHAPE_Area": 0.00000137503841204
+    },
+    "id": 4879
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87021"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -106.3447303,
+                    42.8633358
+                ],
+                [
+                    -106.3443648,
+                    42.8630693
+                ],
+                [
+                    -106.3442087,
+                    42.8631911
+                ],
+                [
+                    -106.3445152,
+                    42.863412
+                ],
+                [
+                    -106.3444428,
+                    42.8634633
+                ],
+                [
+                    -106.3444333,
+                    42.8635985
+                ],
+                [
+                    -106.3442963,
+                    42.8635928
+                ],
+                [
+                    -106.3442963,
+                    42.8635528
+                ],
+                [
+                    -106.344144,
+                    42.8635452
+                ],
+                [
+                    -106.3441459,
+                    42.8635224
+                ],
+                [
+                    -106.3439993,
+                    42.86341
+                ],
+                [
+                    -106.3438661,
+                    42.8635033
+                ],
+                [
+                    -106.3438622,
+                    42.8635928
+                ],
+                [
+                    -106.3437975,
+                    42.8635909
+                ],
+                [
+                    -106.3437918,
+                    42.8636937
+                ],
+                [
+                    -106.3439041,
+                    42.8636994
+                ],
+                [
+                    -106.3438984,
+                    42.8637831
+                ],
+                [
+                    -106.3440735,
+                    42.8637927
+                ],
+                [
+                    -106.3440735,
+                    42.8638326
+                ],
+                [
+                    -106.3442315,
+                    42.8638403
+                ],
+                [
+                    -106.3442296,
+                    42.8638917
+                ],
+                [
+                    -106.3445361,
+                    42.8639012
+                ],
+                [
+                    -106.3445437,
+                    42.8637584
+                ],
+                [
+                    -106.3446294,
+                    42.8637622
+                ],
+                [
+                    -106.3446636,
+                    42.8637927
+                ],
+                [
+                    -106.3447322,
+                    42.8637927
+                ],
+                [
+                    -106.3447702,
+                    42.8637679
+                ],
+                [
+                    -106.3448902,
+                    42.8637755
+                ],
+                [
+                    -106.3449111,
+                    42.863549
+                ],
+                [
+                    -106.3448388,
+                    42.8635433
+                ],
+                [
+                    -106.3448426,
+                    42.8634824
+                ],
+                [
+                    -106.3445266,
+                    42.8634767
+                ],
+                [
+                    -106.3447303,
+                    42.8633358
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006190",
+        "NAME": "NATRONA COUNTY REGIONAL JUVENILE DETENTION CENTER",
+        "ADDRESS": "1120 BRUCE LANE",
+        "CITY": "CASPER",
+        "STATE": "WY",
+        "ZIP": "82601",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 235-9234",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "NATRONA",
+        "COUNTYFIPS": "56025",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.natrona.net/193/Juvenile-Detention-Center",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://www.natrona.net/193/Juvenile-Detention-Center",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 24,
+        "SHAPE_Leng": 0.0045708423121,
+        "SHAPE_Length": 0.00457084231210209,
+        "SHAPE_Area": 4.2327698889e-7
+    },
+    "id": 4854
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87037"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -105.3812261,
+                    42.7601135
+                ],
+                [
+                    -105.3812284,
+                    42.7596594
+                ],
+                [
+                    -105.3808083,
+                    42.7596579
+                ],
+                [
+                    -105.3808071,
+                    42.7599897
+                ],
+                [
+                    -105.3807328,
+                    42.7599919
+                ],
+                [
+                    -105.380734,
+                    42.7601135
+                ],
+                [
+                    -105.3808039,
+                    42.7601113
+                ],
+                [
+                    -105.3808031,
+                    42.7601595
+                ],
+                [
+                    -105.3811246,
+                    42.7601654
+                ],
+                [
+                    -105.3811254,
+                    42.7601113
+                ],
+                [
+                    -105.3812261,
+                    42.7601135
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001894",
+        "NAME": "CONVERSE COUNTY JAIL",
+        "ADDRESS": "107 N 5TH ST",
+        "CITY": "DOUGLAS",
+        "STATE": "WY",
+        "ZIP": "82633",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 358-4700",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CONVERSE",
+        "COUNTYFIPS": "56009",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.conversecounty.org/339/Divisions",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://www.conversecounty.org/339/Divisions",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00199647046011,
+        "SHAPE_Length": 0.001996470460108959,
+        "SHAPE_Area": 2.15495777201e-7
+    },
+    "id": 4870
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86a52"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.2036578,
+                    43.8561178
+                ],
+                [
+                    -104.2035275,
+                    43.8559131
+                ],
+                [
+                    -104.2033341,
+                    43.855975
+                ],
+                [
+                    -104.2033061,
+                    43.8559405
+                ],
+                [
+                    -104.2030867,
+                    43.8560416
+                ],
+                [
+                    -104.2032199,
+                    43.856251
+                ],
+                [
+                    -104.2033056,
+                    43.8562225
+                ],
+                [
+                    -104.2033437,
+                    43.8562986
+                ],
+                [
+                    -104.2034769,
+                    43.8562606
+                ],
+                [
+                    -104.2034484,
+                    43.8562034
+                ],
+                [
+                    -104.2036578,
+                    43.8561178
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000054",
+        "NAME": "WESTON COUNTY DETENTION CENTER",
+        "ADDRESS": "25 N SUMNER AVE",
+        "CITY": "NEWCASTLE",
+        "STATE": "WY",
+        "ZIP": "82701",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "WESTON",
+        "COUNTYFIPS": "56045",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://westongov.com/_departments/_county_sheriff/index.asp",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 38,
+        "SHAPE_Leng": 0.00158402137595,
+        "SHAPE_Length": 0.001584021375946687,
+        "SHAPE_Area": 1.25914268637e-7
+    },
+    "id": 3368
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb862aa"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.1861057,
+                    43.8787842
+                ],
+                [
+                    -104.1870444,
+                    43.8789989
+                ],
+                [
+                    -104.187226,
+                    43.8785385
+                ],
+                [
+                    -104.1878963,
+                    43.8781375
+                ],
+                [
+                    -104.1887636,
+                    43.8762407
+                ],
+                [
+                    -104.1882577,
+                    43.8757916
+                ],
+                [
+                    -104.1863829,
+                    43.8757751
+                ],
+                [
+                    -104.1864876,
+                    43.8767241
+                ],
+                [
+                    -104.1854264,
+                    43.8768118
+                ],
+                [
+                    -104.1847021,
+                    43.8774607
+                ],
+                [
+                    -104.1850505,
+                    43.8779376
+                ],
+                [
+                    -104.1851885,
+                    43.8779329
+                ],
+                [
+                    -104.1852155,
+                    43.8781158
+                ],
+                [
+                    -104.1853944,
+                    43.8781025
+                ],
+                [
+                    -104.1854744,
+                    43.8785917
+                ],
+                [
+                    -104.1852212,
+                    43.879119
+                ],
+                [
+                    -104.1858752,
+                    43.8792733
+                ],
+                [
+                    -104.1861057,
+                    43.8787842
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000053",
+        "NAME": "WYOMING HONOR CONSERVATION CAMP AND BOOT CAMP",
+        "ADDRESS": "40 PIPPIN RD",
+        "CITY": "NEWCASTLE",
+        "STATE": "WY",
+        "ZIP": "82701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 746-4436",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 296,
+        "COUNTY": "WESTON",
+        "COUNTYFIPS": "56045",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://corrections.wyo.gov/home/institutions/whcc",
+        "SOURCEDATE": "2017/06/27 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://corrections.wyo.gov/home/institutions/whcc",
+        "SECURELVL": "CLOSE",
+        "CAPACITY": 311,
+        "SHAPE_Leng": 0.0132544126786,
+        "SHAPE_Length": 0.01325441267859583,
+        "SHAPE_Area": 0.00000814597205463
+    },
+    "id": 1398
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87040"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.4514303,
+                    42.7606199
+                ],
+                [
+                    -104.4514228,
+                    42.7604647
+                ],
+                [
+                    -104.4513484,
+                    42.7604637
+                ],
+                [
+                    -104.4513484,
+                    42.7603494
+                ],
+                [
+                    -104.4510058,
+                    42.7603494
+                ],
+                [
+                    -104.4510248,
+                    42.7606333
+                ],
+                [
+                    -104.4514303,
+                    42.7606199
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001110",
+        "NAME": "NIOBRARA COUNTY DETENTION CENTER",
+        "ADDRESS": "416 S ELM ST",
+        "CITY": "LUSK",
+        "STATE": "WY",
+        "ZIP": "82225",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 334-2240",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "NIOBRARA",
+        "COUNTYFIPS": "56027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.aclu-wy.org/sites/default/files/field_documents/2013_incarceration_wyoming_1.pdf",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00137695904571,
+        "SHAPE_Length": 0.0013769590457122195,
+        "SHAPE_Area": 1.05120465028e-7
+    },
+    "id": 4880
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87016"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.4679357,
+                    42.7685194
+                ],
+                [
+                    -104.4685995,
+                    42.7678246
+                ],
+                [
+                    -104.4684163,
+                    42.7670799
+                ],
+                [
+                    -104.4683188,
+                    42.7670251
+                ],
+                [
+                    -104.4675859,
+                    42.7671251
+                ],
+                [
+                    -104.4676145,
+                    42.7672512
+                ],
+                [
+                    -104.4672266,
+                    42.7673011
+                ],
+                [
+                    -104.4672956,
+                    42.767601
+                ],
+                [
+                    -104.4658809,
+                    42.7677824
+                ],
+                [
+                    -104.4659306,
+                    42.7679969
+                ],
+                [
+                    -104.4658051,
+                    42.7680153
+                ],
+                [
+                    -104.4658888,
+                    42.7683396
+                ],
+                [
+                    -104.4659673,
+                    42.7684443
+                ],
+                [
+                    -104.4661452,
+                    42.7685542
+                ],
+                [
+                    -104.466527,
+                    42.7686646
+                ],
+                [
+                    -104.4679357,
+                    42.7685194
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000056",
+        "NAME": "WYOMING WOMEN'S CENTER",
+        "ADDRESS": "1000 W GRIFFITH BLVD",
+        "CITY": "LUSK",
+        "STATE": "WY",
+        "ZIP": "82225",
+        "ZIP4": "0020",
+        "TELEPHONE": "(307) 334-3693",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 249,
+        "COUNTY": "NIOBRARA",
+        "COUNTYFIPS": "56027",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://corrections.wyo.gov/home/institutions/wwc",
+        "SOURCEDATE": "2017/06/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://corrections.wyo.gov/home/institutions/wwc",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 275,
+        "SHAPE_Leng": 0.00766938375524,
+        "SHAPE_Length": 0.007669383755243289,
+        "SHAPE_Area": 0.00000283548367788
+    },
+    "id": 4844
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87038"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.1178515,
+                    42.0731262
+                ],
+                [
+                    -104.1202392,
+                    42.0731262
+                ],
+                [
+                    -104.1203562,
+                    42.0730419
+                ],
+                [
+                    -104.1203582,
+                    42.0693973
+                ],
+                [
+                    -104.120263,
+                    42.069314
+                ],
+                [
+                    -104.1178597,
+                    42.069314
+                ],
+                [
+                    -104.1177527,
+                    42.0693973
+                ],
+                [
+                    -104.1177532,
+                    42.0730512
+                ],
+                [
+                    -104.1178515,
+                    42.0731262
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006189",
+        "NAME": "WYOMING MEDIUM CORRECTIONAL INSTITUTION",
+        "ADDRESS": "7076 ROAD 55F",
+        "CITY": "TORRINGTON",
+        "STATE": "WY",
+        "ZIP": "82240",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 532-3198",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 655,
+        "COUNTY": "GOSHEN",
+        "COUNTYFIPS": "56015",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://corrections.wyo.gov/home/institutions/wmci",
+        "SOURCEDATE": "2015/06/22 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://corrections.wyo.gov/home/institutions/wmci",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 722,
+        "SHAPE_Leng": 0.0126194663542,
+        "SHAPE_Length": 0.012619466354171199,
+        "SHAPE_Area": 0.0000099108750837
+    },
+    "id": 4871
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86706"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.1821289,
+                    42.065543
+                ],
+                [
+                    -104.1821294,
+                    42.0653495
+                ],
+                [
+                    -104.1821769,
+                    42.0653819
+                ],
+                [
+                    -104.1822436,
+                    42.0653819
+                ],
+                [
+                    -104.1822437,
+                    42.065172
+                ],
+                [
+                    -104.1821789,
+                    42.0651716
+                ],
+                [
+                    -104.1821789,
+                    42.0651601
+                ],
+                [
+                    -104.1821151,
+                    42.0651601
+                ],
+                [
+                    -104.1821151,
+                    42.0651468
+                ],
+                [
+                    -104.1820523,
+                    42.0651468
+                ],
+                [
+                    -104.1820523,
+                    42.0651363
+                ],
+                [
+                    -104.1818701,
+                    42.0651371
+                ],
+                [
+                    -104.1818707,
+                    42.0652879
+                ],
+                [
+                    -104.1817905,
+                    42.0652879
+                ],
+                [
+                    -104.1817905,
+                    42.06536
+                ],
+                [
+                    -104.1818648,
+                    42.06536
+                ],
+                [
+                    -104.1818648,
+                    42.0655427
+                ],
+                [
+                    -104.1821289,
+                    42.065543
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001897",
+        "NAME": "GOSHEN COUNTY DETENTION CENTER",
+        "ADDRESS": "2120 E B ST",
+        "CITY": "TORRINGTON",
+        "STATE": "WY",
+        "ZIP": "82240",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 532-5917",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 37,
+        "COUNTY": "GOSHEN",
+        "COUNTYFIPS": "56015",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.goshensheriff.org/index.php/departments",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://www.goshensheriff.org/index.php",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 90,
+        "SHAPE_Leng": 0.00176056330571,
+        "SHAPE_Length": 0.0017605633057144578,
+        "SHAPE_Area": 1.34767788216e-7
+    },
+    "id": 2501
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87034"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.9525383,
+                    42.055758
+                ],
+                [
+                    -104.9525352,
+                    42.0554413
+                ],
+                [
+                    -104.9520541,
+                    42.0554414
+                ],
+                [
+                    -104.9520607,
+                    42.0557642
+                ],
+                [
+                    -104.9525383,
+                    42.055758
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001898",
+        "NAME": "PLATTE COUNTY DETENTION CENTER",
+        "ADDRESS": "850 MAPLE ST",
+        "CITY": "WHEATLAND",
+        "STATE": "WY",
+        "ZIP": "82201",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 322-2335",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "PLATTE",
+        "COUNTYFIPS": "56031",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.plattecountywyoming.com/departments/detention",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://www.plattecountywyoming.com/departments/detention",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 92,
+        "SHAPE_Leng": 0.00159833687328,
+        "SHAPE_Length": 0.0015983368732787545,
+        "SHAPE_Area": 1.53284018131e-7
+    },
+    "id": 4867
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8702e"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -105.5915014,
+                    41.311724
+                ],
+                [
+                    -105.591529,
+                    41.311487
+                ],
+                [
+                    -105.5913358,
+                    41.3113195
+                ],
+                [
+                    -105.5910274,
+                    41.3113033
+                ],
+                [
+                    -105.5910055,
+                    41.3115546
+                ],
+                [
+                    -105.5910378,
+                    41.3115832
+                ],
+                [
+                    -105.5910141,
+                    41.3116003
+                ],
+                [
+                    -105.5911102,
+                    41.3116869
+                ],
+                [
+                    -105.5911349,
+                    41.3116688
+                ],
+                [
+                    -105.5911749,
+                    41.311705
+                ],
+                [
+                    -105.5915014,
+                    41.311724
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001899",
+        "NAME": "ALBANY COUNTY DETENTION CENTER",
+        "ADDRESS": "420 IVINSON AVE",
+        "CITY": "LARAMIE",
+        "STATE": "WY",
+        "ZIP": "82070",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 755-3521",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "ALBANY",
+        "COUNTYFIPS": "56001",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.co.albany.wy.us/detention-center.aspx",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://www.co.albany.wy.us/detention-center.aspx",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00166866145702,
+        "SHAPE_Length": 0.001668661457016373,
+        "SHAPE_Area": 1.77062949309e-7
+    },
+    "id": 4861
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87045"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.6524147,
+                    41.1605052
+                ],
+                [
+                    -104.6525598,
+                    41.1605052
+                ],
+                [
+                    -104.6525598,
+                    41.160371
+                ],
+                [
+                    -104.6522826,
+                    41.1603708
+                ],
+                [
+                    -104.6522826,
+                    41.1603351
+                ],
+                [
+                    -104.6521731,
+                    41.1603351
+                ],
+                [
+                    -104.6521731,
+                    41.1602518
+                ],
+                [
+                    -104.6520018,
+                    41.1602518
+                ],
+                [
+                    -104.6520018,
+                    41.160297
+                ],
+                [
+                    -104.6519423,
+                    41.160297
+                ],
+                [
+                    -104.6519423,
+                    41.1603696
+                ],
+                [
+                    -104.6516128,
+                    41.1603696
+                ],
+                [
+                    -104.6516128,
+                    41.1605052
+                ],
+                [
+                    -104.6517579,
+                    41.1605052
+                ],
+                [
+                    -104.6517579,
+                    41.1605706
+                ],
+                [
+                    -104.6518698,
+                    41.1605706
+                ],
+                [
+                    -104.6518698,
+                    41.1605052
+                ],
+                [
+                    -104.6519364,
+                    41.1605052
+                ],
+                [
+                    -104.6519364,
+                    41.1608122
+                ],
+                [
+                    -104.6518305,
+                    41.1608122
+                ],
+                [
+                    -104.6518305,
+                    41.1609716
+                ],
+                [
+                    -104.6522493,
+                    41.1609716
+                ],
+                [
+                    -104.6522493,
+                    41.1605052
+                ],
+                [
+                    -104.652304,
+                    41.1605052
+                ],
+                [
+                    -104.652304,
+                    41.160573
+                ],
+                [
+                    -104.6524147,
+                    41.160573
+                ],
+                [
+                    -104.6524147,
+                    41.1605052
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001901",
+        "NAME": "JEFFREY C. WARDLE ACADEMY",
+        "ADDRESS": "3304 INTERSTATE 80 SERVICE RD",
+        "CITY": "CHEYENNE",
+        "STATE": "WY",
+        "ZIP": "82009",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "COUNTY",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "LARAMIE",
+        "COUNTYFIPS": "56021",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.publicschoolreview.com/jeffrey-c-wardle-academy-cornerstone-programs-profile",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 96,
+        "SHAPE_Leng": 0.00381169306789,
+        "SHAPE_Length": 0.003811693067886697,
+        "SHAPE_Area": 3.33989634209e-7
+    },
+    "id": 4886
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8676b"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.6471252,
+                    41.1495509
+                ],
+                [
+                    -104.6467968,
+                    41.1495866
+                ],
+                [
+                    -104.6467397,
+                    41.1495509
+                ],
+                [
+                    -104.6466398,
+                    41.1495866
+                ],
+                [
+                    -104.6466183,
+                    41.1495581
+                ],
+                [
+                    -104.6463756,
+                    41.1496794
+                ],
+                [
+                    -104.6463542,
+                    41.149658
+                ],
+                [
+                    -104.6462757,
+                    41.149708
+                ],
+                [
+                    -104.6463471,
+                    41.1498079
+                ],
+                [
+                    -104.6463114,
+                    41.1498365
+                ],
+                [
+                    -104.6463971,
+                    41.1499293
+                ],
+                [
+                    -104.6464327,
+                    41.1499078
+                ],
+                [
+                    -104.646497,
+                    41.1499935
+                ],
+                [
+                    -104.6465827,
+                    41.1499649
+                ],
+                [
+                    -104.6466255,
+                    41.1500363
+                ],
+                [
+                    -104.6466969,
+                    41.1499935
+                ],
+                [
+                    -104.6467111,
+                    41.1500292
+                ],
+                [
+                    -104.6468111,
+                    41.1499864
+                ],
+                [
+                    -104.646754,
+                    41.1499007
+                ],
+                [
+                    -104.6469324,
+                    41.1498222
+                ],
+                [
+                    -104.646961,
+                    41.1499293
+                ],
+                [
+                    -104.6471394,
+                    41.1498936
+                ],
+                [
+                    -104.6471323,
+                    41.1498579
+                ],
+                [
+                    -104.6471966,
+                    41.1498436
+                ],
+                [
+                    -104.6472037,
+                    41.1498936
+                ],
+                [
+                    -104.6472751,
+                    41.1498721
+                ],
+                [
+                    -104.6472251,
+                    41.1497222
+                ],
+                [
+                    -104.6471751,
+                    41.1497222
+                ],
+                [
+                    -104.6471252,
+                    41.1495509
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006892",
+        "NAME": "LARAMIE COUNTY JUVENILE SERVICES CENTER",
+        "ADDRESS": "13794 PRAIRIE CENTER CIRCLE",
+        "CITY": "CHEYENNE",
+        "STATE": "WY",
+        "ZIP": "82009",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 775-7301",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "LARAMIE",
+        "COUNTYFIPS": "56021",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.laramiecounty.com/_officials/Sheriff/_pdfs/JuvenileServiceCenter/INFO%20PAMPHLET%20Updated%2001%2011%2016.pdf",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00298602832594,
+        "SHAPE_Length": 0.0029860283259414595,
+        "SHAPE_Area": 2.99522294252e-7
+    },
+    "id": 2582
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87020"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.8204342,
+                    41.1348161
+                ],
+                [
+                    -104.8206995,
+                    41.1347162
+                ],
+                [
+                    -104.820577,
+                    41.1345151
+                ],
+                [
+                    -104.8205258,
+                    41.1345353
+                ],
+                [
+                    -104.8204104,
+                    41.1343581
+                ],
+                [
+                    -104.8203628,
+                    41.1343783
+                ],
+                [
+                    -104.8203367,
+                    41.134339
+                ],
+                [
+                    -104.8195336,
+                    41.1346377
+                ],
+                [
+                    -104.8199429,
+                    41.1352635
+                ],
+                [
+                    -104.8205752,
+                    41.1350281
+                ],
+                [
+                    -104.8204342,
+                    41.1348161
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10000058",
+        "NAME": "LARAMIE COUNTY JAIL",
+        "ADDRESS": "1910 PIONEER AVE",
+        "CITY": "CHEYENNE",
+        "STATE": "WY",
+        "ZIP": "82001",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 633-4700",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 153,
+        "COUNTY": "LARAMIE",
+        "COUNTYFIPS": "56021",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.laramiecounty.com/_officials/Sheriff/index.aspx",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://www.laramiecounty.com/_officials/Sheriff/index.aspx",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00341818959431,
+        "SHAPE_Length": 0.0034181895943128167,
+        "SHAPE_Area": 6.13853479583e-7
+    },
+    "id": 4855
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb866d4"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -104.379051,
+                    44.405337
+                ],
+                [
+                    -104.3788452,
+                    44.405074
+                ],
+                [
+                    -104.3781778,
+                    44.4053334
+                ],
+                [
+                    -104.3782289,
+                    44.4053976
+                ],
+                [
+                    -104.3780707,
+                    44.4054631
+                ],
+                [
+                    -104.3782837,
+                    44.4057415
+                ],
+                [
+                    -104.3785347,
+                    44.4056451
+                ],
+                [
+                    -104.378474,
+                    44.4055666
+                ],
+                [
+                    -104.379051,
+                    44.405337
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001886",
+        "NAME": "CROOK COUNTY JAIL",
+        "ADDRESS": "309 CLEVELAND ST",
+        "CITY": "SUNDANCE",
+        "STATE": "WY",
+        "ZIP": "82729",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CROOK",
+        "COUNTYFIPS": "56011",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.crookcounty.wy.gov/elected_officials/sheriff_s_department/index.php",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00264299588463,
+        "SHAPE_Length": 0.0026429958846313235,
+        "SHAPE_Area": 2.9856007679e-7
+    },
+    "id": 2466
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87036"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -105.5135556,
+                    44.2778108
+                ],
+                [
+                    -105.5135556,
+                    44.277708
+                ],
+                [
+                    -105.5136812,
+                    44.2777061
+                ],
+                [
+                    -105.5136774,
+                    44.2775215
+                ],
+                [
+                    -105.5137212,
+                    44.2775215
+                ],
+                [
+                    -105.5137174,
+                    44.2773806
+                ],
+                [
+                    -105.5135689,
+                    44.2773825
+                ],
+                [
+                    -105.5135689,
+                    44.2773045
+                ],
+                [
+                    -105.5131425,
+                    44.2773064
+                ],
+                [
+                    -105.5131311,
+                    44.2768552
+                ],
+                [
+                    -105.5129369,
+                    44.2768571
+                ],
+                [
+                    -105.512935,
+                    44.2767924
+                ],
+                [
+                    -105.5123906,
+                    44.2771922
+                ],
+                [
+                    -105.5122021,
+                    44.2771979
+                ],
+                [
+                    -105.5122037,
+                    44.2773326
+                ],
+                [
+                    -105.5116444,
+                    44.277748
+                ],
+                [
+                    -105.5116444,
+                    44.2778089
+                ],
+                [
+                    -105.5115168,
+                    44.2778105
+                ],
+                [
+                    -105.5114426,
+                    44.2777575
+                ],
+                [
+                    -105.5113722,
+                    44.2778123
+                ],
+                [
+                    -105.5113417,
+                    44.2778127
+                ],
+                [
+                    -105.5113493,
+                    44.2780221
+                ],
+                [
+                    -105.5116634,
+                    44.2780187
+                ],
+                [
+                    -105.5116634,
+                    44.2780564
+                ],
+                [
+                    -105.5118766,
+                    44.2780526
+                ],
+                [
+                    -105.5118785,
+                    44.2780164
+                ],
+                [
+                    -105.5120765,
+                    44.2780107
+                ],
+                [
+                    -105.5120765,
+                    44.2778432
+                ],
+                [
+                    -105.5135556,
+                    44.2778108
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001885",
+        "NAME": "CAMPBELL COUNTY DETENTION CENTER",
+        "ADDRESS": "600 W BOXELDER RD",
+        "CITY": "GILLETTE",
+        "STATE": "WY",
+        "ZIP": "82718",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 687-6138",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "CAMPBELL",
+        "COUNTYFIPS": "56005",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.ccgov.net/187/Detention-Center",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://www.ccgov.net/187/Detention-Center",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00671156668276,
+        "SHAPE_Length": 0.006711566682762029,
+        "SHAPE_Area": 0.00000135031712787
+    },
+    "id": 4868
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8703a"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -106.7087322,
+                    44.3480762
+                ],
+                [
+                    -106.7087322,
+                    44.3479572
+                ],
+                [
+                    -106.708693,
+                    44.3479572
+                ],
+                [
+                    -106.708689,
+                    44.3476291
+                ],
+                [
+                    -106.7084891,
+                    44.3476291
+                ],
+                [
+                    -106.7084796,
+                    44.3477148
+                ],
+                [
+                    -106.708394,
+                    44.3477053
+                ],
+                [
+                    -106.7084035,
+                    44.3478385
+                ],
+                [
+                    -106.7079942,
+                    44.347829
+                ],
+                [
+                    -106.7079942,
+                    44.3477624
+                ],
+                [
+                    -106.7080608,
+                    44.3476957
+                ],
+                [
+                    -106.7080608,
+                    44.3474197
+                ],
+                [
+                    -106.7080513,
+                    44.3473626
+                ],
+                [
+                    -106.708175,
+                    44.3473626
+                ],
+                [
+                    -106.7081846,
+                    44.3469724
+                ],
+                [
+                    -106.707899,
+                    44.3469629
+                ],
+                [
+                    -106.707899,
+                    44.3470295
+                ],
+                [
+                    -106.7077467,
+                    44.347039
+                ],
+                [
+                    -106.7077467,
+                    44.3468201
+                ],
+                [
+                    -106.7075849,
+                    44.3468106
+                ],
+                [
+                    -106.7075945,
+                    44.3473626
+                ],
+                [
+                    -106.7076706,
+                    44.3473531
+                ],
+                [
+                    -106.7076801,
+                    44.3474768
+                ],
+                [
+                    -106.7077753,
+                    44.3475435
+                ],
+                [
+                    -106.7077753,
+                    44.3476196
+                ],
+                [
+                    -106.7076801,
+                    44.3476862
+                ],
+                [
+                    -106.7076801,
+                    44.3477719
+                ],
+                [
+                    -106.7078134,
+                    44.3477624
+                ],
+                [
+                    -106.7078134,
+                    44.3479242
+                ],
+                [
+                    -106.7079085,
+                    44.3479242
+                ],
+                [
+                    -106.7079085,
+                    44.3480765
+                ],
+                [
+                    -106.7087322,
+                    44.3480762
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001888",
+        "NAME": "JOHNSON COUNTY DETENTION CENTER",
+        "ADDRESS": "639 FORT ST",
+        "CITY": "BUFFALO",
+        "STATE": "WY",
+        "ZIP": "82834",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 684-5584",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "JOHNSON",
+        "COUNTYFIPS": "56019",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.johnsoncountywyoming.org/departments/sheriff/detention/",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://www.johnsoncountywyoming.org/departments/sheriff/detention/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00580995755297,
+        "SHAPE_Length": 0.005809957552968099,
+        "SHAPE_Area": 6.52815991044e-7
+    },
+    "id": 4857
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87054"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -106.9699318,
+                    44.7599973
+                ],
+                [
+                    -106.9686707,
+                    44.759983
+                ],
+                [
+                    -106.9673906,
+                    44.7595642
+                ],
+                [
+                    -106.9664293,
+                    44.7620282
+                ],
+                [
+                    -106.9652229,
+                    44.7624315
+                ],
+                [
+                    -106.9649801,
+                    44.7624335
+                ],
+                [
+                    -106.9649493,
+                    44.7634427
+                ],
+                [
+                    -106.9700365,
+                    44.7634142
+                ],
+                [
+                    -106.9699937,
+                    44.7624957
+                ],
+                [
+                    -106.9698319,
+                    44.7624767
+                ],
+                [
+                    -106.9703316,
+                    44.7610442
+                ],
+                [
+                    -106.9705029,
+                    44.7609586
+                ],
+                [
+                    -106.9705981,
+                    44.7608444
+                ],
+                [
+                    -106.9706219,
+                    44.7606968
+                ],
+                [
+                    -106.9705648,
+                    44.7605398
+                ],
+                [
+                    -106.9704077,
+                    44.7603923
+                ],
+                [
+                    -106.9702079,
+                    44.7603114
+                ],
+                [
+                    -106.9699318,
+                    44.7599973
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005640",
+        "NAME": "WYOMING GIRLS SCHOOL",
+        "ADDRESS": "3500 BIG HORN AVENUE",
+        "CITY": "SHERIDAN",
+        "STATE": "WY",
+        "ZIP": "82801",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 674-7476",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 38,
+        "COUNTY": "SHERIDAN",
+        "COUNTYFIPS": "56033",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://dfs.wyo.gov/services/juvenile-services/",
+        "SOURCEDATE": "2015/06/23 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://dfs.wyo.gov/services/juvenile-services/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 65,
+        "SHAPE_Leng": 0.0169703187273,
+        "SHAPE_Length": 0.016970318727251688,
+        "SHAPE_Area": 0.0000140123506664
+    },
+    "id": 4893
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8701c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -106.9573223,
+                    44.8158971
+                ],
+                [
+                    -106.9572779,
+                    44.8157059
+                ],
+                [
+                    -106.9570879,
+                    44.8157307
+                ],
+                [
+                    -106.9570774,
+                    44.8156832
+                ],
+                [
+                    -106.9571393,
+                    44.8156746
+                ],
+                [
+                    -106.9571193,
+                    44.815567
+                ],
+                [
+                    -106.9570051,
+                    44.8155823
+                ],
+                [
+                    -106.9569954,
+                    44.8155351
+                ],
+                [
+                    -106.957056,
+                    44.8154795
+                ],
+                [
+                    -106.956968,
+                    44.8154347
+                ],
+                [
+                    -106.9569318,
+                    44.815252
+                ],
+                [
+                    -106.9565263,
+                    44.8153034
+                ],
+                [
+                    -106.9565625,
+                    44.8154814
+                ],
+                [
+                    -106.9565016,
+                    44.8155347
+                ],
+                [
+                    -106.9565837,
+                    44.8155837
+                ],
+                [
+                    -106.9565932,
+                    44.8156232
+                ],
+                [
+                    -106.9565417,
+                    44.8156311
+                ],
+                [
+                    -106.9566248,
+                    44.815992
+                ],
+                [
+                    -106.9573223,
+                    44.8158971
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005641",
+        "NAME": "SHERIDAN COUNTY JAIL / SHERIFF",
+        "ADDRESS": "54 WEST 13TH STREET",
+        "CITY": "SHERIDAN",
+        "STATE": "WY",
+        "ZIP": "82801",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 672-5623",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "SHERIDAN",
+        "COUNTYFIPS": "56033",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.sheridancounty.com/elected-offices/sheriffs-office/detentions/",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://www.sheridancounty.com/elected-offices/sheriffs-office/detentions/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 126,
+        "SHAPE_Leng": 0.00307307629585,
+        "SHAPE_Length": 0.0030730762958488768,
+        "SHAPE_Area": 3.73409042464e-7
+    },
+    "id": 4850
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87043"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -107.9554232,
+                    44.0177535
+                ],
+                [
+                    -107.9554237,
+                    44.0175417
+                ],
+                [
+                    -107.9554446,
+                    44.0175417
+                ],
+                [
+                    -107.9554446,
+                    44.0173597
+                ],
+                [
+                    -107.955416,
+                    44.0173597
+                ],
+                [
+                    -107.955416,
+                    44.0171777
+                ],
+                [
+                    -107.9549889,
+                    44.0171777
+                ],
+                [
+                    -107.9549889,
+                    44.017374
+                ],
+                [
+                    -107.9551733,
+                    44.017374
+                ],
+                [
+                    -107.9551733,
+                    44.0174263
+                ],
+                [
+                    -107.9549354,
+                    44.0174263
+                ],
+                [
+                    -107.9549354,
+                    44.0177535
+                ],
+                [
+                    -107.9554232,
+                    44.0177535
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001889",
+        "NAME": "WASHAKIE COUNTY JAIL",
+        "ADDRESS": "100 N 10TH ST",
+        "CITY": "WORLAND",
+        "STATE": "WY",
+        "ZIP": "82401",
+        "ZIP4": "-999",
+        "TELEPHONE": "NOT AVAILABLE",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "WASHAKIE",
+        "COUNTYFIPS": "56043",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.washakiecounty.net/sheriff",
+        "SOURCEDATE": "2020/03/03 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "NOT AVAILABLE",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00253838854674,
+        "SHAPE_Length": 0.002538388546740363,
+        "SHAPE_Area": 2.60567373691e-7
+    },
+    "id": 4884
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb8704f"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -108.0235476,
+                    43.9583157
+                ],
+                [
+                    -108.0235857,
+                    43.9568071
+                ],
+                [
+                    -108.023738,
+                    43.9550939
+                ],
+                [
+                    -108.0230241,
+                    43.9550178
+                ],
+                [
+                    -108.0208168,
+                    43.9549572
+                ],
+                [
+                    -108.020659,
+                    43.9550273
+                ],
+                [
+                    -108.0203421,
+                    43.9552635
+                ],
+                [
+                    -108.0162915,
+                    43.9552046
+                ],
+                [
+                    -108.0154021,
+                    43.956085
+                ],
+                [
+                    -108.0178381,
+                    43.9561147
+                ],
+                [
+                    -108.0179131,
+                    43.9568309
+                ],
+                [
+                    -108.0184508,
+                    43.957797
+                ],
+                [
+                    -108.0208835,
+                    43.9579975
+                ],
+                [
+                    -108.0213118,
+                    43.9580546
+                ],
+                [
+                    -108.0215988,
+                    43.9580837
+                ],
+                [
+                    -108.0216989,
+                    43.9582536
+                ],
+                [
+                    -108.0235476,
+                    43.9583157
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10005642",
+        "NAME": "WYOMING BOYS SCHOOL",
+        "ADDRESS": "1550 UNITED STATES HIGHWAY 20 SOUTH",
+        "CITY": "WORLAND",
+        "STATE": "WY",
+        "ZIP": "82401",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 347-6144",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 72,
+        "COUNTY": "WASHAKIE",
+        "COUNTYFIPS": "56043",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://dfs.wyo.gov/services/juvenile-services/",
+        "SOURCEDATE": "2016/04/14 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://dfs.wyo.gov/services/juvenile-services/",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 100,
+        "SHAPE_Leng": 0.0214958736499,
+        "SHAPE_Length": 0.021495873649897534,
+        "SHAPE_Area": 0.0000183122314974
+    },
+    "id": 4892
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87327"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -108.0397446,
+                    44.3823088
+                ],
+                [
+                    -108.0397446,
+                    44.3817732
+                ],
+                [
+                    -108.039421,
+                    44.3817732
+                ],
+                [
+                    -108.039421,
+                    44.3818684
+                ],
+                [
+                    -108.0393817,
+                    44.3818684
+                ],
+                [
+                    -108.0393817,
+                    44.3819171
+                ],
+                [
+                    -108.0392318,
+                    44.3819171
+                ],
+                [
+                    -108.0392318,
+                    44.3822217
+                ],
+                [
+                    -108.0394662,
+                    44.3822217
+                ],
+                [
+                    -108.0394662,
+                    44.3823086
+                ],
+                [
+                    -108.0397446,
+                    44.3823088
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001884",
+        "NAME": "BIG HORN COUNTY JAIL / SHERIFF",
+        "ADDRESS": "415 MURPHY ST",
+        "CITY": "BASIN",
+        "STATE": "WY",
+        "ZIP": "82410",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 568-9311",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "BIG HORN",
+        "COUNTYFIPS": "56003",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.bighorncountywy.gov/departments/sheriff/detention",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://www.bighorncountywy.gov/departments/sheriff/detention",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 86,
+        "SHAPE_Leng": 0.00209654710101,
+        "SHAPE_Length": 0.0020965471010143018,
+        "SHAPE_Area": 2.28889813831e-7
+    },
+    "id": 5608
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb870b3"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -109.0606231,
+                    44.5331499
+                ],
+                [
+                    -109.0605575,
+                    44.5330785
+                ],
+                [
+                    -109.0605175,
+                    44.5331027
+                ],
+                [
+                    -109.060409,
+                    44.5329985
+                ],
+                [
+                    -109.0604504,
+                    44.5329728
+                ],
+                [
+                    -109.0603633,
+                    44.5329029
+                ],
+                [
+                    -109.0601791,
+                    44.5330057
+                ],
+                [
+                    -109.0600592,
+                    44.5328943
+                ],
+                [
+                    -109.0599321,
+                    44.5329643
+                ],
+                [
+                    -109.0598893,
+                    44.5329314
+                ],
+                [
+                    -109.0597637,
+                    44.53292
+                ],
+                [
+                    -109.0595738,
+                    44.5330342
+                ],
+                [
+                    -109.0595595,
+                    44.5331284
+                ],
+                [
+                    -109.0595081,
+                    44.5331541
+                ],
+                [
+                    -109.059411,
+                    44.5330485
+                ],
+                [
+                    -109.0593168,
+                    44.5331013
+                ],
+                [
+                    -109.0594396,
+                    44.533237
+                ],
+                [
+                    -109.059431,
+                    44.5333198
+                ],
+                [
+                    -109.059561,
+                    44.5334397
+                ],
+                [
+                    -109.0596423,
+                    44.5334397
+                ],
+                [
+                    -109.0596723,
+                    44.5334697
+                ],
+                [
+                    -109.0595196,
+                    44.533561
+                ],
+                [
+                    -109.0596095,
+                    44.5336467
+                ],
+                [
+                    -109.0597537,
+                    44.533561
+                ],
+                [
+                    -109.0598294,
+                    44.5336267
+                ],
+                [
+                    -109.0600249,
+                    44.5335168
+                ],
+                [
+                    -109.0600949,
+                    44.5335867
+                ],
+                [
+                    -109.0602559,
+                    44.5334949
+                ],
+                [
+                    -109.0601891,
+                    44.5334254
+                ],
+                [
+                    -109.0603656,
+                    44.5333274
+                ],
+                [
+                    -109.0604176,
+                    44.5333869
+                ],
+                [
+                    -109.0605189,
+                    44.5333226
+                ],
+                [
+                    -109.0604547,
+                    44.5332498
+                ],
+                [
+                    -109.0606231,
+                    44.5331499
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001883",
+        "NAME": "PARK COUNTY DETENTION CENTER",
+        "ADDRESS": "1402 RIVER VIEW DR",
+        "CITY": "CODY",
+        "STATE": "WY",
+        "ZIP": "82414",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 527-8750",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "PARK",
+        "COUNTYFIPS": "56029",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.parkcountysheriff.net/index.htm",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://www.parkcountysheriff.net/index.htm",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 106,
+        "SHAPE_Leng": 0.00421598692848,
+        "SHAPE_Length": 0.004215986928484817,
+        "SHAPE_Area": 5.699194427e-7
+    },
+    "id": 4881
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87323"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -108.2094934,
+                    43.6470834
+                ],
+                [
+                    -108.2094966,
+                    43.647026
+                ],
+                [
+                    -108.2096449,
+                    43.647028
+                ],
+                [
+                    -108.2096487,
+                    43.6469
+                ],
+                [
+                    -108.2095012,
+                    43.6468988
+                ],
+                [
+                    -108.209506,
+                    43.6467787
+                ],
+                [
+                    -108.2091645,
+                    43.6467692
+                ],
+                [
+                    -108.2091538,
+                    43.647019
+                ],
+                [
+                    -108.2093108,
+                    43.6470226
+                ],
+                [
+                    -108.2093096,
+                    43.6470809
+                ],
+                [
+                    -108.2094934,
+                    43.6470834
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001890",
+        "NAME": "HOT SPRINGS COUNTY DETENTION CENTER",
+        "ADDRESS": "417 ARAPAHOE ST",
+        "CITY": "THERMOPOLIS",
+        "STATE": "WY",
+        "ZIP": "82443",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 864-2622",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "HOT SPRINGS",
+        "COUNTYFIPS": "56017",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.hscounty.com/departments/sheriff",
+        "SOURCEDATE": "2018/05/10 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "https://www.hscounty.com/departments/sheriff",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00159245220069,
+        "SHAPE_Length": 0.001592452200686022,
+        "SHAPE_Area": 1.14739604618e-7
+    },
+    "id": 5604
+},
+{
+    "_id": {
+        "$oid": "61e7702ab800565cfdb87042"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -110.7594906,
+                    43.4780808
+                ],
+                [
+                    -110.7594902,
+                    43.4778124
+                ],
+                [
+                    -110.7592484,
+                    43.4778124
+                ],
+                [
+                    -110.7592484,
+                    43.4780808
+                ],
+                [
+                    -110.7594906,
+                    43.4780808
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001887",
+        "NAME": "TETON COUNTY DETENTION CENTER",
+        "ADDRESS": "175 S WILLOW ST",
+        "CITY": "JACKSON",
+        "STATE": "WY",
+        "ZIP": "83001",
+        "ZIP4": "-999",
+        "TELEPHONE": "(307) 733-2141",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": 10,
+        "COUNTY": "TETON",
+        "COUNTYFIPS": "56039",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.tetonsheriff.org/",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2020/03/03 00:00:00",
+        "WEBSITE": "http://www.tetonsheriff.org/",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 45,
+        "SHAPE_Leng": 0.00102081739039,
+        "SHAPE_Length": 0.0010208173903874065,
+        "SHAPE_Area": 6.49543626456e-8
+    },
+    "id": 4883
+}
+]

@@ -1,0 +1,3064 @@
+[
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb868f5"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+            [
+                [
+                    [
+                        -156.7887119,
+                        71.2921068
+                    ],
+                    [
+                        -156.7887858,
+                        71.2916559
+                    ],
+                    [
+                        -156.7874808,
+                        71.2915744
+                    ],
+                    [
+                        -156.7875012,
+                        71.2919822
+                    ],
+                    [
+                        -156.7887119,
+                        71.2921068
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        -156.7887119,
+                        71.2921068
+                    ],
+                    [
+                        -156.7887106,
+                        71.2921136
+                    ],
+                    [
+                        -156.7887491,
+                        71.2921101
+                    ],
+                    [
+                        -156.7887119,
+                        71.2921068
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        -156.7887106,
+                        71.2921136
+                    ],
+                    [
+                        -156.7887098,
+                        71.2921137
+                    ],
+                    [
+                        -156.7887098,
+                        71.2921172
+                    ],
+                    [
+                        -156.7887106,
+                        71.2921136
+                    ]
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003755",
+        "NAME": "NORTH SLOPE BOROUGH CORRECTIONAL CENTER",
+        "ADDRESS": "1068 KIOGAK STREET",
+        "CITY": "BARROW",
+        "STATE": "AK",
+        "ZIP": "99723",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 852-0311",
+        "TYPE": "COUNTY",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "NORTH SLOPE",
+        "COUNTYFIPS": "02185",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.co.north-slope.ak.us/departments/police/",
+        "SOURCEDATE": "2019/11/06 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.north-slope.org/departments/police",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00348073284138,
+        "SHAPE_Length": 0.0034807328413776935,
+        "SHAPE_Area": 5.42918372551e-7
+    },
+    "id": 3008
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85fd7"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -162.5938257,
+                    66.8965262
+                ],
+                [
+                    -162.592778,
+                    66.895969
+                ],
+                [
+                    -162.591942,
+                    66.8965196
+                ],
+                [
+                    -162.592988,
+                    66.8969247
+                ],
+                [
+                    -162.5938175,
+                    66.8965344
+                ],
+                [
+                    -162.5938257,
+                    66.8965262
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003756",
+        "NAME": "KOTZEBUE REGIONAL JAIL",
+        "ADDRESS": "258 FOURTH AVE D",
+        "CITY": "KOTZEBUE",
+        "STATE": "AK",
+        "ZIP": "99752",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 442-3351",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "NORTHWEST ARCTIC",
+        "COUNTYFIPS": "02188",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://kotzebueak.govoffice3.com/index.asp?Type=B_BASIC&SEC={E215A789-6F7C-4141-9632-4D6019F1D528}",
+        "SOURCEDATE": "2018/01/23 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "https://www.cityofkotzebue.com/?SEC=E215A789-6F7C-4141-9632-4D6019F1D528",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 12,
+        "SHAPE_Leng": 0.00423770594754,
+        "SHAPE_Length": 0.004237705947540423,
+        "SHAPE_Area": 9.01200384827e-7
+    },
+    "id": 680
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86309"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -147.7612336,
+                    64.8335496
+                ],
+                [
+                    -147.7612336,
+                    64.8329128
+                ],
+                [
+                    -147.7592133,
+                    64.8329128
+                ],
+                [
+                    -147.7592133,
+                    64.8327814
+                ],
+                [
+                    -147.7583893,
+                    64.8324387
+                ],
+                [
+                    -147.7564488,
+                    64.8324387
+                ],
+                [
+                    -147.7564508,
+                    64.8334597
+                ],
+                [
+                    -147.7584591,
+                    64.8334621
+                ],
+                [
+                    -147.7587184,
+                    64.8335723
+                ],
+                [
+                    -147.7597158,
+                    64.8335726
+                ],
+                [
+                    -147.7598053,
+                    64.8335489
+                ],
+                [
+                    -147.7612336,
+                    64.8335496
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001231",
+        "NAME": "FAIRBANKS CORRECTIONAL CENTER",
+        "ADDRESS": "1931 EAGAN AVENUE",
+        "CITY": "FAIRBANKS",
+        "STATE": "AK",
+        "ZIP": "99701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 458-6700",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 230,
+        "COUNTY": "FAIRBANKS NORTH STAR",
+        "COUNTYFIPS": "02090",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.correct.state.ak.us/administrative-services/research-records, http://www.correct.state.ak.us/doc/corrections-staffing-report.pdf",
+        "SOURCEDATE": "2016/02/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "CLOSE",
+        "CAPACITY": 258,
+        "SHAPE_Leng": 0.0114507845704,
+        "SHAPE_Length": 0.011450784570420034,
+        "SHAPE_Area": 0.00000405191485612
+    },
+    "id": 1502
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8614d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -147.7656767,
+                    64.8328065
+                ],
+                [
+                    -147.7654152,
+                    64.8326145
+                ],
+                [
+                    -147.7649866,
+                    64.8327287
+                ],
+                [
+                    -147.7643935,
+                    64.8323488
+                ],
+                [
+                    -147.7637232,
+                    64.8325277
+                ],
+                [
+                    -147.7642723,
+                    64.8329158
+                ],
+                [
+                    -147.7640652,
+                    64.8329743
+                ],
+                [
+                    -147.7642886,
+                    64.833132
+                ],
+                [
+                    -147.7646642,
+                    64.833037
+                ],
+                [
+                    -147.764802,
+                    64.8331279
+                ],
+                [
+                    -147.7651062,
+                    64.833043
+                ],
+                [
+                    -147.7650207,
+                    64.8329763
+                ],
+                [
+                    -147.7656767,
+                    64.8328065
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001232",
+        "NAME": "FAIRBANKS YOUTH FACILITY",
+        "ADDRESS": "1502 WILBUR ST",
+        "CITY": "FAIRBANKS",
+        "STATE": "AK",
+        "ZIP": "99701",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 451-2150",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 16,
+        "COUNTY": "FAIRBANKS NORTH STAR",
+        "COUNTYFIPS": "02090",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dhss.alaska.gov/Commissioner/Pages/Contacts/default.aspx",
+        "SOURCEDATE": "2017/03/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://dhss.alaska.gov/djj/Pages/Facilities/fyf.aspx",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 28,
+        "SHAPE_Leng": 0.00498156396884,
+        "SHAPE_Length": 0.004981563968844727,
+        "SHAPE_Area": 7.34067062655e-7
+    },
+    "id": 1059
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb87769"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -134.4670078,
+                    58.3295954
+                ],
+                [
+                    -134.4667752,
+                    58.3296798
+                ],
+                [
+                    -134.466221,
+                    58.330033
+                ],
+                [
+                    -134.4661618,
+                    58.3301485
+                ],
+                [
+                    -134.4660941,
+                    58.3302573
+                ],
+                [
+                    -134.4660644,
+                    58.3303417
+                ],
+                [
+                    -134.4661152,
+                    58.3304395
+                ],
+                [
+                    -134.4662041,
+                    58.3305128
+                ],
+                [
+                    -134.4663394,
+                    58.3305439
+                ],
+                [
+                    -134.4664494,
+                    58.3305394
+                ],
+                [
+                    -134.4666017,
+                    58.3304905
+                ],
+                [
+                    -134.4670036,
+                    58.3302884
+                ],
+                [
+                    -134.4675747,
+                    58.3300152
+                ],
+                [
+                    -134.467727,
+                    58.3299864
+                ],
+                [
+                    -134.4681374,
+                    58.3294888
+                ],
+                [
+                    -134.4673209,
+                    58.3293289
+                ],
+                [
+                    -134.4670078,
+                    58.3295954
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001242",
+        "NAME": "JOHNSON YOUTH CENTER",
+        "ADDRESS": "3252 HOSPITAL DR",
+        "CITY": "JUNEAU",
+        "STATE": "AK",
+        "ZIP": "99801",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 586-9433",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 19,
+        "COUNTY": "JUNEAU",
+        "COUNTYFIPS": "02110",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dhss.alaska.gov/Commissioner/Pages/Contacts/default.aspx",
+        "SOURCEDATE": "2017/03/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://dhss.alaska.gov/djj/Pages/Facilities/facilities.aspx",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 20,
+        "SHAPE_Leng": 0.00501233338676,
+        "SHAPE_Length": 0.005012333386756798,
+        "SHAPE_Area": 0.00000119425891884
+    },
+    "id": 6711
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86676"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -134.486778,
+                    58.3622879
+                ],
+                [
+                    -134.4856626,
+                    58.3615934
+                ],
+                [
+                    -134.4847366,
+                    58.3621195
+                ],
+                [
+                    -134.4837264,
+                    58.3614671
+                ],
+                [
+                    -134.4826531,
+                    58.3623721
+                ],
+                [
+                    -134.4814535,
+                    58.3631297
+                ],
+                [
+                    -134.4826321,
+                    58.3636769
+                ],
+                [
+                    -134.4853469,
+                    58.3630245
+                ],
+                [
+                    -134.486778,
+                    58.3622879
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001241",
+        "NAME": "LEMON CREEK CORRECTIONAL CENTER",
+        "ADDRESS": "2000 LEMON CREEK RD",
+        "CITY": "JUNEAU",
+        "STATE": "AK",
+        "ZIP": "99801",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 465-6200",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 209,
+        "COUNTY": "JUNEAU",
+        "COUNTYFIPS": "02110",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.correct.state.ak.us/administrative-services/research-records, http://www.correct.state.ak.us/doc/corrections-staffing-report.pdf",
+        "SOURCEDATE": "2016/02/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 232,
+        "SHAPE_Leng": 0.0121053864759,
+        "SHAPE_Length": 0.012105386475881313,
+        "SHAPE_Area": 0.00000585337141971
+    },
+    "id": 2379
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85fd0"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -135.3339625,
+                    57.0524812
+                ],
+                [
+                    -135.333144,
+                    57.0525383
+                ],
+                [
+                    -135.333182,
+                    57.0528429
+                ],
+                [
+                    -135.3340006,
+                    57.0527667
+                ],
+                [
+                    -135.3339625,
+                    57.0524812
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006895",
+        "NAME": "SITKA COMMUNITY JAIL",
+        "ADDRESS": "304 LAKE ST 102",
+        "CITY": "SITKA",
+        "STATE": "AK",
+        "ZIP": "99835",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 747-3349",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "SITKA BOROUGH",
+        "COUNTYFIPS": "02220",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.sitkapd.com/Contact%20Us.html",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.sitkapd.com/",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00223759578903,
+        "SHAPE_Length": 0.0022375957890284036,
+        "SHAPE_Area": 2.44047573545e-7
+    },
+    "id": 672
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85fd1"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -132.3778175,
+                    56.4692069
+                ],
+                [
+                    -132.3773535,
+                    56.4692426
+                ],
+                [
+                    -132.3774963,
+                    56.4695519
+                ],
+                [
+                    -132.377413,
+                    56.4695757
+                ],
+                [
+                    -132.3776271,
+                    56.469778
+                ],
+                [
+                    -132.3780316,
+                    56.4696471
+                ],
+                [
+                    -132.3779008,
+                    56.4694805
+                ],
+                [
+                    -132.3779959,
+                    56.4694567
+                ],
+                [
+                    -132.3778175,
+                    56.4692069
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006896",
+        "NAME": "WRANGELL CORRECTIONAL CENTER",
+        "ADDRESS": "431 ZIMOVIA HIGHWAY",
+        "CITY": "WRANGELL",
+        "STATE": "AK",
+        "ZIP": "99929",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 874-3304",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "WRANGELL BOROUGH",
+        "COUNTYFIPS": "02275",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.wrangell.com/publicsafety/welcome-wrangell-police-department",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "https://www.wrangell.com/publicsafety/welcome-wrangell-police-department",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00222934778022,
+        "SHAPE_Length": 0.002229347780216102,
+        "SHAPE_Area": 2.50253359493e-7
+    },
+    "id": 673
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86690"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -131.6488228,
+                    55.3486342
+                ],
+                [
+                    -131.6494796,
+                    55.3484557
+                ],
+                [
+                    -131.649658,
+                    55.3484772
+                ],
+                [
+                    -131.6496652,
+                    55.3483772
+                ],
+                [
+                    -131.6498008,
+                    55.3483844
+                ],
+                [
+                    -131.6500435,
+                    55.3482202
+                ],
+                [
+                    -131.6500506,
+                    55.3481131
+                ],
+                [
+                    -131.6489228,
+                    55.3480845
+                ],
+                [
+                    -131.6488228,
+                    55.3486342
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003764",
+        "NAME": "KETCHIKAN CORRECTIONAL CENTER",
+        "ADDRESS": "1201 SCHOENBAR RD.",
+        "CITY": "KETCHIKAN",
+        "STATE": "AK",
+        "ZIP": "99901",
+        "ZIP4": "6270",
+        "TELEPHONE": "(907) 228-7350",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 49,
+        "COUNTY": "KETCHIKAN GATEWAY",
+        "COUNTYFIPS": "02130",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.correct.state.ak.us/administrative-services/research-records, http://www.correct.state.ak.us/doc/corrections-staffing-report.pdf",
+        "SOURCEDATE": "2016/02/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 58,
+        "SHAPE_Leng": 0.00318352396486,
+        "SHAPE_Length": 0.0031835239648563174,
+        "SHAPE_Area": 4.23015836873e-7
+    },
+    "id": 2384
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85fe5"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -131.6853337,
+                    55.3546496
+                ],
+                [
+                    -131.6853135,
+                    55.3546295
+                ],
+                [
+                    -131.6847788,
+                    55.3549523
+                ],
+                [
+                    -131.6850512,
+                    55.355255
+                ],
+                [
+                    -131.6856666,
+                    55.3548212
+                ],
+                [
+                    -131.6853337,
+                    55.3546496
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003763",
+        "NAME": "KETCHIKAN REGIONAL YOUTH FACILITY",
+        "ADDRESS": "3058 5TH AVENUE",
+        "CITY": "KETCHIKAN",
+        "STATE": "AK",
+        "ZIP": "99901",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 225-8900",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "KETCHIKAN GATEWAY",
+        "COUNTYFIPS": "02130",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dhss.alaska.gov/djj/Pages/Facilities/kryf.aspx",
+        "SOURCEDATE": "2019/11/06 00:00:00",
+        "VAL_METHOD": "UNVERIFIED",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://dhss.alaska.gov/djj/Pages/Facilities/kryf.aspx",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 10,
+        "SHAPE_Leng": 0.00218782933412,
+        "SHAPE_Length": 0.002187829334117727,
+        "SHAPE_Area": 2.58843303289e-7
+    },
+    "id": 699
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb863eb"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -133.1522646,
+                    55.4758407
+                ],
+                [
+                    -133.1522765,
+                    55.4756503
+                ],
+                [
+                    -133.1518006,
+                    55.4756503
+                ],
+                [
+                    -133.1517887,
+                    55.4758169
+                ],
+                [
+                    -133.1522646,
+                    55.4758407
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006459",
+        "NAME": "CRAIG JAIL FACILITY",
+        "ADDRESS": "506 SECOND ST",
+        "CITY": "CRAIG",
+        "STATE": "AK",
+        "ZIP": "99921",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 826-3300",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "PRINCE OF WALES-HYDER",
+        "COUNTYFIPS": "02198",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.craigak.com/craigak_020.htm",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "https://www.craigak.com/police",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00131009421243,
+        "SHAPE_Length": 0.0013100942124332174,
+        "SHAPE_Area": 8.50692249203e-8
+    },
+    "id": 1730
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb875d0"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -151.5294462,
+                    59.6494852
+                ],
+                [
+                    -151.52947,
+                    59.6491996
+                ],
+                [
+                    -151.5290893,
+                    59.6492234
+                ],
+                [
+                    -151.5290893,
+                    59.6494852
+                ],
+                [
+                    -151.5294462,
+                    59.6494852
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006894",
+        "NAME": "HOMER COMMUNITY JAIL",
+        "ADDRESS": "4060 HEATH ST",
+        "CITY": "HOMER",
+        "STATE": "AK",
+        "ZIP": "99603",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 235-3150",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "KENAI PENINSULA BOROUGH",
+        "COUNTYFIPS": "02122",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.cityofhomer-ak.gov/police",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "https://www.cityofhomer-ak.gov/police",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 7,
+        "SHAPE_Leng": 0.00128664064102,
+        "SHAPE_Length": 0.0012866406410173264,
+        "SHAPE_Area": 1.00780474525e-7
+    },
+    "id": 6279
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb8775d"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -151.2325345,
+                    60.5673541
+                ],
+                [
+                    -151.2338154,
+                    60.5674889
+                ],
+                [
+                    -151.2343151,
+                    60.5662539
+                ],
+                [
+                    -151.2330302,
+                    60.5658399
+                ],
+                [
+                    -151.2328863,
+                    60.5666533
+                ],
+                [
+                    -151.2324394,
+                    60.566637
+                ],
+                [
+                    -151.2324109,
+                    60.5668005
+                ],
+                [
+                    -151.2322968,
+                    60.5667982
+                ],
+                [
+                    -151.2322398,
+                    60.5670621
+                ],
+                [
+                    -151.2324235,
+                    60.5670963
+                ],
+                [
+                    -151.2324235,
+                    60.5670463
+                ],
+                [
+                    -151.2325519,
+                    60.5670748
+                ],
+                [
+                    -151.2325345,
+                    60.5673541
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003758",
+        "NAME": "KENAI PENINSULA YOUTH FACILITY",
+        "ADDRESS": "405 MARATHON ROAD",
+        "CITY": "KENAI",
+        "STATE": "AK",
+        "ZIP": "99611",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 335-3100",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 6,
+        "COUNTY": "KENAI PENINSULA",
+        "COUNTYFIPS": "02122",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dhss.alaska.gov/Commissioner/Pages/Contacts/default.aspx",
+        "SOURCEDATE": "2017/03/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://dhss.alaska.gov/djj/Pages/Facilities/facilities.aspx",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 10,
+        "SHAPE_Leng": 0.00644169086542,
+        "SHAPE_Length": 0.00644169086541755,
+        "SHAPE_Area": 0.00000202074329078
+    },
+    "id": 6709
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85fed"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -151.3025447,
+                    60.583108
+                ],
+                [
+                    -151.3025389,
+                    60.5828518
+                ],
+                [
+                    -151.3018249,
+                    60.5828462
+                ],
+                [
+                    -151.3018071,
+                    60.5829295
+                ],
+                [
+                    -151.3015037,
+                    60.5829332
+                ],
+                [
+                    -151.301474,
+                    60.5827748
+                ],
+                [
+                    -151.3011944,
+                    60.5827867
+                ],
+                [
+                    -151.3011646,
+                    60.5832091
+                ],
+                [
+                    -151.3015037,
+                    60.583221
+                ],
+                [
+                    -151.3014978,
+                    60.5831258
+                ],
+                [
+                    -151.3018071,
+                    60.5831139
+                ],
+                [
+                    -151.3025447,
+                    60.583108
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006203",
+        "NAME": "WILDWOOD PRETRIAL FACILITY",
+        "ADDRESS": "5 CHUGACH AVENUE",
+        "CITY": "KENAI",
+        "STATE": "AK",
+        "ZIP": "99611",
+        "ZIP4": "7049",
+        "TELEPHONE": "(907) 260-7200",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 106,
+        "COUNTY": "KENAI PENINSULA",
+        "COUNTYFIPS": "02122",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.correct.state.ak.us/administrative-services/research-records, http://www.correct.state.ak.us/institutions",
+        "SOURCEDATE": "2016/06/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 115,
+        "SHAPE_Leng": 0.00370493216916,
+        "SHAPE_Length": 0.003704932169157439,
+        "SHAPE_Area": 3.87213453309e-7
+    },
+    "id": 706
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb862ad"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -151.3010306,
+                    60.5848949
+                ],
+                [
+                    -151.3010377,
+                    60.5847379
+                ],
+                [
+                    -151.3007307,
+                    60.5847236
+                ],
+                [
+                    -151.300745,
+                    60.5841169
+                ],
+                [
+                    -151.3004524,
+                    60.5841097
+                ],
+                [
+                    -151.3004452,
+                    60.5847236
+                ],
+                [
+                    -151.3001668,
+                    60.584745
+                ],
+                [
+                    -151.300174,
+                    60.5850377
+                ],
+                [
+                    -151.3006808,
+                    60.5850448
+                ],
+                [
+                    -151.3006828,
+                    60.5848997
+                ],
+                [
+                    -151.3010306,
+                    60.5848949
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003759",
+        "NAME": "WILDWOOD CORRECTIONAL CENTER",
+        "ADDRESS": "10 CHUGACH AVENUE",
+        "CITY": "KENAI",
+        "STATE": "AK",
+        "ZIP": "99611",
+        "ZIP4": "7098",
+        "TELEPHONE": "(907) 260-7200",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 275,
+        "COUNTY": "KENAI PENINSULA",
+        "COUNTYFIPS": "02122",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.correct.state.ak.us/administrative-services/research-records, http://www.correct.state.ak.us/institutions",
+        "SOURCEDATE": "2016/06/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 264,
+        "SHAPE_Leng": 0.00354992980876,
+        "SHAPE_Length": 0.0035499298087585144,
+        "SHAPE_Area": 3.95081330629e-7
+    },
+    "id": 1401
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86175"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -149.3399219,
+                    60.0934102
+                ],
+                [
+                    -149.3380077,
+                    60.0916784
+                ],
+                [
+                    -149.3339971,
+                    60.0902199
+                ],
+                [
+                    -149.3284368,
+                    60.0930456
+                ],
+                [
+                    -149.3289837,
+                    60.0948687
+                ],
+                [
+                    -149.33819,
+                    60.0951421
+                ],
+                [
+                    -149.3399219,
+                    60.0934102
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001240",
+        "NAME": "SPRING CREEK CORRECTIONAL CENTER",
+        "ADDRESS": "3600 BETTE CATO",
+        "CITY": "SEWARD",
+        "STATE": "AK",
+        "ZIP": "99664",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 224-8200",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 518,
+        "COUNTY": "KENAI PENINSULA",
+        "COUNTYFIPS": "02122",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.correct.state.ak.us/administrative-services/research-records, http://www.correct.state.ak.us/doc/corrections-staffing-report.pdf",
+        "SOURCEDATE": "2016/02/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 551,
+        "SHAPE_Leng": 0.0266488675393,
+        "SHAPE_Length": 0.026648867539288922,
+        "SHAPE_Area": 0.0000378953027794
+    },
+    "id": 1100
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb86902"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+            [
+                [
+                    [
+                        -149.4391967,
+                        60.1033025
+                    ],
+                    [
+                        -149.4392026,
+                        60.1029505
+                    ],
+                    [
+                        -149.4388827,
+                        60.1029525
+                    ],
+                    [
+                        -149.4388787,
+                        60.1033064
+                    ],
+                    [
+                        -149.4391967,
+                        60.1033025
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        -149.4391967,
+                        60.1033031
+                    ],
+                    [
+                        -149.4391926,
+                        60.1033044
+                    ],
+                    [
+                        -149.4391946,
+                        60.1033044
+                    ],
+                    [
+                        -149.4391966,
+                        60.1033084
+                    ],
+                    [
+                        -149.4391967,
+                        60.1033031
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        -149.4391967,
+                        60.1033031
+                    ],
+                    [
+                        -149.4391986,
+                        60.1033024
+                    ],
+                    [
+                        -149.4391967,
+                        60.1033025
+                    ],
+                    [
+                        -149.4391967,
+                        60.1033031
+                    ]
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003760",
+        "NAME": "SEWARD COMMUNITY JAIL",
+        "ADDRESS": "410 ADAMS STREET",
+        "CITY": "SEWARD",
+        "STATE": "AK",
+        "ZIP": "99664",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 224-4028",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "KENAI PENINSULA",
+        "COUNTYFIPS": "02122",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.cityofseward.us/index.aspx?NID=187",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "https://www.cityofseward.us/index.aspx?NID=869",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 14,
+        "SHAPE_Leng": 0.00136450160266,
+        "SHAPE_Length": 0.0013645016026611941,
+        "SHAPE_Area": 1.12555159792e-7
+    },
+    "id": 3014
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb8603e"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -149.8559788,
+                    61.2186426
+                ],
+                [
+                    -149.8577043,
+                    61.2186426
+                ],
+                [
+                    -149.8577043,
+                    61.2185213
+                ],
+                [
+                    -149.8586788,
+                    61.2185213
+                ],
+                [
+                    -149.8586788,
+                    61.2184389
+                ],
+                [
+                    -149.8591374,
+                    61.2184509
+                ],
+                [
+                    -149.8591445,
+                    61.2183438
+                ],
+                [
+                    -149.8594229,
+                    61.2183367
+                ],
+                [
+                    -149.8594158,
+                    61.2180868
+                ],
+                [
+                    -149.8587805,
+                    61.2180583
+                ],
+                [
+                    -149.8587876,
+                    61.2178941
+                ],
+                [
+                    -149.8549043,
+                    61.2178584
+                ],
+                [
+                    -149.8549186,
+                    61.218094
+                ],
+                [
+                    -149.8543047,
+                    61.2182653
+                ],
+                [
+                    -149.8539835,
+                    61.2185366
+                ],
+                [
+                    -149.8542904,
+                    61.2186079
+                ],
+                [
+                    -149.8542976,
+                    61.2187007
+                ],
+                [
+                    -149.8539192,
+                    61.2187007
+                ],
+                [
+                    -149.8539121,
+                    61.2192647
+                ],
+                [
+                    -149.8555967,
+                    61.2192433
+                ],
+                [
+                    -149.855611,
+                    61.2186579
+                ],
+                [
+                    -149.8559788,
+                    61.2186426
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003757",
+        "NAME": "ANCHORAGE CORRECTIONAL COMPLEX",
+        "ADDRESS": "1400 EAST 4TH AVENUE",
+        "CITY": "ANCHORAGE",
+        "STATE": "AK",
+        "ZIP": "99501",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 269-4100",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 832,
+        "COUNTY": "ANCHORAGE",
+        "COUNTYFIPS": "02020",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.correct.state.ak.us/administrative-services/research-records, http://www.correct.state.ak.us/doc/corrections-staffing-report.pdf",
+        "SOURCEDATE": "2016/02/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "MAXIMUM",
+        "CAPACITY": 863,
+        "SHAPE_Leng": 0.0139646559642,
+        "SHAPE_Length": 0.013964655964213533,
+        "SHAPE_Area": 0.00000438506137009
+    },
+    "id": 685
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb87768"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -149.8313791,
+                    61.1877757
+                ],
+                [
+                    -149.8324897,
+                    61.1878205
+                ],
+                [
+                    -149.8327925,
+                    61.1877186
+                ],
+                [
+                    -149.8326426,
+                    61.1874473
+                ],
+                [
+                    -149.8335349,
+                    61.1871475
+                ],
+                [
+                    -149.8339989,
+                    61.1875044
+                ],
+                [
+                    -149.8350197,
+                    61.1874188
+                ],
+                [
+                    -149.8350696,
+                    61.1866907
+                ],
+                [
+                    -149.8357478,
+                    61.186091
+                ],
+                [
+                    -149.8358192,
+                    61.1859269
+                ],
+                [
+                    -149.8357335,
+                    61.1857056
+                ],
+                [
+                    -149.835398,
+                    61.1855557
+                ],
+                [
+                    -149.8348269,
+                    61.1854557
+                ],
+                [
+                    -149.8342416,
+                    61.1853058
+                ],
+                [
+                    -149.8339061,
+                    61.1852416
+                ],
+                [
+                    -149.8337133,
+                    61.1852416
+                ],
+                [
+                    -149.833542,
+                    61.1852844
+                ],
+                [
+                    -149.831272,
+                    61.1860554
+                ],
+                [
+                    -149.8318931,
+                    61.1865693
+                ],
+                [
+                    -149.8315504,
+                    61.1866907
+                ],
+                [
+                    -149.8314077,
+                    61.1865907
+                ],
+                [
+                    -149.8310222,
+                    61.1864765
+                ],
+                [
+                    -149.8303725,
+                    61.1866764
+                ],
+                [
+                    -149.8304297,
+                    61.1869477
+                ],
+                [
+                    -149.8313791,
+                    61.1877757
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001239",
+        "NAME": "MCLAUGHLIN YOUTH CENTER",
+        "ADDRESS": "2600 PROVIDENCE DR",
+        "CITY": "ANCHORAGE",
+        "STATE": "AK",
+        "ZIP": "99508",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 261-4324",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 23,
+        "COUNTY": "ANCHORAGE",
+        "COUNTYFIPS": "02020",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dhss.alaska.gov/Commissioner/Pages/Contacts/default.aspx",
+        "SOURCEDATE": "2017/03/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://dhss.alaska.gov/djj/Pages/Facilities/facilities.aspx",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 110,
+        "SHAPE_Leng": 0.0149657603352,
+        "SHAPE_Length": 0.014965760335237718,
+        "SHAPE_Area": 0.00000857438922182
+    },
+    "id": 6710
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb8667f"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -150.0083636,
+                    61.3580985
+                ],
+                [
+                    -150.0079067,
+                    61.3580795
+                ],
+                [
+                    -150.0044232,
+                    61.3592026
+                ],
+                [
+                    -150.0043661,
+                    61.359412
+                ],
+                [
+                    -150.0081732,
+                    61.3622102
+                ],
+                [
+                    -150.0099816,
+                    61.3624006
+                ],
+                [
+                    -150.0118281,
+                    61.3618295
+                ],
+                [
+                    -150.0121517,
+                    61.3609729
+                ],
+                [
+                    -150.0083636,
+                    61.3580985
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006386",
+        "NAME": "GOOSE CREEK CORRECTIONAL CENTER",
+        "ADDRESS": "22301 WEST ALSOP ROAD",
+        "CITY": "WASILLA",
+        "STATE": "AK",
+        "ZIP": "99623",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 864-8100",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 1125,
+        "COUNTY": "MATANUSKA-SUSITNA",
+        "COUNTYFIPS": "02170",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.correct.state.ak.us/administrative-services/research-records, http://www.correct.state.ak.us/doc/corrections-staffing-report.pdf",
+        "SOURCEDATE": "2016/02/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 1536,
+        "SHAPE_Leng": 0.0184812956746,
+        "SHAPE_Length": 0.018481295674565964,
+        "SHAPE_Area": 0.0000190212292019
+    },
+    "id": 2388
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb865c8"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -150.0846867,
+                    61.4192193
+                ],
+                [
+                    -150.0846709,
+                    61.4153704
+                ],
+                [
+                    -150.0791282,
+                    61.4153704
+                ],
+                [
+                    -150.0791757,
+                    61.4192155
+                ],
+                [
+                    -150.0846867,
+                    61.4192193
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001236",
+        "NAME": "PT. MACKENZIE CORRECTIONAL FARM",
+        "ADDRESS": "P.O. BOX 877730",
+        "CITY": "WASILLA",
+        "STATE": "AK",
+        "ZIP": "99687",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 376-2976",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 49,
+        "COUNTY": "MATANUSKA-SUSITNA",
+        "COUNTYFIPS": "02170",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.adn.com/alaska-news/article/alaskas-only-prison-work-farm-will-no-longer-house-inmates/2014/03/17/, http://www.correct.state.ak.us/institutions",
+        "SOURCEDATE": "2016/06/30 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "MINIMUM",
+        "CAPACITY": 112,
+        "SHAPE_Leng": 0.0187480346208,
+        "SHAPE_Length": 0.018748034620776514,
+        "SHAPE_Area": 0.00002126171517
+    },
+    "id": 2198
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86622"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -149.5816837,
+                    61.3021908
+                ],
+                [
+                    -149.5791275,
+                    61.3018964
+                ],
+                [
+                    -149.5791677,
+                    61.3017626
+                ],
+                [
+                    -149.5790138,
+                    61.3016422
+                ],
+                [
+                    -149.5790807,
+                    61.3013544
+                ],
+                [
+                    -149.5788264,
+                    61.3012072
+                ],
+                [
+                    -149.5767387,
+                    61.3010734
+                ],
+                [
+                    -149.5765312,
+                    61.3011336
+                ],
+                [
+                    -149.5763907,
+                    61.3012808
+                ],
+                [
+                    -149.5763974,
+                    61.3015217
+                ],
+                [
+                    -149.5765781,
+                    61.3017291
+                ],
+                [
+                    -149.5770799,
+                    61.3019299
+                ],
+                [
+                    -149.5770195,
+                    61.3020338
+                ],
+                [
+                    -149.5768926,
+                    61.3020369
+                ],
+                [
+                    -149.576732,
+                    61.3022444
+                ],
+                [
+                    -149.576558,
+                    61.303034
+                ],
+                [
+                    -149.5768257,
+                    61.3034288
+                ],
+                [
+                    -149.577361,
+                    61.3037366
+                ],
+                [
+                    -149.57799,
+                    61.3038972
+                ],
+                [
+                    -149.5792413,
+                    61.3040109
+                ],
+                [
+                    -149.5797536,
+                    61.30397
+                ],
+                [
+                    -149.5803097,
+                    61.3038194
+                ],
+                [
+                    -149.5819647,
+                    61.3033351
+                ],
+                [
+                    -149.5822926,
+                    61.3032213
+                ],
+                [
+                    -149.5825669,
+                    61.303054
+                ],
+                [
+                    -149.5826807,
+                    61.3028198
+                ],
+                [
+                    -149.5826205,
+                    61.3026057
+                ],
+                [
+                    -149.5824331,
+                    61.3024117
+                ],
+                [
+                    -149.5816837,
+                    61.3021908
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001238",
+        "NAME": "HILAND MOUNTAIN CORRECTIONAL CENTER",
+        "ADDRESS": "9101 HESTERBERG RD",
+        "CITY": "EAGLE RIVER",
+        "STATE": "AK",
+        "ZIP": "99577",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 694-9511",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 342,
+        "COUNTY": "ANCHORAGE",
+        "COUNTYFIPS": "02020",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.correct.state.ak.us/administrative-services/research-records, http://www.correct.state.ak.us/doc/corrections-staffing-report.pdf",
+        "SOURCEDATE": "2016/02/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": 404,
+        "SHAPE_Leng": 0.0164003286607,
+        "SHAPE_Length": 0.016400328660744392,
+        "SHAPE_Area": 0.0000117967000437
+    },
+    "id": 2297
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb865ca"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+            [
+                [
+                    [
+                        -149.0041719,
+                        61.6919743
+                    ],
+                    [
+                        -149.0035064,
+                        61.692087
+                    ],
+                    [
+                        -149.0023893,
+                        61.6923406
+                    ],
+                    [
+                        -149.0018069,
+                        61.6925153
+                    ],
+                    [
+                        -149.0015098,
+                        61.69269
+                    ],
+                    [
+                        -149.0014148,
+                        61.6928816
+                    ],
+                    [
+                        -149.0014148,
+                        61.6930056
+                    ],
+                    [
+                        -149.0015693,
+                        61.6931577
+                    ],
+                    [
+                        -149.0017951,
+                        61.6932704
+                    ],
+                    [
+                        -149.0032449,
+                        61.6938452
+                    ],
+                    [
+                        -149.0035301,
+                        61.6938847
+                    ],
+                    [
+                        -149.0038153,
+                        61.6939016
+                    ],
+                    [
+                        -149.0041243,
+                        61.6938847
+                    ],
+                    [
+                        -149.0073449,
+                        61.6931577
+                    ],
+                    [
+                        -149.0077313,
+                        61.6930071
+                    ],
+                    [
+                        -149.0078645,
+                        61.6927597
+                    ],
+                    [
+                        -149.007874,
+                        61.6922838
+                    ],
+                    [
+                        -149.0078264,
+                        61.6917984
+                    ],
+                    [
+                        -149.0058563,
+                        61.6918079
+                    ],
+                    [
+                        -149.0058277,
+                        61.6916746
+                    ],
+                    [
+                        -149.0041719,
+                        61.6919743
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        -149.0083236,
+                        61.6904008
+                    ],
+                    [
+                        -149.0081806,
+                        61.6912674
+                    ],
+                    [
+                        -149.0082923,
+                        61.6913701
+                    ],
+                    [
+                        -149.0084129,
+                        61.691455
+                    ],
+                    [
+                        -149.0108966,
+                        61.6914416
+                    ],
+                    [
+                        -149.0111334,
+                        61.6913969
+                    ],
+                    [
+                        -149.0113165,
+                        61.6913031
+                    ],
+                    [
+                        -149.0114416,
+                        61.691044
+                    ],
+                    [
+                        -149.011589,
+                        61.6906911
+                    ],
+                    [
+                        -149.0115846,
+                        61.6903918
+                    ],
+                    [
+                        -149.0115176,
+                        61.6901551
+                    ],
+                    [
+                        -149.0106152,
+                        61.6901613
+                    ],
+                    [
+                        -149.0102844,
+                        61.6901363
+                    ],
+                    [
+                        -149.0102534,
+                        61.6903963
+                    ],
+                    [
+                        -149.0098558,
+                        61.6904231
+                    ],
+                    [
+                        -149.0084308,
+                        61.6903025
+                    ],
+                    [
+                        -149.0083236,
+                        61.6904008
+                    ]
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001237",
+        "NAME": "PALMER CORRECTIONAL CENTER",
+        "ADDRESS": "N 58 MILE RD",
+        "CITY": "PALMER",
+        "STATE": "AK",
+        "ZIP": "99645",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 745-5054",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 0,
+        "COUNTY": "MATANUSKA-SUSITNA",
+        "COUNTYFIPS": "02170",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.ktuu.com/content/news/Palmer-prison-closes-ahead-of-schedule-due-to-Moose-Creek-Fire-397371821.html",
+        "SOURCEDATE": "2016/10/17 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions/palmer",
+        "SECURELVL": "MEDIUM",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.0235667694901,
+        "SHAPE_Length": 0.023566769490090678,
+        "SHAPE_Area": 0.0000134334473654
+    },
+    "id": 2199
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb86044"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -149.1057816,
+                    61.5860248
+                ],
+                [
+                    -149.1046537,
+                    61.5859891
+                ],
+                [
+                    -149.1046394,
+                    61.5858106
+                ],
+                [
+                    -149.1038042,
+                    61.5857964
+                ],
+                [
+                    -149.1038042,
+                    61.5859249
+                ],
+                [
+                    -149.1038685,
+                    61.5859463
+                ],
+                [
+                    -149.1035901,
+                    61.5859463
+                ],
+                [
+                    -149.1036043,
+                    61.5864674
+                ],
+                [
+                    -149.1057816,
+                    61.5864745
+                ],
+                [
+                    -149.1057816,
+                    61.5860248
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006519",
+        "NAME": "MAT-SU YOUTH FACILITY",
+        "ADDRESS": "581 OUTER SPRINGER LOOP RD",
+        "CITY": "PALMER",
+        "STATE": "AK",
+        "ZIP": "99645",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 746-1630",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 12,
+        "COUNTY": "MATANUSKA-SUSITNA BOROUGH",
+        "COUNTYFIPS": "02170",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dhss.alaska.gov/djj/Pages/GeneralInfo/Stats.aspx, http://dhss.alaska.gov/Commissioner/Pages/Contacts/default.aspx",
+        "SOURCEDATE": "2017/03/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://dhss.alaska.gov/djj/Pages/Facilities/facilities.aspx",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 15,
+        "SHAPE_Leng": 0.00576561512456,
+        "SHAPE_Length": 0.005765615124563566,
+        "SHAPE_Area": 0.00000119681597555
+    },
+    "id": 707
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb865c9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -149.1109523,
+                    61.6024777
+                ],
+                [
+                    -149.1111365,
+                    61.6024777
+                ],
+                [
+                    -149.1111365,
+                    61.6023731
+                ],
+                [
+                    -149.1112316,
+                    61.6023703
+                ],
+                [
+                    -149.1112792,
+                    61.6023477
+                ],
+                [
+                    -149.111291,
+                    61.6023194
+                ],
+                [
+                    -149.111297,
+                    61.6022827
+                ],
+                [
+                    -149.1112851,
+                    61.6022403
+                ],
+                [
+                    -149.1112435,
+                    61.6021866
+                ],
+                [
+                    -149.1112435,
+                    61.6017768
+                ],
+                [
+                    -149.1110771,
+                    61.6017768
+                ],
+                [
+                    -149.1105423,
+                    61.6018503
+                ],
+                [
+                    -149.1105483,
+                    61.6023618
+                ],
+                [
+                    -149.1100373,
+                    61.6023618
+                ],
+                [
+                    -149.1099303,
+                    61.6022149
+                ],
+                [
+                    -149.1098471,
+                    61.602147
+                ],
+                [
+                    -149.1097342,
+                    61.6021216
+                ],
+                [
+                    -149.1093124,
+                    61.6021159
+                ],
+                [
+                    -149.1092054,
+                    61.6021668
+                ],
+                [
+                    -149.1084924,
+                    61.6021668
+                ],
+                [
+                    -149.1084924,
+                    61.6024975
+                ],
+                [
+                    -149.1109286,
+                    61.6024975
+                ],
+                [
+                    -149.1109523,
+                    61.6024777
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001235",
+        "NAME": "MAT-SU PRETRIAL",
+        "ADDRESS": "339 EAST DOGWOOD AVENUE",
+        "CITY": "PALMER",
+        "STATE": "AK",
+        "ZIP": "99645",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 745-0943",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 102,
+        "COUNTY": "MATANUSKA-SUSITNA",
+        "COUNTYFIPS": "02170",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.correct.state.ak.us/administrative-services/research-records, http://www.correct.state.ak.us/doc/corrections-staffing-report.pdf",
+        "SOURCEDATE": "2016/02/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "CLOSE",
+        "CAPACITY": 102,
+        "SHAPE_Leng": 0.00721079846311,
+        "SHAPE_Length": 0.007210798463105567,
+        "SHAPE_Area": 0.00000106498537187
+    },
+    "id": 2197
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86570"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -158.4665194,
+                    59.0410916
+                ],
+                [
+                    -158.4665003,
+                    59.0407109
+                ],
+                [
+                    -158.4662148,
+                    59.0407489
+                ],
+                [
+                    -158.4662529,
+                    59.0410916
+                ],
+                [
+                    -158.4665194,
+                    59.0410916
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006285",
+        "NAME": "DILLINGHAM CORRECTIONS FACILITY",
+        "ADDRESS": "404 D STREET",
+        "CITY": "DILLINGHAM",
+        "STATE": "AK",
+        "ZIP": "99576",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 842-4613",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "DILLINGHAM",
+        "COUNTYFIPS": "02070",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.dillinghamak.us/index.asp?SEC=5FECA510-ADDE-4B03-B8ED-AC126F9540C6&Type=B_BASIC",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "https://www.dillinghamak.us/?SEC=5FECA510-ADDE-4B03-B8ED-AC126F9540C6",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 8,
+        "SHAPE_Leng": 0.00128050301718,
+        "SHAPE_Length": 0.0012805030171814417,
+        "SHAPE_Area": 1.00373125526e-7
+    },
+    "id": 2108
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb8690b"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -156.6666787,
+                    58.7019296
+                ],
+                [
+                    -156.6666549,
+                    58.701882
+                ],
+                [
+                    -156.6665835,
+                    58.7018344
+                ],
+                [
+                    -156.6661314,
+                    58.7015251
+                ],
+                [
+                    -156.6652272,
+                    58.7021676
+                ],
+                [
+                    -156.6657031,
+                    58.7027624
+                ],
+                [
+                    -156.6666787,
+                    58.7019296
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003762",
+        "NAME": "KING SALMON JAIL",
+        "ADDRESS": "KING SALMON AIR FORCE BASE, BLDG 150",
+        "CITY": "KING SALMON",
+        "STATE": "AK",
+        "ZIP": "99613",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 246-4222",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "BRISTOL BAY",
+        "COUNTYFIPS": "02060",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://justice.uaa.alaska.edu/research/1990/9902jails/jails.pdf",
+        "SOURCEDATE": "2019/11/06 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "https://www.usacops.com/ak/p99613/index.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00384049015786,
+        "SHAPE_Length": 0.0038404901578601436,
+        "SHAPE_Area": 8.54936170864e-7
+    },
+    "id": 3031
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb875df"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -152.3732312,
+                    57.8041198
+                ],
+                [
+                    -152.3721604,
+                    57.8045957
+                ],
+                [
+                    -152.3726125,
+                    57.8048812
+                ],
+                [
+                    -152.3735881,
+                    57.8044529
+                ],
+                [
+                    -152.3732312,
+                    57.8041198
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006897",
+        "NAME": "KODIAK JAIL",
+        "ADDRESS": "2160 MILL BAY RD",
+        "CITY": "KODIAK",
+        "STATE": "AK",
+        "ZIP": "99615",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 486-8000",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "KODIAK ISLAND BOROUGH",
+        "COUNTYFIPS": "02150",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.city.kodiak.ak.us/police",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "https://www.city.kodiak.ak.us/police",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00326014558165,
+        "SHAPE_Length": 0.0032601455816500804,
+        "SHAPE_Area": 4.993731014e-7
+    },
+    "id": 6316
+},
+{
+    "_id": {
+        "$oid": "61e77029b800565cfdb869c2"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -160.4982594,
+                    55.3408903
+                ],
+                [
+                    -160.4982046,
+                    55.3408057
+                ],
+                [
+                    -160.4982799,
+                    55.3406307
+                ],
+                [
+                    -160.4980631,
+                    55.3405869
+                ],
+                [
+                    -160.4978575,
+                    55.3410411
+                ],
+                [
+                    -160.4983632,
+                    55.3410828
+                ],
+                [
+                    -160.4983627,
+                    55.3409042
+                ],
+                [
+                    -160.4982594,
+                    55.3408903
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003765",
+        "NAME": "SAND POINT JAIL",
+        "ADDRESS": "423 MAIN ST",
+        "CITY": "SAND POINT",
+        "STATE": "AK",
+        "ZIP": "99661",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 383-3700",
+        "TYPE": "LOCAL",
+        "STATUS": "NOT AVAILABLE",
+        "POPULATION": -999,
+        "COUNTY": "ALEUTIANS EAST",
+        "COUNTYFIPS": "02013",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.sandpointak.com/police.html",
+        "SOURCEDATE": "2020/05/28 00:00:00",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.sandpointak.com/police.html",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": -999,
+        "SHAPE_Leng": 0.00180126228319,
+        "SHAPE_Length": 0.0018012622831902224,
+        "SHAPE_Area": 1.52100696195e-7
+    },
+    "id": 3221
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb863b1"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -161.7881916,
+                    60.7873511
+                ],
+                [
+                    -161.7882849,
+                    60.7870465
+                ],
+                [
+                    -161.787988,
+                    60.7869875
+                ],
+                [
+                    -161.788047,
+                    60.7868943
+                ],
+                [
+                    -161.7875064,
+                    60.7867991
+                ],
+                [
+                    -161.7874828,
+                    60.7868475
+                ],
+                [
+                    -161.7866821,
+                    60.7867287
+                ],
+                [
+                    -161.7865565,
+                    60.7869342
+                ],
+                [
+                    -161.7874664,
+                    60.7871056
+                ],
+                [
+                    -161.7874435,
+                    60.7871379
+                ],
+                [
+                    -161.7875159,
+                    60.7871531
+                ],
+                [
+                    -161.7873179,
+                    60.7873873
+                ],
+                [
+                    -161.7879708,
+                    60.7874501
+                ],
+                [
+                    -161.7881916,
+                    60.7873511
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001958",
+        "NAME": "BETHEL YOUTH FACILITY",
+        "ADDRESS": "P.O. BOX 1989",
+        "CITY": "BETHEL",
+        "STATE": "AK",
+        "ZIP": "99559",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 543-5200",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 9,
+        "COUNTY": "BETHEL",
+        "COUNTYFIPS": "02050",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://dhss.alaska.gov/djj/Pages/GeneralInfo/Stats.aspx, http://dhss.alaska.gov/djj/Pages/Facilities/facilities.aspx, https://education.alaska.gov/compass/ParentPortal/SchoolProfile?SchoolID=317020",
+        "SOURCEDATE": "2017/03/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://dhss.alaska.gov/djj/Pages/Facilities/facilities.aspx",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 23,
+        "SHAPE_Leng": 0.00462873333245,
+        "SHAPE_Length": 0.004628733332452056,
+        "SHAPE_Area": 6.22123012889e-7
+    },
+    "id": 1665
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb862e9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -161.7884123,
+                    60.7859879
+                ],
+                [
+                    -161.7866173,
+                    60.7857163
+                ],
+                [
+                    -161.7862982,
+                    60.7864609
+                ],
+                [
+                    -161.7880735,
+                    60.7867124
+                ],
+                [
+                    -161.7884123,
+                    60.7859879
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10003761",
+        "NAME": "YUKON KUSKOKWIM CORRECTIONAL CENTER",
+        "ADDRESS": "1000 CHIEF EDDIE HOFFMAN HWY.",
+        "CITY": "BETHEL",
+        "STATE": "AK",
+        "ZIP": "99559",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 543-5245",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 170,
+        "COUNTY": "BETHEL",
+        "COUNTYFIPS": "02050",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.correct.state.ak.us/administrative-services/research-records, http://www.correct.state.ak.us/doc/corrections-staffing-report.pdf",
+        "SOURCEDATE": "2016/02/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "CLOSE",
+        "CAPACITY": 232,
+        "SHAPE_Leng": 0.00521845256271,
+        "SHAPE_Length": 0.005218452562706654,
+        "SHAPE_Area": 0.00000139734984276
+    },
+    "id": 1454
+},
+{
+    "_id": {
+        "$oid": "61e77028b800565cfdb86658"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -165.4122124,
+                    64.5376008
+                ],
+                [
+                    -165.4121696,
+                    64.5376682
+                ],
+                [
+                    -165.4124215,
+                    64.5378705
+                ],
+                [
+                    -165.4125736,
+                    64.5378889
+                ],
+                [
+                    -165.4128245,
+                    64.5378341
+                ],
+                [
+                    -165.412853,
+                    64.5378627
+                ],
+                [
+                    -165.4132171,
+                    64.537777
+                ],
+                [
+                    -165.4135454,
+                    64.5378055
+                ],
+                [
+                    -165.4145234,
+                    64.5381982
+                ],
+                [
+                    -165.4152158,
+                    64.5378627
+                ],
+                [
+                    -165.4142878,
+                    64.53747
+                ],
+                [
+                    -165.4132813,
+                    64.5373701
+                ],
+                [
+                    -165.4133437,
+                    64.5372288
+                ],
+                [
+                    -165.4124691,
+                    64.5371225
+                ],
+                [
+                    -165.4122694,
+                    64.5374925
+                ],
+                [
+                    -165.4123787,
+                    64.537564
+                ],
+                [
+                    -165.4122124,
+                    64.5376008
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001233",
+        "NAME": "ANVIL MOUNTAIN CORRECTIONAL CENTER",
+        "ADDRESS": "1810 CENTER CREEK RD",
+        "CITY": "NOME",
+        "STATE": "AK",
+        "ZIP": "99762",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 443-2241",
+        "TYPE": "STATE",
+        "STATUS": "OPEN",
+        "POPULATION": 113,
+        "COUNTY": "NOME",
+        "COUNTYFIPS": "02180",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.correct.state.ak.us/administrative-services/research-records, http://www.correct.state.ak.us/doc/corrections-staffing-report.pdf",
+        "SOURCEDATE": "2016/02/09 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://www.correct.state.ak.us/institutions",
+        "SECURELVL": "CLOSE",
+        "CAPACITY": 128,
+        "SHAPE_Leng": 0.00715621727004,
+        "SHAPE_Length": 0.007156217270042634,
+        "SHAPE_Area": 0.00000151567481777
+    },
+    "id": 2317
+},
+{
+    "_id": {
+        "$oid": "61e7702bb800565cfdb8775c"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -165.3858768,
+                    64.4970131
+                ],
+                [
+                    -165.3861516,
+                    64.4967788
+                ],
+                [
+                    -165.3853057,
+                    64.4965777
+                ],
+                [
+                    -165.3851915,
+                    64.4967347
+                ],
+                [
+                    -165.3853971,
+                    64.4967797
+                ],
+                [
+                    -165.3853236,
+                    64.4968835
+                ],
+                [
+                    -165.3858768,
+                    64.4970131
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10001234",
+        "NAME": "NOME YOUTH FACILITY",
+        "ADDRESS": "804 E 4TH AVE",
+        "CITY": "NOME",
+        "STATE": "AK",
+        "ZIP": "99762",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 443-5434",
+        "TYPE": "STATE",
+        "STATUS": "CLOSED",
+        "POPULATION": 5,
+        "COUNTY": "NOME",
+        "COUNTYFIPS": "02180",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "https://www.knom.org/wp/blog/2019/07/26/house-holds-last-hope-for-nome-youth-facility/",
+        "SOURCEDATE": "2017/03/01 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "http://dhss.alaska.gov/djj/Pages/Facilities/facilities.aspx",
+        "SECURELVL": "JUVENILE",
+        "CAPACITY": 14,
+        "SHAPE_Leng": 0.00233067578941,
+        "SHAPE_Length": 0.0023306757894067114,
+        "SHAPE_Area": 2.16721828678e-7
+    },
+    "id": 6708
+},
+{
+    "_id": {
+        "$oid": "61e77027b800565cfdb85feb"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -166.5415902,
+                    53.8714705
+                ],
+                [
+                    -166.542009,
+                    53.8715467
+                ],
+                [
+                    -166.5422755,
+                    53.8711374
+                ],
+                [
+                    -166.5419519,
+                    53.8710898
+                ],
+                [
+                    -166.5418376,
+                    53.8712897
+                ],
+                [
+                    -166.5416473,
+                    53.8712707
+                ],
+                [
+                    -166.5415902,
+                    53.8714705
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "FACILITYID": "10006460",
+        "NAME": "UNALASKA CITY JAIL",
+        "ADDRESS": "29 SAFETY WAY",
+        "CITY": "UNALASKA",
+        "STATE": "AK",
+        "ZIP": "99685",
+        "ZIP4": "-999",
+        "TELEPHONE": "(907) 581-1233",
+        "TYPE": "LOCAL",
+        "STATUS": "OPEN",
+        "POPULATION": -999,
+        "COUNTY": "ALEUTIANS WEST",
+        "COUNTYFIPS": "02016",
+        "COUNTRY": "USA",
+        "NAICS_CODE": "922140",
+        "NAICS_DESC": "CORRECTIONAL INSTITUTIONS",
+        "SOURCE": "http://www.ci.unalaska.ak.us/publicsafety",
+        "SOURCEDATE": "2018/05/11 00:00:00",
+        "VAL_METHOD": "IMAGERY/OTHER",
+        "VAL_DATE": "2019/11/06 00:00:00",
+        "WEBSITE": "https://www.ci.unalaska.ak.us/publicsafety/page/corrections-division",
+        "SECURELVL": "NOT AVAILABLE",
+        "CAPACITY": 9,
+        "SHAPE_Leng": 0.00187050887902,
+        "SHAPE_Length": 0.0018705088790242988,
+        "SHAPE_Area": 1.71213724509e-7
+    },
+    "id": 704
+}
+]
