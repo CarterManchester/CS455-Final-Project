@@ -63,6 +63,19 @@ public class Main {
         "EP_NOVEH", 
     };
 
+    public static final String[] ALL_STATE_NAMES = {
+        "Alabama", "Alaska", "Arizona", "Arkansas", "California",
+        "Colorado", "Connecticut", "Delaware", "Florida", "Georgia",
+        "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa",
+        "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland",
+        "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri",
+        "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey",
+        "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio",
+        "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina",
+        "South Dakota", "Tennessee", "Texas", "Utah", "Vermont",
+        "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"
+    };
+
     public static void main(String[] args) {
         SparkSession spark = SparkSession.builder()
                 .appName("Investigating Correlations Between Social Vulnerability and Prison Populations")
@@ -74,16 +87,22 @@ public class Main {
         spark.conf().set("spark.sql.debug.maxToStringFields", "200"); // NOTE: This is so it prints strings without size warnings. Change back if needed!!
 
 
+        List<State> states = new ArrayList<>();
 
+        for(String s : ALL_STATE_NAMES){
+            State temp = new State(spark, s);
+            temp.runSVI();
+            states.add(temp);
+        }
         // ========= Individual States =========
-        State colorado = new State(spark, "Colorado");
-        State illinois = new State(spark, "Illinois");
-        colorado.runSVI();
-        illinois.runSVI();
+        // State colorado = new State(spark, "Colorado");
+        // State illinois = new State(spark, "Illinois");
+        // colorado.runSVI();
+        // illinois.runSVI();
 
 
         // ========= Joined States =========
-        Dataset<Row> combinedStates = buildCombinedStates(10, illinois, colorado);
+        Dataset<Row> combinedStates = buildCombinedStates(10, states);
 
         // ========= Main Model with All Themes 
         Dataset<Row> allThemes = sortByTheme(combinedStates, ALL_THEME_VARS);
@@ -117,8 +136,7 @@ public class Main {
      * @param n      number of counties.
      * @param states each state included in the combined data of states.
      */
-    private static Dataset<Row> buildCombinedStates(int n, State... states) {// no way this 'State... states' bro... how did i not know about this before??
-        List<State> stateList = Arrays.asList(states);
+    private static Dataset<Row> buildCombinedStates(int n, List<State> states) {// no way this 'State... states' bro... how did i not know about this before??
         Dataset<Row> combinedData = null;
 
         // Dataset<Row> data = stateList.get(0).getJoinedCountyData();
@@ -132,7 +150,7 @@ public class Main {
         
         // String[] filteredColumnNames = filteredList.toArray(new String[0]);
 
-        for (State state : stateList) {
+        for (State state : states) {
             Dataset<Row> temp = state.getJoinedCountyData().select("incarceration_rate", ALL_THEME_VARS);
 
             if (combinedData == null) {
