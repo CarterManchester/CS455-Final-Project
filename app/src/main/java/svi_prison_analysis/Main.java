@@ -69,7 +69,8 @@ public class Main {
                 .master("local[*]") // IMPORTANT!! LOCAL MODE! Comment out (or change?) when testing on HDFS cluster!
                 .getOrCreate();
 
-        spark.sparkContext().setLogLevel("WARN");
+        // spark.sparkContext().setLogLevel("WARN");
+        spark.sparkContext().setLogLevel("ERROR");
         spark.conf().set("spark.sql.debug.maxToStringFields", "200"); // NOTE: This is so it prints strings without size warnings. Change back if needed!!
 
 

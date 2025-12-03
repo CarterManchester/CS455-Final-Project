@@ -96,7 +96,7 @@ public class State {
             .agg(sum(col("POPULATION")).as("TOTAL_PRISON_POP"));
             // .cache();
 
-        popAndCounty.show();
+        // popAndCounty.show();
         return popAndCounty;
     }
 
