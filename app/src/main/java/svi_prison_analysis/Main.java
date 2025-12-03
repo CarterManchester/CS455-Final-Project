@@ -86,19 +86,24 @@ public class Main {
 
         // ========= Main Model with All Themes 
         Dataset<Row> allThemes = sortByTheme(combinedStates, ALL_THEME_VARS);
+        System.out.println("Running Gradient-Boosted Decision Tree with ALL Themes...");
         PrisonClassificationModel.trainAndEvaluate(allThemes);
 
         // ========= Run Model Based on SVI Themes
         Dataset<Row> theme1 = sortByTheme(combinedStates, THEME_1_VARS);
+        System.out.println("\nRunning Gradient-Boosted Decision Tree with Socioeconomic Variables...");
         PrisonClassificationModel.trainAndEvaluate(theme1);
         
         Dataset<Row> theme2 = sortByTheme(combinedStates, THEME_2_VARS);
+        System.out.println("\nRunning Gradient-Boosted Decision Tree with Household Characteristics Variables...");
         PrisonClassificationModel.trainAndEvaluate(theme2);
         
         Dataset<Row> theme4 = sortByTheme(combinedStates, THEME_4_VARS);
+        System.out.println("\nRunning Gradient-Boosted Decision Tree with Housing Type and Transportation Access Variables...");
         PrisonClassificationModel.trainAndEvaluate(theme4);
 
         // ========= Run PCA Based on ALL Themes
+        // System.out.println("/nRunning PCA with ... Themes...");
         // PrisonPCA.runPCA(combinedStates, ALL_THEME_VARS, 3);
         // PrisonPCA.runPCA(combinedStates, new String[] { "EP_POV", "EP_UNEMP" }, 2);
 
