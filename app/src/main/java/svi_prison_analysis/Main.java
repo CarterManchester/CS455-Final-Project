@@ -72,9 +72,6 @@ public class Main {
         spark.sparkContext().setLogLevel("WARN");
         spark.conf().set("spark.sql.debug.maxToStringFields", "200"); // NOTE: This is so it prints strings without size warnings. Change back if needed!!
 
-        // NOTE: quick spark test to see if spark is running (print 0-10):
-        // Dataset<Row> df = spark.range(0, 10).toDF("value");
-        // df.show();
 
 
         // ========= Individual States =========
@@ -102,23 +99,19 @@ public class Main {
         PrisonClassificationModel.trainAndEvaluate(theme4);
 
         // ========= Run PCA Based on ALL Themes
-        PrisonPCA.runPCA(combinedStates, ALL_THEME_VARS, 3);
-        PrisonPCA.runPCA(combinedStates, new String[] { "EP_POV", "EP_UNEMP" }, 2);
+        // PrisonPCA.runPCA(combinedStates, ALL_THEME_VARS, 3);
+        // PrisonPCA.runPCA(combinedStates, new String[] { "EP_POV", "EP_UNEMP" }, 2);
 
         spark.stop();
     }
 
     /**
      * A method for joining states and data. Change or copy or add more as we need!
-     * HOWEVER I dont think this is completely justified since its based on vastly
-     * different population sizes right?
      * 
      * @param n      number of counties.
      * @param states each state included in the combined data of states.
      */
-    private static Dataset<Row> buildCombinedStates(int n, State... states) {// no way this 'State... states'
-                                                                                    // works bro... why didnt i know
-                                                                                    // about this before??
+    private static Dataset<Row> buildCombinedStates(int n, State... states) {// no way this 'State... states' bro... how did i not know about this before??
         List<State> stateList = Arrays.asList(states);
         Dataset<Row> combinedData = null;
 

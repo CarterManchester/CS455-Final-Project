@@ -45,8 +45,8 @@ public class State {
 
     protected void loadData() {
         String basePath = "src/main/resources";
-        String pathToStateSVIData = basePath + "/svi_county_GISJOIN." + stateName + ".raw_data.json";
-        String pathToStatePrisonData = basePath + "/prison_boundaries_geo." + stateName + ".raw_data.json";
+        String pathToStateSVIData = basePath + "/svi_datasets/svi_county_GISJOIN." + stateName + ".raw_data.json";
+        String pathToStatePrisonData = basePath + "/prison_datasets/prison_boundaries_geo." + stateName + ".raw_data.json";
         
         this.sviData = spark.read()
             .option("multiLine", true) 
@@ -116,6 +116,7 @@ public class State {
             upper(trim(col("COUNTY")))
         );
 
+        // below is just used to print and test naming schemes of counties (makes all upper case so can edit).
         // System.out.println("\n=== Distinct SVI countyAllCaps (" + stateName + ") ===");
         // sviNorm.select("COUNTY", "countyAllCaps").distinct().orderBy(col("countyAllCaps")).show(50, false);
 
