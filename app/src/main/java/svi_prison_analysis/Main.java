@@ -102,8 +102,8 @@ public class Main {
         PrisonClassificationModel.trainAndEvaluate(theme4);
 
         // ========= Run PCA Based on ALL Themes
-        // PrisonPCA.runPCA(combinedStates, ALL_THEME_VARS, 3);
-        // PrisonPCA.runPCA(combinedStates, new String[] { "EP_POV", "EP_UNEMP" }, 2);
+        PrisonPCA.runPCA(combinedStates, ALL_THEME_VARS, 3);
+        PrisonPCA.runPCA(combinedStates, new String[] { "EP_POV", "EP_UNEMP" }, 2);
 
         spark.stop();
     }
