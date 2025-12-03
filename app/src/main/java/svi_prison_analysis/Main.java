@@ -103,6 +103,8 @@ public class Main {
 
         // ========= Joined States =========
         Dataset<Row> combinedStates = buildCombinedStates(10, states);
+        Dataset<Row> mostVulnerable = mostVulnerableCounties(10, states);
+        Dataset<Row> leaseVulnerable = leaseVulnerableCounties(10, states);
 
         // ========= Main Model with All Themes 
         Dataset<Row> allThemes = sortByTheme(combinedStates, ALL_THEME_VARS);
@@ -136,7 +138,7 @@ public class Main {
      * @param n      number of counties.
      * @param states each state included in the combined data of states.
      */
-    private static Dataset<Row> buildCombinedStates(int n, List<State> states) {// no way this 'State... states' bro... how did i not know about this before??
+    private static Dataset<Row> buildCombinedStates(int n, List<State> states) {
         Dataset<Row> combinedData = null;
 
         // Dataset<Row> data = stateList.get(0).getJoinedCountyData();
@@ -171,7 +173,97 @@ public class Main {
         return combinedData;
     }
 
+
     private static Dataset<Row> sortByTheme(Dataset<Row> data, String[] themeVars){
         return data.select("incarceration_rate", themeVars);
+    }
+
+
+    /**
+     * Gets all of the most vulnerable counties in the list of states given.
+     * 
+     * @param n      number of counties.
+     * @param states each state included in the combined data of states.
+     */
+    private static Dataset<Row> mostVulnerableCounties(int n, List<State> states) {
+        Dataset<Row> combined = null;
+
+        for (State state : states) {
+            // getJoinedCountyData should already include:
+            // STATE, COUNTY, FIPS, E_TOTPOP, TOTAL_PRISON_POP, incarceration_rate, SVI
+            // vars, etc.
+            Dataset<Row> temp = state.getJoinedCountyData()
+                    .select(
+                            col("STATE"),
+                            col("COUNTY"),
+                            col("FIPS"),
+                            col("E_TOTPOP"),
+                            col("TOTAL_PRISON_POP"),
+                            col("incarceration_rate"));
+
+            if (combined == null) {
+                combined = temp;
+            } else {
+                combined = combined.unionByName(temp);
+            }
+        }
+
+        // Sort by incarceration_rate descending and keep only the top n
+        Dataset<Row> topN = combined.orderBy(col("incarceration_rate").desc())
+                .limit(n);
+
+        System.out.println(
+                "\n\n\n==============================================================================================");
+        System.out.println("Top " + n + " Counties by Incarceration Rate Across All States");
+        System.out.println(
+                "==============================================================================================\n");
+        topN.show(false);
+
+        return topN;
+    }
+
+
+
+    /**
+     * Gets all of the least vulnerable counties in the list of states given.
+     * 
+     * @param n      number of counties.
+     * @param states each state included in the combined data of states.
+     */
+    private static Dataset<Row> leaseVulnerableCounties(int n, List<State> states) {
+        Dataset<Row> combined = null;
+
+        for (State state : states) {
+            // getJoinedCountyData should already include:
+            // STATE, COUNTY, FIPS, E_TOTPOP, TOTAL_PRISON_POP, incarceration_rate, SVI
+            // vars, etc.
+            Dataset<Row> temp = state.getJoinedCountyData()
+                    .select(
+                            col("STATE"),
+                            col("COUNTY"),
+                            col("FIPS"),
+                            col("E_TOTPOP"),
+                            col("TOTAL_PRISON_POP"),
+                            col("incarceration_rate"));
+
+            if (combined == null) {
+                combined = temp;
+            } else {
+                combined = combined.unionByName(temp);
+            }
+        }
+
+        // Sort by incarceration_rate descending and keep only the top n
+        Dataset<Row> topN = combined.orderBy(col("incarceration_rate").asc())
+                .limit(n);
+
+        System.out.println(
+                "\n\n\n==============================================================================================");
+        System.out.println("Top " + n + " Counties by Incarceration Rate Across All States");
+        System.out.println(
+                "==============================================================================================\n");
+        topN.show(false);
+
+        return topN;
     }
 }
