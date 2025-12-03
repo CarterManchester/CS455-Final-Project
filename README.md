@@ -49,12 +49,14 @@ SVI Index: https://svi.cdc.gov/map25/data/docs/SVI2022Documentation_ZCTA.pdf <br
 
 - `STATE` - A State in the US.
 - `COUNTY` - A County in a State.
-- `FIPS` - Geographic identification (state, county, and sometimes census tract)
+- `FIPS` - Geographic identification (state, county, and sometimes census tract)<br><br>
+
 - `RPL_Themes` - Overall summary variable, ranking the below 4 themes as a percentage.
 - `RPL_Theme1` - Socioneconomic Status (VERY IMPORTANT TO THIS PROJECT!)
 - `RPL_Theme2` - Household Characteristics
 - `RPL_Theme3` - Racial and Ethnic Minority Status
-- `RPL_Theme4` - Housing Type and Transportation
+- `RPL_Theme4` - Housing Type and Transportation<br><br>
+
 - `EP_GROUPQ` - Percentage of Persons in Group Quarters: includes prisons, jails, college dorms, group homes, etc. and can show us which counties have large prison facilities and the number of prisons per county.
 - `EP_POV150` - Percentage of people below the 150% poverty estimate.
 - `EP_UNEMP` - Percentage of people above the age of 16 unemployed.

@@ -2,6 +2,9 @@
 package svi_prison_analysis;
 
 import static org.apache.spark.sql.functions.col;
+import static org.apache.spark.sql.functions.regexp_replace;
+import static org.apache.spark.sql.functions.trim;
+import static org.apache.spark.sql.functions.upper;
 
 import org.apache.spark.sql.*;
 
@@ -21,25 +24,25 @@ public class Main {
 
     public static final String[] ALL_THEME_VARS = {
         // --- Theme 1: Socioeconomic Status ---
-        "EP_POV", 
-        "EP_UNEMP", 
-        "EP_PCI",
-        "EP_NOHSDP",
-        "EP_UNINSUR",
+        "EP_POV",       // % of people below 150% poverty estimate
+        "EP_UNEMP",     // % of people of age of 16+ unemployed
+        "EP_PCI",       // Per capita income (as % rank)
+        "EP_NOHSDP",    // % of people of age 25+ with no high school diploma
+        "EP_UNINSUR",   // % of people without health insurance
 
         // --- Theme 2: Household Characteristics ---
-        "EP_DISABL", 
-        "EP_SNGPNT", 
-        "EP_LIMENG", 
+        "EP_DISABL",    // % of people with disabilities (not institutionalized)
+        "EP_SNGPNT",    // % single parent households with children under 18
+        "EP_LIMENG",    // % of people who speak English "less than well"
 
         // --- Theme 3: Racial & Ethnic Minority Status & Language ---
-        "EP_MINRTY",
+        "EP_MINRTY",    // % of people that is racial/ethnic minority
 
         // --- Theme 4: Housing Type & Transportation ---
-        "EP_MUNIT", 
-        "EP_MOBILE", 
-        "EP_CROWD", 
-        "EP_NOVEH"
+        "EP_MUNIT",     // % of housing in structures with 10+ units (like apartments)
+        "EP_MOBILE",    // % of housing that are mobile homes
+        "EP_CROWD",     // % of households with more than 1 person per room (crowding)
+        "EP_NOVEH"      // % of households with no available vehicle
     };
 
     public static final String[] THEME_1_VARS = {
@@ -105,6 +108,7 @@ public class Main {
         Dataset<Row> combinedStates = buildCombinedStates(10, states);
         Dataset<Row> mostVulnerable = mostVulnerableCounties(10, states);
         Dataset<Row> leaseVulnerable = leaseVulnerableCounties(10, states);
+        Dataset<Row> focoBocoWy = getSelectedCounties(states);
 
         // ========= Main Model with All Themes 
         Dataset<Row> allThemes = sortByTheme(combinedStates, ALL_THEME_VARS);
@@ -162,12 +166,9 @@ public class Main {
             }
         }
 
-        System.out.println(
-                "\n\n\n==============================================================================================");
-        System.out.println(
-                "\nTop " + n + " Most Vulnerable Counties Across All Provided States (incarceration_rate in descending order)");
-        System.out.println(
-                "==============================================================================================\n");
+        System.out.println("\n\n\n==============================================================================================");
+        System.out.println("\nTop " + n + " Most Vulnerable Counties Across All Provided States (incarceration_rate in descending order)");
+        System.out.print("==============================================================================================\n");
 
         combinedData.orderBy(col("incarceration_rate").desc()).show(n, false);
         return combinedData;
@@ -189,9 +190,6 @@ public class Main {
         Dataset<Row> combined = null;
 
         for (State state : states) {
-            // getJoinedCountyData should already include:
-            // STATE, COUNTY, FIPS, E_TOTPOP, TOTAL_PRISON_POP, incarceration_rate, SVI
-            // vars, etc.
             Dataset<Row> temp = state.getJoinedCountyData()
                     .select(
                             col("STATE"),
@@ -209,14 +207,11 @@ public class Main {
         }
 
         // Sort by incarceration_rate descending and keep only the top n
-        Dataset<Row> topN = combined.orderBy(col("incarceration_rate").desc())
-                .limit(n);
+        Dataset<Row> topN = combined.orderBy(col("incarceration_rate").desc()).limit(n);
 
-        System.out.println(
-                "\n\n\n==============================================================================================");
+        System.out.println("\n\n\n==============================================================================================");
         System.out.println("Top " + n + " Counties by Incarceration Rate Across All States");
-        System.out.println(
-                "==============================================================================================\n");
+        System.out.print("==============================================================================================\n");
         topN.show(false);
 
         return topN;
@@ -234,17 +229,14 @@ public class Main {
         Dataset<Row> combined = null;
 
         for (State state : states) {
-            // getJoinedCountyData should already include:
-            // STATE, COUNTY, FIPS, E_TOTPOP, TOTAL_PRISON_POP, incarceration_rate, SVI
-            // vars, etc.
             Dataset<Row> temp = state.getJoinedCountyData()
-                    .select(
-                            col("STATE"),
-                            col("COUNTY"),
-                            col("FIPS"),
-                            col("E_TOTPOP"),
-                            col("TOTAL_PRISON_POP"),
-                            col("incarceration_rate"));
+                .select(
+                    col("STATE"),
+                    col("COUNTY"),
+                    col("FIPS"),
+                    col("E_TOTPOP"),
+                    col("TOTAL_PRISON_POP"),
+                    col("incarceration_rate"));
 
             if (combined == null) {
                 combined = temp;
@@ -253,17 +245,58 @@ public class Main {
             }
         }
 
-        // Sort by incarceration_rate descending and keep only the top n
-        Dataset<Row> topN = combined.orderBy(col("incarceration_rate").asc())
-                .limit(n);
+        Dataset<Row> bottomN = combined.orderBy(col("incarceration_rate").asc()).limit(n);
 
-        System.out.println(
-                "\n\n\n==============================================================================================");
-        System.out.println("Top " + n + " Counties by Incarceration Rate Across All States");
-        System.out.println(
-                "==============================================================================================\n");
-        topN.show(false);
+        System.out.println("\n\n\n==============================================================================================");
+        System.out.println("Bottom " + n + " Counties by Incarceration Rate Across All States");
+        System.out.print("==============================================================================================\n");
+        bottomN.show(false);
 
-        return topN;
+        return bottomN;
+    }
+
+
+    /**
+     * Returns a dataset containing ONLY Larimer County (CO), Boulder County (CO), Laramie County (WY)
+     */
+    private static Dataset<Row> getSelectedCounties(List<State> states) {
+        Dataset<Row> combined = null;
+
+        for (State s : states) {
+            Dataset<Row> temp = s.getJoinedCountyData()
+                .select(
+                    col("STATE"),
+                    col("COUNTY"),
+                    col("FIPS"),
+                    col("E_TOTPOP"),
+                    col("TOTAL_PRISON_POP"),
+                    col("incarceration_rate"));
+
+            if (combined == null){
+                combined = temp;
+            }
+            else{
+                combined = combined.unionByName(temp);
+            }
+        }
+
+        Dataset<Row> normalized = combined
+            .withColumn("county_upper",upper(regexp_replace(trim(col("COUNTY")), " COUNTY$", "")))
+            .withColumn("state_upper", upper(trim(col("STATE"))));
+
+        Dataset<Row> selectedCounties = normalized.filter(
+            col("county_upper").equalTo("LARIMER").and(col("state_upper").equalTo("COLORADO"))
+            .or(col("county_upper").equalTo("BOULDER").and(col("state_upper").equalTo("COLORADO")))
+            .or(col("county_upper").equalTo("LARAMIE").and(col("state_upper").equalTo("WYOMING")))
+        );
+
+        selectedCounties = selectedCounties.drop("county_upper", "state_upper");
+
+        System.out.println("\n\n\n==============================================================================================");
+        System.out.println("Larimer County (CO), Boulder County (CO), and Laramie County (WY)");
+        System.out.print("==============================================================================================\n");
+        selectedCounties.orderBy(col("incarceration_rate").desc()).show(false);
+
+        return selectedCounties;
     }
 }
